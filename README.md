@@ -40,6 +40,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Svelte](#svelte)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
@@ -301,6 +302,7 @@
 
 ## JavaScript 
 
+- [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
 - [mhart/ts-eager](https://github.com/mhart/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
 - [OpenVPN/openvpn-build](https://github.com/OpenVPN/openvpn-build) - OpenVPN Build
@@ -876,6 +878,7 @@
 
 ## Shell 
 
+- [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [radial/core-busyboxplus](https://github.com/radial/core-busyboxplus) - Full-chain/Internet enabled busybox images from scratch using Buildroot for flexible but light Docker volume containers. Comes in multiple flavors.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [haru-ake/tmux-pet](https://github.com/haru-ake/tmux-pet) - Tmux plugin for pet snippet manager
@@ -922,12 +925,23 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 
+## Svelte 
+
+- [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
+- [IBM/carbon-components-svelte](https://github.com/IBM/carbon-components-svelte) - Svelte implementation of the Carbon Design System
+- [svitejs/svite](https://github.com/svitejs/svite) - 
+- [IBM/sveld](https://github.com/IBM/sveld) - Generate TypeScript definitions for your Svelte components.
+- [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
+
 ## TeX 
 
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
 
+- [coc-extensions/coc-svelte](https://github.com/coc-extensions/coc-svelte) - svelte support for (Neo)Vim
+- [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
+- [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [egoist/vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
 - [kt3k/packup](https://github.com/kt3k/packup) - 📦 Zero-config web application packager in Deno
