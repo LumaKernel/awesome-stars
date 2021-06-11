@@ -40,6 +40,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Smarty](#smarty)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -581,7 +582,7 @@
 ## Kotlin 
 
 - [Kondenko/pocketwaka](https://github.com/Kondenko/pocketwaka) - WakaTime client written in Kotlin
-- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Intelligent Kotlin support for any editor/IDE using the Language Server Protocol
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 
 ## Lua 
 
@@ -930,6 +931,10 @@
 - [codota/TabNine](https://github.com/codota/TabNine) - AI Code Completions
 - [mskyaxl/wsl-terminal](https://github.com/mskyaxl/wsl-terminal) - Terminal emulator for Windows Subsystem for Linux (WSL)
 
+## Smarty 
+
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+
 ## Svelte 
 
 - [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
@@ -1011,7 +1016,7 @@
 - [harmonyland/harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - Denoの最新情報を発信します🦕
 - [vim-denops/denops-deno](https://github.com/vim-denops/denops-deno) - 🐜 Deno module for denops.vim
-- [JonnyBurger/remotion](https://github.com/JonnyBurger/remotion) - 🎥      Create videos programmatically in React
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
 - [LumaKernel/coc-denoland](https://github.com/LumaKernel/coc-denoland) - Visual Studio Code plugin for Deno
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
