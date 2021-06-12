@@ -21,6 +21,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jsonnet](#jsonnet)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -163,6 +164,15 @@
 
 ## Go 
 
+- [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+- [munnerz/kubewg](https://github.com/munnerz/kubewg) - Use Kubernetes to manage & distribute Wireguard configuration
+- [minio/operator](https://github.com/minio/operator) - MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
+- [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
+- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [containers/image](https://github.com/containers/image) - Work with containers' images
+- [grafana/tutorial-environment](https://github.com/grafana/tutorial-environment) - Environment for tutorial excercises
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [weaveworks/common](https://github.com/weaveworks/common) - Libraries used in multiple Weave projects
 - [google/gopacket](https://github.com/google/gopacket) - Provides packet processing capabilities for Go
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -307,6 +317,8 @@
 
 ## JavaScript 
 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
+- [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
@@ -573,6 +585,10 @@
 - [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables) - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 - [sindresorhus/gulp-autoprefixer](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix CSS
 - [BrowserSync/browser-sync](https://github.com/BrowserSync/browser-sync) - Keep multiple browsers & devices in sync when building websites. http://browsersync.io
+
+## Jsonnet 
+
+- [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 
 ## Jupyter Notebook 
 
@@ -953,6 +969,8 @@
 
 ## TypeScript 
 
+- [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
+- [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
 - [IBM/carbon-icons-svelte](https://github.com/IBM/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [coc-extensions/coc-svelte](https://github.com/coc-extensions/coc-svelte) - svelte support for (Neo)Vim
@@ -1008,7 +1026,7 @@
 - [areller/denogent](https://github.com/areller/denogent) - A TypeScript build system
 - [denolib/typeorm](https://github.com/denolib/typeorm) - Forked from https://github.com/typeorm/typeorm
 - [denoland/deno_registry2](https://github.com/denoland/deno_registry2) - The backend for the deno.land/x service
-- [lambdalisue/async-deno](https://github.com/lambdalisue/async-deno) - Asynchronous primitive modules loosely port from Python's asyncio for Deno.
+- [lambdalisue/deno-async](https://github.com/lambdalisue/deno-async) - 🦕 Asynchronous primitive modules loosely port from Python's asyncio for Deno.
 - [neoclide/coc-emmet](https://github.com/neoclide/coc-emmet) - Emmet extension for coc.nvim
 - [voldikss/coc-lsp-wl](https://github.com/voldikss/coc-lsp-wl) - Coc.nvim client for Wolfram Language Server
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
