@@ -826,7 +826,6 @@
 ## Ruby 
 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [jakshi/devops-interview-questions](https://github.com/jakshi/devops-interview-questions) - Repository with DevOps interview questions.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1021,7 +1020,7 @@
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
-- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ AppSync GraphQL API Generator for ◭ Prisma 2, the next-gen ORM.
+- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Converts your ◭ Prisma Schema into a full-blown GraphQL API for AWS AppSync.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
@@ -1241,6 +1240,7 @@
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [deris/vim-duzzle](https://github.com/deris/vim-duzzle) - This is puzzle game on vim
 - [glepnir/oceanic-material](https://github.com/glepnir/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
+- [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
 - [fidian/hexmode](https://github.com/fidian/hexmode) - Vim plugin to edit binary files in a hex mode automatically.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
