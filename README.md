@@ -168,6 +168,7 @@
 
 ## Go 
 
+- [luma-planet/terraform-provider-sshclient](https://github.com/luma-planet/terraform-provider-sshclient) - 
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
 - [1Password/onepassword-operator](https://github.com/1Password/onepassword-operator) - 
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods
@@ -289,6 +290,7 @@
 
 ## HTML 
 
+- [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [kubeapps/kubeapps](https://github.com/kubeapps/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -672,6 +674,7 @@
 
 ## Others 
 
+- [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
