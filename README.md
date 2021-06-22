@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [noshi91/Library](https://github.com/noshi91/Library) - 競技プログラミング
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [ffftp/ffftp](https://github.com/ffftp/ffftp) - FTPクライアントソフトウェアです。
 - [microsoft/calculator](https://github.com/microsoft/calculator) - Windows Calculator: A simple yet powerful calculator that ships with Windows
@@ -393,7 +394,6 @@
 - [drudru/ansi_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 - [sindresorhus/ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal
 - [nuxt/create-nuxt-app](https://github.com/nuxt/create-nuxt-app) - Create Nuxt.js App in seconds.
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [saojs/sao-nm](https://github.com/saojs/sao-nm) - Scaffold out a node module.
 - [sindresorhus/superb](https://github.com/sindresorhus/superb) - Get superb like words
 - [rollup/plugins](https://github.com/rollup/plugins) - 🍣  The one-stop shop for official Rollup plugins
@@ -626,6 +626,7 @@
 
 ## Lua 
 
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
@@ -658,6 +659,7 @@
 
 ## Mustache 
 
+- [Kong/kong-operator](https://github.com/Kong/kong-operator) - Kong Operator for Kubernetes and OpenShift
 - [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
 
 ## NSIS 
@@ -841,6 +843,7 @@
 
 ## Rust 
 
+- [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [tanakh/wsl-get](https://github.com/tanakh/wsl-get) - 
 - [sansyrox/robyn](https://github.com/sansyrox/robyn) - An async python framework with the backend runtime written in rust
@@ -1010,6 +1013,7 @@
 
 ## TypeScript 
 
+- [operator-framework/operatorhub.io](https://github.com/operator-framework/operatorhub.io) - 
 - [plusone-masaki/csv-plus](https://github.com/plusone-masaki/csv-plus) - A completely new CSV editor that gives you a great experience with simple operations.
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [nwtgck/ts-json-validator](https://github.com/nwtgck/ts-json-validator) - JSON Validator for TypeScript - Safer JSON.parse() validating by TypeScript types
@@ -1249,6 +1253,7 @@
 - [hrsh7th/vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs) - 
 - [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [deris/vim-duzzle](https://github.com/deris/vim-duzzle) - This is puzzle game on vim
 - [glepnir/oceanic-material](https://github.com/glepnir/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
