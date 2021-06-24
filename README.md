@@ -938,6 +938,7 @@
 
 ## Shell 
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [luca3m/app-examples](https://github.com/luca3m/app-examples) - A bunch of app examples to easily run, for example statsd client, redis, mongodb etc
