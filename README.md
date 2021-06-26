@@ -114,7 +114,7 @@
 - [mame/ioccc-ja-spoilers](https://github.com/mame/ioccc-ja-spoilers) - IOCCC日本語ネタバレ解説のソースコード
 - [microsoft/cppwin32](https://github.com/microsoft/cppwin32) - A modern C++ projection for the Win32 SDK
 - [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager
-- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with keybindings like Vim.
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim. And it's simple and fast.
 - [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin) - OS Login Guest Environment for Google Compute Engine
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [elhayra/tcp_server_client](https://github.com/elhayra/tcp_server_client) - A thin and simple C++ TCP client server
@@ -169,6 +169,9 @@
 
 ## Go 
 
+- [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
+- [zoetrope/etcd-book](https://github.com/zoetrope/etcd-book) - 
+- [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) - 
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [luma-planet/terraform-provider-sshclient](https://github.com/luma-planet/terraform-provider-sshclient) - 
