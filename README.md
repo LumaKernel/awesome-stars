@@ -169,6 +169,7 @@
 
 ## Go 
 
+- [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [zoetrope/etcd-book](https://github.com/zoetrope/etcd-book) - 
 - [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) - 
@@ -1020,6 +1021,7 @@
 
 ## TypeScript 
 
+- [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
 - [operator-framework/operatorhub.io](https://github.com/operator-framework/operatorhub.io) - 
 - [plusone-masaki/csv-plus](https://github.com/plusone-masaki/csv-plus) - A completely new CSV editor that gives you a great experience with simple operations.
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
