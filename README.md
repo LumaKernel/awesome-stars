@@ -103,6 +103,7 @@
 
 ## C++ 
 
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [noshi91/Library](https://github.com/noshi91/Library) - 競技プログラミング
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [ffftp/ffftp](https://github.com/ffftp/ffftp) - FTPクライアントソフトウェアです。
@@ -169,6 +170,7 @@
 
 ## Go 
 
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [zoetrope/etcd-book](https://github.com/zoetrope/etcd-book) - 
@@ -1195,7 +1197,7 @@
 - [frouriojs/velona](https://github.com/frouriojs/velona) - TypeScript DI helper for functional programming
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Trophy on your readme
+- [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [p1ass/midare](https://github.com/p1ass/midare) - 🕒  ツイートを使って生活習慣の乱れを可視化するWebアプリ
 - [artalar/reatom](https://github.com/artalar/reatom) - State manager with a focus of all needs
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
