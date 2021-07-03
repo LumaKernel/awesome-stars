@@ -309,6 +309,7 @@
 - [tc39/proposal-compartments](https://github.com/tc39/proposal-compartments) - Compartmentalization of host behavior hooks for JS
 - [tc39/proposal-ses](https://github.com/tc39/proposal-ses) - Draft proposal for SES (Secure EcmaScript)
 - [tc39/proposal-defer-import-eval](https://github.com/tc39/proposal-defer-import-eval) - A proposal for introducing a way to defer evaluate of a module
+- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [sendgrid/email-templates](https://github.com/sendgrid/email-templates) - A repository of common email templates to use and modify to your heart's content.
@@ -420,7 +421,6 @@
 - [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
 - [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Simple yet powerful live data computation framework
 - [avajs/eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules for AVA
-- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
 - [visionmedia/debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
@@ -655,6 +655,7 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [blackCauldron7/surround.nvim](https://github.com/blackCauldron7/surround.nvim) - A surround text object plugin for neovim written in lua.
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
+- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - Lua Language Server coded by Lua
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
@@ -686,6 +687,7 @@
 
 ## Others 
 
+- [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
@@ -1327,7 +1329,6 @@
 - [lambdalisue/glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) - 🎨 An universal palette for Nerd Fonts
 - [lambdalisue/fern-renderer-nerdfont.vim](https://github.com/lambdalisue/fern-renderer-nerdfont.vim) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
 - [lambdalisue/fern-git-status.vim](https://github.com/lambdalisue/fern-git-status.vim) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
-- [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tweekmonster/django-plus.vim](https://github.com/tweekmonster/django-plus.vim) - :guitar: Improvements to the handling of Django related files in Vim
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
