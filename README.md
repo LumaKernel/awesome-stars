@@ -64,6 +64,8 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
@@ -309,7 +311,6 @@
 - [tc39/proposal-compartments](https://github.com/tc39/proposal-compartments) - Compartmentalization of host behavior hooks for JS
 - [tc39/proposal-ses](https://github.com/tc39/proposal-ses) - Draft proposal for SES (Secure EcmaScript)
 - [tc39/proposal-defer-import-eval](https://github.com/tc39/proposal-defer-import-eval) - A proposal for introducing a way to defer evaluate of a module
-- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [sendgrid/email-templates](https://github.com/sendgrid/email-templates) - A repository of common email templates to use and modify to your heart's content.
@@ -352,6 +353,7 @@
 
 ## JavaScript 
 
+- [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [shelfio/jest-dynamodb](https://github.com/shelfio/jest-dynamodb) - Jest preset for DynamoDB local server
 - [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io) - 
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -421,6 +423,7 @@
 - [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
 - [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Simple yet powerful live data computation framework
 - [avajs/eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules for AVA
+- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
 - [visionmedia/debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
@@ -636,6 +639,7 @@
 
 ## Lua 
 
+- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
@@ -860,7 +864,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [tanakh/wsl-get](https://github.com/tanakh/wsl-get) - 
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - An async python framework with the backend runtime written in rust
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - An async python web server written in rust
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -1028,6 +1032,8 @@
 
 ## TypeScript 
 
+- [uki00a/deno-notifier.ts](https://github.com/uki00a/deno-notifier.ts) - Send desktop notifications with Deno
+- [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
 - [operator-framework/operatorhub.io](https://github.com/operator-framework/operatorhub.io) - 
 - [plusone-masaki/csv-plus](https://github.com/plusone-masaki/csv-plus) - A completely new CSV editor that gives you a great experience with simple operations.
