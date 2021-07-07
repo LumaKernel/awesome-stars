@@ -64,6 +64,8 @@
 
 ## C 
 
+- [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
+- [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
@@ -353,6 +355,7 @@
 
 ## JavaScript 
 
+- [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
 - [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - Input Unicode math symbols by TeX. A Chrome extension.
@@ -694,6 +697,7 @@
 
 ## Others 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
@@ -765,6 +769,7 @@
 
 ## Python 
 
+- [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
 - [facebookarchive/codemod](https://github.com/facebookarchive/codemod) - Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
@@ -1035,6 +1040,7 @@
 
 ## TypeScript 
 
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
 - [uki00a/deno-notifier.ts](https://github.com/uki00a/deno-notifier.ts) - Send desktop notifications with Deno
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
