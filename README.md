@@ -64,6 +64,8 @@
 
 ## C 
 
+- [openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module) - Embed the Power of Lua into NGINX HTTP servers
+- [openresty/openresty](https://github.com/openresty/openresty) - High Performance Web Platform Based on Nginx and LuaJIT
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -176,6 +178,9 @@
 
 ## Go 
 
+- [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
+- [graphql-go/handler](https://github.com/graphql-go/handler) - Golang HTTP.Handler for graphl-go
+- [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [google/uuid](https://github.com/google/uuid) - Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [asaskevich/govalidator](https://github.com/asaskevich/govalidator) - [Go] Package of validators and sanitizers for strings, numerics, slices and structs
@@ -1044,6 +1049,8 @@
 
 ## TypeScript 
 
+- [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
+- [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
 - [uki00a/deno-notifier.ts](https://github.com/uki00a/deno-notifier.ts) - Send desktop notifications with Deno
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
