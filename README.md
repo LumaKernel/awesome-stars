@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [UnitedIncome/serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
