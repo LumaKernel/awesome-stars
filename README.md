@@ -270,7 +270,7 @@
 - [juliosueiras/terraform-lsp](https://github.com/juliosueiras/terraform-lsp) - Language Server Protocol for Terraform
 - [thought-machine/please](https://github.com/thought-machine/please) - High-performance extensible build system for reproducible multi-language builds.
 - [prysmaticlabs/prysm](https://github.com/prysmaticlabs/prysm) - Go implementation of Ethereum proof of stake
-- [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [mattn/mattn-icons](https://github.com/mattn/mattn-icons) - 
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
