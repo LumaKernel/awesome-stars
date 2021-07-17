@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [architect/arc.codes](https://github.com/architect/arc.codes) - The Architect web site! 🌩
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [UnitedIncome/serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
@@ -1421,7 +1422,7 @@
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [su8ru/su8ru.github.io](https://github.com/su8ru/su8ru.github.io) - my portfolio
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome Github Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [yuki-yano/imecoletter](https://github.com/yuki-yano/imecoletter) - 最高の画像を集めるためのTwitterクライアント
 
 
