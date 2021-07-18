@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [beginner-corp/begin-data](https://github.com/beginner-corp/begin-data) - A durable and fast key/value store for Begin built on top of DynamoDB
 - [architect/arc.codes](https://github.com/architect/arc.codes) - The Architect web site! 🌩
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
 - [UnitedIncome/serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
