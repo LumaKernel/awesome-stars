@@ -361,6 +361,7 @@
 
 ## JavaScript 
 
+- [chengcyber/rollup-plugin-monaco-editor](https://github.com/chengcyber/rollup-plugin-monaco-editor) - A rollup plugin for importing monaco editor
 - [beginner-corp/begin-data](https://github.com/beginner-corp/begin-data) - A durable and fast key/value store for Begin built on top of DynamoDB
 - [architect/arc.codes](https://github.com/architect/arc.codes) - The Architect web site! 🌩
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
@@ -990,7 +991,6 @@
 - [vinceliuice/Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - Vimix-cursors for linux desktop
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. 🍤
 - [Rasukarusan/fzf-chrome-active-tab](https://github.com/Rasukarusan/fzf-chrome-active-tab) - :penguin: Fuzzy search and activate Chrome tab via the terminal.
 - [jakejarvis/s3-sync-action](https://github.com/jakejarvis/s3-sync-action) - 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
@@ -1052,6 +1052,8 @@
 
 ## TypeScript 
 
+- [microsoft/dtslint](https://github.com/microsoft/dtslint) - A utility built on TSLint for linting TypeScript declaration (.d.ts) files.
+- [DefinitelyTyped/focus-dt](https://github.com/DefinitelyTyped/focus-dt) - A simple command-line tool for running down PRs on DefinitelyTyped
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
@@ -1136,6 +1138,7 @@
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [denosaurs/denon](https://github.com/denosaurs/denon) - 👀 Monitor any changes in your Deno application and automatically restart.
 - [egoist/majo](https://github.com/egoist/majo) - A minimal module to manipulate files.
+- [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [TheBrainFamily/wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing. Integral part of react-testing-library.
