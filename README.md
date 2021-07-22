@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [vgsantoniazzi/js-hcl-parser](https://github.com/vgsantoniazzi/js-hcl-parser) - js-hcl-parser — A Go port version of HCL &lt;&gt; JSON parser for Javascript.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
 - [graphql-go/relay](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a graphql-go server supporting react-relay.
@@ -362,6 +363,10 @@
 
 ## JavaScript 
 
+- [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
+- [TypeStrong/ntypescript](https://github.com/TypeStrong/ntypescript) - Nicer TypeScript for API devs
+- [sveltejs/svelte-virtual-list](https://github.com/sveltejs/svelte-virtual-list) - A virtual list component for Svelte apps
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [chengcyber/rollup-plugin-monaco-editor](https://github.com/chengcyber/rollup-plugin-monaco-editor) - A rollup plugin for importing monaco editor
 - [beginner-corp/begin-data](https://github.com/beginner-corp/begin-data) - A durable and fast key/value store for Begin built on top of DynamoDB
@@ -1054,6 +1059,10 @@
 
 ## TypeScript 
 
+- [Gomah/prisma-serverless](https://github.com/Gomah/prisma-serverless) - Prisma (Nexus) + Typescript + AWS Serverless Lambda = :fireworks:
+- [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
+- [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
+- [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [oovm/vscode-toml](https://github.com/oovm/vscode-toml) - 
 - [microsoft/dtslint](https://github.com/microsoft/dtslint) - A utility built on TSLint for linting TypeScript declaration (.d.ts) files.
 - [DefinitelyTyped/focus-dt](https://github.com/DefinitelyTyped/focus-dt) - A simple command-line tool for running down PRs on DefinitelyTyped
