@@ -477,7 +477,6 @@
 - [littlegiants/nuxt-canonical](https://github.com/littlegiants/nuxt-canonical) - Module for automatically generating canonical tags for all pages in your nuxt project.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [tkafka/node-elizabot](https://github.com/tkafka/node-elizabot) - 
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - Markdown code style linter
 - [rehypejs/rehype-sanitize](https://github.com/rehypejs/rehype-sanitize) - plugin to sanitize HTML
 - [syntax-tree/mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) - utility to transform mdast to hast
@@ -506,7 +505,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) framework-agnostic ESLint config. 707 rules.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) framework-agnostic ESLint config. 708 rules.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
@@ -716,6 +715,7 @@
 
 ## Others 
 
+- [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
@@ -787,6 +787,7 @@
 
 ## Python 
 
+- [abehoffman/bsrp](https://github.com/abehoffman/bsrp) - Python/Javascript implementation of the SRP-6a protocol.
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) - You know, for Kubernetes
@@ -1059,6 +1060,7 @@
 
 ## TypeScript 
 
+- [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Gomah/prisma-serverless](https://github.com/Gomah/prisma-serverless) - Prisma (Nexus) + Typescript + AWS Serverless Lambda = :fireworks:
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
 - [actions/setup-node](https://github.com/actions/setup-node) - Set up your GitHub Actions workflow with a specific version of node.js
@@ -1166,6 +1168,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine) - This action deploys your source code to App Engine.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
