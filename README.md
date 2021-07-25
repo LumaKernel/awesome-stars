@@ -527,7 +527,7 @@
 - [DarkDaskin/generator-userscript](https://github.com/DarkDaskin/generator-userscript) - Yeoman generator for building userscripts with TypeScript and Webpack
 - [fisker/power-cartesian-product](https://github.com/fisker/power-cartesian-product) - power cartesian product
 - [ranisalt/node-argon2](https://github.com/ranisalt/node-argon2) - Node.js bindings for Argon2 hashing algorithm
-- [benmosher/eslint-plugin-import](https://github.com/benmosher/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
+- [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
