@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [vgsantoniazzi/js-hcl-parser](https://github.com/vgsantoniazzi/js-hcl-parser) - js-hcl-parser — A Go port version of HCL &lt;&gt; JSON parser for Javascript.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
@@ -363,6 +364,7 @@
 
 ## JavaScript 
 
+- [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
 - [TypeStrong/ntypescript](https://github.com/TypeStrong/ntypescript) - Nicer TypeScript for API devs
 - [sveltejs/svelte-virtual-list](https://github.com/sveltejs/svelte-virtual-list) - A virtual list component for Svelte apps
