@@ -123,7 +123,7 @@
 - [mame/ioccc-ja-spoilers](https://github.com/mame/ioccc-ja-spoilers) - IOCCC日本語ネタバレ解説のソースコード
 - [microsoft/cppwin32](https://github.com/microsoft/cppwin32) - A modern C++ projection for the Win32 SDK
 - [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager
-- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim. And it's simple and fast.
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim. It is simple and fast.
 - [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin) - OS Login Guest Environment for Google Compute Engine
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [elhayra/tcp_server_client](https://github.com/elhayra/tcp_server_client) - A thin and simple C++ TCP client server
@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
 - [vgsantoniazzi/js-hcl-parser](https://github.com/vgsantoniazzi/js-hcl-parser) - js-hcl-parser — A Go port version of HCL &lt;&gt; JSON parser for Javascript.
@@ -725,7 +726,7 @@
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [prisma/studio](https://github.com/prisma/studio) - IDE for your database
+- [prisma/studio](https://github.com/prisma/studio) - The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
 - [BobNisco/adblocking-vpn](https://github.com/BobNisco/adblocking-vpn) - 🔒 Create your own VPN server that blocks malicious domains to enhance your security and privacy
@@ -1154,6 +1155,7 @@
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [saojs/sao](https://github.com/saojs/sao) - ⚔ Futuristic scaffolding tool
 - [denosaurs/denon](https://github.com/denosaurs/denon) - 👀 Monitor any changes in your Deno application and automatically restart.
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [egoist/majo](https://github.com/egoist/majo) - A minimal module to manipulate files.
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
 - [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
@@ -1320,7 +1322,6 @@
 - [hrsh7th/vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs) - 
 - [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [deris/vim-duzzle](https://github.com/deris/vim-duzzle) - This is puzzle game on vim
 - [glepnir/oceanic-material](https://github.com/glepnir/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [fidian/hexmode](https://github.com/fidian/hexmode) - Vim plugin to edit binary files in a hex mode automatically.
