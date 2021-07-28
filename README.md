@@ -890,6 +890,7 @@
 
 ## Rust 
 
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [niuez/Niu](https://github.com/niuez/Niu) - Language for libraries used in competition programming
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
@@ -1063,6 +1064,7 @@
 
 ## TypeScript 
 
+- [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Gomah/prisma-serverless](https://github.com/Gomah/prisma-serverless) - Prisma (Nexus) + Typescript + AWS Serverless Lambda = :fireworks:
 - [gcanti/fp-ts](https://github.com/gcanti/fp-ts) - Functional programming in TypeScript
