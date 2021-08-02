@@ -110,6 +110,7 @@
 
 ## C++ 
 
+- [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [VladKarpushin/out_of_focus_deblur](https://github.com/VladKarpushin/out_of_focus_deblur) - You will learn how to recover an out-of-focus image by Wiener filter
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [noshi91/Library](https://github.com/noshi91/Library) - 競技プログラミング
