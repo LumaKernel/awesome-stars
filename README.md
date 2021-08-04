@@ -102,7 +102,7 @@
 
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
-- [files-community/Files](https://github.com/files-community/Files) - A modern file explorer that pushes the boundaries of the platform.
+- [files-community/Files](https://github.com/files-community/Files) - A modern file manager that pushes the boundaries of the platform.
 - [UnityTechnologies/open-project-1](https://github.com/UnityTechnologies/open-project-1) - Unity Open Project #1: Chop Chop
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
 - [TypeStrong/ntypescript](https://github.com/TypeStrong/ntypescript) - Nicer TypeScript for API devs
@@ -508,7 +509,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) framework-agnostic ESLint config. 708 rules.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (but practical) ESLint config. 31 plugins. 987 rules.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
@@ -666,7 +667,7 @@
 
 ## Lua 
 
-- [ChristianChiarulli/LunarVim](https://github.com/ChristianChiarulli/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git signs written in pure lua
