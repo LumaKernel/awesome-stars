@@ -792,6 +792,7 @@
 
 ## Python 
 
+- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [abehoffman/bsrp](https://github.com/abehoffman/bsrp) - Python/Javascript implementation of the SRP-6a protocol.
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
