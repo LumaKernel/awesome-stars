@@ -667,6 +667,7 @@
 
 ## Lua 
 
+- [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
 - [draios/sysdig](https://github.com/draios/sysdig) - Linux system exploration and troubleshooting tool with first class support for containers
@@ -720,6 +721,8 @@
 
 ## Others 
 
+- [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
@@ -1068,6 +1071,11 @@
 
 ## TypeScript 
 
+- [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
+- [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 🐜  Standard module for denops.vim
+- [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno powered completion framework for neovim/Vim8
+- [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
+- [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [Gomah/prisma-serverless](https://github.com/Gomah/prisma-serverless) - Prisma (Nexus) + Typescript + AWS Serverless Lambda = :fireworks:
