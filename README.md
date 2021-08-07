@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
@@ -389,7 +390,7 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
-- [mhart/ts-eager](https://github.com/mhart/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
+- [bustle/ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
 - [coverallsapp/github-action](https://github.com/coverallsapp/github-action) - Coveralls Github Action
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1071,6 +1072,8 @@
 
 ## TypeScript 
 
+- [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
+- [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
 - [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
 - [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 🐜  Standard module for denops.vim
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno powered completion framework for neovim/Vim8
@@ -1162,7 +1165,7 @@
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - Denoの最新情報を発信します🦕
 - [vim-denops/denops-deno](https://github.com/vim-denops/denops-deno) - 🐜 Deno module for denops.vim
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Create videos programmatically in React
-- [LumaKernel/coc-denoland](https://github.com/LumaKernel/coc-denoland) - Visual Studio Code plugin for Deno
+- [LumaKernel/coc-denoland](https://github.com/LumaKernel/coc-denoland) - coc.nvim extension for Deno
 - [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
@@ -1319,6 +1322,7 @@
 
 ## Vim script 
 
+- [luma-dev/dps-godoc](https://github.com/luma-dev/dps-godoc) - Handy Godoc Viewer in your favorite editors :octocat:
 - [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [yuki-yano/zero.vim](https://github.com/yuki-yano/zero.vim) - 
