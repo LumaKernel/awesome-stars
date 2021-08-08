@@ -124,7 +124,7 @@
 - [mame/ioccc-ja-spoilers](https://github.com/mame/ioccc-ja-spoilers) - IOCCC日本語ネタバレ解説のソースコード
 - [microsoft/cppwin32](https://github.com/microsoft/cppwin32) - A modern C++ projection for the Win32 SDK
 - [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager
-- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim. It is simple and fast.
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim.
 - [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin) - OS Login Guest Environment for Google Compute Engine
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
 - [elhayra/tcp_server_client](https://github.com/elhayra/tcp_server_client) - A thin and simple C++ TCP client server
@@ -540,6 +540,7 @@
 - [mysticatea/eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for directive comments of ESLint.
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [skeggse/isemail](https://github.com/skeggse/isemail) - validate an email address according to RFCs 5321, 5322, and others
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1231,7 +1232,6 @@
 - [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An extension of eslint-config-standard, made for TypeScript.
 - [gajus/graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [prisma/prisma-client-js](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [lannex/react-password-strength-bar](https://github.com/lannex/react-password-strength-bar) - A React component that displays the password strength bar
 - [google/js-green-licenses](https://github.com/google/js-green-licenses) - JavaScript package.json License Checker
@@ -1244,7 +1244,7 @@
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
-- [theia-ide/typescript-language-server](https://github.com/theia-ide/typescript-language-server) - TypeScript & JavaScript Language Server
+- [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [ctrlplusb/prisma-pg-jest](https://github.com/ctrlplusb/prisma-pg-jest) - Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context
 - [legraphista/ffmpeg-progress-wrapper](https://github.com/legraphista/ffmpeg-progress-wrapper) - A simple wrapper that helps determinng the progress of the ffmpeg conversion and other info
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
