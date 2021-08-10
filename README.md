@@ -683,7 +683,6 @@
 - [hrsh7th/nvim-compe](https://github.com/hrsh7th/nvim-compe) - Auto completion Lua plugin for nvim
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) - neovim lsp plugin
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) - 
-- [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [glepnir/prodoc.nvim](https://github.com/glepnir/prodoc.nvim) - a neovim comment and  annotation plugin using coroutine
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) - Make neovim the best note taking application
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) - enhanced increment/decrement plugin for Neovim.
@@ -1012,6 +1011,7 @@
 - [vinceliuice/Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - Vimix-cursors for linux desktop
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. 🍤
 - [Rasukarusan/fzf-chrome-active-tab](https://github.com/Rasukarusan/fzf-chrome-active-tab) - :penguin: Fuzzy search and activate Chrome tab via the terminal.
 - [jakejarvis/s3-sync-action](https://github.com/jakejarvis/s3-sync-action) - 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
