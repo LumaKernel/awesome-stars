@@ -179,6 +179,7 @@
 
 ## Go 
 
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
 - [hashicorp/hcl](https://github.com/hashicorp/hcl) - HCL is the HashiCorp configuration language.
@@ -1073,6 +1074,7 @@
 
 ## TypeScript 
 
+- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
 - [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
 - [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
