@@ -618,7 +618,7 @@
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [unassert-js/webpack-unassert-loader](https://github.com/unassert-js/webpack-unassert-loader) - A webpack loader for unassert: Encourages programming with assertions by providing tools to compile them away.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing! (for Svelte)
+- [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing vibes! (for Svelte)
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
 - [ForbesLindesay/sync-rpc](https://github.com/ForbesLindesay/sync-rpc) - Run asynchronous commands synchronously by putting them in a separate process
 - [shama/webpack-stream](https://github.com/shama/webpack-stream) - :tropical_drink: Run webpack through a stream interface
