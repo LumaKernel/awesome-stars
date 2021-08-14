@@ -899,6 +899,7 @@
 
 ## Rust 
 
+- [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
@@ -1075,6 +1076,8 @@
 
 ## TypeScript 
 
+- [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
+- [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
 - [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
