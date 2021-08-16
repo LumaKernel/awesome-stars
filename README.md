@@ -179,6 +179,7 @@
 
 ## Go 
 
+- [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
@@ -318,6 +319,7 @@
 
 ## HTML 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
@@ -366,6 +368,7 @@
 
 ## JavaScript 
 
+- [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
@@ -418,7 +421,7 @@
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to seperate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
-- [remarkjs/remark-autolink-headings](https://github.com/remarkjs/remark-autolink-headings) - plugin to automatically add links to headings
+- [remarkjs/remark-autolink-headings](https://github.com/remarkjs/remark-autolink-headings) - Legacy remark plugin to automatically add links to headings — please use `rehype-autolink-headings` instead
 - [micromark/micromark-extension-directive](https://github.com/micromark/micromark-extension-directive) - micromark extension to support generic directives (`:cite[smith04]`)
 - [blocks/blocks](https://github.com/blocks/blocks) - A JSX-based page builder for creating beautiful websites without writing code
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
@@ -670,6 +673,7 @@
 
 ## Lua 
 
+- [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway
@@ -697,6 +701,7 @@
 
 ## Makefile 
 
+- [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Mathematica 
@@ -735,7 +740,6 @@
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
 - [prisma/studio](https://github.com/prisma/studio) - The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
-- [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
 - [BobNisco/adblocking-vpn](https://github.com/BobNisco/adblocking-vpn) - 🔒 Create your own VPN server that blocks malicious domains to enhance your security and privacy
 - [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -1026,7 +1030,7 @@
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [himanoa/goshiteki](https://github.com/himanoa/goshiteki) - review tool
 - [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
-- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more in a single portable script.
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [kubernetes/examples](https://github.com/kubernetes/examples) - Kubernetes application example tutorials
 - [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
@@ -1058,6 +1062,7 @@
 
 ## Svelte 
 
+- [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for http://vitejs.dev/
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
 - [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
@@ -1328,6 +1333,7 @@
 
 ## Vim script 
 
+- [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [luma-dev/dps-godoc](https://github.com/luma-dev/dps-godoc) - Handy Godoc Viewer in your favorite editors :octocat:
 - [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
