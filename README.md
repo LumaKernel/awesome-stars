@@ -179,6 +179,7 @@
 
 ## Go 
 
+- [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [go-git/go-git](https://github.com/go-git/go-git) - A highly extensible Git implementation in pure Go.
@@ -269,7 +270,7 @@
 - [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
 - [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Privately browse, organize, and share your photo collection. Free & Open Source. 🌈
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) - TFLint ruleset for terraform-provider-aws
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -368,6 +369,8 @@
 
 ## JavaScript 
 
+- [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
+- [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
@@ -903,6 +906,7 @@
 
 ## Rust 
 
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
