@@ -369,6 +369,8 @@
 
 ## JavaScript 
 
+- [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
+- [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
@@ -1085,6 +1087,7 @@
 
 ## TypeScript 
 
+- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
@@ -1420,7 +1423,7 @@
 - [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20)
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
-- [mike-hearn/vim-combosearch](https://github.com/mike-hearn/vim-combosearch) - 
+- [mike-hearn/vim-combosearch](https://github.com/mike-hearn/vim-combosearch) - Vim plugin that combines filename search (find) and code search (grep) into a single command
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
 - [mattn/vim-godoc](https://github.com/mattn/vim-godoc) - 
 - [lambdalisue/readablefold.vim](https://github.com/lambdalisue/readablefold.vim) - A Vim plugin to improve foldtext for better looks
