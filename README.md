@@ -36,7 +36,6 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -126,7 +125,7 @@
 - [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim.
 - [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin) - OS Login Guest Environment for Google Compute Engine
-- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.
+- [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [elhayra/tcp_server_client](https://github.com/elhayra/tcp_server_client) - A thin and simple C++ TCP client server
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
@@ -179,6 +178,7 @@
 
 ## Go 
 
+- [go-yaml/yaml](https://github.com/go-yaml/yaml) - YAML support for the Go language.
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
 - [labstack/echo](https://github.com/labstack/echo) - High performance, minimalist Go web framework
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
@@ -356,6 +356,7 @@
 
 ## Java 
 
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [crocs-muni/usable-cert-validation](https://github.com/crocs-muni/usable-cert-validation) - Research initiative to make TLS certificate validation usable.
 - [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
@@ -369,6 +370,7 @@
 
 ## JavaScript 
 
+- [testing-library/cypress-testing-library](https://github.com/testing-library/cypress-testing-library) - 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
@@ -891,10 +893,6 @@
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -1047,6 +1045,7 @@
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [rust-lang-ja/atcoder-rust-resources](https://github.com/rust-lang-ja/atcoder-rust-resources) - AtCoderコンテストにRustで参加するための資料集
 - [cirrus-actions/rebase](https://github.com/cirrus-actions/rebase) - GitHub Action to automatically rebase PRs
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - The Fish Shell Framework
 - [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [yuki-yano/fzf-preview.zsh](https://github.com/yuki-yano/fzf-preview.zsh) - 
@@ -1340,6 +1339,7 @@
 
 ## Vim script 
 
+- [whatyouhide/vim-gotham](https://github.com/whatyouhide/vim-gotham) - Code never sleeps in Gotham City. 🌃
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [luma-dev/dps-godoc](https://github.com/luma-dev/dps-godoc) - Handy Godoc Viewer in your favorite editors :octocat:
 - [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
