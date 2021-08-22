@@ -742,6 +742,7 @@
 
 ## Others 
 
+- [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
@@ -816,6 +817,7 @@
 
 ## Python 
 
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [abehoffman/bsrp](https://github.com/abehoffman/bsrp) - Python/Javascript implementation of the SRP-6a protocol.
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
@@ -1093,6 +1095,7 @@
 
 ## TypeScript 
 
+- [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
