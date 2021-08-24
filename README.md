@@ -178,6 +178,8 @@
 
 ## Go 
 
+- [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [ghodss/yaml](https://github.com/ghodss/yaml) - A better way to marshal and unmarshal YAML in Golang
 - [goccy/go-yaml](https://github.com/goccy/go-yaml) - YAML support for the Go language
@@ -323,6 +325,7 @@
 
 ## HTML 
 
+- [tc39/proposal-realms](https://github.com/tc39/proposal-realms) - ECMAScript Proposal, specs, and reference implementation for Realms
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
@@ -373,6 +376,11 @@
 
 ## JavaScript 
 
+- [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect) - string representations of objects in node and the browser
+- [i18next/i18next](https://github.com/i18next/i18next) - i18next: learn once - translate everywhere
+- [panter/vue-i18next](https://github.com/panter/vue-i18next) - Internationalization for vue using the i18next i18n ecosystem.
+- [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
+- [wagoid/commitlint-github-action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
@@ -756,7 +764,7 @@
 - [prisma/studio](https://github.com/prisma/studio) - The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [BobNisco/adblocking-vpn](https://github.com/BobNisco/adblocking-vpn) - 🔒 Create your own VPN server that blocks malicious domains to enhance your security and privacy
-- [tuvtran/project-based-learning](https://github.com/tuvtran/project-based-learning) - Curated list of project-based tutorials
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [yutkat/katapedia](https://github.com/yutkat/katapedia) - この書は常に未完成である。内容の正誤に保証はない。  ITエンジニアとして役になったTips、よく忘れることを記す。 ブログに記載してもよかったが、水平方向の情報を見つけやすい本の形式をとることにした
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
@@ -914,6 +922,7 @@
 
 ## Rust 
 
+- [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
@@ -1095,6 +1104,9 @@
 
 ## TypeScript 
 
+- [denodrivers/deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
