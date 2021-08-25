@@ -178,6 +178,7 @@
 
 ## Go 
 
+- [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
