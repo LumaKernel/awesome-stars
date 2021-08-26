@@ -276,7 +276,7 @@
 - [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
 - [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Browse, organize, and share your photo collection. Privacy-friendly, simple to use & open-source! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) - TFLint ruleset for terraform-provider-aws
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -1105,6 +1105,7 @@
 
 ## TypeScript 
 
+- [makutamoto/atcoder-badges](https://github.com/makutamoto/atcoder-badges) - AtCoderの現在のレートと色を表示するバッジを作れます。
 - [denodrivers/deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
