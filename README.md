@@ -826,6 +826,7 @@
 
 ## Python 
 
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [abehoffman/bsrp](https://github.com/abehoffman/bsrp) - Python/Javascript implementation of the SRP-6a protocol.
@@ -1105,6 +1106,8 @@
 
 ## TypeScript 
 
+- [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
+- [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [makutamoto/atcoder-badges](https://github.com/makutamoto/atcoder-badges) - AtCoderの現在のレートと色を表示するバッジを作れます。
 - [denodrivers/deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
