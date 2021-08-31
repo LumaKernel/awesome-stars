@@ -52,6 +52,7 @@
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
+  - [Zig](#zig)
 
 ## Batchfile 
 
@@ -179,6 +180,7 @@
 
 ## Go 
 
+- [pressly/goose](https://github.com/pressly/goose) - Goose database migration tool - fork of https://bitbucket.org/liamstask/goose
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
@@ -378,6 +380,7 @@
 
 ## JavaScript 
 
+- [prettier/prettier-linter-helpers](https://github.com/prettier/prettier-linter-helpers) - Helper functions for exposing prettier changes within linting tools
 - [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
 - [eslint/eslint](https://github.com/eslint/eslint) - Find and fix problems in your JavaScript code.
 - [inspect-js/object-inspect](https://github.com/inspect-js/object-inspect) - string representations of objects in node and the browser
@@ -828,6 +831,8 @@
 
 ## Python 
 
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
+- [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
@@ -926,6 +931,7 @@
 
 ## Rust 
 
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -1109,6 +1115,7 @@
 
 ## TypeScript 
 
+- [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [atlassian/changesets](https://github.com/atlassian/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
@@ -1520,6 +1527,10 @@
 - [su8ru/su8ru.github.io](https://github.com/su8ru/su8ru.github.io) - my portfolio
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [yuki-yano/imecoletter](https://github.com/yuki-yano/imecoletter) - 最高の画像を集めるためのTwitterクライアント
+
+## Zig 
+
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
 ## License
