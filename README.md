@@ -1324,7 +1324,7 @@
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for remote data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [frouriojs/velona](https://github.com/frouriojs/velona) - TypeScript DI helper for functional programming
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
