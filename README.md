@@ -1040,10 +1040,10 @@
 - [radial/core-busyboxplus](https://github.com/radial/core-busyboxplus) - Full-chain/Internet enabled busybox images from scratch using Buildroot for flexible but light Docker volume containers. Comes in multiple flavors.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [haru-ake/tmux-pet](https://github.com/haru-ake/tmux-pet) - Tmux plugin for pet snippet manager
-- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, CentOS and Fedora
+- [Nyr/wireguard-install](https://github.com/Nyr/wireguard-install) - WireGuard road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [matsuu/wsl-isucon10-qualifier](https://github.com/matsuu/wsl-isucon10-qualifier) - ISUCON10予選の環境をWSL2上に構築するスクリプト
-- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, CentOS and Fedora
+- [Nyr/openvpn-install](https://github.com/Nyr/openvpn-install) - OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora
 - [OpenVPN/easy-rsa](https://github.com/OpenVPN/easy-rsa) - easy-rsa - Simple shell based CA utility
 - [redgeoff/openvpn-server-vagrant](https://github.com/redgeoff/openvpn-server-vagrant) - Spin up an OpenVPN Server
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
