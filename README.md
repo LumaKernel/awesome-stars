@@ -380,6 +380,7 @@
 
 ## JavaScript 
 
+- [UniverseDevel/Netflex](https://github.com/UniverseDevel/Netflex) - Single package of features that makes using of Netflix more enjoyable.
 - [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte
 - [prettier/prettier-linter-helpers](https://github.com/prettier/prettier-linter-helpers) - Helper functions for exposing prettier changes within linting tools
 - [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
@@ -1117,6 +1118,7 @@
 
 ## TypeScript 
 
+- [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
@@ -1185,7 +1187,7 @@
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
-- [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port for it.
+- [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [aspida/api-types](https://github.com/aspida/api-types) - 
 - [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) - VSCode Neovim Integration
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
