@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
 - [skratchdot/open-golang](https://github.com/skratchdot/open-golang) - Open a file, directory, or URI using the OS's default application for that object type. Optionally, you can specify an application to use.
@@ -380,6 +381,7 @@
 
 ## JavaScript 
 
+- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [UniverseDevel/Netflex](https://github.com/UniverseDevel/Netflex) - Single package of features that makes using of Netflix more enjoyable.
 - [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte
 - [prettier/prettier-linter-helpers](https://github.com/prettier/prettier-linter-helpers) - Helper functions for exposing prettier changes within linting tools
@@ -712,6 +714,7 @@
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [glepnir/smartinput.nvim](https://github.com/glepnir/smartinput.nvim) - 
+- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [LumaKernel/nvim-visual-eof.lua](https://github.com/LumaKernel/nvim-visual-eof.lua) - Visualize existence of EOL at EOF ⏎
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -1118,6 +1121,7 @@
 
 ## TypeScript 
 
+- [shun/ddc-vim-lsp](https://github.com/shun/ddc-vim-lsp) - vim-lsp source for ddc.vim
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -1401,7 +1405,6 @@
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [jsit/toast.vim](https://github.com/jsit/toast.vim) - 🍞 Toast! A colorful, medium-contrast color scheme with full Vim and Neovim support and automatic light and dark variants. Easy to read without frying your retinae.
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
 - [uki00a/vim-deno](https://github.com/uki00a/vim-deno) - An experimental vim plugin for Deno🦕
 - [josa42/vim-lightline-coc](https://github.com/josa42/vim-lightline-coc) - 
 - [hrsh7th/vim-lamp](https://github.com/hrsh7th/vim-lamp) - 💡Language Server Protocol client for Vim.
