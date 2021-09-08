@@ -330,7 +330,8 @@
 
 ## HTML 
 
-- [tc39/proposal-realms](https://github.com/tc39/proposal-realms) - ECMAScript Proposal, specs, and reference implementation for Realms
+- [tc39/proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
+- [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
@@ -683,7 +684,7 @@
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [hashanp/postcss-spiffing](https://github.com/hashanp/postcss-spiffing) - PostCSS plugin to use British English
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
-- [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
+- [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [stowball/Viewport-Genie](https://github.com/stowball/Viewport-Genie) - Adds the real viewport width and height (in px and em) as an element on the body to help with obtaining values for responsive breakpoints
 - [MadLittleMods/postcss-css-variables](https://github.com/MadLittleMods/postcss-css-variables) - PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation
 - [browserslist/browserslist](https://github.com/browserslist/browserslist) - 🦔 Share target browsers between different front-end tools, like Autoprefixer, Stylelint and babel-preset-env
@@ -1123,6 +1124,9 @@
 
 ## TypeScript 
 
+- [moncefplastin07/deno-zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno 🦕.
+- [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
+- [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
 - [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.0
 - [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [shun/ddc-vim-lsp](https://github.com/shun/ddc-vim-lsp) - vim-lsp source for ddc.vim
