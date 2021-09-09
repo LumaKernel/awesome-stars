@@ -180,6 +180,7 @@
 
 ## Go 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
 - [armosec/kubescape](https://github.com/armosec/kubescape) - kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
@@ -382,6 +383,7 @@
 
 ## JavaScript 
 
+- [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
@@ -940,6 +942,7 @@
 
 ## Rust 
 
+- [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
@@ -1042,6 +1045,7 @@
 
 ## Shell 
 
+- [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
@@ -1124,6 +1128,10 @@
 
 ## TypeScript 
 
+- [LumaKernel/ddc-tabnine](https://github.com/LumaKernel/ddc-tabnine) - TabNine Completion for ddc.vim. This source collects candidates from TabNine.
+- [delphinus/ddc-treesitter](https://github.com/delphinus/ddc-treesitter) - A source for ddc.vim to gather candidates from nvim-treesitter
+- [Shougo/ddc-nextword](https://github.com/Shougo/ddc-nextword) - Nextword completion for ddc
+- [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
 - [moncefplastin07/deno-zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno 🦕.
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
@@ -1167,7 +1175,7 @@
 - [DefinitelyTyped/focus-dt](https://github.com/DefinitelyTyped/focus-dt) - A simple command-line tool for running down PRs on DefinitelyTyped
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
-- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 5kb subset of Vue optimized for progressive enhancement
+- [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
 - [uki00a/deno-notifier.ts](https://github.com/uki00a/deno-notifier.ts) - Send desktop notifications with Deno
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
@@ -1367,7 +1375,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
-- [yohamta/typescript-book-jp](https://github.com/yohamta/typescript-book-jp) - TypeScript Bookの日本語訳です。
+- [hayo0914/typescript-book-jp](https://github.com/hayo0914/typescript-book-jp) - TypeScript Bookの日本語訳です。
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [acamica/ts-dynamic-type-checker](https://github.com/acamica/ts-dynamic-type-checker) - TypeScript library that performs dynamic type checking. It's useful for cases where you can't use TypeScript's static type checking (like reading a JSON object from a file).
