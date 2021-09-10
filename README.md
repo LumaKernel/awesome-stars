@@ -739,6 +739,7 @@
 
 ## Makefile 
 
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Mathematica 
@@ -768,7 +769,6 @@
 
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/feedback](https://github.com/github/feedback) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
@@ -1045,6 +1045,7 @@
 
 ## Shell 
 
+- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1128,6 +1129,9 @@
 
 ## TypeScript 
 
+- [luma-dev/deno-iterator-helpers](https://github.com/luma-dev/deno-iterator-helpers) - Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.
+- [LumaKernel/ddc-file](https://github.com/LumaKernel/ddc-file) - Powerful and performant file name completion for ddc.vim.
+- [justjavac/deno_dirs](https://github.com/justjavac/deno_dirs) - Returns the user and platform specific directories
 - [LumaKernel/ddc-tabnine](https://github.com/LumaKernel/ddc-tabnine) - TabNine Completion for ddc.vim. This source collects candidates from TabNine.
 - [delphinus/ddc-treesitter](https://github.com/delphinus/ddc-treesitter) - A source for ddc.vim to gather candidates from nvim-treesitter
 - [Shougo/ddc-nextword](https://github.com/Shougo/ddc-nextword) - Nextword completion for ddc
