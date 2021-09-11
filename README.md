@@ -110,6 +110,8 @@
 
 ## C++ 
 
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
+- [geemion/Khepri](https://github.com/geemion/Khepri) - 🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [VladKarpushin/out_of_focus_deblur](https://github.com/VladKarpushin/out_of_focus_deblur) - You will learn how to recover an out-of-focus image by Wiener filter
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -180,6 +182,7 @@
 
 ## Go 
 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
 - [pressly/goose](https://github.com/pressly/goose) - A database migration tool. Supports SQL migrations and Go functions.
@@ -739,7 +742,6 @@
 
 ## Makefile 
 
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Mathematica 
@@ -1129,6 +1131,10 @@
 
 ## TypeScript 
 
+- [Shougo/ddc-sorter_rank](https://github.com/Shougo/ddc-sorter_rank) - Matched rank order sorter for ddc.vim
+- [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
+- [matsui54/ddc-buffer](https://github.com/matsui54/ddc-buffer) - Buffer source for ddc.vim
+- [hayd/deno-udd](https://github.com/hayd/deno-udd) - Update Deno Dependencies - update dependency urls to their latest published versions
 - [luma-dev/deno-iterator-helpers](https://github.com/luma-dev/deno-iterator-helpers) - Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.
 - [LumaKernel/ddc-file](https://github.com/LumaKernel/ddc-file) - Powerful and performant file name completion for ddc.vim.
 - [justjavac/deno_dirs](https://github.com/justjavac/deno_dirs) - Returns the user and platform specific directories
@@ -1379,7 +1385,7 @@
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
-- [hayo0914/typescript-book-jp](https://github.com/hayo0914/typescript-book-jp) - TypeScript Bookの日本語訳です。
+- [yohamta/typescript-book-jp](https://github.com/yohamta/typescript-book-jp) - TypeScript Bookの日本語訳です。
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [acamica/ts-dynamic-type-checker](https://github.com/acamica/ts-dynamic-type-checker) - TypeScript library that performs dynamic type checking. It's useful for cases where you can't use TypeScript's static type checking (like reading a JSON object from a file).
@@ -1411,10 +1417,14 @@
 
 ## Vim script 
 
+- [lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim) - 🌿 fern.vim plugin which add bookmark scheme
+- [yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim) - Add a file preview window to fern.vim.
+- [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
 - [haya14busa/vim-asterisk](https://github.com/haya14busa/vim-asterisk) - :snowflake: *-Improved
 - [whatyouhide/vim-gotham](https://github.com/whatyouhide/vim-gotham) - Code never sleeps in Gotham City. 🌃
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [luma-dev/dps-godoc](https://github.com/luma-dev/dps-godoc) - Handy Godoc Viewer in your favorite editors :octocat:
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno powered UI framework for neovim/Vim8
 - [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [yuki-yano/zero.vim](https://github.com/yuki-yano/zero.vim) - 
