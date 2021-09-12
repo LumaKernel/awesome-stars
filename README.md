@@ -742,6 +742,7 @@
 
 ## Makefile 
 
+- [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 🐜 Denops documentation
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 
 ## Mathematica 
@@ -944,6 +945,7 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) - Powerful, fast, and an easy to use search engine
@@ -1131,6 +1133,8 @@
 
 ## TypeScript 
 
+- [thinca/action-setup-vim](https://github.com/thinca/action-setup-vim) - GitHub Action to setup Vim, Neovim, or MacVim.
+- [matsui54/ddc-matcher_fuzzy](https://github.com/matsui54/ddc-matcher_fuzzy) - Fuzzy matcher for ddc.vim
 - [Shougo/ddc-sorter_rank](https://github.com/Shougo/ddc-sorter_rank) - Matched rank order sorter for ddc.vim
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [matsui54/ddc-buffer](https://github.com/matsui54/ddc-buffer) - Buffer source for ddc.vim
