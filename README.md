@@ -386,6 +386,11 @@
 
 ## JavaScript 
 
+- [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
+- [rhysd/remark-emoji](https://github.com/rhysd/remark-emoji) - Remark markdown transformer to replace :emoji: in text
+- [syntax-tree/mdast-util-mdx](https://github.com/syntax-tree/mdast-util-mdx) - mdast extension to parse and serialize MDX (or MDX.js)
+- [micromark/micromark-extension-mdx](https://github.com/micromark/micromark-extension-mdx) - micromark extension to support MDX (agnostic to JavaScript)
+- [vfile/to-vfile](https://github.com/vfile/to-vfile) - utility to create a vfile from a filepath
 - [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
 - [WolframResearch/wolfram-notebook-embedder](https://github.com/WolframResearch/wolfram-notebook-embedder) - JavaScript embedder for Wolfram Cloud notebooks
@@ -573,7 +578,6 @@
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [nodesecurity/eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
-- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [cyrilwanner/next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - 💡next-compose-plugins provides a cleaner API for enabling and configuring plugins for next.js
 - [martpie/next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
@@ -1138,6 +1142,8 @@
 
 ## TypeScript 
 
+- [delphinus/ddc-tmux](https://github.com/delphinus/ddc-tmux) - A source for ddc.vim to gather candidates from tmux panes
+- [LumaKernel/vim-tsdetect](https://github.com/LumaKernel/vim-tsdetect) - 
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [Shougo/ddc-omni](https://github.com/Shougo/ddc-omni) - Omnifunc completion for ddc.vim
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -1330,6 +1336,7 @@
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [labd/nextjs-basic-auth-middleware](https://github.com/labd/nextjs-basic-auth-middleware) - Add basic authentication to a NextJS application as middleware
+- [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [josephluck/next-typescript-monorepo](https://github.com/josephluck/next-typescript-monorepo) - An example of a monorepo structure with Next.js, TypeScript and Babel
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
