@@ -953,6 +953,7 @@
 
 ## Rust 
 
+- [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [qnighy/logic-solver-rs](https://github.com/qnighy/logic-solver-rs) - 
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
@@ -1438,6 +1439,7 @@
 
 ## Vim script 
 
+- [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
 - [lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim) - 🌿 fern.vim plugin which add bookmark scheme
 - [yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim) - Add a file preview window to fern.vim.
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
@@ -1554,7 +1556,7 @@
 - [yardnsm/vim-import-cost](https://github.com/yardnsm/vim-import-cost) - 🏋️‍♂️ Display the import size of the JavaScript packages in Vim!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
-- [tyru/eskk.vim](https://github.com/tyru/eskk.vim) - eskk is pure Vim script implementation of input method engine SKK
+- [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) - eskk is pure Vim script implementation of input method engine SKK
 - [hotwatermorning/auto-git-diff](https://github.com/hotwatermorning/auto-git-diff) - A vim plugin which shows git diff for Git Rebase Interactive
 - [tsuyoshicho/vim-efm-langserver-settings](https://github.com/tsuyoshicho/vim-efm-langserver-settings) - vim lsp client - efm-langserver link and configure settings
 - [thinca/vim-themis](https://github.com/thinca/vim-themis) - A testing framework for Vim script.
