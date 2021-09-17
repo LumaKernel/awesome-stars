@@ -111,7 +111,7 @@
 ## C++ 
 
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
-- [geemion/Khepri](https://github.com/geemion/Khepri) - 🔥🔥🔥Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
+- [geemion/Khepri](https://github.com/geemion/Khepri) - 🚀🚀🚀Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [VladKarpushin/out_of_focus_deblur](https://github.com/VladKarpushin/out_of_focus_deblur) - You will learn how to recover an out-of-focus image by Wiener filter
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
@@ -284,7 +284,7 @@
 - [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
 - [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management. Powered by Go and Google TensorFlow! 🌈
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - Open-Source Photo Management powered by Go and Google TensorFlow 🌈
 - [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) - TFLint ruleset for terraform-provider-aws
 - [terraform-linters/tflint](https://github.com/terraform-linters/tflint) - A Pluggable Terraform Linter
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
@@ -386,6 +386,7 @@
 
 ## JavaScript 
 
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
 - [rhysd/remark-emoji](https://github.com/rhysd/remark-emoji) - Remark markdown transformer to replace :emoji: in text
 - [syntax-tree/mdast-util-mdx](https://github.com/syntax-tree/mdast-util-mdx) - mdast extension to parse and serialize MDX (or MDX.js)
@@ -1143,6 +1144,7 @@
 
 ## TypeScript 
 
+- [LumaKernel/ddc-run](https://github.com/LumaKernel/ddc-run) - Deno.run() Completion for ddc.vim
 - [delphinus/ddc-tmux](https://github.com/delphinus/ddc-tmux) - A source for ddc.vim to gather candidates from tmux panes
 - [LumaKernel/vim-tsdetect](https://github.com/LumaKernel/vim-tsdetect) - 
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
