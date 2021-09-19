@@ -1124,6 +1124,7 @@
 
 ## Svelte 
 
+- [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [sveltejs/vite-plugin-svelte](https://github.com/sveltejs/vite-plugin-svelte) - Svelte plugin for http://vitejs.dev/
@@ -1144,6 +1145,7 @@
 
 ## TypeScript 
 
+- [lambdalisue/deno-workerio](https://github.com/lambdalisue/deno-workerio) - 🦕 Deno module to translate Worker's system of messages into Reader and Writer
 - [LumaKernel/ddc-run](https://github.com/LumaKernel/ddc-run) - Deno.run() Completion for ddc.vim
 - [delphinus/ddc-tmux](https://github.com/delphinus/ddc-tmux) - A source for ddc.vim to gather candidates from tmux panes
 - [LumaKernel/vim-tsdetect](https://github.com/LumaKernel/vim-tsdetect) - 
