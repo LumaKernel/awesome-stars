@@ -678,6 +678,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing vibes! (for Svelte)
 - [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [ForbesLindesay/sync-rpc](https://github.com/ForbesLindesay/sync-rpc) - Run asynchronous commands synchronously by putting them in a separate process
 - [shama/webpack-stream](https://github.com/shama/webpack-stream) - :tropical_drink: Run webpack through a stream interface
 - [gulp-community/gulp-cached](https://github.com/gulp-community/gulp-cached) - A simple in-memory file cache for gulp
@@ -788,6 +789,7 @@
 
 ## Others 
 
+- [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
@@ -964,6 +966,7 @@
 
 ## Rust 
 
+- [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [qnighy/logic-solver-rs](https://github.com/qnighy/logic-solver-rs) - 
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
@@ -1070,6 +1073,7 @@
 
 ## Shell 
 
+- [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -1319,7 +1323,7 @@
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
-- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A collection of GitHub Actions for interfacing with Google Cloud Platform.
+- [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
 - [google-github-actions/deploy-appengine](https://github.com/google-github-actions/deploy-appengine) - This action deploys your source code to App Engine.
 - [peaceiris/actions-gh-pages](https://github.com/peaceiris/actions-gh-pages) - GitHub Actions for GitHub Pages 🚀 Deploy static files and publish your site easily. Static-Site-Generators-friendly.
@@ -1408,7 +1412,6 @@
 - [rawrmaan/restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
 - [mizchi/vistree](https://github.com/mizchi/vistree) - 
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [Quramy/ts-playground-plugin-vim](https://github.com/Quramy/ts-playground-plugin-vim) - TypeScript Playground plugin for Vim keybindings
 - [callstack/linaria](https://github.com/callstack/linaria) - Zero-runtime CSS in JS library
 - [vercel/async-sema](https://github.com/vercel/async-sema) - Semaphore using `async` and `await`
@@ -1452,6 +1455,7 @@
 
 ## Vim script 
 
+- [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
 - [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
 - [lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim) - 🌿 fern.vim plugin which add bookmark scheme
