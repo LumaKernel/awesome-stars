@@ -392,6 +392,8 @@
 
 ## JavaScript 
 
+- [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
+- [atabel/eslint-plugin-tape](https://github.com/atabel/eslint-plugin-tape) - ESLint rules for tape
 - [florianeckerstorfer/remark-a11y-emoji](https://github.com/florianeckerstorfer/remark-a11y-emoji) - Remark Plugin to make Emoji in Markdown accessible. Wraps Emoji in a &lt;span&gt;-Tag with role and aria-label attributes.
 - [shaunlebron/highlight-tree-sitter](https://github.com/shaunlebron/highlight-tree-sitter) - create syntax-highlighted code using tree-sitter
 - [remarkjs/remark-footnotes](https://github.com/remarkjs/remark-footnotes) - plugin to add support for pandoc footnotes
@@ -803,6 +805,7 @@
 
 ## Others 
 
+- [vim-denops/denops-logos](https://github.com/vim-denops/denops-logos) - 🎨  Logo images of denops.vim
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1179,6 +1182,7 @@
 
 ## TypeScript 
 
+- [delphinus/ddc-ctags](https://github.com/delphinus/ddc-ctags) - A source for ddc.vim to gather candidates from Universal Ctags
 - [s0/remark-tree-sitter](https://github.com/s0/remark-tree-sitter) - Highlight code in Markdown files using tree-sitter and remark
 - [benrbray/remark-cite](https://github.com/benrbray/remark-cite) - Adds support for pandoc-style citations to the Markdown syntax for the remark and micromark parsers.
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
