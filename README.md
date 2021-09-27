@@ -392,6 +392,7 @@
 
 ## JavaScript 
 
+- [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [atabel/eslint-plugin-tape](https://github.com/atabel/eslint-plugin-tape) - ESLint rules for tape
 - [florianeckerstorfer/remark-a11y-emoji](https://github.com/florianeckerstorfer/remark-a11y-emoji) - Remark Plugin to make Emoji in Markdown accessible. Wraps Emoji in a &lt;span&gt;-Tag with role and aria-label attributes.
@@ -884,6 +885,7 @@
 
 ## Python 
 
+- [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - 
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
@@ -1187,7 +1189,7 @@
 - [benrbray/remark-cite](https://github.com/benrbray/remark-cite) - Adds support for pandoc-style citations to the Markdown syntax for the remark and micromark parsers.
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
-- [kat0h/dps-bufpreview.vim](https://github.com/kat0h/dps-bufpreview.vim) - A markdown previewer for Vim and Neovim
+- [kat0h/bufpreview.vim](https://github.com/kat0h/bufpreview.vim) - A markdown previewer for Vim and Neovim
 - [Shougo/ddc-rtags](https://github.com/Shougo/ddc-rtags) - rtags completion for ddc.vim
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
