@@ -315,6 +315,7 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [h2non/bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
 - [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel
@@ -392,6 +393,9 @@
 
 ## JavaScript 
 
+- [npm/npm-packlist](https://github.com/npm/npm-packlist) - Walk through a folder and figure out what goes in an npm package
+- [zkochan/packages](https://github.com/zkochan/packages) - Zoltan Kochan's npm packages
+- [iarna/promise-inflight](https://github.com/iarna/promise-inflight) - One promise for multiple requests in flight to avoid async duplication
 - [tree-sitter/tree-sitter-javascript](https://github.com/tree-sitter/tree-sitter-javascript) - Javascript grammar for tree-sitter
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [atabel/eslint-plugin-tape](https://github.com/atabel/eslint-plugin-tape) - ESLint rules for tape
@@ -589,7 +593,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 33 plugins. 1006 rules.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 34 plugins. 1015 rules.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
@@ -747,6 +751,7 @@
 
 ## Lua 
 
+- [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Define Neovim themes as a DSL in lua, with real-time feedback.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 NeoVim plugin to preview the contents of the registers
@@ -885,6 +890,7 @@
 
 ## Python 
 
+- [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - 
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)
@@ -939,7 +945,6 @@
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [celery/django-celery-beat](https://github.com/celery/django-celery-beat) - Celery Periodic Tasks backed by the Django ORM
 - [ceuk/spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
 - [globocom/m3u8](https://github.com/globocom/m3u8) - Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions
@@ -988,6 +993,7 @@
 
 ## Rust 
 
+- [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
 - [latex-lsp/texlab](https://github.com/latex-lsp/texlab) - An implementation of the Language Server Protocol for LaTeX
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
