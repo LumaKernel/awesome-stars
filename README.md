@@ -111,6 +111,7 @@
 
 ## C++ 
 
+- [herumi/misc](https://github.com/herumi/misc) - 
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
@@ -188,6 +189,7 @@
 
 ## Go 
 
+- [micnncim/protocol-buffers-language-server](https://github.com/micnncim/protocol-buffers-language-server) - [WIP] Protocol Buffers Language Server
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -813,6 +815,8 @@
 
 ## Others 
 
+- [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers) - 
+- [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
 - [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
 - [vim-denops/denops-logos](https://github.com/vim-denops/denops-logos) - 🎨  Logo images of denops.vim
@@ -1112,7 +1116,6 @@
 ## Shell 
 
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
@@ -1199,6 +1202,9 @@
 
 ## TypeScript 
 
+- [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
+- [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
+- [Quramy/typescript-eslint-language-service](https://github.com/Quramy/typescript-eslint-language-service) - TypeScript language service plugin for ESLint
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [delphinus/ddc-ctags](https://github.com/delphinus/ddc-ctags) - A source for ddc.vim to gather candidates from Universal Ctags
 - [s0/remark-tree-sitter](https://github.com/s0/remark-tree-sitter) - Highlight code in Markdown files using tree-sitter and remark
@@ -1227,6 +1233,7 @@
 - [luma-dev/deno-iterator-helpers](https://github.com/luma-dev/deno-iterator-helpers) - Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.
 - [LumaKernel/ddc-file](https://github.com/LumaKernel/ddc-file) - Powerful and performant file name completion for ddc.vim.
 - [justjavac/deno_dirs](https://github.com/justjavac/deno_dirs) - Returns the user and platform specific directories
+- [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [LumaKernel/ddc-tabnine](https://github.com/LumaKernel/ddc-tabnine) - TabNine Completion for ddc.vim. This source collects candidates from TabNine.
 - [delphinus/ddc-treesitter](https://github.com/delphinus/ddc-treesitter) - A source for ddc.vim to gather candidates from nvim-treesitter
 - [Shougo/ddc-nextword](https://github.com/Shougo/ddc-nextword) - Nextword completion for ddc
@@ -1318,7 +1325,7 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
-- [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2 🧪
+- [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
 - [Snowtrack/SnowFS](https://github.com/Snowtrack/SnowFS) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [denoland/deno_std](https://github.com/denoland/deno_std) - Deno standard library
