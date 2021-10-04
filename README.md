@@ -799,7 +799,7 @@
 ## Mustache 
 
 - [Kong/kong-operator](https://github.com/Kong/kong-operator) - Kong Operator for Kubernetes and OpenShift
-- [bitnami/charts](https://github.com/bitnami/charts) - Helm Charts
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## NSIS 
 
@@ -1003,6 +1003,9 @@
 
 ## Rust 
 
+- [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
+- [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [rhysd/fixred](https://github.com/rhysd/fixred) - Fix outdated links in files with redirect URLs
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
@@ -1117,6 +1120,7 @@
 
 ## Shell 
 
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
@@ -1204,6 +1208,8 @@
 
 ## TypeScript 
 
+- [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
+- [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
 - [improbable-eng/ts-protoc-gen](https://github.com/improbable-eng/ts-protoc-gen) - Protocol Buffers Compiler (protoc) plugin for TypeScript and gRPC-Web.
 - [Quramy/typescript-eslint-language-service](https://github.com/Quramy/typescript-eslint-language-service) - TypeScript language service plugin for ESLint
@@ -1512,6 +1518,8 @@
 
 ## Vim script 
 
+- [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
+- [hashue/config](https://github.com/hashue/config) - 
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
 - [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
@@ -1651,6 +1659,7 @@
 
 ## VimL 
 
+- [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [vim-scripts/MultipleSearch](https://github.com/vim-scripts/MultipleSearch) - Highlight multiple searches at the same time, each with a different color.
 - [cwood/vim-django](https://github.com/cwood/vim-django) - vim-django run commands, create apps, and beyond
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
