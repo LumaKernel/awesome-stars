@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Awk](#awk)
   - [Batchfile](#batchfile)
   - [Brainfuck](#brainfuck)
   - [C](#c)
@@ -54,6 +55,11 @@
   - [VimL](#viml)
   - [Vue](#vue)
   - [Zig](#zig)
+
+## Awk 
+
+- [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
+- [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
 
 ## Batchfile 
 
@@ -1331,7 +1337,7 @@
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
-- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Fast Vue Language Support Extension
+- [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance Vue language support in some aspects
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
 - [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Converts your ◭ Prisma Schema into a full-blown GraphQL API for AWS AppSync.
