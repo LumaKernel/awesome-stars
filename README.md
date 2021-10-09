@@ -196,6 +196,8 @@
 
 ## Go 
 
+- [aequasi/terraform-provider-discord](https://github.com/aequasi/terraform-provider-discord) - Discord Provider for Terraform
+- [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
 - [micnncim/protocol-buffers-language-server](https://github.com/micnncim/protocol-buffers-language-server) - [WIP] Protocol Buffers Language Server
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
@@ -1229,6 +1231,8 @@
 
 ## TypeScript 
 
+- [mizchi/mytown](https://github.com/mizchi/mytown) - 
+- [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [udibo/mock](https://github.com/udibo/mock) - Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.
 - [octokit/webhooks.js](https://github.com/octokit/webhooks.js) - GitHub webhook events toolset for Node.js
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
@@ -1589,7 +1593,7 @@
 - [bluz71/vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) - Another dark color scheme for Vim
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [mattn/vim-markov](https://github.com/mattn/vim-markov) - 
-- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [antoinemadec/coc-fzf](https://github.com/antoinemadec/coc-fzf) - fzf :heart: coc.nvim
 - [dominikduda/vim_current_word](https://github.com/dominikduda/vim_current_word) - Plugin highlighting word under cursor and all of its occurences
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
