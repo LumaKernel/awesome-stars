@@ -407,6 +407,8 @@
 
 ## JavaScript 
 
+- [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
+- [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [shangerxin/config-ini](https://github.com/shangerxin/config-ini) - JavaScript Configuration file(.ini) content parser, similar to python ConfigParser without I/O operations
 - [sinonjs/fake-timers](https://github.com/sinonjs/fake-timers) - Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests. Extracted from Sinon.JS
 - [necojackarc/extensible-custom-error](https://github.com/necojackarc/extensible-custom-error) - JavaScript extensible custom error that can take a message and/or an Error object
@@ -865,7 +867,6 @@
 - [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) - A Cargo package template for AtCoder competitions / AtCoder競技向けのCargoパッケージテンプレート
 - [saojs/awesome-sao](https://github.com/saojs/awesome-sao) - A curated list of delightful SAO resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Stack Overflow の機械翻訳サイトの除外用フィルタ
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
 - [su8ru/su8ru](https://github.com/su8ru/su8ru) - 
@@ -991,7 +992,7 @@
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) - File manager for Neovim. Better than NERDTree.
-- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
+- [Julian/jsonschema](https://github.com/Julian/jsonschema) - An implementation of the JSON Schema specification for Python
 - [willmcgugan/rich](https://github.com/willmcgugan/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [tomv564/pyls-mypy](https://github.com/tomv564/pyls-mypy) - Mypy plugin for the Python Language Server
 - [django-extensions/django-extensions](https://github.com/django-extensions/django-extensions) - This is a repository for collecting global custom management extensions for the Django Framework.
@@ -1017,6 +1018,7 @@
 ## Ruby 
 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
+- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Stack Overflow の機械翻訳サイトの除外用フィルタ
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [jakshi/devops-interview-questions](https://github.com/jakshi/devops-interview-questions) - Repository with DevOps interview questions.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1231,6 +1233,8 @@
 
 ## TypeScript 
 
+- [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
+- [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
 - [BuilderIO/partytown](https://github.com/BuilderIO/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [udibo/mock](https://github.com/udibo/mock) - Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.
@@ -1550,6 +1554,7 @@
 
 ## Vim script 
 
+- [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
 - [hashue/config](https://github.com/hashue/config) - 
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
@@ -1691,7 +1696,6 @@
 
 ## VimL 
 
-- [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [vim-scripts/MultipleSearch](https://github.com/vim-scripts/MultipleSearch) - Highlight multiple searches at the same time, each with a different color.
 - [cwood/vim-django](https://github.com/cwood/vim-django) - vim-django run commands, create apps, and beyond
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
