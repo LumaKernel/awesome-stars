@@ -407,6 +407,7 @@
 
 ## JavaScript 
 
+- [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
 - [shangerxin/config-ini](https://github.com/shangerxin/config-ini) - JavaScript Configuration file(.ini) content parser, similar to python ConfigParser without I/O operations
