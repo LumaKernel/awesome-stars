@@ -196,6 +196,8 @@
 
 ## Go 
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [aequasi/terraform-provider-discord](https://github.com/aequasi/terraform-provider-discord) - Discord Provider for Terraform
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
@@ -838,6 +840,7 @@
 
 ## Others 
 
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers) - 
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
@@ -1064,7 +1067,6 @@
 - [google-apis-rs/google-cloud-rs](https://github.com/google-apis-rs/google-cloud-rs) - Asynchronous Rust bindings for Google Cloud Platform APIs.
 - [Michael-F-Bryan/plugins_in_rust](https://github.com/Michael-F-Bryan/plugins_in_rust) - Implementing plugins with dynamically loaded libraries and Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [silvanshade/lspower](https://github.com/silvanshade/lspower) - Tower-based Rust crate for the Language Server Protocol
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) - ac-library-rs is a rust port of AtCoder Library (ACL).
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - V8 javascript bindings for Rust
@@ -1234,6 +1236,7 @@
 
 ## TypeScript 
 
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
