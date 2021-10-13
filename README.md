@@ -196,6 +196,7 @@
 
 ## Go 
 
+- [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [aequasi/terraform-provider-discord](https://github.com/aequasi/terraform-provider-discord) - Discord Provider for Terraform
@@ -840,6 +841,8 @@
 
 ## Others 
 
+- [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
+- [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
 - [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers) - 
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
@@ -923,6 +926,7 @@
 
 ## Python 
 
+- [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [ms-jpq/vim.bench](https://github.com/ms-jpq/vim.bench) - Reproducible nvim completion framework benchmarks.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - 
@@ -1236,6 +1240,7 @@
 
 ## TypeScript 
 
+- [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
 - [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
@@ -1505,7 +1510,7 @@
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [frouriojs/velona](https://github.com/frouriojs/velona) - TypeScript DI helper for functional programming
-- [NodeRedis/node-redis](https://github.com/NodeRedis/node-redis) - A high performance Node.js Redis client.
+- [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
@@ -1558,6 +1563,7 @@
 
 ## Vim script 
 
+- [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
 - [hashue/config](https://github.com/hashue/config) - 
