@@ -196,6 +196,8 @@
 
 ## Go 
 
+- [mdempsky/maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - High-performance load testing tool, written in Golang.
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -341,7 +343,7 @@
 - [mattn/fakemovie](https://github.com/mattn/fakemovie) - 
 - [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
-- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript bundler and minifier
+- [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [mattn/goemon](https://github.com/mattn/goemon) - 五右衛門
@@ -410,6 +412,8 @@
 
 ## JavaScript 
 
+- [promise-queue/promise-queue](https://github.com/promise-queue/promise-queue) - Promise-based queue
+- [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
 - [antfu/vite-node](https://github.com/antfu/vite-node) - Vite as Node.js runtime
