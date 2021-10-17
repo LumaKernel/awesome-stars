@@ -139,7 +139,7 @@
 - [mame/ioccc-ja-spoilers](https://github.com/mame/ioccc-ja-spoilers) - IOCCC日本語ネタバレ解説のソースコード
 - [microsoft/cppwin32](https://github.com/microsoft/cppwin32) - A modern C++ projection for the Win32 SDK
 - [mvo5/synaptic](https://github.com/mvo5/synaptic) - The synaptic package manager
-- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - Vim Key Binder for Windows. You can operate Windows with key bindings like Vim.
+- [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
 - [GoogleCloudPlatform/guest-oslogin](https://github.com/GoogleCloudPlatform/guest-oslogin) - OS Login Guest Environment for Google Compute Engine
 - [WerWolv/ImHex](https://github.com/WerWolv/ImHex) - A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
 - [elhayra/tcp_server_client](https://github.com/elhayra/tcp_server_client) - A thin and simple C++ TCP client server
@@ -816,7 +816,7 @@
 
 ## Makefile 
 
-- [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 🐜 Denops documentation
+- [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 📖  Denops documentation
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - Denoの最新情報を発信します🦕
 
@@ -1325,7 +1325,7 @@
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
 - [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
 - [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
-- [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 🐜  Standard module for denops.vim
+- [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 📚 Standard module for denops.vim
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
