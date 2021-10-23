@@ -163,7 +163,7 @@
 
 ## CSS 
 
-- [blueedgetechno/windows11](https://github.com/blueedgetechno/windows11) - windows 11 in React 💻🌈⚡
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Win 11 in React 💻🌈⚡
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [timonweb/django-bulma](https://github.com/timonweb/django-bulma) - Bulma theme for Django
@@ -178,6 +178,7 @@
 
 ## Dockerfile 
 
+- [aws/aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) - Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html
 - [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
@@ -413,6 +414,7 @@
 
 ## JavaScript 
 
+- [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 1 half-precision floating point for JavaScript
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [kt3k/deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm
@@ -840,6 +842,7 @@
 
 ## Nim 
 
+- [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).
 - [fox0430/moe](https://github.com/fox0430/moe) - A command line based editor inspired by vi/vim. Written in Nim.
 
 ## OCaml 
@@ -1251,6 +1254,7 @@
 
 ## TypeScript 
 
+- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero 3rd party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [denoland/dotland](https://github.com/denoland/dotland) - deno.land website
