@@ -118,6 +118,8 @@
 
 ## C++ 
 
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
+- [ugis70194/ugislib](https://github.com/ugis70194/ugislib) - 
 - [herumi/misc](https://github.com/herumi/misc) - 
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
@@ -441,7 +443,7 @@
 - [florianeckerstorfer/remark-a11y-emoji](https://github.com/florianeckerstorfer/remark-a11y-emoji) - Remark Plugin to make Emoji in Markdown accessible. Wraps Emoji in a &lt;span&gt;-Tag with role and aria-label attributes.
 - [shaunlebron/highlight-tree-sitter](https://github.com/shaunlebron/highlight-tree-sitter) - create syntax-highlighted code using tree-sitter
 - [remarkjs/remark-footnotes](https://github.com/remarkjs/remark-footnotes) - plugin to add support for pandoc footnotes
-- [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - plugin to autolink references to commits, issues, pull-requests, and users, like on GitHub
+- [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
 - [remarkjs/remark-breaks](https://github.com/remarkjs/remark-breaks) - plugin to add break support, without needing spaces
 - [laysent/remark-ruby](https://github.com/laysent/remark-ruby) - Custom syntax for remarkjs, adding ruby (furigana) to markdown.
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
@@ -594,7 +596,7 @@
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 - [srod/node-minify](https://github.com/srod/node-minify) - Light Node.js module that compress javascript, css and html files
 - [ModClean/modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
-- [remarkjs/remark-slug](https://github.com/remarkjs/remark-slug) - plugin to add anchors to headings using GitHub’s algorithm
+- [remarkjs/remark-slug](https://github.com/remarkjs/remark-slug) - Legacy plugin to add `id`s to headings — please use `rehype-slug`
 - [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static file as fast as possible
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
@@ -852,6 +854,7 @@
 
 ## Others 
 
+- [nvim-telescope/telescope-rs.nvim](https://github.com/nvim-telescope/telescope-rs.nvim) - Experimental features for telescope in RUST? The safest telescope known to HUMANITY
 - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
@@ -1254,7 +1257,7 @@
 
 ## TypeScript 
 
-- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A REST microframework for Deno's HTTP server with zero 3rd party dependencies
+- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [denoland/dotland](https://github.com/denoland/dotland) - deno.land website
