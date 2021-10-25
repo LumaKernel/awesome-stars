@@ -356,6 +356,7 @@
 
 ## HCL 
 
+- [azavea/terraform-aws-acm-certificate](https://github.com/azavea/terraform-aws-acm-certificate) - A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation.
 - [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
 - [google-github-actions/test-infra](https://github.com/google-github-actions/test-infra) - Test infrastructure for Google Github Actions.
 - [tmknom/terraform-aws-s3-lb-log](https://github.com/tmknom/terraform-aws-s3-lb-log) - Terraform module which creates S3 Bucket resources for Load Balancer Access Logs on AWS.
@@ -936,7 +937,7 @@
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The next-generation default bucket for Scoop.
 - [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [lukesampson/scoop-extras](https://github.com/lukesampson/scoop-extras) - "Extras" bucket for Scoop
+- [ScoopInstaller/scoop-extras](https://github.com/ScoopInstaller/scoop-extras) - "Extras" bucket for Scoop
 
 ## Python 
 
@@ -1050,6 +1051,7 @@
 
 ## Rust 
 
+- [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
 - [rust-lang-nursery/lazy-static.rs](https://github.com/rust-lang-nursery/lazy-static.rs) - A small macro for defining lazy evaluated static variables in Rust.
@@ -1257,7 +1259,8 @@
 
 ## TypeScript 
 
-- [drashland/deno-drash](https://github.com/drashland/deno-drash) - A microframework for Deno's HTTP server with zero third-party dependencies
+- [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
+- [drashland/drash](https://github.com/drashland/drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
 - [denoland/dotland](https://github.com/denoland/dotland) - deno.land website
