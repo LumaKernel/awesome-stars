@@ -419,6 +419,7 @@
 
 ## JavaScript 
 
+- [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -861,6 +862,7 @@
 
 ## Others 
 
+- [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
 - [nvim-telescope/telescope-rs.nvim](https://github.com/nvim-telescope/telescope-rs.nvim) - Experimental features for telescope in RUST? The safest telescope known to HUMANITY
 - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -940,10 +942,10 @@
 - [geektheripper/my-scoop](https://github.com/geektheripper/my-scoop) - my windows packages
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository
 - [actions/virtual-environments](https://github.com/actions/virtual-environments) - GitHub Actions virtual environments
-- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The next-generation default bucket for Scoop.
+- [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - The default bucket for Scoop.
 - [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - "Extras" bucket for Scoop
+- [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - The Extras bucket for Scoop.
 
 ## Python 
 
@@ -1087,7 +1089,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [tanakh/wsl-get](https://github.com/tanakh/wsl-get) - 
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - An async python web server written in rust
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A fast async python web server with a rust runtime
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -1266,6 +1268,7 @@
 
 ## TypeScript 
 
+- [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [hashicorp/cdktf-provider-null](https://github.com/hashicorp/cdktf-provider-null) - Prebuilt Terraform CDK (cdktf) provider for null.
 - [primer/react](https://github.com/primer/react) - A React implementation of GitHub's Primer Design System
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
@@ -1599,6 +1602,7 @@
 
 ## Vim script 
 
+- [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 - [bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
