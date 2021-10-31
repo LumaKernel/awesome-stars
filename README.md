@@ -166,7 +166,7 @@
 
 ## CSS 
 
-- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Win 11 in React 💻🌈⚡
+- [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [timonweb/django-bulma](https://github.com/timonweb/django-bulma) - Bulma theme for Django
@@ -423,6 +423,8 @@
 
 ## JavaScript 
 
+- [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) - Safe, deterministic and fast serialization alternative to JSON.stringify.
+- [winstonjs/logform](https://github.com/winstonjs/logform) - An mutable object format designed for chaining & objectMode streams
 - [swc-project/swc-loader](https://github.com/swc-project/swc-loader) - Webpack plugin for swc
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
@@ -455,7 +457,7 @@
 - [atabel/eslint-plugin-tape](https://github.com/atabel/eslint-plugin-tape) - ESLint rules for tape
 - [florianeckerstorfer/remark-a11y-emoji](https://github.com/florianeckerstorfer/remark-a11y-emoji) - Remark Plugin to make Emoji in Markdown accessible. Wraps Emoji in a &lt;span&gt;-Tag with role and aria-label attributes.
 - [shaunlebron/highlight-tree-sitter](https://github.com/shaunlebron/highlight-tree-sitter) - create syntax-highlighted code using tree-sitter
-- [remarkjs/remark-footnotes](https://github.com/remarkjs/remark-footnotes) - plugin to add support for pandoc footnotes
+- [remarkjs/remark-footnotes](https://github.com/remarkjs/remark-footnotes) - Legacy plugin to add support for pandoc footnotes
 - [remarkjs/remark-github](https://github.com/remarkjs/remark-github) - remark plugin to link references to commits, issues, pull-requests, and users, like on GitHub
 - [remarkjs/remark-breaks](https://github.com/remarkjs/remark-breaks) - plugin to add break support, without needing spaces
 - [laysent/remark-ruby](https://github.com/laysent/remark-ruby) - Custom syntax for remarkjs, adding ruby (furigana) to markdown.
@@ -1274,6 +1276,7 @@
 
 ## TypeScript 
 
+- [Shougo/ddc-line](https://github.com/Shougo/ddc-line) - Line completion for ddc.vim
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - ⚡️ Speed up your Webpack build with esbuild
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
