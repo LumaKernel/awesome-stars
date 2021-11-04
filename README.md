@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
 - [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
 - [knative-sandbox/eventing-rabbitmq](https://github.com/knative-sandbox/eventing-rabbitmq) - RabbitMQ eventing components. Knative Source and Broker.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -482,7 +483,6 @@
 - [WolframResearch/wolfram-notebook-embedder](https://github.com/WolframResearch/wolfram-notebook-embedder) - JavaScript embedder for Wolfram Cloud notebooks
 - [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
-- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [UniverseDevel/Netflex](https://github.com/UniverseDevel/Netflex) - Single package of features that makes using of Netflix more enjoyable.
 - [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5 component for Svelte
@@ -516,7 +516,7 @@
 - [beginner-corp/begin-data](https://github.com/beginner-corp/begin-data) - A durable and fast key/value store for Begin built on top of DynamoDB
 - [architect/arc.codes](https://github.com/architect/arc.codes) - The Architect web site! 🌩
 - [roxiness/routify](https://github.com/roxiness/routify) - Automated Svelte routes
-- [UnitedIncome/serverless-python-requirements](https://github.com/UnitedIncome/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
+- [serverless/serverless-python-requirements](https://github.com/serverless/serverless-python-requirements) - ⚡️🐍📦 Serverless plugin to bundle Python packages
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
@@ -1276,6 +1276,7 @@
 
 ## TypeScript 
 
+- [mizchi/mints](https://github.com/mizchi/mints) - 
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [Shougo/ddc-line](https://github.com/Shougo/ddc-line) - Line completion for ddc.vim
@@ -1348,6 +1349,7 @@
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
 - [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.0
+- [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [shun/ddc-vim-lsp](https://github.com/shun/ddc-vim-lsp) - vim-lsp source for ddc.vim
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
