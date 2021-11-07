@@ -38,6 +38,7 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Reason](#reason)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -370,6 +371,7 @@
 
 ## HTML 
 
+- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
 - [tc39/proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
 - [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
@@ -1056,6 +1058,10 @@
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
+## Roff 
+
+- [hashue/config](https://github.com/hashue/config) - 
+
 ## Ruby 
 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
@@ -1277,6 +1283,7 @@
 
 ## TypeScript 
 
+- [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
 - [mizchi/mints](https://github.com/mizchi/mints) - 
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
@@ -1626,7 +1633,6 @@
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
-- [hashue/config](https://github.com/hashue/config) - 
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
 - [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
