@@ -483,7 +483,7 @@
 - [micromark/micromark-extension-mdx](https://github.com/micromark/micromark-extension-mdx) - micromark extension to support MDX (agnostic to JavaScript)
 - [vfile/to-vfile](https://github.com/vfile/to-vfile) - utility to create a vfile from a filepath
 - [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [WolframResearch/wolfram-notebook-embedder](https://github.com/WolframResearch/wolfram-notebook-embedder) - JavaScript embedder for Wolfram Cloud notebooks
 - [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
