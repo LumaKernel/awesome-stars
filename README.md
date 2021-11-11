@@ -372,6 +372,7 @@
 
 ## HTML 
 
+- [aws-samples/opsworks-windows-demo-nodejs](https://github.com/aws-samples/opsworks-windows-demo-nodejs) - A sample Node.JS application for running on AWS OpsWorks
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
 - [tc39/proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
@@ -423,7 +424,6 @@
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [authlete/java-oauth-server](https://github.com/authlete/java-oauth-server) - Authorization Server Implementation  in Java supporting OAuth 2.0 & OpenID Connect
-- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
 
 ## JavaScript 
@@ -607,7 +607,7 @@
 - [vfile/vfile-reporter](https://github.com/vfile/vfile-reporter) - utility to create a report for a vfile
 - [Flet/github-slugger](https://github.com/Flet/github-slugger) - :octocat: Generate a slug just like GitHub does for markdown headings.
 - [syntax-tree/unist-util-select](https://github.com/syntax-tree/unist-util-select) - utility to select unist nodes with CSS-like selectors
-- [remarkjs/remark-toc](https://github.com/remarkjs/remark-toc) - plugin to generate a Table of Contents (TOC)
+- [remarkjs/remark-toc](https://github.com/remarkjs/remark-toc) - plugin to generate a table of contents (TOC)
 - [ModClean/modclean-patterns-default](https://github.com/ModClean/modclean-patterns-default) - Default patterns configuration for ModClean
 - [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 - [mishoo/UglifyJS](https://github.com/mishoo/UglifyJS) - JavaScript parser / mangler / compressor / beautifier toolkit
@@ -766,6 +766,7 @@
 - [JedWatson/classnames](https://github.com/JedWatson/classnames) - A simple javascript utility for conditionally joining classNames together
 - [felixrieseberg/macintosh.js](https://github.com/felixrieseberg/macintosh.js) - 🖥 A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.
 - [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+- [urbandroid-team/dont-kill-my-app](https://github.com/urbandroid-team/dont-kill-my-app) - Android vendors, don't kill my app!
 - [manikandanraji/youtubeclone-frontend](https://github.com/manikandanraji/youtubeclone-frontend) - Youtube Clone Frontend (React + Redux)
 - [agusmakmun/django-markdown-editor](https://github.com/agusmakmun/django-markdown-editor) - Awesome Django Markdown Editor, supported for Bootstrap & Semantic-UI
 - [kautukkundan/Awesome-Profile-README-templates](https://github.com/kautukkundan/Awesome-Profile-README-templates) - A collection of awesome readme templates to display on your profile
@@ -1076,6 +1077,7 @@
 
 ## Rust 
 
+- [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
 - [matklad/once_cell](https://github.com/matklad/once_cell) - Rust library for single assignment cells and lazy statics without macros
