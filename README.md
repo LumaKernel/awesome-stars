@@ -1168,7 +1168,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - Engine components of Prisma 2.
+- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - Engine components of Prisma 2+
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
 - [microsoft/onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [maekawatoshiki/sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
