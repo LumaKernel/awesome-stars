@@ -546,7 +546,7 @@
 - [BMSVieira/moovie.js](https://github.com/BMSVieira/moovie.js) - Movie focused HTML5 Player
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
-- [dannvix/NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - Multiple Subtitles and Enhanced Experiences for Netflix Web App
+- [dannvix/NflxMultiSubs](https://github.com/dannvix/NflxMultiSubs) - (Inactive) Multiple Subtitles and Enhanced Experiences for Netflix Web App
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [architect/sandbox](https://github.com/architect/sandbox) - Architect dev server: run full Architect projects locally & offline in a sandbox
 - [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.
@@ -962,6 +962,7 @@
 
 ## Python 
 
+- [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto 3.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
 - [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -1107,7 +1108,7 @@
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [rhaiscript/rhai](https://github.com/rhaiscript/rhai) - Rhai - An embedded scripting language for Rust.
 - [tanakh/wsl-get](https://github.com/tanakh/wsl-get) - 
-- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A fast async python web server with a rust runtime
+- [sansyrox/robyn](https://github.com/sansyrox/robyn) - A fast and extensible async python web server with a rust runtime
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
@@ -1286,6 +1287,7 @@
 
 ## TypeScript 
 
+- [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
 - [mizchi/mints](https://github.com/mizchi/mints) - 
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
