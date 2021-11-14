@@ -428,6 +428,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [winstonjs/logform](https://github.com/winstonjs/logform) - An mutable object format designed for chaining & objectMode streams
