@@ -202,6 +202,7 @@
 
 ## Go 
 
+- [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) - Official Terraform Cloud/Enterprise provider, maintained by HashiCorp. Provision Terraform Cloud or Terraform Enterprise - with Terraform!
 - [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
@@ -640,7 +641,7 @@
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [vfile/vfile](https://github.com/vfile/vfile) - Virtual file format for text processing used in @unifiedjs
-- [remarkjs/remark](https://github.com/remarkjs/remark) - Markdown processor powered by plugins part of the @unifiedjs collective
+- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [rehypejs/rehype](https://github.com/rehypejs/rehype) - HTML processor powered by plugins part of the @unifiedjs collective
 - [remarkjs/remark-rehype](https://github.com/remarkjs/remark-rehype) - plugin that turns markdown into HTML to support rehype
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
@@ -879,6 +880,7 @@
 
 ## Others 
 
+- [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
 - [nvim-telescope/telescope-rs.nvim](https://github.com/nvim-telescope/telescope-rs.nvim) - Experimental features for telescope in RUST? The safest telescope known to HUMANITY
 - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
@@ -1291,6 +1293,7 @@
 
 ## TypeScript 
 
+- [firebase/firebase-admin-node](https://github.com/firebase/firebase-admin-node) - Firebase Admin Node.js SDK
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
 - [mizchi/mints](https://github.com/mizchi/mints) - 
@@ -1582,7 +1585,7 @@
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
 - [frouriojs/velona](https://github.com/frouriojs/velona) - TypeScript DI helper for functional programming
-- [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
+- [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
