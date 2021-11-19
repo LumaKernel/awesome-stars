@@ -431,6 +431,7 @@
 
 ## JavaScript 
 
+- [jshttp/http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [firebase/firebaseui-web-react](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web
 - [kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore) - 🔍 node-ignore is the manager and filter for .gitignore rules, the one used by eslint, prettier and many others.
