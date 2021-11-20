@@ -431,6 +431,8 @@
 
 ## JavaScript 
 
+- [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) - Loads environment variables from .env.[development|test|production][.local] files for Node.js® projects.
+- [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [jshttp/http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors
 - [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [firebase/firebaseui-web-react](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web
@@ -1088,6 +1090,8 @@
 
 ## Rust 
 
+- [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
+- [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which runs Systemd as init process. You can run Ubuntu, Arch, and et.c with systemd in a minute. Distrod also has built-in auto-start feature on Windows startup and port forwarding abiltiy.
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
