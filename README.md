@@ -427,7 +427,7 @@
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
 - [authlete/java-oauth-server](https://github.com/authlete/java-oauth-server) - Authorization Server Implementation  in Java supporting OAuth 2.0 & OpenID Connect
-- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - A sandbox tower defense game
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense game
 
 ## JavaScript 
 
@@ -858,7 +858,7 @@
 
 - [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 📖  Denops documentation
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - Denoの最新情報を発信します🦕
+- [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 毎週Denoの最新情報を発信しています🦕
 
 ## Mathematica 
 
@@ -1559,7 +1559,7 @@
 - [oke-py/npm-audit-action](https://github.com/oke-py/npm-audit-action) - GitHub Action to run `npm audit`
 - [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An extension of eslint-config-standard, made for TypeScript.
 - [gajus/graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
-- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for forms validation (Web + React Native)
+- [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [prisma/prisma-client-js](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [lannex/react-password-strength-bar](https://github.com/lannex/react-password-strength-bar) - A React component that displays the password strength bar
 - [google/js-green-licenses](https://github.com/google/js-green-licenses) - JavaScript package.json License Checker
