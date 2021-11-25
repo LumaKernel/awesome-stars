@@ -431,6 +431,7 @@
 
 ## JavaScript 
 
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 - [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl) - yet another unzip library for node
 - [EvanOxfeld/node-unzip](https://github.com/EvanOxfeld/node-unzip) - node.js cross-platform unzip using streams
@@ -490,7 +491,6 @@
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [rehypejs/rehype-autolink-headings](https://github.com/rehypejs/rehype-autolink-headings) - plugin to add links to headings in HTML
 - [rehypejs/rehype-slug](https://github.com/rehypejs/rehype-slug) - plugin to add `id` attributes to headings
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
 - [rhysd/remark-emoji](https://github.com/rhysd/remark-emoji) - Remark markdown transformer to replace :emoji: in text
 - [syntax-tree/mdast-util-mdx](https://github.com/syntax-tree/mdast-util-mdx) - mdast extension to parse and serialize MDX (or MDX.js)
@@ -1220,6 +1220,7 @@
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
