@@ -201,6 +201,7 @@
 
 ## Go 
 
+- [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
 - [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
@@ -1104,6 +1105,8 @@
 
 ## Rust 
 
+- [google/evcxr](https://github.com/google/evcxr) - 
+- [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
 - [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which runs Systemd as init process. You can run Ubuntu, Arch, and et.c with systemd in a minute. Distrod also has built-in auto-start feature on Windows startup and port forwarding abiltiy.
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
@@ -1317,6 +1320,11 @@
 
 ## TypeScript 
 
+- [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
+- [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
+- [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
+- [thenativeweb/roboter](https://github.com/thenativeweb/roboter) - roboter streamlines software development by automating tasks and enforcing conventions.
+- [unjs/unbuild](https://github.com/unjs/unbuild) - An unified javascript build system
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
@@ -1330,7 +1338,7 @@
 - [firebase/firebase-admin-node](https://github.com/firebase/firebase-admin-node) - Firebase Admin Node.js SDK
 - [secretlint/secretlint](https://github.com/secretlint/secretlint) - Pluggable linting tool to prevent committing credential.
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
-- [mizchi/mints](https://github.com/mizchi/mints) - 
+- [mizchi/mints](https://github.com/mizchi/mints) - lightweight typescript compiler
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [Shougo/ddc-line](https://github.com/Shougo/ddc-line) - Line completion for ddc.vim
