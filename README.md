@@ -6,7 +6,6 @@
 ## Contents
 
   - [Awk](#awk)
-  - [Batchfile](#batchfile)
   - [Brainfuck](#brainfuck)
   - [C](#c)
   - [C#](#c#)
@@ -61,10 +60,6 @@
 
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
-
-## Batchfile 
-
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Brainfuck 
 
@@ -207,7 +202,7 @@
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) - Official Terraform Cloud/Enterprise provider, maintained by HashiCorp. Provision Terraform Cloud or Terraform Enterprise - with Terraform!
-- [MangoDB-io/MangoDB](https://github.com/MangoDB-io/MangoDB) - A truly Open Source MongoDB alternative
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
 - [knative-sandbox/eventing-rabbitmq](https://github.com/knative-sandbox/eventing-rabbitmq) - RabbitMQ eventing components. Knative Source and Broker.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -753,7 +748,6 @@
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 - [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
 - [ciaranj/node-oauth](https://github.com/ciaranj/node-oauth) - OAuth wrapper for node.js
-- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [mulesoft-labs/js-client-oauth2](https://github.com/mulesoft-labs/js-client-oauth2) - A JavaScript implementation of an oauth2 client, for inclusion in the JavaScript client generator for APIs described with RAML.
 - [brannondorsey/host-validation](https://github.com/brannondorsey/host-validation) - Express.js middleware for "Host" and "Referer" header validation to protect against DNS rebinding attacks.
 - [auth0/node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) - JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html
@@ -1083,6 +1077,7 @@
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Reason 
 
@@ -1623,6 +1618,7 @@
 - [airbnb/visx](https://github.com/airbnb/visx) - 🐯 visx | visualization components
 - [hoangvvo/next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
