@@ -37,7 +37,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Reason](#reason)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Scala](#scala)
@@ -114,6 +113,7 @@
 
 ## C++ 
 
+- [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
 - [ugis70194/ugislib](https://github.com/ugis70194/ugislib) - 
@@ -433,6 +433,9 @@
 
 ## JavaScript 
 
+- [davidedantonio/pino-fluentd](https://github.com/davidedantonio/pino-fluentd) - :evergreen_tree: send pino logs to Fluentd
+- [fluent/fluent-logger-node](https://github.com/fluent/fluent-logger-node) - A structured logger for Fluentd (Node.js)
+- [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Open source Node.js Headless CMS to easily build customisable APIs
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML to JS/JSON and vise versa, or parse XML to Nimn rapidly without C/C++ based libraries and no callback
@@ -1085,10 +1088,6 @@
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
-## Roff 
-
-- [hashue/config](https://github.com/hashue/config) - 
-
 ## Ruby 
 
 - [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster.
@@ -1347,7 +1346,7 @@
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [hashicorp/cdktf-provider-null](https://github.com/hashicorp/cdktf-provider-null) - Prebuilt Terraform CDK (cdktf) provider for null.
-- [primer/react](https://github.com/primer/react) - A React implementation of GitHub's Primer Design System
+- [primer/react](https://github.com/primer/react) - React implementation of GitHub's Primer Design System
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
@@ -1689,6 +1688,7 @@
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
 - [lambdalisue/vim-protocol](https://github.com/lambdalisue/vim-protocol) - Enable remote access like ':e https://git.io/vgDtJ' without netrw.vim
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
+- [hashue/config](https://github.com/hashue/config) - 
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
 - [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
