@@ -296,7 +296,7 @@
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
 - [vultr/terraform-provider-vultr](https://github.com/vultr/terraform-provider-vultr) - Terraform Vultr provider
 - [k0sproject/k0sctl](https://github.com/k0sproject/k0sctl) - A bootstrapping and management tool for k0s clusters.
-- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - Zero Friction Kubernetes
+- [k0sproject/k0s](https://github.com/k0sproject/k0s) - k0s - The Zero Friction Kubernetes by Team Lens
 - [minio/minio-go](https://github.com/minio/minio-go) - MinIO Client SDK for Go
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [go-httpproxy/httpproxy](https://github.com/go-httpproxy/httpproxy) - Go HTTP proxy server library
@@ -901,6 +901,7 @@
 
 ## Others 
 
+- [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
@@ -1109,6 +1110,8 @@
 
 ## Rust 
 
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
+- [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
 - [google/evcxr](https://github.com/google/evcxr) - 
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
@@ -1264,6 +1267,7 @@
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yazgoo/unicodemoji](https://github.com/yazgoo/unicodemoji) - :hamster: unicode emojis in terminal and vim with fzf
+- [prisma/e2e-tests](https://github.com/prisma/e2e-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [himanoa/goshiteki](https://github.com/himanoa/goshiteki) - review tool
 - [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
@@ -1323,13 +1327,14 @@
 
 ## TypeScript 
 
+- [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
 - [neuledge/computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
 - [justjavac/docland](https://github.com/justjavac/docland) - The documentation generation website for Deno
 - [ReactiveX/IxJS](https://github.com/ReactiveX/IxJS) - The Interactive Extensions for JavaScript
 - [takefumi-yoshii/nextjs-typesafe-api-route](https://github.com/takefumi-yoshii/nextjs-typesafe-api-route) - 
 - [GoogleChrome/chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build any custom business software like admin panels, internal tools, and dashboards. Use 35+ pre-built UI widgets that connect to any database, GraphQL or REST API. Write all logic in Javascript.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
@@ -1357,7 +1362,7 @@
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [hashicorp/cdktf-provider-null](https://github.com/hashicorp/cdktf-provider-null) - Prebuilt Terraform CDK (cdktf) provider for null.
-- [primer/react](https://github.com/primer/react) - React implementation of GitHub's Primer Design System
+- [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
@@ -1593,7 +1598,6 @@
 - [josephluck/next-typescript-monorepo](https://github.com/josephluck/next-typescript-monorepo) - An example of a monorepo structure with Next.js, TypeScript and Babel
 - [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
 - [textlint/textlint](https://github.com/textlint/textlint) - The pluggable natural language linter for text and markdown.
-- [prisma/e2e-tests](https://github.com/prisma/e2e-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
 - [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types
 - [Sytten/nexus-shield](https://github.com/Sytten/nexus-shield) - 🛡 Nexus plugin to ease the creation of the authorization layer
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
@@ -1657,7 +1661,7 @@
 - [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 - [redux-zero/redux-zero](https://github.com/redux-zero/redux-zero) - A lightweight state container based on Redux
 - [nick-invision/private-action-loader](https://github.com/nick-invision/private-action-loader) - Allows private GitHub Actions to be easily reused
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The Kubernetes IDE
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
 - [yohamta/typescript-book-jp](https://github.com/yohamta/typescript-book-jp) - TypeScript Bookの日本語訳です。
