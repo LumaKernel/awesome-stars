@@ -113,6 +113,8 @@
 
 ## C++ 
 
+- [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
+- [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
 - [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second
@@ -647,7 +649,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rehypejs/rehype-raw](https://github.com/rehypejs/rehype-raw) - plugin to parse the tree again
 - [ampcpmgp/svelte-shield](https://github.com/ampcpmgp/svelte-shield) - 様々な日本語文章を、目線移動無くサクサク読めるようにしたツール。
-- [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [littlegiants/nuxt-canonical](https://github.com/littlegiants/nuxt-canonical) - Module for automatically generating canonical tags for all pages in your nuxt project.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [tkafka/node-elizabot](https://github.com/tkafka/node-elizabot) - 
@@ -659,7 +660,7 @@
 - [syntax-tree/hast-util-to-mdast](https://github.com/syntax-tree/hast-util-to-mdast) - utility to transform hast (HTML) to mdast (markdown)
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue Framework
+- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [vfile/vfile](https://github.com/vfile/vfile) - Virtual file format for text processing used in @unifiedjs
@@ -1327,6 +1328,8 @@
 
 ## TypeScript 
 
+- [kawarimidoll/deno-diplodocus](https://github.com/kawarimidoll/deno-diplodocus) - 🦕 Deno Deploy Docs 📓
+- [grpc/grpc-node](https://github.com/grpc/grpc-node) - gRPC for Node.js
 - [improbable-eng/grpc-web](https://github.com/improbable-eng/grpc-web) - gRPC Web implementation for Golang and TypeScript
 - [nanojsx/nano](https://github.com/nanojsx/nano) - 🎯 SSR first, lightweight 1kB JSX library.
 - [neuledge/computed-types](https://github.com/neuledge/computed-types) - 🦩 Joi like validations for TypeScript
@@ -1562,6 +1565,7 @@
 - [sveltejs/language-tools](https://github.com/sveltejs/language-tools) - The Svelte Language Server, and official extensions which use it
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
+- [netlify/netlify-plugin-nextjs](https://github.com/netlify/netlify-plugin-nextjs) - A build plugin to integrate Next.js seamlessly with Netlify
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
@@ -1696,6 +1700,7 @@
 
 ## Vim script 
 
+- [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
