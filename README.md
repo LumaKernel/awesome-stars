@@ -381,6 +381,7 @@
 
 ## HTML 
 
+- [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
 - [whatwg/streams](https://github.com/whatwg/streams) - Streams Standard
 - [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
@@ -426,6 +427,7 @@
 
 ## Java 
 
+- [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
@@ -724,7 +726,6 @@
 - [mysticatea/eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for directive comments of ESLint.
 - [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
-- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [skeggse/isemail](https://github.com/skeggse/isemail) - validate an email address according to RFCs 5321, 5322, and others
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1634,6 +1635,7 @@
 - [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An extension of eslint-config-standard, made for TypeScript.
 - [gajus/graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [prisma/prisma-client-js](https://github.com/prisma/prisma-client-js) - Type-safe database client for TypeScript & Node.js (ORM replacement)
 - [lannex/react-password-strength-bar](https://github.com/lannex/react-password-strength-bar) - A React component that displays the password strength bar
 - [google/js-green-licenses](https://github.com/google/js-green-licenses) - JavaScript package.json License Checker
