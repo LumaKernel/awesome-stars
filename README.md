@@ -429,7 +429,6 @@
 ## Java 
 
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
-- [tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce) - Apache Log4j 远程代码执行
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
 - [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -1526,7 +1525,7 @@
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 - [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [johnsoncodehk/volar](https://github.com/johnsoncodehk/volar) - ⚡ Explore high-performance tooling for Vue
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
