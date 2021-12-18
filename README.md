@@ -1409,7 +1409,7 @@
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [tani/ddc-path](https://github.com/tani/ddc-path) - Path completion for ddc.vim. This source collects path names with GNU find or sharkdp/fd.
 - [umijs/umi](https://github.com/umijs/umi) - 🌋 Pluggable enterprise-level react application framework.
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Extensible Build Framework
+- [nrwl/nx](https://github.com/nrwl/nx) - Smart, Fast and Extensible Build System
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
@@ -1487,6 +1487,7 @@
 - [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
 - [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
 - [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 📚 Standard module for denops.vim
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
 - [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
@@ -1757,7 +1758,6 @@
 - [whatyouhide/vim-gotham](https://github.com/whatyouhide/vim-gotham) - Code never sleeps in Gotham City. 🌃
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
 - [luma-dev/dps-godoc](https://github.com/luma-dev/dps-godoc) - Handy Godoc Viewer in your favorite editors :octocat:
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [dikiaap/minimalist](https://github.com/dikiaap/minimalist) - A Material Color Scheme Darker for Vim.
 - [kyoz/purify](https://github.com/kyoz/purify) - :rainbow: Clean & vibrant color schemes for Vim, Terminals...
 - [yuki-yano/zero.vim](https://github.com/yuki-yano/zero.vim) - 
