@@ -447,6 +447,8 @@
 
 ## JavaScript 
 
+- [npm/rfcs](https://github.com/npm/rfcs) - Public change requests/proposals & ideation
+- [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [syntax-tree/unist-util-visit-parents](https://github.com/syntax-tree/unist-util-visit-parents) - utility to recursively walk over unist nodes, with ancestral information
 - [syntax-tree/unist-util-remove](https://github.com/syntax-tree/unist-util-remove) - utility to remove nodes from a tree
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
@@ -928,6 +930,7 @@
 
 ## Others 
 
+- [actions-ecosystem/recipes](https://github.com/actions-ecosystem/recipes) - 📝 Example recipes for Actions Ecosystem's GitHub Actions
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
@@ -1361,6 +1364,7 @@
 
 ## TypeScript 
 
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [fannheyward/coc-styled-components](https://github.com/fannheyward/coc-styled-components) - Styled component for coc.nvim as a tsserver plugin
 - [ikatyang/linguist-languages](https://github.com/ikatyang/linguist-languages) - Linguist languages.yml in JSON format
