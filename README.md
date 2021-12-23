@@ -41,6 +41,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
@@ -447,6 +448,8 @@
 
 ## JavaScript 
 
+- [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
+- [facebookarchive/rebound-js](https://github.com/facebookarchive/rebound-js) - Spring dynamics in JavaScript.
 - [npm/rfcs](https://github.com/npm/rfcs) - Public change requests/proposals & ideation
 - [github/fetch](https://github.com/github/fetch) - A window.fetch JavaScript polyfill.
 - [syntax-tree/unist-util-visit-parents](https://github.com/syntax-tree/unist-util-visit-parents) - utility to recursively walk over unist nodes, with ancestral information
@@ -930,6 +933,7 @@
 
 ## Others 
 
+- [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
 - [actions-ecosystem/recipes](https://github.com/actions-ecosystem/recipes) - 📝 Example recipes for Actions Ecosystem's GitHub Actions
 - [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) - A curated list of useful resources for gRPC
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
@@ -1262,6 +1266,10 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+
+## SCSS 
+
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Scala 
 
