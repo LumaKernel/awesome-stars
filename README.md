@@ -1157,7 +1157,7 @@
 - [google/evcxr](https://github.com/google/evcxr) - 
 - [postcss-rs/postcss-rs](https://github.com/postcss-rs/postcss-rs) - 🚀 Fast and 100% API compatible postcss replacer, built in Rust
 - [rust-lang/log](https://github.com/rust-lang/log) - Logging implementation for Rust
-- [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which runs Systemd as init process. You can run Ubuntu, Arch, and et.c with systemd in a minute. Distrod also has built-in auto-start feature on Windows startup and port forwarding abiltiy.
+- [nullpo-head/wsl-distrod](https://github.com/nullpo-head/wsl-distrod) - Distrod is a meta-distro for WSL 2 which installs Ubuntu, Arch, Debian, Gentoo, etc. with systemd in a minute for you. Distrod also has built-in auto-start feature on Windows startup and port forwarding ability.
 - [roogle-rs/roogle](https://github.com/roogle-rs/roogle) - A Rust API search engine
 - [nuta/nsh](https://github.com/nuta/nsh) - A command-line shell like fish, but POSIX compatible.
 - [rust-itertools/itertools](https://github.com/rust-itertools/itertools) - Extra iterator adaptors, iterator methods, free functions, and macros.
@@ -1742,7 +1742,7 @@
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## V 
 
