@@ -386,6 +386,7 @@
 
 ## HTML 
 
+- [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
 - [kyodaisuu/googology](https://github.com/kyodaisuu/googology) - 巨大数論
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
@@ -448,6 +449,9 @@
 
 ## JavaScript 
 
+- [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
+- [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding) - Jupyter meets Vim. Vimmer will fall in love.
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
 - [jlmakes/rematrix](https://github.com/jlmakes/rematrix) - Matrix transformations made easy.
 - [facebookarchive/rebound-js](https://github.com/facebookarchive/rebound-js) - Spring dynamics in JavaScript.
 - [npm/rfcs](https://github.com/npm/rfcs) - Public change requests/proposals & ideation
@@ -1025,6 +1029,12 @@
 
 ## Python 
 
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
+- [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
+- [sympy/sympy](https://github.com/sympy/sympy) - A computer algebra system written in pure Python
+- [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
+- [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -1269,6 +1279,7 @@
 
 ## SCSS 
 
+- [jupyter/jupyter.github.io](https://github.com/jupyter/jupyter.github.io) - Project Jupyter's home on the World Wide Web
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Scala 
@@ -1372,6 +1383,7 @@
 
 ## TypeScript 
 
+- [jupyterlab/jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
 - [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [fannheyward/coc-styled-components](https://github.com/fannheyward/coc-styled-components) - Styled component for coc.nvim as a tsserver plugin
