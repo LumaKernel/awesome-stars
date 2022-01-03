@@ -13,6 +13,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Common Lisp](#common-lisp)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [Elixir](#elixir)
@@ -25,6 +26,7 @@
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
   - [Jsonnet](#jsonnet)
+  - [Julia](#julia)
   - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -189,6 +191,10 @@
 ## CoffeeScript 
 
 - [uhyo/jinrou](https://github.com/uhyo/jinrou) - Are you a werewolf?
+
+## Common Lisp 
+
+- [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
 
 ## Dockerfile 
 
@@ -877,8 +883,14 @@
 
 - [grafana/tns](https://github.com/grafana/tns) - Observability Demo App
 
+## Julia 
+
+- [JuliaLang/IJulia.jl](https://github.com/JuliaLang/IJulia.jl) - Julia kernel for Jupyter
+
 ## Jupyter Notebook 
 
+- [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
+- [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
 - [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
@@ -954,6 +966,7 @@
 
 ## Others 
 
+- [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [inductor/kubernetes-the-hard-way](https://github.com/inductor/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [33kk/uso-archive](https://github.com/33kk/uso-archive) - Full mirror of UserStyles.org
 - [actions-ecosystem/recipes](https://github.com/actions-ecosystem/recipes) - 📝 Example recipes for Actions Ecosystem's GitHub Actions
