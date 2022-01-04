@@ -735,7 +735,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 33 plugins. 1026 rules.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 33 plugins. 1030 rules.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [zeroturnaround/sql-formatter](https://github.com/zeroturnaround/sql-formatter) - A whitespace formatter for different query languages
@@ -889,6 +889,7 @@
 
 ## Jupyter Notebook 
 
+- [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
 - [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
@@ -996,7 +997,7 @@
 - [caesar0301/awesome-pcaptools](https://github.com/caesar0301/awesome-pcaptools) - A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
 - [pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) - Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.
-- [prisma/studio](https://github.com/prisma/studio) - The easiest way to explore and manipulate your data in all of your Prisma projects.
+- [prisma/studio](https://github.com/prisma/studio) - 🎙️ The easiest way to explore and manipulate your data in all of your Prisma projects.
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
 - [BobNisco/adblocking-vpn](https://github.com/BobNisco/adblocking-vpn) - 🔒 Create your own VPN server that blocks malicious domains to enhance your security and privacy
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
@@ -1190,6 +1191,7 @@
 
 ## Rust 
 
+- [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [theHamsta/tree-sitter-cuda](https://github.com/theHamsta/tree-sitter-cuda) - 
@@ -1290,7 +1292,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) - The Rust package manager
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - Engine components of Prisma 2+
+- [prisma/prisma-engines](https://github.com/prisma/prisma-engines) - 🚂 Engine components of Prisma 2+
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) - 
 - [microsoft/onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [maekawatoshiki/sericum](https://github.com/maekawatoshiki/sericum) - (Toy) Compiler Infrastructure influenced by LLVM written in Rust
@@ -1727,7 +1729,7 @@
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [prisma/migrate](https://github.com/prisma/migrate) - Issues for Prisma Migrate are now tracked at prisma/prisma. This repo was used to track issues for Prisma Migrate Experimental and is now deprecated.
 - [pantharshit00/coc-prisma](https://github.com/pantharshit00/coc-prisma) - CoC extension that implements the Prisma language server
-- [prisma/language-tools](https://github.com/prisma/language-tools) - Prisma Language Tools for Prisma schema files. Mainly powers the Prisma VSCode extension.
+- [prisma/language-tools](https://github.com/prisma/language-tools) - 🌐 Prisma Language Tools for Prisma schema files. Mainly powers the Prisma VSCode extension.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [frouriojs/frourio.io](https://github.com/frouriojs/frourio.io) - 
 - [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
