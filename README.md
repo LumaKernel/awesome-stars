@@ -642,7 +642,7 @@
 - [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template) - Starter template for Sapper apps
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-- [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to seperate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
+- [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [micromark/micromark](https://github.com/micromark/micromark) - the smallest commonmark (optionally gfm) compliant markdown parser that exists; new basis for @unifiedjs (hundreds of projects w/ billions of downloads for dealing w/ content)
 - [remarkjs/remark-autolink-headings](https://github.com/remarkjs/remark-autolink-headings) - Legacy remark plugin to automatically add links to headings — please use `rehype-autolink-headings` instead
 - [micromark/micromark-extension-directive](https://github.com/micromark/micromark-extension-directive) - micromark extension to support generic directives (`:cite[smith04]`)
