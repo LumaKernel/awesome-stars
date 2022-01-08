@@ -222,7 +222,8 @@
 
 ## Go 
 
-- [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command with fzf-like UI to quickly search Wikipedia articles and open it in your browser
+- [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
+- [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [kloeckner-i/db-operator](https://github.com/kloeckner-i/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
@@ -1606,7 +1607,7 @@
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [christophgysin/aws-sdk-js-v3](https://github.com/christophgysin/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
-- [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Lint the browser compatibility of your code
+- [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
