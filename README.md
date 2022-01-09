@@ -470,6 +470,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [NodeRedis/node-redis-parser](https://github.com/NodeRedis/node-redis-parser) - A high performance Redis protocol (RESP) parser for JavaScript. Used by Node Redis & ioredis.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -1066,7 +1067,7 @@
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on CSV or TSV files
+- [harelba/q](https://github.com/harelba/q) - q - Run SQL directly on delimited files and multi-file sqlite databases
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [python-distro/distro](https://github.com/python-distro/distro) - A much more elaborate replacement for removed Python's `platform.linux_distribution()` method
 - [google/budou](https://github.com/google/budou) - Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
