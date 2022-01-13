@@ -381,7 +381,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [h2non/bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
-- [iawia002/annie](https://github.com/iawia002/annie) - 👾 Fast and simple video download library and CLI tool written in Go
+- [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
@@ -1419,6 +1419,7 @@
 
 ## TypeScript 
 
+- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [eliassjogreen/pioneer](https://github.com/eliassjogreen/pioneer) - ⚙️ A work in progress ECS game engine
 - [denoffi/deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
@@ -1751,7 +1752,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
-- [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+- [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [frouriojs/velona](https://github.com/frouriojs/velona) - TypeScript DI helper for functional programming
 - [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
