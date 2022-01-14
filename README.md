@@ -1185,7 +1185,7 @@
 
 - [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster.
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Stack Overflow の機械翻訳サイトの除外用フィルタ
+- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [jakshi/devops-interview-questions](https://github.com/jakshi/devops-interview-questions) - Repository with DevOps interview questions.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1228,7 +1228,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
-- [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [niuez/Niu](https://github.com/niuez/Niu) - Language for libraries used in competition programming
