@@ -50,7 +50,6 @@
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [Smarty](#smarty)
-  - [Starlark](#starlark)
   - [Svelte](#svelte)
   - [Swift](#swift)
   - [TeX](#tex)
@@ -122,6 +121,7 @@
 
 ## C++ 
 
+- [yosupo06/library-checker-problems](https://github.com/yosupo06/library-checker-problems) - The problem data (Test case generator, judge's solution, task, ...) of Library Checker
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
 - [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [tkestack/elastic-jupyter-operator](https://github.com/tkestack/elastic-jupyter-operator) - Cloud-native way to provide elastic Jupyter Notebooks on Kubernetes. Run remote kernels, natively.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
@@ -287,6 +288,7 @@
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [WireGuard/wireguard-go](https://github.com/WireGuard/wireguard-go) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go
 - [goccy/go-json](https://github.com/goccy/go-json) - Fast JSON encoder/decoder compatible with encoding/json for Go
+- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 - [fluent/fluent-logger-golang](https://github.com/fluent/fluent-logger-golang) - A structured logger for Fluentd (Golang)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics.
@@ -471,6 +473,8 @@
 
 ## JavaScript 
 
+- [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
+- [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
@@ -1362,7 +1366,7 @@
 - [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. 🍤
 - [Rasukarusan/fzf-chrome-active-tab](https://github.com/Rasukarusan/fzf-chrome-active-tab) - :penguin: Fuzzy search and activate Chrome tab via the terminal.
 - [jakejarvis/s3-sync-action](https://github.com/jakejarvis/s3-sync-action) - 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
-- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim(coc.nvim); Shell: zsh(zinit, powerlevel10k); Terminal: tmux, wezterm; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
+- [yutkat/dotfiles](https://github.com/yutkat/dotfiles) - The best and strongest dotfiles. Editor: Neovim; Shell: zsh(zinit, powerlevel10k); Terminal: tmux, wezterm; Desktop: i3-gaps/sway, rofi, dunst; OS: ArchLinux, (Ubuntu/Fedora/CentOS)
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yazgoo/unicodemoji](https://github.com/yazgoo/unicodemoji) - :hamster: unicode emojis in terminal and vim with fzf
@@ -1394,10 +1398,6 @@
 
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
-
-## Starlark 
-
-- [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## Svelte 
 
@@ -1446,7 +1446,7 @@
 - [ReactiveX/IxJS](https://github.com/ReactiveX/IxJS) - The Interactive Extensions for JavaScript
 - [takefumi-yoshii/nextjs-typesafe-api-route](https://github.com/takefumi-yoshii/nextjs-typesafe-api-route) - 
 - [GoogleChrome/chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API..
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
