@@ -223,6 +223,7 @@
 
 ## Go 
 
+- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [tkestack/elastic-jupyter-operator](https://github.com/tkestack/elastic-jupyter-operator) - Cloud-native way to provide elastic Jupyter Notebooks on Kubernetes. Run remote kernels, natively.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
@@ -474,6 +475,7 @@
 
 ## JavaScript 
 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
@@ -947,6 +949,7 @@
 ## Makefile 
 
 - [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 📖  Denops documentation
+- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 毎週Denoの最新情報を発信しています🦕
 
@@ -1347,7 +1350,6 @@
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [luca3m/app-examples](https://github.com/luca3m/app-examples) - A bunch of app examples to easily run, for example statsd client, redis, mongodb etc
 - [pirate/wireguard-docs](https://github.com/pirate/wireguard-docs) - 📖 Unofficial WireGuard Documentation: Setup, Usage, Configuration, and full example setups for VPNs supporting both servers & roaming clients.
 - [radial/core-busyboxplus](https://github.com/radial/core-busyboxplus) - Full-chain/Internet enabled busybox images from scratch using Buildroot for flexible but light Docker volume containers. Comes in multiple flavors.
