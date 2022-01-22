@@ -241,7 +241,7 @@
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-tfe](https://github.com/hashicorp/terraform-provider-tfe) - Official Terraform Cloud/Enterprise provider, maintained by HashiCorp. Provision Terraform Cloud or Terraform Enterprise - with Terraform!
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-- [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul on Kubernetes, integrate Connect, sync services, and more.
+- [hashicorp/consul-k8s](https://github.com/hashicorp/consul-k8s) - First-class support for Consul and Kubernetes. Run Consul Service Mesh on Kubernetes, Sync services, and more.
 - [knative-sandbox/eventing-rabbitmq](https://github.com/knative-sandbox/eventing-rabbitmq) - RabbitMQ eventing components. Knative Source and Broker.
 - [minio/minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! Datree is a CLI tool to ensure K8s manifests and Helm charts follow best practices as well as your organization’s policies. See our docs: https://hub.datree.io
