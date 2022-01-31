@@ -984,6 +984,7 @@
 
 ## Others 
 
+- [puzzlet/awesome-wordle](https://github.com/puzzlet/awesome-wordle) - Wordle and Wordle-like games
 - [requestly/requestly](https://github.com/requestly/requestly) - A repository for logging feature enhancements, questions and other issues
 - [markusschanta/awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 - [inductor/kubernetes-the-hard-way](https://github.com/inductor/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts.
@@ -1211,6 +1212,7 @@
 
 ## Rust 
 
+- [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
 - [mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap) - visualize your code with overview like Visual Studio's minimap (under development)
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
@@ -1436,6 +1438,7 @@
 
 ## TypeScript 
 
+- [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [onebay/vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - A vite plugin for import library component style automatic.
@@ -1639,7 +1642,7 @@
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built with 💜 by Heroku.
+- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
@@ -1761,7 +1764,7 @@
 - [pantharshit00/coc-prisma](https://github.com/pantharshit00/coc-prisma) - CoC extension that implements the Prisma language server
 - [prisma/language-tools](https://github.com/prisma/language-tools) - 🌐 Prisma Language Tools for Prisma schema files. Mainly powers the Prisma VSCode extension.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
-- [frouriojs/frourio.io](https://github.com/frouriojs/frourio.io) - 
+- [frouriojs/frourio.com](https://github.com/frouriojs/frourio.com) - 
 - [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
 - [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer) - Fastify plugin for handling multipart/form-data
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite & MongoDB (Preview)
@@ -1832,6 +1835,7 @@
 
 ## Vim script 
 
+- [skanehira/jumpcursor.vim](https://github.com/skanehira/jumpcursor.vim) - Move cursor anywhere
 - [mopp/vim-operator-convert-case](https://github.com/mopp/vim-operator-convert-case) - a Vim plugin to provide some operators to convert a word case.
 - [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
