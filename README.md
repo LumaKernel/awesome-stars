@@ -112,6 +112,7 @@
 
 ## C# # 
 
+- [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [microsoft/reverse-proxy](https://github.com/microsoft/reverse-proxy) - A toolkit for developing high-performance HTTP reverse proxy applications.
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -283,7 +284,7 @@
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [zoetrope/etcd-book](https://github.com/zoetrope/etcd-book) - 
 - [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) - 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [luma-planet/terraform-provider-sshclient](https://github.com/luma-planet/terraform-provider-sshclient) - 
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -353,6 +354,7 @@
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
+- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
 - [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
@@ -1202,7 +1204,6 @@
 
 - [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster.
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
-- [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [fluent/fluentd](https://github.com/fluent/fluentd) - Fluentd: Unified Logging Layer (project under CNCF)
 - [jakshi/devops-interview-questions](https://github.com/jakshi/devops-interview-questions) - Repository with DevOps interview questions.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1438,6 +1439,7 @@
 
 ## TypeScript 
 
+- [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
