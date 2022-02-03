@@ -485,7 +485,6 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
-- [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
@@ -1448,6 +1447,7 @@
 - [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - A mock plugin for vite.use mockjs.
 - [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
+- [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [eliassjogreen/pioneer](https://github.com/eliassjogreen/pioneer) - ⚙️ A work in progress ECS game engine
 - [denoffi/deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
