@@ -479,6 +479,7 @@
 
 ## JavaScript 
 
+- [nuxt/eslint-plugin-nuxt](https://github.com/nuxt/eslint-plugin-nuxt) - ESLint plugin for Nuxt.js [WIP]
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.
@@ -1440,6 +1441,7 @@
 
 ## TypeScript 
 
+- [dqn/bigbrain](https://github.com/dqn/bigbrain) - High-level programming language that can be compiled to Brainfuck
 - [awslabs/aws-jwt-verify](https://github.com/awslabs/aws-jwt-verify) - NodeJS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
