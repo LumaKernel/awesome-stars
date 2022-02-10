@@ -480,6 +480,7 @@
 
 ## JavaScript 
 
+- [mmatera/iwolfram](https://github.com/mmatera/iwolfram) - A jupyter kernel for Wolfram Mathematica
 - [nuxt/eslint-plugin-nuxt](https://github.com/nuxt/eslint-plugin-nuxt) - ESLint plugin for Nuxt.js [WIP]
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
@@ -908,6 +909,7 @@
 
 ## Jupyter Notebook 
 
+- [DougBurke/hvega](https://github.com/DougBurke/hvega) - Create Vega-Lite visualizations from Haskell.
 - [jamesdbrock/ihaskell-notebook](https://github.com/jamesdbrock/ihaskell-notebook) - IHaskell image for Jupyter Docker Stacks
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
 - [gibiansky/IHaskell](https://github.com/gibiansky/IHaskell) - A Haskell kernel for IPython.
@@ -924,6 +926,8 @@
 
 ## Lua 
 
+- [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
+- [pakozm/IPyLua](https://github.com/pakozm/IPyLua) - IPython Kernel for Lua
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - 
 - [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - Boo is a colorscheme for Neovim with handcrafted support for LSP, Treesitter.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
@@ -1086,6 +1090,7 @@
 
 ## Python 
 
+- [EugeneLoy/coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter kernel for Coq
 - [qxresearch/qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - 10+ Python Application 🦾 | 10- lines of code 👽
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
