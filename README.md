@@ -999,6 +999,7 @@
 
 ## Others 
 
+- [vim-jp/slack-icon](https://github.com/vim-jp/slack-icon) - Slack icon storage for vim-jp
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
 - [puzzlet/awesome-wordle](https://github.com/puzzlet/awesome-wordle) - Wordle and Wordle-like games
 - [requestly/requestly](https://github.com/requestly/requestly) - A repository for logging feature enhancements, questions and other issues
@@ -1230,6 +1231,7 @@
 
 ## Rust 
 
+- [rustwasm/twiggy](https://github.com/rustwasm/twiggy) - Twiggy🌱 is a code size profiler
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
@@ -2023,7 +2025,7 @@
 - [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
-- [su8ru/su8ru.github.io](https://github.com/su8ru/su8ru.github.io) - my portfolio
+- [su8ru/portfolio-2nd](https://github.com/su8ru/portfolio-2nd) - my portfolio
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [yuki-yano/imecoletter](https://github.com/yuki-yano/imecoletter) - 最高の画像を集めるためのTwitterクライアント
 
