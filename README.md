@@ -10,6 +10,7 @@
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
+  - [CMake](#cmake)
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
@@ -73,6 +74,7 @@
 
 ## C 
 
+- [lathiat/avahi](https://github.com/lathiat/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [dralletje/tree-sitter-graphql](https://github.com/dralletje/tree-sitter-graphql) - Graphql grammar for tree-sitter
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -175,6 +177,10 @@
 - [rprichard/wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
+
+## CMake 
+
+- [WolframResearch/vscode-wolfram](https://github.com/WolframResearch/vscode-wolfram) - Official Visual Studio Code extension for Wolfram Language
 
 ## CSS 
 
@@ -456,6 +462,7 @@
 
 ## Haskell 
 
+- [JustusAdam/language-haskell](https://github.com/JustusAdam/language-haskell) - Highlighting support for the Haskell language in visual studio code.
 - [kmyk/Jikka](https://github.com/kmyk/Jikka) - an automated solver for problems of competitive programming
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
@@ -465,6 +472,7 @@
 
 ## Java 
 
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
 - [Cybereason/Logout4Shell](https://github.com/Cybereason/Logout4Shell) - Use Log4Shell vulnerability to vaccinate a victim server against Log4Shell
 - [blox/blox](https://github.com/blox/blox) - Open source tools for building custom schedulers on Amazon ECS
@@ -999,6 +1007,8 @@
 
 ## OCaml 
 
+- [ocaml/ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation
+- [jaredly/reason-language-server](https://github.com/jaredly/reason-language-server) - A language server for reason, in reason
 - [ocamllabs/vscode-ocaml-platform](https://github.com/ocamllabs/vscode-ocaml-platform) - Visual Studio Code extension for OCaml
 - [ocaml/ocaml](https://github.com/ocaml/ocaml) - The core OCaml system: compilers, runtime system, base libraries
 - [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
@@ -1469,6 +1479,7 @@
 
 ## TypeScript 
 
+- [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
 - [yusukebe/hono](https://github.com/yusukebe/hono) - [炎] Ultrafast web framework for Cloudflare Workers.
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
