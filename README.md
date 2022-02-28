@@ -490,6 +490,10 @@
 
 ## JavaScript 
 
+- [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
+- [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
+- [sindresorhus/ink-big-text](https://github.com/sindresorhus/ink-big-text) - Awesome text component for Ink
+- [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Automatically save the content in Textarea.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -1017,6 +1021,7 @@
 
 ## Others 
 
+- [mattn/vscode-lisp](https://github.com/mattn/vscode-lisp) - 
 - [vim-jp/slack-icon](https://github.com/vim-jp/slack-icon) - Slack icon storage for vim-jp
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
 - [puzzlet/awesome-wordle](https://github.com/puzzlet/awesome-wordle) - Wordle and Wordle-like games
@@ -1479,6 +1484,7 @@
 
 ## TypeScript 
 
+- [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
 - [yusukebe/hono](https://github.com/yusukebe/hono) - [炎] Ultrafast web framework for Cloudflare Workers.
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
