@@ -42,6 +42,7 @@
   - [Perl](#perl)
   - [PowerShell](#powershell)
   - [Python](#python)
+  - [R](#r)
   - [Reason](#reason)
   - [Roff](#roff)
   - [Ruby](#ruby)
@@ -210,6 +211,7 @@
 
 ## Dockerfile 
 
+- [opsxcq/docker-dnsmasq](https://github.com/opsxcq/docker-dnsmasq) - 
 - [aws/aws-codebuild-docker-images](https://github.com/aws/aws-codebuild-docker-images) - Official AWS CodeBuild repository for managed Docker images http://docs.aws.amazon.com/codebuild/latest/userguide/build-env-ref.html
 - [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
@@ -1028,6 +1030,7 @@
 
 ## Others 
 
+- [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [mattn/vscode-lisp](https://github.com/mattn/vscode-lisp) - 
 - [vim-jp/slack-icon](https://github.com/vim-jp/slack-icon) - Slack icon storage for vim-jp
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
@@ -1126,6 +1129,7 @@
 
 ## Python 
 
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute them.
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
@@ -1240,6 +1244,10 @@
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
+## R 
+
+- [mew-cx/chaitin_lisp](https://github.com/mew-cx/chaitin_lisp) - Code from Chaitin's "The Limits of Mathematics (in C)"
 
 ## Reason 
 
@@ -1403,6 +1411,7 @@
 
 ## Shell 
 
+- [ItsDanielHarris/Dnsmasq-Adblocker](https://github.com/ItsDanielHarris/Dnsmasq-Adblocker) - An automated dnsmasq tool with remote blacklists, whitelist, and TLD blacklist support.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
