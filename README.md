@@ -996,7 +996,7 @@
 - [vim-denops/denops-documentation](https://github.com/vim-denops/denops-documentation) - 📖  Denops documentation
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
-- [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 毎週Denoの最新情報を発信しています🦕
+- [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
 
 ## Mathematica 
 
