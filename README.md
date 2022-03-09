@@ -1501,6 +1501,7 @@
 
 ## TypeScript 
 
+- [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [Eximchain/ink-quicksearch-input](https://github.com/Eximchain/ink-quicksearch-input) - :black_nib: Quicksearch Input component for Ink
