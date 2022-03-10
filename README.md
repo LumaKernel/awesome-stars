@@ -1501,6 +1501,8 @@
 
 ## TypeScript 
 
+- [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
+- [changesets/bot](https://github.com/changesets/bot) - 
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1508,7 +1510,7 @@
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
-- [yusukebe/hono](https://github.com/yusukebe/hono) - [炎] Ultrafast web framework for Cloudflare Workers.
+- [yusukebe/hono](https://github.com/yusukebe/hono) - Hono[炎] - Ultrafast web framework for Cloudflare Workers.
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
