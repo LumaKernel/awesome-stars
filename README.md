@@ -493,6 +493,8 @@
 
 ## JavaScript 
 
+- [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
+- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) - ECMAScript proposal for type syntax that is erased - Stage 0
 - [timoxley/wcwidth](https://github.com/timoxley/wcwidth) - Port of C's wcwidth() and wcswidth()
 - [tecfu/smartwrap](https://github.com/tecfu/smartwrap) - Textwrap for javascript/nodejs. Correctly handles wide characters (宽字符) and emojis (😃). Automatically breaks long words. https://www.npmjs.com/package/smartwrap
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
@@ -1412,6 +1414,7 @@
 
 ## Shell 
 
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
 - [ItsDanielHarris/Dnsmasq-Adblocker](https://github.com/ItsDanielHarris/Dnsmasq-Adblocker) - An automated dnsmasq tool with remote blacklists, whitelist, and TLD blacklist support.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
