@@ -418,7 +418,7 @@
 ## HCL 
 
 - [azavea/terraform-aws-acm-certificate](https://github.com/azavea/terraform-aws-acm-certificate) - A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation.
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS 🇺🇦
 - [google-github-actions/test-infra](https://github.com/google-github-actions/test-infra) - Test infrastructure for Google Github Actions.
 - [tmknom/terraform-aws-s3-lb-log](https://github.com/tmknom/terraform-aws-s3-lb-log) - Terraform module which creates S3 Bucket resources for Load Balancer Access Logs on AWS.
 
@@ -569,7 +569,7 @@
 - [evanw/node-source-map-support](https://github.com/evanw/node-source-map-support) - Adds source map support to node.js (for stack traces)
 - [BridgeAR/safe-stable-stringify](https://github.com/BridgeAR/safe-stable-stringify) - Safe, deterministic and fast serialization alternative to JSON.stringify.
 - [winstonjs/logform](https://github.com/winstonjs/logform) - An mutable object format designed for chaining & objectMode streams
-- [swc-project/swc-loader](https://github.com/swc-project/swc-loader) - Webpack plugin for swc
+- [swc-project/swc-loader](https://github.com/swc-project/swc-loader) - Webpack loader for swc.
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent data. Supports browser & node.js environment.
@@ -644,6 +644,7 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
@@ -919,6 +920,7 @@
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [postcss/postcss-mixins](https://github.com/postcss/postcss-mixins) - PostCSS plugin for mixins
 - [hashanp/postcss-spiffing](https://github.com/hashanp/postcss-spiffing) - PostCSS plugin to use British English
+- [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [actions/create-release](https://github.com/actions/create-release) - An Action to create releases via the GitHub Release API
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [stowball/Viewport-Genie](https://github.com/stowball/Viewport-Genie) - Adds the real viewport width and height (in px and em) as an element on the body to help with obtaining values for responsive breakpoints
@@ -1313,7 +1315,6 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [niuez/Niu](https://github.com/niuez/Niu) - Language for libraries used in competition programming
@@ -1484,7 +1485,6 @@
 
 - [novacbn/kahi-ui](https://github.com/novacbn/kahi-ui) - Straight-forward Svelte UI for the Web
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
-- [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
@@ -1647,6 +1647,7 @@
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
 - [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.0
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -1907,7 +1908,6 @@
 - [vuetifyjs/vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
-- [wix/import-cost](https://github.com/wix/import-cost) - displays the import size of the package you are importing inside the code editor
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 
 ## V 
