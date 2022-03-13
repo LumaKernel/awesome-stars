@@ -75,6 +75,8 @@
 
 ## C 
 
+- [theHamsta/tree-sitter-commonlisp](https://github.com/theHamsta/tree-sitter-commonlisp) - 
+- [bostick/tree-sitter-wolfram](https://github.com/bostick/tree-sitter-wolfram) - Wolfram Language grammar for tree-sitter
 - [lathiat/avahi](https://github.com/lathiat/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [dralletje/tree-sitter-graphql](https://github.com/dralletje/tree-sitter-graphql) - Graphql grammar for tree-sitter
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
@@ -231,6 +233,7 @@
 
 ## Emacs Lisp 
 
+- [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
 
@@ -338,7 +341,7 @@
 - [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [dominikh/go-tools](https://github.com/dominikh/go-tools) - Staticcheck - The advanced Go linter
-- [spiegel-im-spiegel/gpgpdump](https://github.com/spiegel-im-spiegel/gpgpdump) - OpenPGP packet visualizer
+- [goark/gpgpdump](https://github.com/goark/gpgpdump) - OpenPGP packet visualizer
 - [hashicorp/terraform-provider-scaffolding](https://github.com/hashicorp/terraform-provider-scaffolding) - Quick start repository for creating a Terraform provider
 - [bramvdbogaerde/go-scp](https://github.com/bramvdbogaerde/go-scp) - Simple Golang scp client
 - [google/go-cmp](https://github.com/google/go-cmp) - Package for comparing Go values in tests
@@ -644,7 +647,6 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
@@ -962,6 +964,8 @@
 
 ## Lua 
 
+- [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
+- [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Also at https://sr.ht/~p00f/nvim-ts-rainbow
 - [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
 - [pakozm/IPyLua](https://github.com/pakozm/IPyLua) - IPython Kernel for Lua
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - 
@@ -1315,6 +1319,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
 - [kuretchi/papirs](https://github.com/kuretchi/papirs) - A simple whiteboard.
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [niuez/Niu](https://github.com/niuez/Niu) - Language for libraries used in competition programming
