@@ -1283,6 +1283,7 @@
 
 ## Rust 
 
+- [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [dtolnay/cxx](https://github.com/dtolnay/cxx) - Safe interop between Rust and C++
 - [rustls/rustls](https://github.com/rustls/rustls) - A modern TLS library in Rust
