@@ -430,6 +430,7 @@
 
 ## HTML 
 
+- [donavon/remix-etag](https://github.com/donavon/remix-etag) - 
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
 - [jupyter/jupyter.github.io](https://github.com/jupyter/jupyter.github.io) - Project Jupyter's home on the World Wide Web
@@ -1462,7 +1463,7 @@
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yazgoo/unicodemoji](https://github.com/yazgoo/unicodemoji) - :hamster: unicode emojis in terminal and vim with fzf
-- [prisma/e2e-tests](https://github.com/prisma/e2e-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
+- [prisma/ecosystem-tests](https://github.com/prisma/ecosystem-tests) - 🥼🧬🧪🔬🧫🦠 - Continuously tests Prisma Client with various operating systems, frameworks, platforms, databases and more.
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
 - [himanoa/goshiteki](https://github.com/himanoa/goshiteki) - review tool
 - [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
@@ -1518,6 +1519,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
 - [TeXmeijin/use-sender-aspida-hooks](https://github.com/TeXmeijin/use-sender-aspida-hooks) - 
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
