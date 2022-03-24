@@ -144,7 +144,7 @@
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
-- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for adding effects to audio.
+- [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for manipulating audio.
 - [geemion/Khepri](https://github.com/geemion/Khepri) - Free,Open-Source,Cross-platform agent and Post-exploiton tool written in Golang and C++.
 - [telegramdesktop/tdesktop](https://github.com/telegramdesktop/tdesktop) - Telegram Desktop messaging app
 - [VladKarpushin/out_of_focus_deblur](https://github.com/VladKarpushin/out_of_focus_deblur) - You will learn how to recover an out-of-focus image by Wiener filter
