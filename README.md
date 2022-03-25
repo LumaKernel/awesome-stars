@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
 - [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
@@ -407,6 +408,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
 - [docker/compose](https://github.com/docker/compose) - Define and run multi-container applications with Docker
 - [h2non/bimg](https://github.com/h2non/bimg) - Go package for fast high-level image processing powered by libvips C library
+- [p1ass/midare](https://github.com/p1ass/midare) - 🕒  ツイートを使って生活習慣の乱れを可視化するWebアプリ
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [rtCamp/action-slack-notify](https://github.com/rtCamp/action-slack-notify) - GitHub Action for sending a notification to a Slack channel
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
@@ -1890,7 +1892,6 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-- [p1ass/midare](https://github.com/p1ass/midare) - 🕒  ツイートを使って生活習慣の乱れを可視化するWebアプリ
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom is declarative state manager, designed for both simple and complex applications.
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
 - [rawrmaan/restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
