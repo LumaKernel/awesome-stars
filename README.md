@@ -1526,7 +1526,7 @@
 
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) - VS Code Jupyter extension
-- [TeXmeijin/use-sender-aspida-hooks](https://github.com/TeXmeijin/use-sender-aspida-hooks) - 
+- [TeXmeijin/use-aspida-caller](https://github.com/TeXmeijin/use-aspida-caller) - 
 - [Thinkmill/manypkg](https://github.com/Thinkmill/manypkg) - ☔️ An umbrella for your monorepo
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [changesets/bot](https://github.com/changesets/bot) - 
@@ -1993,7 +1993,7 @@
 - [lambdalisue/fern-ssh](https://github.com/lambdalisue/fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
-- [bluz71/vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) - Another dark color scheme for Vim
+- [bluz71/vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) - Another dark color scheme for Vim & Neovim
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [mattn/vim-markov](https://github.com/mattn/vim-markov) - 
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
