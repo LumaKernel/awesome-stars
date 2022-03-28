@@ -241,6 +241,7 @@
 
 ## Go 
 
+- [mdempsky/amigo](https://github.com/mdempsky/amigo) - 
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
@@ -502,6 +503,7 @@
 
 ## JavaScript 
 
+- [cnpm/bug-versions](https://github.com/cnpm/bug-versions) - collect all bug versions on npm package.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org) - :jp: Japanese translation for vuejs.org
 - [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
@@ -1289,6 +1291,7 @@
 
 ## Rust 
 
+- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: A Neovim autocompletion framework written in Rust
 - [qnighy/dont](https://github.com/qnighy/dont) - swiss army knife for everything you do not want to do
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
