@@ -128,6 +128,7 @@
 
 ## C++ 
 
+- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [yosupo06/library-checker-problems](https://github.com/yosupo06/library-checker-problems) - The problem data (Test case generator, judge's solution, task, ...) of Library Checker
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
@@ -508,7 +509,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org) - :jp: Japanese translation for vuejs.org
 - [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
-- [giltayar/proposal-types-as-comments](https://github.com/giltayar/proposal-types-as-comments) - ECMAScript proposal for type syntax that is erased - Stage 0
+- [giltayar/proposal-type-annotations](https://github.com/giltayar/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 0
 - [timoxley/wcwidth](https://github.com/timoxley/wcwidth) - Port of C's wcwidth() and wcswidth()
 - [tecfu/smartwrap](https://github.com/tecfu/smartwrap) - Textwrap for javascript/nodejs. Correctly handles wide characters (宽字符) and emojis (😃). Automatically breaks long words. https://www.npmjs.com/package/smartwrap
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
