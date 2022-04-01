@@ -257,7 +257,7 @@
 - [kloeckner-i/db-operator](https://github.com/kloeckner-i/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
-- [dlvhdr/gh-prs](https://github.com/dlvhdr/gh-prs) - gh cli extension to display a dashboard of PRs - configurable with a beautiful UI.
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - gh cli extension to display a dashboard of PRs and issues - configurable with a beautiful UI.
 - [google/cel-spec](https://github.com/google/cel-spec) - Common Expression Language -- specification and binary representation
 - [earthly/earthly](https://github.com/earthly/earthly) - Repeatable builds
 - [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) - Terraform Google Cloud Platform provider
@@ -509,7 +509,7 @@
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 - [vuejs/jp.vuejs.org](https://github.com/vuejs/jp.vuejs.org) - :jp: Japanese translation for vuejs.org
 - [puleos/object-hash](https://github.com/puleos/object-hash) - Generate hashes from javascript objects in node and the browser.
-- [giltayar/proposal-type-annotations](https://github.com/giltayar/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 0
+- [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 - [timoxley/wcwidth](https://github.com/timoxley/wcwidth) - Port of C's wcwidth() and wcswidth()
 - [tecfu/smartwrap](https://github.com/tecfu/smartwrap) - Textwrap for javascript/nodejs. Correctly handles wide characters (宽字符) and emojis (😃). Automatically breaks long words. https://www.npmjs.com/package/smartwrap
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
