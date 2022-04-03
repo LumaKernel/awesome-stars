@@ -458,7 +458,6 @@
 - [tc39/proposal-compartments](https://github.com/tc39/proposal-compartments) - Compartmentalization of host behavior hooks for JS
 - [tc39/proposal-ses](https://github.com/tc39/proposal-ses) - Draft proposal for SES (Secure EcmaScript)
 - [tc39/proposal-defer-import-eval](https://github.com/tc39/proposal-defer-import-eval) - A proposal for introducing a way to defer evaluate of a module
-- [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
 - [sendgrid/email-templates](https://github.com/sendgrid/email-templates) - A repository of common email templates to use and modify to your heart's content.
 - [nttcom/remote-work-handbook](https://github.com/nttcom/remote-work-handbook) - リモートワークハンドブックのソースコード
@@ -777,6 +776,7 @@
 - [littlegiants/nuxt-canonical](https://github.com/littlegiants/nuxt-canonical) - Module for automatically generating canonical tags for all pages in your nuxt project.
 - [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 - [tkafka/node-elizabot](https://github.com/tkafka/node-elizabot) - 
+- [remarkjs/remark-math](https://github.com/remarkjs/remark-math) - remark and rehype plugins to support math
 - [remarkjs/remark-lint](https://github.com/remarkjs/remark-lint) - plugins to check (lint) markdown code style
 - [rehypejs/rehype-sanitize](https://github.com/rehypejs/rehype-sanitize) - plugin to sanitize HTML
 - [syntax-tree/mdast-util-to-hast](https://github.com/syntax-tree/mdast-util-to-hast) - utility to transform mdast to hast
