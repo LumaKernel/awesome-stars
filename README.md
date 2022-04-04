@@ -867,7 +867,7 @@
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
 - [mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet) - Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.
 - [timoxley/offset](https://github.com/timoxley/offset) - Get offset of an element within the document
-- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, website analytics alternative to Google Analytics.
+- [mikecao/umami](https://github.com/mikecao/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics.
 - [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 - [expressjs/csurf](https://github.com/expressjs/csurf) - CSRF token middleware
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
@@ -959,6 +959,7 @@
 
 ## Jupyter Notebook 
 
+- [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
 - [DougBurke/hvega](https://github.com/DougBurke/hvega) - Create Vega-Lite visualizations from Haskell.
 - [jamesdbrock/ihaskell-notebook](https://github.com/jamesdbrock/ihaskell-notebook) - IHaskell image for Jupyter Docker Stacks
 - [IRkernel/IRkernel](https://github.com/IRkernel/IRkernel) - R kernel for Jupyter
@@ -1294,7 +1295,7 @@
 
 ## Rust 
 
-- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: A Neovim autocompletion framework written in Rust
+- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [qnighy/dont](https://github.com/qnighy/dont) - swiss army knife for everything you do not want to do
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
