@@ -23,6 +23,7 @@
   - [HCL](#hcl)
   - [HTML](#html)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [Java](#java)
   - [JavaScript](#javascript)
   - [Jinja](#jinja)
@@ -478,12 +479,16 @@
 ## Haskell 
 
 - [JustusAdam/language-haskell](https://github.com/JustusAdam/language-haskell) - Highlighting support for the Haskell language in visual studio code.
-- [kmyk/Jikka](https://github.com/kmyk/Jikka) - an automated solver for problems of competitive programming
+- [kmyk-jikka/Jikka](https://github.com/kmyk-jikka/Jikka) - an automated solver for problems of competitive programming
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [smallhadroncollider/taskell](https://github.com/smallhadroncollider/taskell) - Command-line Kanban board/task manager with support for Trello boards and GitHub projects
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [zaitsev85/message-from-space](https://github.com/zaitsev85/message-from-space) - 
+
+## Haxe 
+
+- [saharan/HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0
 
 ## Java 
 
@@ -1259,7 +1264,7 @@
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [kmyk/algorithm-encyclopedia](https://github.com/kmyk/algorithm-encyclopedia) - 
+- [cannorin/algorithm-encyclopedia](https://github.com/cannorin/algorithm-encyclopedia) - 
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
@@ -1297,6 +1302,7 @@
 
 ## Rust 
 
+- [yuk1ty/learning-systems-programming-in-rust](https://github.com/yuk1ty/learning-systems-programming-in-rust) - 「Rustでもわかるシステムプログラミング」
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [qnighy/dont](https://github.com/qnighy/dont) - swiss army knife for everything you do not want to do
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
@@ -1951,6 +1957,7 @@
 
 ## Vim script 
 
+- [Shougo/ddx.vim](https://github.com/Shougo/ddx.vim) - Dark deno-powered hexadecimal plugin for neovim/Vim8
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [skanehira/jumpcursor.vim](https://github.com/skanehira/jumpcursor.vim) - Move cursor anywhere
 - [mopp/vim-operator-convert-case](https://github.com/mopp/vim-operator-convert-case) - a Vim plugin to provide some operators to convert a word case.
