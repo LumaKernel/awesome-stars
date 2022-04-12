@@ -1264,7 +1264,7 @@
 - [spulec/freezegun](https://github.com/spulec/freezegun) - Let your Python tests travel through time
 - [google/yapf](https://github.com/google/yapf) - A formatter for Python files
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
-- [cannorin/algorithm-encyclopedia](https://github.com/cannorin/algorithm-encyclopedia) - 
+- [noshi91/algorithm-encyclopedia](https://github.com/noshi91/algorithm-encyclopedia) - 
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [online-judge-tools/oj](https://github.com/online-judge-tools/oj) - Tools for various online judges. Downloading sample cases, generating additional test cases, testing your code, and submitting it.
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
