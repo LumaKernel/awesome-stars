@@ -642,7 +642,7 @@
 - [syntax-tree/mdast-util-mdx](https://github.com/syntax-tree/mdast-util-mdx) - mdast extension to parse and serialize MDX (or MDX.js)
 - [micromark/micromark-extension-mdx](https://github.com/micromark/micromark-extension-mdx) - micromark extension to support MDX (agnostic to JavaScript)
 - [vfile/to-vfile](https://github.com/vfile/to-vfile) - utility to create a vfile from a filepath
-- [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
+- [jsx-eslint/eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) - React-specific linting rules for ESLint
 - [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [WolframResearch/wolfram-notebook-embedder](https://github.com/WolframResearch/wolfram-notebook-embedder) - JavaScript embedder for Wolfram Cloud notebooks
 - [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
@@ -986,6 +986,7 @@
 
 ## Lua 
 
+- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) - Smooth scrolling for ANY movement command 🤯. A Neovim plugin written in Lua.
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) - Rainbow parentheses for neovim using tree-sitter. Also at https://sr.ht/~p00f/nvim-ts-rainbow
 - [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
@@ -1362,7 +1363,7 @@
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [facebookincubator/fastmod](https://github.com/facebookincubator/fastmod) - A fast partial replacement for the codemod tool
 - [TaKO8Ki/awesome-alternatives-in-rust](https://github.com/TaKO8Ki/awesome-alternatives-in-rust) - A curated list of replacements for existing software written in Rust
-- [pyros2097/rust-embed](https://github.com/pyros2097/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
+- [pyrossh/rust-embed](https://github.com/pyrossh/rust-embed) - Rust Macro which loads files into the rust binary at compile time during release and loads the file from the fs during dev.
 - [google-apis-rs/google-cloud-rs](https://github.com/google-apis-rs/google-cloud-rs) - Asynchronous Rust bindings for Google Cloud Platform APIs.
 - [Michael-F-Bryan/plugins_in_rust](https://github.com/Michael-F-Bryan/plugins_in_rust) - Implementing plugins with dynamically loaded libraries and Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
