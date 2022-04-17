@@ -246,6 +246,7 @@
 
 ## Go 
 
+- [alecthomas/repr](https://github.com/alecthomas/repr) - Python's repr() for Go
 - [despiteallobjections/amigo](https://github.com/despiteallobjections/amigo) - 
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
