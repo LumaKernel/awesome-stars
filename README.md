@@ -1308,6 +1308,7 @@
 
 ## Rust 
 
+- [nanpuyue/tokio-fd](https://github.com/nanpuyue/tokio-fd) - Non-blocking Read and Write a Linux/Unix File Descriptor
 - [yuk1ty/learning-systems-programming-in-rust](https://github.com/yuk1ty/learning-systems-programming-in-rust) - 「Rustでもわかるシステムプログラミング」
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
 - [qnighy/dont](https://github.com/qnighy/dont) - swiss army knife for everything you do not want to do
@@ -1545,6 +1546,7 @@
 
 ## TypeScript 
 
+- [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [Shougo/ddx.vim](https://github.com/Shougo/ddx.vim) - Dark deno-powered hexadecimal plugin for neovim/Vim8
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
