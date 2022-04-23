@@ -512,6 +512,7 @@
 
 ## JavaScript 
 
+- [tree-sitter/tree-sitter-ocaml](https://github.com/tree-sitter/tree-sitter-ocaml) - OCaml grammar for tree-sitter
 - [simonepri/pidtree](https://github.com/simonepri/pidtree) - 🚸 Cross platform children list of a PID.
 - [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
@@ -1065,6 +1066,7 @@
 
 ## Others 
 
+- [WLTools/LanguageSpec](https://github.com/WLTools/LanguageSpec) - A description of the language syntax and associated data, examples, and nonexamples.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [mattn/vscode-lisp](https://github.com/mattn/vscode-lisp) - 
 - [vim-jp/slack-icon](https://github.com/vim-jp/slack-icon) - Slack icon storage for vim-jp
@@ -1546,6 +1548,7 @@
 
 ## TypeScript 
 
+- [wataru-chocola/remark-definition-list](https://github.com/wataru-chocola/remark-definition-list) - remark plugin to support definition list
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
 - [Shougo/ddx.vim](https://github.com/Shougo/ddx.vim) - Dark deno-powered hexadecimal plugin for neovim/Vim8
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
