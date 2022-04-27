@@ -533,7 +533,7 @@
 - [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/ink-big-text](https://github.com/sindresorhus/ink-big-text) - Awesome text component for Ink
 - [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
-- [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Automatically save the content in Textarea.
+- [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Browser Add-on: Automatically save the content in Textarea.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
 - [kentcdodds/kcd-scripts](https://github.com/kentcdodds/kcd-scripts) - CLI toolbox for common scripts for my projects
@@ -1389,7 +1389,7 @@
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [hatoo/Accepted](https://github.com/hatoo/Accepted) - A terminal text editor to be ACCEPTED
 - [hatoo/cargo-snippet](https://github.com/hatoo/cargo-snippet) - A snippet extrator for competitive programmers
-- [38/plotters](https://github.com/38/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+- [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [yuki-yano/fzf-preview-rust.zsh](https://github.com/yuki-yano/fzf-preview-rust.zsh) - 
@@ -1552,6 +1552,8 @@
 
 ## TypeScript 
 
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
+- [frouriojs/notios](https://github.com/frouriojs/notios) - 
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [wataru-chocola/remark-definition-list](https://github.com/wataru-chocola/remark-definition-list) - remark plugin to support definition list
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
@@ -1587,7 +1589,7 @@
 - [pd4d10/vite-plugin-svgr](https://github.com/pd4d10/vite-plugin-svgr) - Vite plugin to transform SVGs into React components
 - [vbenjs/vite-plugin-mock](https://github.com/vbenjs/vite-plugin-mock) - A mock plugin for vite.use mockjs.
 - [ychengcloud/react-vite-admin](https://github.com/ychengcloud/react-vite-admin) - This Starter utilizes React, Recoil, React Query, React Hooks, Typescript, Axios And Vite. 全新技术栈的后台管理系统
-- [makenotion/web](https://github.com/makenotion/web) - Official Notion JavaScript Client
+- [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [eliassjogreen/pioneer](https://github.com/eliassjogreen/pioneer) - ⚙️ A work in progress ECS game engine
 - [denoffi/deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
