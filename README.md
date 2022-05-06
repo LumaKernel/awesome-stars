@@ -1311,6 +1311,7 @@
 
 ## Rust 
 
+- [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [dherman/esprit](https://github.com/dherman/esprit) - A JavaScript parser written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nanpuyue/tokio-fd](https://github.com/nanpuyue/tokio-fd) - Non-blocking Read and Write a Linux/Unix File Descriptor
@@ -1550,6 +1551,8 @@
 
 ## TypeScript 
 
+- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
+- [n-air-app/n-air-app](https://github.com/n-air-app/n-air-app) - N Air (forked from streamlabs-obs)
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
 - [frouriojs/notios](https://github.com/frouriojs/notios) - 
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
@@ -1851,7 +1854,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [leonardssh/coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - 😎 An awesome and fully customizable coc-extension to get Discord Rich Presence integration with NeoVim.
-- [nuxt/content](https://github.com/nuxt/content) - Nuxt Content lets you write in a content/ directory and fetch your Markdown, JSON, YAML, XML and CSV files through a MongoDB like API, acting as a Git-based Headless CMS
+- [nuxt/content](https://github.com/nuxt/content) - Write pages in markdown, use Vue components and enjoy the power of Nuxt Content. The files-based Headless CMS for modern websites.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
 - [uhyo/eslint-plugin-var-length](https://github.com/uhyo/eslint-plugin-var-length) - 
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
