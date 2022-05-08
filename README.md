@@ -439,6 +439,7 @@
 
 ## HTML 
 
+- [uva-cs/pdr](https://github.com/uva-cs/pdr) - A repo for a Program and Data Representation university-level course
 - [donavon/remix-etag](https://github.com/donavon/remix-etag) - 
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
@@ -1065,6 +1066,7 @@
 
 ## Others 
 
+- [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned "Learn You a Haskell" (LYAH) tutorials collection!
 - [WLTools/LanguageSpec](https://github.com/WLTools/LanguageSpec) - A description of the language syntax and associated data, examples, and nonexamples.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [mattn/vscode-lisp](https://github.com/mattn/vscode-lisp) - 
@@ -1551,6 +1553,7 @@
 
 ## TypeScript 
 
+- [fb55/domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM
 - [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [n-air-app/n-air-app](https://github.com/n-air-app/n-air-app) - N Air (forked from streamlabs-obs)
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm scripts to make them smarter and more efficient.
