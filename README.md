@@ -1550,6 +1550,7 @@
 - [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
+- [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) - Generate TypeScript definitions for your Svelte components
@@ -1778,7 +1779,6 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
-- [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [coc-extensions/coc-svelte](https://github.com/coc-extensions/coc-svelte) - svelte support for (Neo)Vim
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
