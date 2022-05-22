@@ -525,7 +525,6 @@
 - [jeffbski/wait-on](https://github.com/jeffbski/wait-on) - wait-on is a cross-platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available
 - [tree-sitter/tree-sitter-ocaml](https://github.com/tree-sitter/tree-sitter-ocaml) - OCaml grammar for tree-sitter
 - [simonepri/pidtree](https://github.com/simonepri/pidtree) - 🚸 Cross platform children list of a PID.
-- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [iann0036/former2](https://github.com/iann0036/former2) - Generate CloudFormation / Terraform / Troposphere templates from your existing AWS resources.
 - [cnpm/bug-versions](https://github.com/cnpm/bug-versions) - collect all bug versions on npm package.
 - [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
@@ -1578,6 +1577,7 @@
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) - A doc comment standard for TypeScript
 - [wataru-chocola/remark-definition-list](https://github.com/wataru-chocola/remark-definition-list) - remark plugin to support definition list
 - [twitterdev/twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk) - A TypeScript SDK for the Twitter API
+- [facebook/lexical](https://github.com/facebook/lexical) - Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [Shougo/ddx.vim](https://github.com/Shougo/ddx.vim) - Dark deno-powered hexadecimal plugin for neovim/Vim8
 - [solidjs/solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [inversify/InversifyJS](https://github.com/inversify/InversifyJS) - A powerful and lightweight inversion of control container  for JavaScript & Node.js apps powered by TypeScript.
