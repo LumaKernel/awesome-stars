@@ -1874,7 +1874,7 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query) - ⚛️ Hooks for fetching, caching and updating asynchronous data in React
 - [leonardssh/coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - 😎 An awesome and fully customizable coc-extension to get Discord Rich Presence integration with NeoVim.
-- [nuxt/content](https://github.com/nuxt/content) - Write pages in markdown, use Vue components and enjoy the power of Nuxt Content. The file-based Headless CMS for modern websites.
+- [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
 - [uhyo/eslint-plugin-var-length](https://github.com/uhyo/eslint-plugin-var-length) - 
 - [uhyo/better-typescript-lib](https://github.com/uhyo/better-typescript-lib) - Better TypeScript standard library
