@@ -249,6 +249,7 @@
 
 ## Go 
 
+- [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [alecthomas/repr](https://github.com/alecthomas/repr) - Python's repr() for Go
 - [despiteallobjections/amigo](https://github.com/despiteallobjections/amigo) - 
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
@@ -1882,7 +1883,7 @@
 - [nhn/tui.editor](https://github.com/nhn/tui.editor) - 🍞📝 Markdown WYSIWYG Editor. GFM Standard + Chart & UML Extensible.
 - [aspida/pathpida](https://github.com/aspida/pathpida) - TypeScript friendly internal link client for Next.js, Nuxt.js and Sapper.
 - [typescript-eslint/typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) - :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS, React, Vue, Solid
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables & datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table
 - [iamcco/coc-diagnostic](https://github.com/iamcco/coc-diagnostic) - diagnostic-languageserver extension for coc.nvim
 - [josa42/coc-go](https://github.com/josa42/coc-go) - Go language server extension using gopls for coc.nvim.
 - [Qard/onchange](https://github.com/Qard/onchange) - Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.
