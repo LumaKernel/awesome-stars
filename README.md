@@ -146,7 +146,6 @@
 - [ugis70194/ugislib](https://github.com/ugis70194/ugislib) - 
 - [herumi/misc](https://github.com/herumi/misc) - 
 - [tree-sitter/tree-sitter-html](https://github.com/tree-sitter/tree-sitter-html) - HTML grammar for Tree-sitter
-- [alfg/ffprobe-wasm](https://github.com/alfg/ffprobe-wasm) - A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly!
 - [tree-sitter/node-tree-sitter](https://github.com/tree-sitter/node-tree-sitter) - Node.js bindings for tree-sitter
 - [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
@@ -518,6 +517,7 @@
 
 ## JavaScript 
 
+- [benwis/rust-remix](https://github.com/benwis/rust-remix) - Remix sandbox repo for Rust compiled to WASM and to native N-API modules
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Navigable waveform built on Web Audio and Canvas
 - [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 - [chr15m/jsfxr](https://github.com/chr15m/jsfxr) - JavaScript sound effects generator.
@@ -1077,6 +1077,7 @@
 
 ## Others 
 
+- [utubo/vim-6colors](https://github.com/utubo/vim-6colors) - 🎨 The Vim color scheme editor that generates from only 6 colors or a single image.
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
 - [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned "Learn You a Haskell" (LYAH) tutorials collection!
 - [WLTools/LanguageSpec](https://github.com/WLTools/LanguageSpec) - A description of the language syntax and associated data, examples, and nonexamples.
@@ -1569,7 +1570,6 @@
 
 ## TypeScript 
 
-- [benwis/rust-remix](https://github.com/benwis/rust-remix) - Remix sandbox repo for Rust compiled to WASM and to native N-API modules
 - [egoist/vite-vercel](https://github.com/egoist/vite-vercel) - Adding Vercel middleware support to your Vite project
 - [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
 - [fb55/domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM
@@ -2162,6 +2162,7 @@
 
 ## Vue 
 
+- [alfg/ffprobe-wasm](https://github.com/alfg/ffprobe-wasm) - A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly!
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
 - [microsoft/language-server-protocol-inspector](https://github.com/microsoft/language-server-protocol-inspector) - Interactive Language Server log inspector
