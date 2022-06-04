@@ -948,7 +948,7 @@
 - [Marak/faker.js](https://github.com/Marak/faker.js) - generate massive amounts of realistic fake data in Node.js and the browser
 - [mattphillips/deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diffs two objects, including nested structures of arrays and objects, and returns the difference. ❄️
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
-- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez.io is an open source base building game inspired by factorio! Available on web & steam.
+- [tobspr/shapez.io](https://github.com/tobspr/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
 - [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [unassert-js/unassert](https://github.com/unassert-js/unassert) - Encourages programming with assertions by providing tools to compile them away.
@@ -1553,6 +1553,7 @@
 
 - [novacbn/kahi-ui](https://github.com/novacbn/kahi-ui) - Straight-forward Svelte UI for the Web
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
+- [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
@@ -1734,7 +1735,6 @@
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
 - [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.0
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
-- [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
