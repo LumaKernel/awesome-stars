@@ -249,6 +249,8 @@
 
 ## Go 
 
+- [clecherbauer/docker-volume-bindfs](https://github.com/clecherbauer/docker-volume-bindfs) - Docker volume plugin for bindfs
+- [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
 - [alecthomas/repr](https://github.com/alecthomas/repr) - Python's repr() for Go
 - [despiteallobjections/amigo](https://github.com/despiteallobjections/amigo) - 
@@ -425,7 +427,7 @@
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [mattn/fakemovie](https://github.com/mattn/fakemovie) - 
-- [goplus/gop](https://github.com/goplus/gop) - GoPlus - The Go+ language for engineering, STEM education, and data science
+- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1012,7 +1014,7 @@
 - [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - Boo is a colorscheme for Neovim with handcrafted support for LSP, Treesitter.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - An IDE layer for Neovim with sane defaults. Completely free and community driven.
@@ -1576,6 +1578,7 @@
 
 ## TypeScript 
 
+- [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [su8ru/su8ru.dev](https://github.com/su8ru/su8ru.dev) - su8ru's portfolio
 - [egoist/vite-vercel](https://github.com/egoist/vite-vercel) - Adding Vercel middleware support to your Vite project
 - [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
@@ -1936,7 +1939,7 @@
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [prisma/migrate](https://github.com/prisma/migrate) - Issues for Prisma Migrate are now tracked at prisma/prisma. This repo was used to track issues for Prisma Migrate Experimental and is now deprecated.
 - [pantharshit00/coc-prisma](https://github.com/pantharshit00/coc-prisma) - CoC extension that implements the Prisma language server
-- [prisma/language-tools](https://github.com/prisma/language-tools) - 🌐 Prisma Language Tools for Prisma schema files. Home to the Language Server and Prisma's VS Code extension.
+- [prisma/language-tools](https://github.com/prisma/language-tools) - 🌐 Prisma Language Tools = Language Server and Prisma's VS Code extension.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [frouriojs/frourio.com](https://github.com/frouriojs/frourio.com) - 
 - [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
