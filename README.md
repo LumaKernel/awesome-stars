@@ -134,6 +134,7 @@
 
 ## C++ 
 
+- [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
@@ -520,6 +521,8 @@
 
 ## JavaScript 
 
+- [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [lionleaf/dwitter](https://github.com/lionleaf/dwitter) - Social network for short js demos
 - [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
 - [benwis/rust-remix](https://github.com/benwis/rust-remix) - Remix sandbox repo for Rust compiled to WASM and to native N-API modules
@@ -1334,6 +1337,7 @@
 
 ## Rust 
 
+- [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [sile/patricia_tree](https://github.com/sile/patricia_tree) - A memory-efficient patricia tree implementation written in Rust
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
@@ -1381,7 +1385,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [countercept/chainsaw](https://github.com/countercept/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - Powerful, fast, and an easy to use search engine
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
@@ -1578,6 +1582,7 @@
 
 ## TypeScript 
 
+- [tinyhttp/tinyws](https://github.com/tinyhttp/tinyws) - 🚡 tiny WebSocket middleware for Node.js
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
 - [su8ru/su8ru.dev](https://github.com/su8ru/su8ru.dev) - su8ru's portfolio
 - [egoist/vite-vercel](https://github.com/egoist/vite-vercel) - Adding Vercel middleware support to your Vite project
