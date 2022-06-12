@@ -250,6 +250,7 @@
 
 ## Go 
 
+- [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [clecherbauer/docker-volume-bindfs](https://github.com/clecherbauer/docker-volume-bindfs) - Docker volume plugin for bindfs
 - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
 - [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) - gRPC to JSON proxy generator following the gRPC HTTP spec
@@ -1191,6 +1192,7 @@
 
 ## Python 
 
+- [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
