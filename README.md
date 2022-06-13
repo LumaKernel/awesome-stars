@@ -122,6 +122,7 @@
 
 ## C# # 
 
+- [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
 - [veler/DevToys](https://github.com/veler/DevToys) - A Swiss Army knife for developers.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
@@ -375,7 +376,7 @@
 - [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [googleapis/google-api-go-client](https://github.com/googleapis/google-api-go-client) - Auto-generated Google APIs for Go.
-- [danielkermode/gvm](https://github.com/danielkermode/gvm) - Go Version Manager for Windows
+- [danielkermode/gvm](https://github.com/danielkermode/gvm) - ⛔️ DEPRECATED Go Version Manager for Windows
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
@@ -989,6 +990,7 @@
 
 ## Jupyter Notebook 
 
+- [Jaykul/Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell
 - [p-geon/ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3
 - [jamesdbrock/learn-you-a-haskell-notebook](https://github.com/jamesdbrock/learn-you-a-haskell-notebook) - Jupyter adaptation of Learn You a Haskell for Great Good!
 - [DougBurke/hvega](https://github.com/DougBurke/hvega) - Create Vega-Lite visualizations from Haskell.
@@ -1192,6 +1194,9 @@
 
 ## Python 
 
+- [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
+- [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
+- [Kaggle/docker-python](https://github.com/Kaggle/docker-python) - Kaggle Python docker image
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
