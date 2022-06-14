@@ -672,7 +672,7 @@
 - [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert
 - [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
-- [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome 5+ component for Svelte
+- [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome component for Svelte
 - [prettier/prettier-linter-helpers](https://github.com/prettier/prettier-linter-helpers) - Helper functions for exposing prettier changes within linting tools
 - [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
 - [blueedgetechno/win11React](https://github.com/blueedgetechno/win11React) - Windows 11 in React 💻🌈⚡
@@ -935,6 +935,7 @@
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
 - [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
+- [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [unassert-js/webpack-unassert-loader](https://github.com/unassert-js/webpack-unassert-loader) - A webpack loader for unassert: Encourages programming with assertions by providing tools to compile them away.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [pateketrueke/yrv](https://github.com/pateketrueke/yrv) - Your routing vibes! (for Svelte)
@@ -1090,6 +1091,7 @@
 
 ## Others 
 
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [utubo/vim-6colors](https://github.com/utubo/vim-6colors) - 🎨 The Vim color scheme editor that generates from only 6 colors or a single image.
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
 - [learnyouahaskell/learnyouahaskell.github.io](https://github.com/learnyouahaskell/learnyouahaskell.github.io) - A community version of the renowned "Learn You a Haskell" (LYAH) tutorials collection!
@@ -2109,7 +2111,6 @@
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [hrsh7th/vim-vsnip](https://github.com/hrsh7th/vim-vsnip) - Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.
-- [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [cormacrelf/vim-colors-github](https://github.com/cormacrelf/vim-colors-github) - A Vim colorscheme based on Github's syntax highlighting as of 2018.
 - [romgrk/github-light.vim](https://github.com/romgrk/github-light.vim) - Github colorscheme for vim
 - [NLKNguyen/papercolor-theme](https://github.com/NLKNguyen/papercolor-theme) - :art: Light & Dark Vim color schemes inspired by Google's Material Design
