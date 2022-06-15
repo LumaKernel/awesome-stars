@@ -692,7 +692,7 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: A tool for managing JavaScript projects with multiple packages.
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [facebook/draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
@@ -1091,6 +1091,7 @@
 
 ## Others 
 
+- [cjkvi/cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) - IDS data for CJK Unified Ideographs
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [utubo/vim-6colors](https://github.com/utubo/vim-6colors) - 🎨 The Vim color scheme editor that generates from only 6 colors or a single image.
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
@@ -1273,7 +1274,7 @@
 - [deoplete-plugins/deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [PyTorchLightning/pytorch-lightning](https://github.com/PyTorchLightning/pytorch-lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
