@@ -1146,6 +1146,7 @@
 - [rust-lang-ja/atcoder-rust-base](https://github.com/rust-lang-ja/atcoder-rust-base) - A Cargo package template for AtCoder competitions / AtCoder競技向けのCargoパッケージテンプレート
 - [saojs/awesome-sao](https://github.com/saojs/awesome-sao) - A curated list of delightful SAO resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
+- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
 - [planetruby/awesome-rubies](https://github.com/planetruby/awesome-rubies) - A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.)
@@ -1258,7 +1259,6 @@
 - [leon-thomm/Ryven](https://github.com/leon-thomm/Ryven) - Flow-based visual scripting for Python
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 - [gyim/vim-boxdraw](https://github.com/gyim/vim-boxdraw) - An ASCII box drawing plugin for Vim
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [awslabs/aws-support-tools](https://github.com/awslabs/aws-support-tools) - Tools and sample code provided by AWS Premium Support.
 - [d0c-s4vage/pfp-vim](https://github.com/d0c-s4vage/pfp-vim) - A vim hex-editor plugin that uses 010 templates to parse binary data using pfp
 - [Shougo/deoppet.nvim](https://github.com/Shougo/deoppet.nvim) - The dark powered snippet plugin for neovim
@@ -1274,7 +1274,7 @@
 - [deoplete-plugins/deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Lightning AI enables researchers and enterprise teams to build, share and iterate on scalable Lightning Apps (AI apps) using the tools and technologies of their choice.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
@@ -1592,6 +1592,10 @@
 
 ## TypeScript 
 
+- [CesiumLabs/illustrator.js](https://github.com/CesiumLabs/illustrator.js) - JavaScript image processing library
+- [teambit/bit-dev](https://github.com/teambit/bit-dev) - Bit's website.
+- [macaron-elements/macaron](https://github.com/macaron-elements/macaron) - Visual component editor for Web development
+- [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [tinyhttp/tinyws](https://github.com/tinyhttp/tinyws) - 🚡 tiny WebSocket middleware for Node.js
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
