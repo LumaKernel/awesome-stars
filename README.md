@@ -472,7 +472,7 @@
 - [tc39/proposal-compartments](https://github.com/tc39/proposal-compartments) - Compartmentalization of host behavior hooks for JS
 - [tc39/proposal-ses](https://github.com/tc39/proposal-ses) - Draft proposal for SES (Secure EcmaScript)
 - [tc39/proposal-defer-import-eval](https://github.com/tc39/proposal-defer-import-eval) - A proposal for introducing a way to defer evaluate of a module
-- [wildbit/postmark-templates](https://github.com/wildbit/postmark-templates) - Rock-solid transactional email templates for applications.
+- [ActiveCampaign/postmark-templates](https://github.com/ActiveCampaign/postmark-templates) - Rock-solid transactional email templates for applications.
 - [sendgrid/email-templates](https://github.com/sendgrid/email-templates) - A repository of common email templates to use and modify to your heart's content.
 - [nttcom/remote-work-handbook](https://github.com/nttcom/remote-work-handbook) - リモートワークハンドブックのソースコード
 - [rust-lang-ja/the-rust-programming-language-ja](https://github.com/rust-lang-ja/the-rust-programming-language-ja) - Rust文書の【旧】和訳レポジトリ → 最新版はこちら： https://github.com/rust-lang-ja/book-ja
@@ -1274,7 +1274,7 @@
 - [deoplete-plugins/deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Lightning AI enables researchers and enterprise teams to build, share and iterate on scalable Lightning Apps (AI apps) using the tools and technologies of their choice.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
@@ -1348,6 +1348,7 @@
 
 ## Rust 
 
+- [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [sile/patricia_tree](https://github.com/sile/patricia_tree) - A memory-efficient patricia tree implementation written in Rust
@@ -1592,7 +1593,8 @@
 
 ## TypeScript 
 
-- [CesiumLabs/illustrator.js](https://github.com/CesiumLabs/illustrator.js) - JavaScript image processing library
+- [primer/prism](https://github.com/primer/prism) - A tool for creating and maintaining cohesive, consistent, and accessible color palettes
+- [DevAndromeda/illustrator.js](https://github.com/DevAndromeda/illustrator.js) - JavaScript image processing library
 - [teambit/bit-dev](https://github.com/teambit/bit-dev) - Bit's website.
 - [macaron-elements/macaron](https://github.com/macaron-elements/macaron) - Visual component editor for Web development
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
