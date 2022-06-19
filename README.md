@@ -251,6 +251,7 @@
 
 ## Go 
 
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
 - [clecherbauer/docker-volume-bindfs](https://github.com/clecherbauer/docker-volume-bindfs) - Docker volume plugin for bindfs
 - [kubernetes/kubectl](https://github.com/kubernetes/kubectl) - Issue tracker and mirror of kubectl code
