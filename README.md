@@ -19,6 +19,7 @@
   - [EJS](#ejs)
   - [Elixir](#elixir)
   - [Emacs Lisp](#emacs-lisp)
+  - [F#](#f#)
   - [Go](#go)
   - [HCL](#hcl)
   - [HTML](#html)
@@ -248,6 +249,10 @@
 - [emacs-tree-sitter/elisp-tree-sitter](https://github.com/emacs-tree-sitter/elisp-tree-sitter) - Tree-sitter bindings for Emacs Lisp
 - [emacs-ng/emacs-ng](https://github.com/emacs-ng/emacs-ng) - A new approach to Emacs - Including TypeScript, Threading, Async I/O, and WebRender.
 - [remacs/remacs](https://github.com/remacs/remacs) - Rust :heart: Emacs
+
+## F# # 
+
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Markdown LSP server providing completion, cross-references, diagnostics, and more.
 
 ## Go 
 
@@ -1351,6 +1356,7 @@
 
 ## Rust 
 
+- [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
