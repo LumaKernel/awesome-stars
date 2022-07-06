@@ -1213,6 +1213,7 @@
 
 ## Python 
 
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub) - Run your code in the cloud, with technology so advanced, it feels like magic!
@@ -1610,6 +1611,7 @@
 
 ## TypeScript 
 
+- [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
