@@ -298,7 +298,7 @@
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
 - [micnncim/protocol-buffers-language-server](https://github.com/micnncim/protocol-buffers-language-server) - [WIP] Protocol Buffers Language Server
-- [esm-dev/esm.sh](https://github.com/esm-dev/esm.sh) - A fast, global content delivery network for ES Modules.
+- [ije/esm.sh](https://github.com/ije/esm.sh) - A fast, global content delivery network for ES Modules.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) - A platform for building proxies to bypass network restrictions.
@@ -1292,7 +1292,7 @@
 - [deoplete-plugins/deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and performance.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
@@ -1596,7 +1596,7 @@
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
 - [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
-- [RedHatter/svelte-devtools](https://github.com/RedHatter/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
+- [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - An extension that allows inspection of Svelte component hierarchy and state in the Firefox and Chrome developer tools.
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) - Generate TypeScript definitions for your Svelte components
 - [hperrin/svelte-material-ui](https://github.com/hperrin/svelte-material-ui) - Svelte Material UI Components
@@ -1612,6 +1612,7 @@
 
 ## TypeScript 
 
+- [tani/jsonup](https://github.com/tani/jsonup) - compile-time json-parser
 - [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) - Scanner and parser for JSON with comments.
