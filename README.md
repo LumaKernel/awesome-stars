@@ -1612,6 +1612,7 @@
 
 ## TypeScript 
 
+- [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [tani/jsonup](https://github.com/tani/jsonup) - compile-time json-parser
 - [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
 - [unocss/unocss](https://github.com/unocss/unocss) - The instant on-demand atomic CSS engine.
@@ -2233,6 +2234,7 @@
 
 ## Zig 
 
+- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
