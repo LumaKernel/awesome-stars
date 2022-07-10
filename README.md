@@ -1612,6 +1612,7 @@
 
 ## TypeScript 
 
+- [fc01/TypeGame](https://github.com/fc01/TypeGame) - 👾 Sokoban Game in Pure TypeScript Type System
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [tani/jsonup](https://github.com/tani/jsonup) - compile-time json-parser
 - [wantedly/hi18n](https://github.com/wantedly/hi18n) - message internationalization meets immutability and type-safety
@@ -1659,7 +1660,7 @@
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers and Deno. Fast, but not only fast.
+- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for Cloudflare Workers, Deno, and Bun. Fast, but not only fast.
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
@@ -2234,7 +2235,7 @@
 
 ## Zig 
 
-- [Jarred-Sumner/bun](https://github.com/Jarred-Sumner/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
 - [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
 
 
