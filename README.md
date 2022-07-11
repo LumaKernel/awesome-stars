@@ -1127,6 +1127,7 @@
 - [reactjs/rfcs](https://github.com/reactjs/rfcs) - RFCs for changes to React
 - [jsjoeio/styled-components-vs-emotion](https://github.com/jsjoeio/styled-components-vs-emotion) - a short doc comparing the popular CSS-in-JS libraries styled-components and emotion
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
+- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [nvim-telescope/telescope-rs.nvim](https://github.com/nvim-telescope/telescope-rs.nvim) - Experimental features for telescope in RUST? The safest telescope known to HUMANITY
 - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
@@ -1214,6 +1215,7 @@
 
 ## Python 
 
+- [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [leoncvlt/loconotion](https://github.com/leoncvlt/loconotion) - 📄 Python tool to turn Notion.so pages into lightweight, customizable static websites
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
@@ -1249,7 +1251,6 @@
 - [pydata/xarray](https://github.com/pydata/xarray) - N-D labeled arrays and datasets in Python
 - [boto/botocore](https://github.com/boto/botocore) - The low-level, core functionality of boto 3.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
-- [github/copilot-docs](https://github.com/github/copilot-docs) - Documentation for GitHub Copilot
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
 - [ms-jpq/vim.bench](https://github.com/ms-jpq/vim.bench) - Reproducible nvim completion framework benchmarks.
 - [nodejs/node-gyp](https://github.com/nodejs/node-gyp) - Node.js native addon build tool
@@ -1366,6 +1367,7 @@
 
 ## Rust 
 
+- [messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
@@ -1612,6 +1614,7 @@
 
 ## TypeScript 
 
+- [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [fc01/TypeGame](https://github.com/fc01/TypeGame) - 👾 Sokoban Game in Pure TypeScript Type System
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
 - [tani/jsonup](https://github.com/tani/jsonup) - compile-time json-parser
