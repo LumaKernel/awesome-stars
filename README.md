@@ -427,7 +427,7 @@
 - [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid.
 - [weaveworks/eksctl](https://github.com/weaveworks/eksctl) - The official CLI for Amazon EKS
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - NGINX Ingress Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
@@ -1367,6 +1367,8 @@
 
 ## Rust 
 
+- [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
+- [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) - 
 - [messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker
 - [dimensionhq/volt](https://github.com/dimensionhq/volt) - Fast, clean, lightweight, robust, and efficient package management.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top
@@ -1614,6 +1616,7 @@
 
 ## TypeScript 
 
+- [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [fc01/TypeGame](https://github.com/fc01/TypeGame) - 👾 Sokoban Game in Pure TypeScript Type System
 - [infracost/vscode-infracost](https://github.com/infracost/vscode-infracost) - See cost estimates for Terraform right in your editor💰📉
