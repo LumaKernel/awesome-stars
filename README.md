@@ -77,6 +77,7 @@
 
 ## C 
 
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
 - [sqlite/sqlite](https://github.com/sqlite/sqlite) - Official Git mirror of the SQLite source tree
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
@@ -1367,6 +1368,8 @@
 
 ## Rust 
 
+- [Endle/rust-bundler-cp](https://github.com/Endle/rust-bundler-cp) - rust-bundler-cp bundles a cargo package into a single rust file. It's designed for Competitive programming like Codeforces.
+- [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code
 - [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) - 
 - [messense/cargo-zigbuild](https://github.com/messense/cargo-zigbuild) - Compile Cargo project with zig as linker
@@ -1616,6 +1619,7 @@
 
 ## TypeScript 
 
+- [faker-js/faker](https://github.com/faker-js/faker) - Generate massive amounts of fake data in the browser and node.js
 - [wclr/ts-node-dev](https://github.com/wclr/ts-node-dev) - Compiles your TS app and restarts when files are modified.
 - [TanStack/virtual](https://github.com/TanStack/virtual) - 🤖 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte
 - [fc01/TypeGame](https://github.com/fc01/TypeGame) - 👾 Sokoban Game in Pure TypeScript Type System
