@@ -533,6 +533,7 @@
 
 ## JavaScript 
 
+- [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 - [amitbl/blocktube](https://github.com/amitbl/blocktube) - YouTube™ content blocker
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
@@ -1259,7 +1260,7 @@
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - This is a simple plugin for Vim that allows you to use OpenAI Codex.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multi-modal applications on the cloud
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1911,7 +1912,7 @@
 - [denoland/deno_registry2](https://github.com/denoland/deno_registry2) - The backend for the deno.land/x service
 - [lambdalisue/deno-async](https://github.com/lambdalisue/deno-async) - 🦕 Asynchronous primitive modules loosely port from Python's asyncio for Deno.
 - [neoclide/coc-emmet](https://github.com/neoclide/coc-emmet) - Emmet extension for coc.nvim
-- [voldikss/coc-lsp-wl](https://github.com/voldikss/coc-lsp-wl) - Coc.nvim client for Wolfram Language Server
+- [voldikss/coc-lsp-wl](https://github.com/voldikss/coc-lsp-wl) - See https://github.com/voldikss/coc-extensions
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [cmorten/deno-rollup](https://github.com/cmorten/deno-rollup) - Next-generation ES module bundler ported for Deno
 - [harmonyland/harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
