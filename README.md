@@ -533,6 +533,7 @@
 
 ## JavaScript 
 
+- [expressjs/body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 - [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) - A repository to make changes to the TypeScript Wiki on GitHub
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
@@ -855,7 +856,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 34 plugins. 1049 rules.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 35 plugins. 1051 rules.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -1622,6 +1623,7 @@
 
 ## TypeScript 
 
+- [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
 - [sachinraja/zod-to-ts](https://github.com/sachinraja/zod-to-ts) - generate TypeScript types from your Zod schema
 - [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
 - [dotansimha/graphql-code-generator](https://github.com/dotansimha/graphql-code-generator) - A tool for generating code based on a GraphQL schema and GraphQL operations (query/mutation/subscription), with flexible support for custom plugins.
