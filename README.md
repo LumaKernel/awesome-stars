@@ -46,6 +46,7 @@
   - [Python](#python)
   - [R](#r)
   - [Reason](#reason)
+  - [Rich Text Format](#rich-text-format)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -1355,6 +1356,10 @@
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
+## Rich Text Format 
+
+- [Domain-Connect/spec](https://github.com/Domain-Connect/spec) - Domain Connect Specification
+
 ## Roff 
 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
@@ -1372,6 +1377,7 @@
 
 ## Rust 
 
+- [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
 - [Endle/rust-bundler-cp](https://github.com/Endle/rust-bundler-cp) - rust-bundler-cp bundles a cargo package into a single rust file. It's designed for Competitive programming like Codeforces.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
