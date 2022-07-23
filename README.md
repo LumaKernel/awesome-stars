@@ -1378,6 +1378,11 @@
 
 ## Rust 
 
+- [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
+- [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
+- [BurntSushi/termcolor](https://github.com/BurntSushi/termcolor) - Cross platform terminal colors for Rust.
+- [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
+- [rust-num/num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust
 - [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
 - [Endle/rust-bundler-cp](https://github.com/Endle/rust-bundler-cp) - rust-bundler-cp bundles a cargo package into a single rust file. It's designed for Competitive programming like Codeforces.
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
@@ -1547,7 +1552,7 @@
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) - RFCs for changes to Rust
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows 10 Linux Subsystems
-- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of diagrams.net
+- [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [jethrokuan/fzf](https://github.com/jethrokuan/fzf) - Ef-🐟-ient fish keybindings for fzf
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
