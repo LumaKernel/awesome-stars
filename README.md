@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
@@ -1636,6 +1637,7 @@
 
 ## TypeScript 
 
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
 - [sachinraja/zod-to-ts](https://github.com/sachinraja/zod-to-ts) - generate TypeScript types from your Zod schema
 - [tsedio/tsed](https://github.com/tsedio/tsed) - :triangular_ruler:  Ts.ED is a Node.js and TypeScript framework on top of Express to write your application with TypeScript (or ES6). It provides a lot of decorators and guideline to make your code more readable and less error-prone.
@@ -1836,7 +1838,7 @@
 - [microsoft/rushstack](https://github.com/microsoft/rushstack) - Monorepo for tools developed by the Rush Stack community
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [makutamoto/atcoder-badges](https://github.com/makutamoto/atcoder-badges) - AtCoderの現在のレートと色を表示するバッジを作れます。
-- [denodrivers/deno_mongo](https://github.com/denodrivers/deno_mongo) - MongoDB driver for Deno
+- [denodrivers/mongo](https://github.com/denodrivers/mongo) - MongoDB driver for Deno
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
