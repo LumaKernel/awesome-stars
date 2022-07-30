@@ -537,6 +537,7 @@
 
 ## JavaScript 
 
+- [ericelliott/cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
 - [expressjs/body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 - [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) - A repository to make changes to the TypeScript Wiki on GitHub
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
@@ -1085,6 +1086,7 @@
 
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
 - [szhorvat/MaTeX](https://github.com/szhorvat/MaTeX) - LaTeX labels in Mathematica
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [kenkangxgwe/lsp-wl](https://github.com/kenkangxgwe/lsp-wl) - A Wolfram Language Server
 
 ## Mustache 
@@ -1281,7 +1283,6 @@
 - [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell) - A beautiful and useful prompt for your shell
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [dbcli/litecli](https://github.com/dbcli/litecli) - CLI for SQLite Databases with auto-completion and syntax highlighting
 - [google/vroom](https://github.com/google/vroom) - Launch vim tests
 - [idank/explainshell](https://github.com/idank/explainshell) - match command-line arguments to their help text
@@ -1638,6 +1639,7 @@
 
 ## TypeScript 
 
+- [susisu/typefuck](https://github.com/susisu/typefuck) - Type-level Brainfuck interpreter in TypeScript
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
