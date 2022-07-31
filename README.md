@@ -1304,7 +1304,7 @@
 - [deoplete-plugins/deoplete-nextword](https://github.com/deoplete-plugins/deoplete-nextword) - A deoplete source for nextword for completing words in English.
 - [saleor/saleor](https://github.com/saleor/saleor) - A modular, high performance, headless e-commerce platform built with Python, GraphQL, Django, and React.
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch) and ML systems for the ML lifecycle with an obsessive focus on flexibility and performance.
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility and performance.
 - [mxrch/GHunt](https://github.com/mxrch/GHunt) - 🕵️‍♂️ Offensive Google framework.
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
