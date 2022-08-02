@@ -332,7 +332,7 @@
 - [kubernetes-sigs/kubebuilder-declarative-pattern](https://github.com/kubernetes-sigs/kubebuilder-declarative-pattern) - A toolkit for building declarative operators with kubebuilder
 - [zoetrope/etcd-book](https://github.com/zoetrope/etcd-book) - 
 - [zoetrope/kubebuilder-training](https://github.com/zoetrope/kubebuilder-training) - 
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [luma-planet/terraform-provider-sshclient](https://github.com/luma-planet/terraform-provider-sshclient) - 
 - [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) - CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code
@@ -598,6 +598,7 @@
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [NodeRedis/node-redis-parser](https://github.com/NodeRedis/node-redis-parser) - A high performance Redis protocol (RESP) parser for JavaScript. Used by Node Redis & ioredis.
 - [turbio/bracey.vim](https://github.com/turbio/bracey.vim) - live edit html, css, and javascript in vim
 - [lambdalisue/jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding) - Jupyter meets Vim. Vimmer will fall in love.
@@ -1417,7 +1418,6 @@
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
 - [theHamsta/tree-sitter-cuda](https://github.com/theHamsta/tree-sitter-cuda) - 
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
