@@ -139,7 +139,6 @@
 
 - [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [yosupo06/library-checker-problems](https://github.com/yosupo06/library-checker-problems) - The problem data (Test case generator, judge's solution, task, ...) of Library Checker
@@ -634,7 +633,6 @@
 - [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) - Loads environment variables from .env.[development|test|production][.local] files for Node.js® projects.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [jshttp/http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors
-- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [firebase/firebaseui-web-react](https://github.com/firebase/firebaseui-web-react) - React Wrapper for firebaseUI Web
 - [kaelzhang/node-ignore](https://github.com/kaelzhang/node-ignore) - 🔍 node-ignore is the manager and filter for .gitignore rules, the one used by eslint, prettier and many others.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
@@ -649,7 +647,7 @@
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 1  IEEE 754 half-precision floating-point for JavaScript
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
-- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - :green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit
+- [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Community Edition -- Spreadsheet Data Toolkit
 - [kt3k/deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm
 - [promise-queue/promise-queue](https://github.com/promise-queue/promise-queue) - Promise-based queue
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
@@ -1396,6 +1394,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) - sccache is ccache with cloud storage
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [sile/patricia_tree](https://github.com/sile/patricia_tree) - A memory-efficient patricia tree implementation written in Rust
+- [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
 - [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [dherman/esprit](https://github.com/dherman/esprit) - A JavaScript parser written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1636,6 +1635,8 @@
 
 ## TypeScript 
 
+- [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+- [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [susisu/typefuck](https://github.com/susisu/typefuck) - Type-level Brainfuck interpreter in TypeScript
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
@@ -1748,6 +1749,7 @@
 - [quirrel-dev/quirrel](https://github.com/quirrel-dev/quirrel) - The Task Queueing Solution for Serverless.
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [ben-rogerson/twin.examples](https://github.com/ben-rogerson/twin.examples) - Packed with examples for different frameworks, this repo helps you get started with twin a whole lot faster.
+- [googleapis/google-cloud-node](https://github.com/googleapis/google-cloud-node) - Google Cloud Client Library for Node.js
 - [googleapis/google-auth-library-nodejs](https://github.com/googleapis/google-auth-library-nodejs) - 🔑 Google Auth Library for Node.js
 - [firebase/firebase-js-sdk](https://github.com/firebase/firebase-js-sdk) - Firebase Javascript SDK
 - [firebase/firebase-tools](https://github.com/firebase/firebase-tools) - The Firebase Command Line Tools
