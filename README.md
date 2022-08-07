@@ -253,7 +253,7 @@
 
 ## F# # 
 
-- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Markdown LSP server providing completion, cross-references, diagnostics, and more.
+- [artempyanykh/marksman](https://github.com/artempyanykh/marksman) - Write Markdown with code assist and intelligence in the comfort of your favourite editor.
 
 ## Go 
 
@@ -1635,6 +1635,7 @@
 
 ## TypeScript 
 
+- [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [susisu/typefuck](https://github.com/susisu/typefuck) - Type-level Brainfuck interpreter in TypeScript
