@@ -722,7 +722,7 @@
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
 - [TypeStrong/ntypescript](https://github.com/TypeStrong/ntypescript) - Nicer TypeScript for API devs
 - [sveltejs/svelte-virtual-list](https://github.com/sveltejs/svelte-virtual-list) - A virtual list component for Svelte apps
-- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for humans
+- [json5/json5](https://github.com/json5/json5) - JSON5 — JSON for Humans
 - [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) - A browser based code editor
 - [chengcyber/rollup-plugin-monaco-editor](https://github.com/chengcyber/rollup-plugin-monaco-editor) - A rollup plugin for importing monaco editor
 - [beginner-corp/begin-data](https://github.com/beginner-corp/begin-data) - A durable and fast key/value store for Begin built on top of DynamoDB
@@ -734,7 +734,6 @@
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
 - [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
-- [shelfio/jest-dynamodb](https://github.com/shelfio/jest-dynamodb) - Jest preset for DynamoDB local server
 - [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io) - 
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
@@ -1632,6 +1631,7 @@
 
 ## TeX 
 
+- [kirika-comp/articles](https://github.com/kirika-comp/articles) - 
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
@@ -1875,6 +1875,7 @@
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
 - [operator-framework/operatorhub.io](https://github.com/operator-framework/operatorhub.io) - 
+- [shelfio/jest-dynamodb](https://github.com/shelfio/jest-dynamodb) - Jest preset for DynamoDB local server
 - [plusone-masaki/csv-plus](https://github.com/plusone-masaki/csv-plus) - A completely new CSV editor that gives you a great experience with simple operations.
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [nwtgck/ts-json-validator](https://github.com/nwtgck/ts-json-validator) - JSON Validator for TypeScript - Safer JSON.parse() validating by TypeScript types
