@@ -257,6 +257,7 @@
 
 ## Go 
 
+- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [goodwithtech/dockle](https://github.com/goodwithtech/dockle) - Container Image Linter for Security, Helping build the Best-Practice Docker Image, Easy to start
 - [islisp-dev/iris](https://github.com/islisp-dev/iris) - The interpreter of ISLisp
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
@@ -461,6 +462,7 @@
 
 ## HTML 
 
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [uva-cs/pdr](https://github.com/uva-cs/pdr) - A repo for a Program and Data Representation university-level course
 - [donavon/remix-etag](https://github.com/donavon/remix-etag) - 
@@ -1025,7 +1027,7 @@
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [saic-mdal/lama](https://github.com/saic-mdal/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 ## Kotlin 
@@ -1627,6 +1629,7 @@
 
 ## Swift 
 
+- [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro!
 - [WireGuard/wireguard-apple](https://github.com/WireGuard/wireguard-apple) - Mirror only. Official repository is at https://git.zx2c4.com/wireguard-apple
 
@@ -1637,6 +1640,8 @@
 
 ## TypeScript 
 
+- [tennashi/ddu-source-make](https://github.com/tennashi/ddu-source-make) - This source collects make targets from Makefile.
+- [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
