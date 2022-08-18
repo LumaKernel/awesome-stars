@@ -1643,6 +1643,7 @@
 
 ## TypeScript 
 
+- [lambdalisue/deno-unnullish](https://github.com/lambdalisue/deno-unnullish) - 🦕 An opposite function of nullish coalescing operator
 - [tennashi/ddu-source-make](https://github.com/tennashi/ddu-source-make) - This source collects make targets from Makefile.
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
