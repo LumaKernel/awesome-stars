@@ -807,7 +807,7 @@
 - [retextjs/retext-emoji](https://github.com/retextjs/retext-emoji) - plugin to support emoji, gemoji, and emoticons
 - [retextjs/retext-quotes](https://github.com/retextjs/retext-quotes) - plugin to check quotes and apostrophes
 - [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
-- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Simple yet powerful live data computation framework
+- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - A company that helps you bring data from environments together.
 - [avajs/eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules for AVA
 - [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
@@ -1059,7 +1059,7 @@
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [glepnir/zephyr-nvim](https://github.com/glepnir/zephyr-nvim) - A dark neovim colorscheme written in lua
 - [glepnir/smartinput.nvim](https://github.com/glepnir/smartinput.nvim) - 
-- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - Vim plugin for automatically highlighting other uses of the word under the cursor. Integrates with Neovim's LSP client for intelligent highlighting.
+- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) - illuminate.vim - (Neo)Vim plugin for automatically highlighting other uses of the word under the cursor using either LSP, Tree-sitter, or regex matching.
 - [LumaKernel/nvim-visual-eof.lua](https://github.com/LumaKernel/nvim-visual-eof.lua) - Visualize existence of EOL at EOF ⏎
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) - A Neovim plugin to make the LSP client use FZF
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim
@@ -2116,6 +2116,7 @@
 
 ## Vim script 
 
+- [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
 - [skanehira/jumpcursor.vim](https://github.com/skanehira/jumpcursor.vim) - Move cursor anywhere
 - [mopp/vim-operator-convert-case](https://github.com/mopp/vim-operator-convert-case) - a Vim plugin to provide some operators to convert a word case.
