@@ -178,7 +178,7 @@
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
-- [Tencent/puerts](https://github.com/Tencent/puerts) - Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
+- [Tencent/puerts](https://github.com/Tencent/puerts) - 普洱TS！Write your game with TypeScript in UE or Unity. PuerTS can be pronounced as pu-erh TS
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [atcoder/ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
@@ -1224,6 +1224,8 @@
 
 ## Python 
 
+- [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [ajalt/fuckitpy](https://github.com/ajalt/fuckitpy) - The Python error steamroller.
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
@@ -1978,7 +1980,7 @@
 - [sveltejs/language-tools](https://github.com/sveltejs/language-tools) - The Svelte Language Server, and official extensions which use it
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
-- [netlify/next-runtime](https://github.com/netlify/next-runtime) - A build plugin to integrate Next.js seamlessly with Netlify
+- [netlify/next-runtime](https://github.com/netlify/next-runtime) - The Next.js Runtime allows Next.js to run on Netlify with zero configuration
 - [google-github-actions/upload-cloud-storage](https://github.com/google-github-actions/upload-cloud-storage) - This action uploads files/folders to a Google Cloud Storage (GCS) bucket.
 - [google-github-actions/setup-gcloud](https://github.com/google-github-actions/setup-gcloud) - A GitHub Action for configuring the Google Cloud SDK. The Google Cloud SDK includes both the gcloud and gsutil binaries.
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
