@@ -61,6 +61,7 @@
   - [TypeScript](#typescript)
   - [V](#v)
   - [VBScript](#vbscript)
+  - [Vim Script](#vim-script)
   - [Vim script](#vim-script)
   - [VimL](#viml)
   - [Vue](#vue)
@@ -1270,7 +1271,7 @@
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - This is a simple plugin for Vim that allows you to use OpenAI Codex.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -2117,6 +2118,13 @@
 
 - [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
+## Vim Script 
+
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
 ## Vim script 
 
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
@@ -2234,7 +2242,6 @@
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [cideM/yui](https://github.com/cideM/yui) - Minimal vim color scheme
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
-- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [tyru/open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
@@ -2242,14 +2249,11 @@
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
-- [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [tyru/open-browser.vim](https://github.com/tyru/open-browser.vim) - Open URI with your favorite browser from your most favorite editor
-- [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [thinca/vim-localrc](https://github.com/thinca/vim-localrc) - Enable configuration file of each directory.
 - [cocopon/vaffle.vim](https://github.com/cocopon/vaffle.vim) - :file_folder: Lightweight, window-based file manager for Vim
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [yardnsm/vim-import-cost](https://github.com/yardnsm/vim-import-cost) - 🏋️‍♂️ Display the import size of the JavaScript packages in Vim!
-- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) - eskk is pure Vim script implementation of input method engine SKK
 - [hotwatermorning/auto-git-diff](https://github.com/hotwatermorning/auto-git-diff) - A vim plugin which shows git diff for Git Rebase Interactive
