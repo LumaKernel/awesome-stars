@@ -1077,6 +1077,7 @@
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 
 ## Makefile 
 
@@ -1381,7 +1382,6 @@
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [kiraka/annict-web](https://github.com/kiraka/annict-web) - A platform for anime addicts built with Rails and Hotwire.
 - [jubos/fake-s3](https://github.com/jubos/fake-s3) - A lightweight server clone of Amazon S3 that simulates most of the commands supported by S3 with minimal dependencies
-- [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 
 ## Rust 
 
@@ -2120,11 +2120,15 @@
 
 ## Vim Script 
 
+- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
 - [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
+- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [vim/vim](https://github.com/vim/vim) - The official Vim repository
 - [prabirshrestha/vim-lsp](https://github.com/prabirshrestha/vim-lsp) - async language server protocol plugin for vim and neovim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -2138,7 +2142,6 @@
 - [thinca/vim-qfreplace](https://github.com/thinca/vim-qfreplace) - Perform the replacement in quickfix.
 - [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [kiteco/vim-plugin](https://github.com/kiteco/vim-plugin) - The Kite plugin for Vim.
-- [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [tyrannicaltoucan/vim-deep-space](https://github.com/tyrannicaltoucan/vim-deep-space) - An intergalactically friendly color scheme for Vim.
 - [bronson/vim-trailing-whitespace](https://github.com/bronson/vim-trailing-whitespace) - Highlights trailing whitespace in red and provides :FixWhitespace to fix it.
 - [APZelos/blamer.nvim](https://github.com/APZelos/blamer.nvim) - A git blame plugin for neovim inspired by VS Code's GitLens plugin
@@ -2176,14 +2179,12 @@
 - [fidian/hexmode](https://github.com/fidian/hexmode) - Vim plugin to edit binary files in a hex mode automatically.
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
-- [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
 - [lambdalisue/fern-ssh](https://github.com/lambdalisue/fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
 - [bluz71/vim-nightfly-guicolors](https://github.com/bluz71/vim-nightfly-guicolors) - Another dark color scheme for Vim & Neovim
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [mattn/vim-markov](https://github.com/mattn/vim-markov) - 
-- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen
 - [antoinemadec/coc-fzf](https://github.com/antoinemadec/coc-fzf) - fzf :heart: coc.nvim
 - [dominikduda/vim_current_word](https://github.com/dominikduda/vim_current_word) - Plugin highlighting word under cursor and all of its occurences
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
@@ -2245,7 +2246,6 @@
 - [cideM/yui](https://github.com/cideM/yui) - Minimal vim color scheme
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
 - [tyru/open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
-- [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
