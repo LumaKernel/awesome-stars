@@ -518,6 +518,7 @@
 
 ## Haxe 
 
+- [vshaxe/haxe-language-server](https://github.com/vshaxe/haxe-language-server) - Language Server Protocol implementation for the Haxe language
 - [saharan/HGSL](https://github.com/saharan/HGSL) - A shading language that can be compiled into GLSL ES 3.0
 
 ## Java 
@@ -1272,7 +1273,7 @@
 - [tom-doerr/vim_codex](https://github.com/tom-doerr/vim_codex) - This is a simple plugin for Vim that allows you to use OpenAI Codex.
 - [PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting) - Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!
 - [subnut/nvim-ghost.nvim](https://github.com/subnut/nvim-ghost.nvim) - :ghost: GhostText plugin for Neovim with zero dependencies :tada: Supports neovim running inside WSL too! :partying_face: Windows/Linux/macOS supported out-of-the-box! :smile: (Other OSes need python3.6+ installed)
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
+- [jina-ai/jina](https://github.com/jina-ai/jina) - 🔮 Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native · MLOps
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
@@ -1385,6 +1386,7 @@
 
 ## Rust 
 
+- [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
@@ -1449,7 +1451,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
-- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - An open-source, lightning-fast, and hyper-relevant search engine that fits effortlessly into your apps, websites, and workflow.
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [rust-lang/rls](https://github.com/rust-lang/rls) - Repository for the Rust Language Server (aka RLS)
@@ -1647,6 +1649,7 @@
 
 ## TypeScript 
 
+- [googlemaps/js-api-loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
 - [lambdalisue/deno-unnullish](https://github.com/lambdalisue/deno-unnullish) - 🦕 An opposite function of nullish coalescing operator
 - [tennashi/ddu-source-make](https://github.com/tennashi/ddu-source-make) - This source collects make targets from Makefile.
 - [Shopify/react-native-skia](https://github.com/Shopify/react-native-skia) - High-performance React Native Graphics using Skia
