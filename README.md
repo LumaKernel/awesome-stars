@@ -15,6 +15,7 @@
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
   - [Common Lisp](#common-lisp)
+  - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [EJS](#ejs)
   - [Elixir](#elixir)
@@ -225,6 +226,10 @@
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [inaimathi/cl-notebook](https://github.com/inaimathi/cl-notebook) - A notebook-style editor for Common Lisp
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
+
+## Dart 
+
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -542,6 +547,7 @@
 
 ## JavaScript 
 
+- [tinghuzhi/react-drag-listview](https://github.com/tinghuzhi/react-drag-listview) - A simple draggable list component for React
 - [ericelliott/cuid](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and performance.
 - [expressjs/body-parser](https://github.com/expressjs/body-parser) - Node.js body parsing middleware
 - [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) - A repository to make changes to the TypeScript Wiki on GitHub
@@ -1390,7 +1396,6 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
@@ -1414,7 +1419,7 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nanpuyue/tokio-fd](https://github.com/nanpuyue/tokio-fd) - Non-blocking Read and Write a Linux/Unix File Descriptor
 - [yuk1ty/learning-systems-programming-in-rust](https://github.com/yuk1ty/learning-systems-programming-in-rust) - 「Rustでもわかるシステムプログラミング」
-- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) - :zap: An async autocompletion framework for Neovim
+- [noib3/nvim-completion](https://github.com/noib3/nvim-completion) - :zap: An async autocompletion framework for Neovim
 - [qnighy/dont](https://github.com/qnighy/dont) - swiss army knife for everything you do not want to do
 - [rusqlite/rusqlite](https://github.com/rusqlite/rusqlite) - Ergonomic bindings to SQLite for Rust
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -1652,6 +1657,7 @@
 
 ## TypeScript 
 
+- [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 - [googlemaps/js-api-loader](https://github.com/googlemaps/js-api-loader) - Load the Google Maps JavaScript API script dynamically.
 - [lambdalisue/deno-unnullish](https://github.com/lambdalisue/deno-unnullish) - 🦕 An opposite function of nullish coalescing operator
 - [tennashi/ddu-source-make](https://github.com/tennashi/ddu-source-make) - This source collects make targets from Makefile.
@@ -2126,6 +2132,7 @@
 
 ## Vim Script 
 
+- [vim-denops/denops-shared-server.vim](https://github.com/vim-denops/denops-shared-server.vim) - 🎃 Vim plugin to help install/uninstall denops-shared-server
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [lambdalisue/dotfiles](https://github.com/lambdalisue/dotfiles) - Personal dotfiles
 - [yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim) - Add a file preview window to fern.vim.
