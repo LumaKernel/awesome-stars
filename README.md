@@ -1240,6 +1240,7 @@
 
 ## Python 
 
+- [metalibm/metalibm](https://github.com/metalibm/metalibm) - Code generation tool to generate mathematical libraries
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
