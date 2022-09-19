@@ -78,6 +78,7 @@
 
 ## C 
 
+- [Ryooooooga/cute](https://github.com/Ryooooooga/cute) - Header only Unit Testing Framework for C99
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine.
@@ -1398,6 +1399,7 @@
 
 ## Rust 
 
+- [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Simplified glue code generation for Deno FFI libraries written in Rust.
 - [megumish/refuic](https://github.com/megumish/refuic) - 
 - [dermesser/memoize](https://github.com/dermesser/memoize) - Macro for auto-memoizing Rust functions.
@@ -1876,7 +1878,7 @@
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
-- [maticzav/graphql-shield](https://github.com/maticzav/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
+- [dimatill/graphql-shield](https://github.com/dimatill/graphql-shield) - 🛡 A GraphQL tool to ease the creation of permission layer.
 - [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 - [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 - [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
@@ -2100,7 +2102,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Community effort to create roadmaps, guides and other educational content to help the developers get an idea about the software development landscape, learn and grow in their career.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-- [artalar/reatom](https://github.com/artalar/reatom) - Reatom is declarative state manager, designed for both simple and complex applications.
+- [artalar/reatom](https://github.com/artalar/reatom) - Reatom - tiny and powerful reactive system with immutable nature
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
 - [rawrmaan/restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
