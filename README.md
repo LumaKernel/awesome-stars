@@ -1140,7 +1140,7 @@
 - [WLTools/LanguageSpec](https://github.com/WLTools/LanguageSpec) - A description of the language syntax and associated data, examples, and nonexamples.
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
 - [mattn/vscode-lisp](https://github.com/mattn/vscode-lisp) - 
-- [vim-jp/slack-icon](https://github.com/vim-jp/slack-icon) - Slack icon storage for vim-jp
+- [vim-jp/icon](https://github.com/vim-jp/icon) - Icon storage for vim-jp
 - [fnwiya/japanese-rust-companies](https://github.com/fnwiya/japanese-rust-companies) - 日本で Rust を利用している会社一覧
 - [puzzlet/awesome-wordle](https://github.com/puzzlet/awesome-wordle) - Wordle and Wordle-like games
 - [requestly/requestly](https://github.com/requestly/requestly) - A repository for logging feature enhancements, questions and other issues
@@ -1189,7 +1189,7 @@
 - [saojs/awesome-sao](https://github.com/saojs/awesome-sao) - A curated list of delightful SAO resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - A company that helps you bring data from environments together.
+- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Public tracker for Scramjet Cloud Platfortm, a platform that bring data from many environments together.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
 - [planetruby/awesome-rubies](https://github.com/planetruby/awesome-rubies) - A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.)
