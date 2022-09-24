@@ -1166,6 +1166,7 @@
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
+- [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
@@ -1646,7 +1647,6 @@
 - [novacbn/kahi-ui](https://github.com/novacbn/kahi-ui) - Straight-forward Svelte UI for the Web
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
-- [svelterialjs/svelterial](https://github.com/svelterialjs/svelterial) - A Material UI Design Component library for Svelte
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
 - [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
