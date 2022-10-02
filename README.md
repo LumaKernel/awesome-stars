@@ -1396,6 +1396,7 @@
 
 ## Rust 
 
+- [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
 - [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Simplified glue code generation for Deno FFI libraries written in Rust.
