@@ -35,6 +35,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Mathematica](#mathematica)
 - [Mustache](#mustache)
 - [Nim](#nim)
@@ -266,6 +267,7 @@
 
 ## Go 
 
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
@@ -1099,6 +1101,10 @@
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
 
+## Markdown 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
+
 ## Mathematica 
 
 - [WolframResearch/WolframLanguageForJupyter](https://github.com/WolframResearch/WolframLanguageForJupyter) - Wolfram Language kernel for Jupyter notebooks
@@ -1197,7 +1203,6 @@
 - [yaml/yaml](https://github.com/yaml/yaml) - YAML language and community information
 - [thedaviddias/Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist) - 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 - [newTendermint/awesome-analytics](https://github.com/newTendermint/awesome-analytics) - A curated list of analytics frameworks, software and other tools.
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
 - [high-moctane/nextword-data](https://github.com/high-moctane/nextword-data) - Dataset for nextword.
 - [chentsulin/awesome-graphql](https://github.com/chentsulin/awesome-graphql) - Awesome list of GraphQL
 - [expressjs/csurf](https://github.com/expressjs/csurf) - CSRF token middleware
@@ -1667,6 +1672,7 @@
 
 ## TypeScript 
 
+- [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync your .env files, quickly & securely. ⭐️ From the same people who pioneered dotenv.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
