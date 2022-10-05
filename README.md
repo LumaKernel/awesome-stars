@@ -77,6 +77,8 @@
 
 ## C 
 
+- [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
+- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [Ryooooooga/cute](https://github.com/Ryooooooga/cute) - Header only Unit Testing Framework for C99
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
@@ -1678,7 +1680,7 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync your .env files, quickly & securely. ⭐️ From the same people who pioneered dotenv.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
-- [facebookincubator/memlab](https://github.com/facebookincubator/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [desi-ivanov/ts-regexp](https://github.com/desi-ivanov/ts-regexp) - Type-Level Regular Expressions matching with TypeScript
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
