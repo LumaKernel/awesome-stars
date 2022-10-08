@@ -536,7 +536,6 @@
 
 ## Java 
 
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -2054,7 +2053,7 @@
 - [mizchi/next-like-frameworks](https://github.com/mizchi/next-like-frameworks) - 
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [labd/nextjs-basic-auth-middleware](https://github.com/labd/nextjs-basic-auth-middleware) - Add basic authentication to a NextJS application as middleware
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [josephluck/next-typescript-monorepo](https://github.com/josephluck/next-typescript-monorepo) - An example of a monorepo structure with Next.js, TypeScript and Babel
@@ -2316,6 +2315,7 @@
 
 ## Vue 
 
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [alfg/ffprobe-wasm](https://github.com/alfg/ffprobe-wasm) - A Web-based FFProbe. Powered by FFmpeg, Vue and Web Assembly!
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
 - [nuxt-community/typescript-template](https://github.com/nuxt-community/typescript-template) - Typescript starter with Nuxt.js
