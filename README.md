@@ -953,7 +953,6 @@
 - [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [ciaranj/node-oauth](https://github.com/ciaranj/node-oauth) - OAuth wrapper for node.js
 - [mulesoft-labs/js-client-oauth2](https://github.com/mulesoft-labs/js-client-oauth2) - A JavaScript implementation of an oauth2 client, for inclusion in the JavaScript client generator for APIs described with RAML.
 - [brannondorsey/host-validation](https://github.com/brannondorsey/host-validation) - Express.js middleware for "Host" and "Referer" header validation to protect against DNS rebinding attacks.
@@ -1404,6 +1403,7 @@
 
 ## Rust 
 
+- [oreilly-japan/conc_ytakano](https://github.com/oreilly-japan/conc_ytakano) - 『並行プログラミング入門』(O'Reilly Japan, 2021)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
 - [dtolnay/case-studies](https://github.com/dtolnay/case-studies) - Analysis of various tricky Rust code
@@ -1675,6 +1675,7 @@
 
 ## TypeScript 
 
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
@@ -2102,6 +2103,7 @@
 - [hoangvvo/next-session](https://github.com/hoangvvo/next-session) - Simple promise-based session middleware for Next.js, micro, Express, and more
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal, fast and secure runtime for JavaScript and TypeScript written in Go
+- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, and other Web-interoperable runtimes.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
