@@ -1246,6 +1246,7 @@
 
 ## Python 
 
+- [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [metalibm/metalibm](https://github.com/metalibm/metalibm) - Code generation tool to generate mathematical libraries
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -1473,7 +1474,7 @@
 - [sorah/subsystemctl](https://github.com/sorah/subsystemctl) - Utility to run systemd in WSL2 with a Linux namespace
 - [qnighy/logic-solver-rs](https://github.com/qnighy/logic-solver-rs) - 
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-- [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Event Logs
+- [WithSecureLabs/chainsaw](https://github.com/WithSecureLabs/chainsaw) - Rapidly Search and Hunt through Windows Forensic Artefacts
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow.
 - [denoland/deno_lint](https://github.com/denoland/deno_lint) - Blazing fast linter for JavaScript and TypeScript written in Rust
@@ -1675,6 +1676,7 @@
 
 ## TypeScript 
 
+- [tani/lib.deno.dev](https://github.com/tani/lib.deno.dev) - 
 - [microsoft/fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
@@ -1883,7 +1885,7 @@
 - [moncefplastin07/deno-zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno 🦕.
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
-- [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.0
+- [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.1
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Node.js built on top of VS Code
 - [changesets/action](https://github.com/changesets/action) - 
