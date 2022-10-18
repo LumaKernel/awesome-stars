@@ -1249,6 +1249,7 @@
 
 ## Python 
 
+- [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core) - The collection includes a variety of Ansible content to help automate the management of applications in Kubernetes and OpenShift clusters, as well as the provisioning and maintenance of clusters thems
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [metalibm/metalibm](https://github.com/metalibm/metalibm) - Code generation tool to generate mathematical libraries
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
@@ -1407,6 +1408,7 @@
 
 ## Rust 
 
+- [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [oreilly-japan/conc_ytakano](https://github.com/oreilly-japan/conc_ytakano) - 『並行プログラミング入門』(O'Reilly Japan, 2021)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
 - [dtolnay/syn](https://github.com/dtolnay/syn) - Parser for Rust source code
