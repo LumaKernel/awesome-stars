@@ -1064,7 +1064,7 @@
 - [guysv/ilua](https://github.com/guysv/ilua) - Portable Lua kernel for Jupyter
 - [pakozm/IPyLua](https://github.com/pakozm/IPyLua) - IPython Kernel for Lua
 - [SidOfc/carbon.nvim](https://github.com/SidOfc/carbon.nvim) - The simple directory tree viewer for Neovim written in Lua.
-- [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - Boo is a colorscheme for Neovim with handcrafted support for LSP, Treesitter.
+- [rockerBOO/boo-colorscheme-nvim](https://github.com/rockerBOO/boo-colorscheme-nvim) - Boo is a colorscheme for Neovim with handcrafted support for LSP, Tree-sitter.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP
@@ -1890,7 +1890,7 @@
 - [moncefplastin07/deno-zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno 🦕.
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
-- [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.1
+- [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.2
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 - [changesets/action](https://github.com/changesets/action) - 
