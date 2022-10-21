@@ -269,6 +269,7 @@
 
 ## Go 
 
+- [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
@@ -546,7 +547,7 @@
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 - [crocs-muni/usable-cert-validation](https://github.com/crocs-muni/usable-cert-validation) - Research initiative to make TLS certificate validation usable.
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source SQL database designed to process time series data, faster
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
@@ -803,7 +804,7 @@
 - [typicode/pinst](https://github.com/typicode/pinst) - 🍺 dev only postinstall hooks (package.json)
 - [strvcom/code-quality-tools](https://github.com/strvcom/code-quality-tools) - Monorepo with some frequently-used configurations we use on projects 🎨
 - [neoclide/coc-sources](https://github.com/neoclide/coc-sources) - Additional common sources of coc.nvim
-- [datacrafts-io/eslint-config-airbnb-base-typescript-prettier](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier) - Airbnb's *base* ESLint config with TypeScript and Prettier support
+- [datacrafts-io/eslint-config-airbnb-base-typescript-prettier](https://github.com/datacrafts-io/eslint-config-airbnb-base-typescript-prettier) - [DEPRECATED] Airbnb's *base* ESLint config with TypeScript and Prettier support
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint) - Linter/Syntax Checker for EJS Templates.
 - [umidbekk/prettier-plugin-prisma](https://github.com/umidbekk/prettier-plugin-prisma) - Prettier plugin for Prisma
@@ -1121,7 +1122,7 @@
 ## Nim 
 
 - [nim-lang/Nim](https://github.com/nim-lang/Nim) - Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an
-- [fox0430/moe](https://github.com/fox0430/moe) - A command line based editor inspired by vi/vim. Written in Nim.
+- [fox0430/moe](https://github.com/fox0430/moe) - A command line based editor inspired by Vim. Written in Nim.
 
 ## OCaml 
 
