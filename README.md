@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
@@ -1409,6 +1410,8 @@
 
 ## Rust 
 
+- [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [oreilly-japan/conc_ytakano](https://github.com/oreilly-japan/conc_ytakano) - 『並行プログラミング入門』(O'Reilly Japan, 2021)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
