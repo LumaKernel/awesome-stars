@@ -77,6 +77,7 @@
 
 ## C 
 
+- [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
 - [Ryooooooga/cute](https://github.com/Ryooooooga/cute) - Header only Unit Testing Framework for C99
@@ -270,6 +271,8 @@
 
 ## Go 
 
+- [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -1410,6 +1413,11 @@
 
 ## Rust 
 
+- [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
+- [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
+- [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
+- [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
+- [woodyZootopia/30daysOS](https://github.com/woodyZootopia/30daysOS) - 30 days os (with Rust?)
 - [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
