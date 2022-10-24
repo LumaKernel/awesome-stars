@@ -296,7 +296,7 @@
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster
-- [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+- [vercel/turbo](https://github.com/vercel/turbo) - The High-performance Build System for JavaScript & TypeScript Codebases
 - [skai-x/elastic-jupyter-operator](https://github.com/skai-x/elastic-jupyter-operator) - Cloud-native way to provide elastic Jupyter Notebooks on Kubernetes. Run remote kernels, natively.
 - [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
