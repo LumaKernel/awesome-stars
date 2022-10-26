@@ -1463,7 +1463,7 @@
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 - [mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap) - visualize your code with overview like Visual Studio's minimap (under development)
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
