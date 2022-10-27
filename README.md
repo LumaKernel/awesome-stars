@@ -271,6 +271,7 @@
 
 ## Go 
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
@@ -618,7 +619,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI that implement Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [sveltejs/kit](https://github.com/sveltejs/kit) - The fastest way to build Svelte apps
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty, modern linter that helps you avoid errors and enforce conventions in your styles.
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
@@ -1834,7 +1835,7 @@
 - [mizchi/mints](https://github.com/mizchi/mints) - lightweight typescript compiler
 - [MacFJA/svelte-persistent-store](https://github.com/MacFJA/svelte-persistent-store) - A Svelte store that keep its value through pages and reloads
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
-- [Shougo/ddc-line](https://github.com/Shougo/ddc-line) - Line completion for ddc.vim
+- [Shougo/ddc-source-line](https://github.com/Shougo/ddc-source-line) - Line completion for ddc.vim
 - [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase!
 - [privatenumber/esbuild-loader](https://github.com/privatenumber/esbuild-loader) - ⚡️ Speed up your Webpack build with esbuild
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
@@ -1860,7 +1861,7 @@
 - [aws/aws-cdk](https://github.com/aws/aws-cdk) - The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code
 - [gamoutatsumi/ddc-emoji](https://github.com/gamoutatsumi/ddc-emoji) - Emoji source of ddc.vim
 - [actions-ecosystem/action-create-comment](https://github.com/actions-ecosystem/action-create-comment) - 💬 GitHub Action to create a comment
-- [Shougo/ddc-cmdline-history](https://github.com/Shougo/ddc-cmdline-history) - Command history completion for ddc.vim
+- [Shougo/ddc-source-cmdline-history](https://github.com/Shougo/ddc-source-cmdline-history) - Command history completion for ddc.vim
 - [hashicorp/docker-on-aws-ecs-with-terraform-cdk-using-typescript](https://github.com/hashicorp/docker-on-aws-ecs-with-terraform-cdk-using-typescript) - End to End example for deploying a docker container and a static frontend to AWS ECS and AWS Cloudfront
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
@@ -1874,7 +1875,7 @@
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [neoclide/coc-yaml](https://github.com/neoclide/coc-yaml) - Yaml language server extension for coc.nvim
 - [kat0h/bufpreview.vim](https://github.com/kat0h/bufpreview.vim) - A markdown previewer for Vim and Neovim
-- [Shougo/ddc-rtags](https://github.com/Shougo/ddc-rtags) - rtags completion for ddc.vim
+- [Shougo/ddc-source-rtags](https://github.com/Shougo/ddc-source-rtags) - rtags completion for ddc.vim
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) - 🔥 Fully-local simulator for Cloudflare Workers
 - [juice-shop/juice-shop](https://github.com/juice-shop/juice-shop) - OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
 - [lambdalisue/deno-workerio](https://github.com/lambdalisue/deno-workerio) - 🦕 Deno module to translate Worker's system of messages into Reader and Writer
@@ -1882,7 +1883,7 @@
 - [delphinus/ddc-tmux](https://github.com/delphinus/ddc-tmux) - A source for ddc.vim to gather candidates from tmux panes
 - [LumaKernel/vim-tsdetect](https://github.com/LumaKernel/vim-tsdetect) - 
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
-- [Shougo/ddc-omni](https://github.com/Shougo/ddc-omni) - Omnifunc completion for ddc.vim
+- [Shougo/ddc-source-omni](https://github.com/Shougo/ddc-source-omni) - Omnifunc completion for ddc.vim
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [robey/ballvalve](https://github.com/robey/ballvalve) - adapt streaming data into async iterators
 - [Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
@@ -1898,7 +1899,7 @@
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [LumaKernel/ddc-tabnine](https://github.com/LumaKernel/ddc-tabnine) - TabNine Completion for ddc.vim. This source collects candidates from TabNine.
 - [delphinus/ddc-treesitter](https://github.com/delphinus/ddc-treesitter) - A source for ddc.vim to gather candidates from nvim-treesitter
-- [Shougo/ddc-nextword](https://github.com/Shougo/ddc-nextword) - Nextword completion for ddc
+- [Shougo/ddc-source-nextword](https://github.com/Shougo/ddc-source-nextword) - Nextword completion for ddc
 - [yaegassy/coc-volar](https://github.com/yaegassy/coc-volar) - Volar (Fast Vue Language Support) extension for coc.nvim
 - [moncefplastin07/deno-zip](https://github.com/moncefplastin07/deno-zip) - Streaming cross-platform zip tool written for Deno 🦕.
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
@@ -1924,8 +1925,8 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
-- [Shougo/ddc-around](https://github.com/Shougo/ddc-around) - Around completion for ddc.vim
-- [Shougo/ddc-nvim-lsp](https://github.com/Shougo/ddc-nvim-lsp) - nvim-lsp source for ddc.vim
+- [Shougo/ddc-source-around](https://github.com/Shougo/ddc-source-around) - Around completion for ddc.vim
+- [Shougo/ddc-source-nvim-lsp](https://github.com/Shougo/ddc-source-nvim-lsp) - nvim-lsp source for ddc.vim
 - [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 📚 Standard module for denops.vim
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim8
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim8
