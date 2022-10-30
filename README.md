@@ -2189,6 +2189,7 @@
 
 ## Vim Script 
 
+- [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-denops/denops-shared-server.vim](https://github.com/vim-denops/denops-shared-server.vim) - 🎃 Vim plugin to help install/uninstall denops-shared-server
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) - Vim configuration for Rust.
