@@ -1131,6 +1131,7 @@
 
 ## OCaml 
 
+- [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
 - [ocsigen/lwt](https://github.com/ocsigen/lwt) - OCaml promises and concurrent I/O
 - [corwin-of-amber/ocaml-wasm](https://github.com/corwin-of-amber/ocaml-wasm) - The core OCaml system: compilers, runtime system, base libraries; WebAssembly port based on wasi-kernel
 - [ocaml/ocaml-lsp](https://github.com/ocaml/ocaml-lsp) - OCaml Language Server Protocol implementation
