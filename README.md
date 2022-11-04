@@ -567,6 +567,7 @@
 
 ## JavaScript 
 
+- [kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks) - Learn React Hooks! 🎣 ⚛
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [tc39/proposal-extractors](https://github.com/tc39/proposal-extractors) - Extractors for ECMAScript
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
@@ -1155,6 +1156,7 @@
 
 ## Others 
 
+- [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, dummy displays, PIP and lots more!
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [llvm/llvm-project](https://github.com/llvm/llvm-project) - The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at ht
@@ -1716,6 +1718,7 @@
 
 ## TypeScript 
 
+- [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
 - [wtetsu/mouse-dictionary](https://github.com/wtetsu/mouse-dictionary) - 📘Super fast browser dictionary
 - [tani/lib.deno.dev](https://github.com/tani/lib.deno.dev) - 
