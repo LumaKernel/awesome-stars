@@ -1434,6 +1434,7 @@
 
 ## Rust 
 
+- [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
 - [termoshtt/katexit](https://github.com/termoshtt/katexit) - Insert KaTeX autorender script into rustdoc
@@ -1722,6 +1723,7 @@
 
 ## TypeScript 
 
+- [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Powerful routing and search-params for JS/TS, React, Solid, Vue and Svelte
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [cisagov/RedEye](https://github.com/cisagov/RedEye) - RedEye is a visual analytic tool supporting Red & Blue Team operations
@@ -1925,7 +1927,7 @@
 - [matsui54/ddc-buffer](https://github.com/matsui54/ddc-buffer) - Buffer source for ddc.vim
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) - Update Deno Dependencies - update dependency urls to their latest published versions
 - [luma-dev/deno-iterator-helpers](https://github.com/luma-dev/deno-iterator-helpers) - Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.
-- [LumaKernel/ddc-file](https://github.com/LumaKernel/ddc-file) - Powerful and performant file name completion for ddc.vim.
+- [LumaKernel/ddc-source-file](https://github.com/LumaKernel/ddc-source-file) - Powerful and performant file name completion for ddc.vim.
 - [justjavac/deno_dirs](https://github.com/justjavac/deno_dirs) - Returns the user and platform specific directories
 - [doctorray117/minecraft-ondemand](https://github.com/doctorray117/minecraft-ondemand) - Templates to deploy a serverless Minecraft Server on demand in AWS
 - [LumaKernel/ddc-tabnine](https://github.com/LumaKernel/ddc-tabnine) - TabNine Completion for ddc.vim. This source collects candidates from TabNine.
@@ -2268,7 +2270,7 @@
 - [cwood/vim-django](https://github.com/cwood/vim-django) - vim-django run commands, create apps, and beyond
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
-- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - Another dark theme for classic Vim & modern Neovim
+- [bluz71/vim-nightfly-colors](https://github.com/bluz71/vim-nightfly-colors) - A dark midnight theme for classic Vim & modern Neovim
 - [mhartington/oceanic-next](https://github.com/mhartington/oceanic-next) - Oceanic Next theme for neovim
 - [mattn/vim-markov](https://github.com/mattn/vim-markov) - 
 - [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen.  Supports both vim and neovim + tree-sitter.
