@@ -15,7 +15,6 @@
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
-- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
 - [Elixir](#elixir)
@@ -145,6 +144,7 @@
 
 ## C++ 
 
+- [hengband/hengband](https://github.com/hengband/hengband) - 変愚蛮怒のメインリポジトリ
 - [marcj/TypeRunner](https://github.com/marcj/TypeRunner) - High-performance TypeScript compiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
@@ -237,10 +237,6 @@
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [inaimathi/cl-notebook](https://github.com/inaimathi/cl-notebook) - A notebook-style editor for Common Lisp
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
-
-## Dart 
-
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## Dockerfile 
 
@@ -1461,6 +1457,7 @@
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [dtolnay/rustversion](https://github.com/dtolnay/rustversion) - Conditional compilation according to rustc compiler version
 - [spacejam/sled](https://github.com/spacejam/sled) - the champagne of beta embedded databases
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [phiresky/sqlite-zstd](https://github.com/phiresky/sqlite-zstd) - Transparent dictionary-based row-level compression for SQLite
 - [kkawakam/rustyline](https://github.com/kkawakam/rustyline) - Readline Implementation in Rust
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
@@ -1725,6 +1722,7 @@
 
 ## TypeScript 
 
+- [fkhadra/react-toastify](https://github.com/fkhadra/react-toastify) - React notification made easy 🚀 !
 - [vitest-dev/vscode](https://github.com/vitest-dev/vscode) - VS Code extension for Vitest
 - [TanStack/router](https://github.com/TanStack/router) - 🤖 Type-safe router w/ built-in caching & URL state management for JS/TS, React, Preact, Solid, Vue, Svelte and Angular
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
