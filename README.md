@@ -1433,6 +1433,7 @@
 
 ## Rust 
 
+- [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
 - [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [lalrpop/lalrpop](https://github.com/lalrpop/lalrpop) - LR(1) parser generator for Rust
@@ -1615,7 +1616,7 @@
 
 ## SCSS 
 
-- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documention with built-in search.
+- [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Scala 
