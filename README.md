@@ -1778,7 +1778,7 @@
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
 - [ijjk/notion-blog](https://github.com/ijjk/notion-blog) - A Next.js site using new SSG support with a Notion backed blog
 - [primer/prism](https://github.com/primer/prism) - A tool for creating and maintaining cohesive, consistent, and accessible color palettes
-- [archaeopteryx1/illustrator.js](https://github.com/archaeopteryx1/illustrator.js) - JavaScript image processing library
+- [skdhg/illustrator.js](https://github.com/skdhg/illustrator.js) - JavaScript image processing library
 - [teambit/bit-dev](https://github.com/teambit/bit-dev) - Bit's website.
 - [macaron-elements/macaron](https://github.com/macaron-elements/macaron) - Visual component editor for Web development
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
