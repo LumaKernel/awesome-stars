@@ -569,6 +569,8 @@
 
 ## JavaScript 
 
+- [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
+- [petkaantonov/deque](https://github.com/petkaantonov/deque) - Extremely fast double-ended queue implementation
 - [kentcdodds/react-hooks](https://github.com/kentcdodds/react-hooks) - Learn React Hooks! 🎣 ⚛
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 - [tc39/proposal-extractors](https://github.com/tc39/proposal-extractors) - Extractors for ECMAScript
@@ -1277,6 +1279,7 @@
 
 ## Python 
 
+- [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
 - [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager) - Inkscape shorcut manager
 - [shrikant0013/gcp-aws-webidentityfederation](https://github.com/shrikant0013/gcp-aws-webidentityfederation) - AWS Auth using WebIdentityFederation from Google Cloud
 - [ansible-collections/kubernetes.core](https://github.com/ansible-collections/kubernetes.core) - The collection includes a variety of Ansible content to help automate the management of applications in Kubernetes and OpenShift clusters, as well as the provisioning and maintenance of clusters thems
@@ -1437,6 +1440,7 @@
 
 ## Rust 
 
+- [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript and JavaScript code formatting plugin for dprint.
 - [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
 - [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
@@ -1729,6 +1733,7 @@
 
 ## TypeScript 
 
+- [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
 - [artisticat1/obsidian-latex-suite](https://github.com/artisticat1/obsidian-latex-suite) - Make typesetting LaTeX as fast as handwriting through snippets and text expansion
 - [foambubble/foam](https://github.com/foambubble/foam) - A personal knowledge management and sharing system for VSCode
@@ -2154,7 +2159,6 @@
 - [prisma/language-tools](https://github.com/prisma/language-tools) - 🌐 Prisma Language Tools = Language Server and Prisma's VS Code extension.
 - [prisma/prisma-examples](https://github.com/prisma/prisma-examples) - 🚀 Ready-to-run Prisma example projects
 - [frouriojs/frourio.com](https://github.com/frouriojs/frourio.com) - 
-- [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
 - [fox1t/fastify-multer](https://github.com/fox1t/fastify-multer) - Fastify plugin for handling multipart/form-data
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
