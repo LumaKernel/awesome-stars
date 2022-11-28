@@ -80,6 +80,7 @@
 
 ## C 
 
+- [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS
@@ -145,6 +146,7 @@
 
 ## C++ 
 
+- [e-maxx-eng/e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng) - Translation of http://e-maxx.ru into English
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [dnobori/DN-Win32DiskImagerRenewal](https://github.com/dnobori/DN-Win32DiskImagerRenewal) - このリポジトリは、Windows 上での USB メモリ / SD カードイメージ書き込みツールのデファクト・スタンダードとなっている Win32 Disk Imager について、以下の点を改良した 「Win32 Disk Imager Renewal」 の デジタル署名済みの EXE 単体で動作する Win32 / x64 / ARM64 版バイナリ とソースコードを配布するためのものである。
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -905,7 +907,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 37 plugins. 1243 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 37 plugins. 1250 rules. React, Vue, Node, and pure JS/TS.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -1446,6 +1448,7 @@
 
 ## Rust 
 
+- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript and JavaScript code formatting plugin for dprint.
 - [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
 - [siketyan/ghr](https://github.com/siketyan/ghr) - 🚀 Yet another repository management with auto-attaching profiles.
@@ -1738,6 +1741,7 @@
 
 ## TypeScript 
 
+- [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🤖 GitLab API NodeJS library with full support of all the Gitlab API services.
 - [frouriojs/frourio-express](https://github.com/frouriojs/frourio-express) - Fast and type-safe full stack framework, for TypeScript
 - [blacksmithgu/obsidian-dataview](https://github.com/blacksmithgu/obsidian-dataview) - A high-performance data index and query language over Markdown files, for https://obsidian.md/.
