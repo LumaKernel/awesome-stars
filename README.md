@@ -389,7 +389,7 @@
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [munnerz/kubewg](https://github.com/munnerz/kubewg) - Use Kubernetes to manage & distribute Wireguard configuration
-- [minio/operator](https://github.com/minio/operator) - MinIO Operator creates/configures/manages MinIO clusters on Kubernetes
+- [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [containers/image](https://github.com/containers/image) - Work with containers' images
@@ -2152,7 +2152,7 @@
 - [Sytten/nexus-shield](https://github.com/Sytten/nexus-shield) - 🛡 Nexus plugin to ease the creation of the authorization layer
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [oke-py/npm-audit-action](https://github.com/oke-py/npm-audit-action) - GitHub Action to run `npm audit`
-- [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An extension of eslint-config-standard, made for TypeScript.
+- [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An ESLint shareable config for TypeScript that is based on eslint-config-standard and has TypeScript specific rules from @typescript-eslint/eslint-plugin.
 - [gajus/graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
