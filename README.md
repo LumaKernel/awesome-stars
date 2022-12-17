@@ -857,7 +857,6 @@
 - [retextjs/retext-quotes](https://github.com/retextjs/retext-quotes) - plugin to check quotes and apostrophes
 - [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
 - [avajs/eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules for AVA
-- [RIAEvangelist/node-ipc](https://github.com/RIAEvangelist/node-ipc) - Inter Process Communication Module for node supporting Unix sockets, TCP, TLS, and UDP. Giving lightning speed on Linux, Mac, and Windows. Neural Networking in Node.JS
 - [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 - [foreversd/forever](https://github.com/foreversd/forever) - A simple CLI tool for ensuring that a given script runs continuously (i.e. forever)
@@ -1458,6 +1457,7 @@
 
 ## Rust 
 
+- [phaazon/do-notation](https://github.com/phaazon/do-notation) - The Haskell’s do notation brought to Rust
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript and JavaScript code formatting plugin for dprint.
 - [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
