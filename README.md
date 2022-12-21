@@ -81,6 +81,7 @@
 
 ## C 
 
+- [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
@@ -148,7 +149,8 @@
 
 ## C++ 
 
-- [e-maxx-eng/e-maxx-eng](https://github.com/e-maxx-eng/e-maxx-eng) - Translation of http://e-maxx.ru into English
+- [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+- [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Translation of http://e-maxx.ru into English
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
 - [dnobori/DN-Win32DiskImagerRenewal](https://github.com/dnobori/DN-Win32DiskImagerRenewal) - このリポジトリは、Windows 上での USB メモリ / SD カードイメージ書き込みツールのデファクト・スタンダードとなっている Win32 Disk Imager について、以下の点を改良した 「Win32 Disk Imager Renewal」 の デジタル署名済みの EXE 単体で動作する Win32 / x64 / ARM64 版バイナリ とソースコードを配布するためのものである。
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
@@ -318,7 +320,7 @@
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
 - [kloeckner-i/db-operator](https://github.com/kloeckner-i/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
@@ -562,6 +564,7 @@
 
 ## Java 
 
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》一本动画图解、能运行、可提问的数据结构与算法入门书
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
@@ -1158,6 +1161,7 @@
 
 ## OCaml 
 
+- [realworldocaml/book](https://github.com/realworldocaml/book) - V2 of Real World OCaml
 - [ocaml/opam](https://github.com/ocaml/opam) - opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.
 - [qnighy/ipc_solver](https://github.com/qnighy/ipc_solver) - O(N log N)-space IPC solver in OCaml
 - [ocaml/merlin](https://github.com/ocaml/merlin) - Context sensitive completion for OCaml in Vim and Emacs
@@ -1235,7 +1239,7 @@
 - [saojs/awesome-sao](https://github.com/saojs/awesome-sao) - A curated list of delightful SAO resources.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Public tracker for Scramjet Cloud Platfortm, a platform that bring data from many environments together.
+- [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Public tracker for Scramjet Cloud Platform, a platform that bring data from many environments together.
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [remarkjs/awesome-remark](https://github.com/remarkjs/awesome-remark) - Curated list of awesome remark resources
 - [planetruby/awesome-rubies](https://github.com/planetruby/awesome-rubies) - A collection of awesome Rubies (compilers, interpreters, virtual machines, parsers, doc generators, version managers, etc.)
@@ -1640,6 +1644,7 @@
 
 ## SCSS 
 
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
@@ -1749,6 +1754,7 @@
 
 ## TypeScript 
 
+- [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the unified package manager (brew2)
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
