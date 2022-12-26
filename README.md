@@ -2208,7 +2208,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
-- [artalar/reatom](https://github.com/artalar/reatom) - Reatom - tiny and powerful reactive system with immutable nature
+- [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
 - [rawrmaan/restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
 - [kulshekhar/ts-jest](https://github.com/kulshekhar/ts-jest) - A Jest transformer with source map support that lets you use Jest to test projects written in TypeScript.
