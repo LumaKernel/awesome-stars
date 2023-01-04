@@ -286,6 +286,7 @@
 
 ## Go 
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [GoogleCloudPlatform/artifact-registry-apt-transport](https://github.com/GoogleCloudPlatform/artifact-registry-apt-transport) - 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [repeale/fp-go](https://github.com/repeale/fp-go) - Fp-go is a collection of Functional Programming helpers powered by Golang 1.18+ generics.
