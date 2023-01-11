@@ -2100,7 +2100,6 @@
 - [vim-denops/denops-deno](https://github.com/vim-denops/denops-deno) - 🐜 Deno module for denops.vim
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [LumaKernel/coc-denoland](https://github.com/LumaKernel/coc-denoland) - DEPRECATED
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [aholachek/react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
@@ -2300,6 +2299,7 @@
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [uki00a/vim-deno](https://github.com/uki00a/vim-deno) - An experimental vim plugin for Deno🦕
 - [josa42/vim-lightline-coc](https://github.com/josa42/vim-lightline-coc) - 
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [hrsh7th/vim-lamp](https://github.com/hrsh7th/vim-lamp) - 💡Language Server Protocol client for Vim.
 - [hrsh7th/vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs) - 
 - [vim-scripts/MultipleSearch](https://github.com/vim-scripts/MultipleSearch) - Highlight multiple searches at the same time, each with a different color.
