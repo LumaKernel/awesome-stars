@@ -524,6 +524,7 @@
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
 - [whatwg/streams](https://github.com/whatwg/streams) - Streams Standard
 - [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
+- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [aws-samples/opsworks-windows-demo-nodejs](https://github.com/aws-samples/opsworks-windows-demo-nodejs) - A sample Node.JS application for running on AWS OpsWorks
 - [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
@@ -590,6 +591,7 @@
 
 ## JavaScript 
 
+- [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
 - [parinfer/parinfer.js](https://github.com/parinfer/parinfer.js) - Let's simplify the way we write Lisp
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
 - [petkaantonov/deque](https://github.com/petkaantonov/deque) - Extremely fast double-ended queue implementation
@@ -692,7 +694,6 @@
 - [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl) - yet another unzip library for node
 - [EvanOxfeld/node-unzip](https://github.com/EvanOxfeld/node-unzip) - node.js cross-platform unzip using streams
-- [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) - Loads environment variables from .env.[development|test|production][.local] files for Node.js® projects.
 - [pinojs/pino](https://github.com/pinojs/pino) - 🌲 super fast, all natural json logger
 - [jshttp/http-errors](https://github.com/jshttp/http-errors) - Create HTTP Errors
