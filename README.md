@@ -112,7 +112,7 @@
 - [audacity/audacity](https://github.com/audacity/audacity) - Audio Editor
 - [gentilkiwi/mimikatz](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [lsof-org/lsof](https://github.com/lsof-org/lsof) - list open files
+- [lsof-org/lsof](https://github.com/lsof-org/lsof) - LiSt Open Files
 - [skarnet/s6](https://github.com/skarnet/s6) - The s6 supervision suite.
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 - [openssh/openssh-portable](https://github.com/openssh/openssh-portable) - Portable OpenSSH
@@ -1762,6 +1762,7 @@
 
 ## TypeScript 
 
+- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
