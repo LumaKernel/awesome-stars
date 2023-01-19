@@ -652,7 +652,7 @@
 - [mmatera/iwolfram](https://github.com/mmatera/iwolfram) - A jupyter kernel for Wolfram Mathematica
 - [nuxt/eslint-plugin-nuxt](https://github.com/nuxt/eslint-plugin-nuxt) - ESLint plugin for Nuxt.js [WIP]
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com :fishsticks:
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
@@ -901,7 +901,6 @@
 - [tw-in-js/twind](https://github.com/tw-in-js/twind) - The smallest, fastest, most feature complete Tailwind-in-JS solution in existence.
 - [systemjs/systemjs](https://github.com/systemjs/systemjs) - Dynamic ES module loader
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-- [nuxt/nuxt.js](https://github.com/nuxt/nuxt.js) - The Intuitive Vue(2) Framework
 - [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs) - fs with incremental backoff on EMFILE
 - [vfile/vfile](https://github.com/vfile/vfile) - Virtual file format for text processing used in @unifiedjs
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
@@ -1766,7 +1765,7 @@
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [teaxyz/cli](https://github.com/teaxyz/cli) - the next generation, cross‐platform package manager
+- [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🤖 GitLab API NodeJS library with full support of all the Gitlab API services.
@@ -2136,6 +2135,7 @@
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
 - [leonardssh/coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - 😎 An awesome and fully customizable coc-extension to get Discord Rich Presence integration with NeoVim.
+- [nuxt/nuxt](https://github.com/nuxt/nuxt) - Nuxt is an intuitive and extendable way to create type-safe, performant and production-grade full-stack web apps and websites with Vue 3.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
 - [uhyo/eslint-plugin-var-length](https://github.com/uhyo/eslint-plugin-var-length) - 
