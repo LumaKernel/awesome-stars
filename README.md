@@ -1761,6 +1761,7 @@
 
 ## TypeScript 
 
+- [prc5/react-zoom-pan-pinch](https://github.com/prc5/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like images and divs
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
