@@ -2343,7 +2343,6 @@
 - [lambdalisue/fern-hijack.vim](https://github.com/lambdalisue/fern-hijack.vim) - Make fern.vim as a default file explorer instead of Netrw
 - [Quramy/tsuquyomi-vue](https://github.com/Quramy/tsuquyomi-vue) - vim plugin for TypeScript and Vue.js
 - [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) - A Vim plugin for TypeScript
-- [pantharshit00/vim-prisma](https://github.com/pantharshit00/vim-prisma) - Prisma 2 support for vim
 - [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [mattn/asyncomplete-skk.vim](https://github.com/mattn/asyncomplete-skk.vim) - 
 - [jaredgorski/SpaceCamp](https://github.com/jaredgorski/SpaceCamp) - 🔭 Vim colors for the final frontier
