@@ -326,7 +326,7 @@
 - [erjadi/kubecraftadmin](https://github.com/erjadi/kubecraftadmin) - 
 - [sheepla/fzwiki](https://github.com/sheepla/fzwiki) - 🚀 A command line tool with fzf-like UI to search Wikipedia articles and open it in your browser quickly
 - [protocolbuffers/protobuf-go](https://github.com/protocolbuffers/protobuf-go) - Go support for Google's protocol buffers
-- [sigstore/cosign](https://github.com/sigstore/cosign) - Signing containers (and other artifacts) using Sigstore
+- [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing
 - [kloeckner-i/db-operator](https://github.com/kloeckner-i/db-operator) - The DB Operator creates databases and make them available in the cluster via Custom Resource.
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [amacneil/dbmate](https://github.com/amacneil/dbmate) - :rocket: A lightweight, framework-agnostic database migration tool.
