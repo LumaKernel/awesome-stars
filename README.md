@@ -777,7 +777,6 @@
 - [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
-- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
 - [github-tools/github](https://github.com/github-tools/github) - A higher-level wrapper around the Github API. Intended for the browser.
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
@@ -2009,6 +2008,7 @@
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 An utility pack for handling unknown type in deno
+- [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
 - [Shougo/ddc-source-around](https://github.com/Shougo/ddc-source-around) - Around completion for ddc.vim
 - [Shougo/ddc-source-nvim-lsp](https://github.com/Shougo/ddc-source-nvim-lsp) - nvim-lsp source for ddc.vim
 - [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 📚 Standard module for denops.vim
