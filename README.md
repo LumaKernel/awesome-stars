@@ -1153,6 +1153,7 @@
 ## Mustache 
 
 - [Kong/kong-operator](https://github.com/Kong/kong-operator) - Kong Operator for Kubernetes and OpenShift
+- [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Nim 
@@ -1725,7 +1726,6 @@
 
 ## Smarty 
 
-- [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
 
 ## Starlark 
