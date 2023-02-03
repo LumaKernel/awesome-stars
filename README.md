@@ -264,7 +264,6 @@
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
 - [linuxserver/docker-baseimage-ubuntu](https://github.com/linuxserver/docker-baseimage-ubuntu) - 
 - [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
-- [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 - [CircleCI-Public/cimg-base](https://github.com/CircleCI-Public/cimg-base) - The CircleCI Base (Ubuntu) Docker Convenience Image.
 
@@ -1127,7 +1126,7 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) - scrollbar for neovim
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
-- [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) - A language server that offers Lua language support - programmed in Lua
+- [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
@@ -1550,7 +1549,7 @@
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [rhysd/fixred](https://github.com/rhysd/fixred) - Fix outdated links in files with redirect URLs
-- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
+- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [zmwangx/rust-ffmpeg](https://github.com/zmwangx/rust-ffmpeg) - Safe FFmpeg wrapper.
@@ -2046,6 +2045,7 @@
 - [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
 - [egoist/vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
 - [kt3k/packup](https://github.com/kt3k/packup) - 📦 Zero-config web application packager for Deno
+- [denoland/deno_docker](https://github.com/denoland/deno_docker) - Latest dockerfiles and images for Deno - alpine, centos, debian, ubuntu
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
