@@ -1305,6 +1305,7 @@
 
 ## Python 
 
+- [sozysozbot/2kmcc](https://github.com/sozysozbot/2kmcc) - 
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [GoogleCloudPlatform/gsutil](https://github.com/GoogleCloudPlatform/gsutil) - A command line tool for interacting with cloud storage services.
