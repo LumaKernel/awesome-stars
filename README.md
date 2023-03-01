@@ -1470,6 +1470,8 @@
 
 ## Rust 
 
+- [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
+- [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [phaazon/do-notation](https://github.com/phaazon/do-notation) - The Haskell’s do notation brought to Rust
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript and JavaScript code formatting plugin for dprint.
@@ -1978,7 +1980,7 @@
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [thinca/action-setup-vim](https://github.com/thinca/action-setup-vim) - GitHub Action to setup Vim, Neovim, or MacVim.
 - [matsui54/ddc-matcher_fuzzy](https://github.com/matsui54/ddc-matcher_fuzzy) - Fuzzy matcher for ddc.vim
-- [Shougo/ddc-sorter_rank](https://github.com/Shougo/ddc-sorter_rank) - Matched rank order sorter for ddc.vim
+- [Shougo/ddc-filter-sorter_rank](https://github.com/Shougo/ddc-filter-sorter_rank) - Matched rank order sorter for ddc.vim
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
 - [matsui54/ddc-buffer](https://github.com/matsui54/ddc-buffer) - Buffer source for ddc.vim
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) - Update Deno Dependencies - update dependency urls to their latest published versions
