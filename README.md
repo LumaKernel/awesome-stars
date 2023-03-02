@@ -637,16 +637,13 @@
 - [tc39/proposal-type-annotations](https://github.com/tc39/proposal-type-annotations) - ECMAScript proposal for type syntax that is erased - Stage 1
 - [timoxley/wcwidth](https://github.com/timoxley/wcwidth) - Port of C's wcwidth() and wcswidth()
 - [tecfu/smartwrap](https://github.com/tecfu/smartwrap) - Textwrap for javascript/nodejs. Correctly handles wide characters (宽字符) and emojis (😃). Automatically breaks long words. https://www.npmjs.com/package/smartwrap
-- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider) - 👨🏼‍🎨 Divider component for Ink
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) - Utilities for testing Ink apps
 - [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
 - [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/ink-big-text](https://github.com/sindresorhus/ink-big-text) - Awesome text component for Ink
-- [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Browser Add-on: Automatically save the content in Textarea.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -919,7 +916,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 43 plugins. 1214 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 44 plugins. 1227 rules. React, Vue, Node, and pure JS/TS.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -1856,11 +1853,14 @@
 - [probot/probot](https://github.com/probot/probot) - 🤖 A framework for building GitHub Apps to automate and improve your workflow
 - [changesets/bot](https://github.com/changesets/bot) - 
 - [Kong/swrv](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue
+- [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [Eximchain/ink-quicksearch-input](https://github.com/Eximchain/ink-quicksearch-input) - :black_nib: Quicksearch Input component for Ink
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
+- [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) - Utilities for testing Ink apps
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
+- [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
 - [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edge
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
