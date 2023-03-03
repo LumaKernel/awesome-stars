@@ -403,7 +403,6 @@
 - [operator-framework/operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager) - A management framework for extending Kubernetes with Operators
 - [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
 - [munnerz/kubewg](https://github.com/munnerz/kubewg) - Use Kubernetes to manage & distribute Wireguard configuration
-- [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [helm/charts](https://github.com/helm/charts) - ⚠️(OBSOLETE) Curated applications for Kubernetes
 - [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
 - [containers/image](https://github.com/containers/image) - Work with containers' images
@@ -1290,6 +1289,7 @@
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 
 ## Prolog 
@@ -1439,7 +1439,6 @@
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Reason 
 
@@ -1467,6 +1466,7 @@
 
 ## Rust 
 
+- [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [phaazon/do-notation](https://github.com/phaazon/do-notation) - The Haskell’s do notation brought to Rust
@@ -1828,7 +1828,7 @@
 - [primer/prism](https://github.com/primer/prism) - A tool for creating and maintaining cohesive, consistent, and accessible color palettes
 - [skdhg/illustrator.js](https://github.com/skdhg/illustrator.js) - JavaScript image processing library
 - [teambit/bit-dev](https://github.com/teambit/bit-dev) - Bit's website.
-- [macaron-elements/macaron](https://github.com/macaron-elements/macaron) - Visual component editor for Web development
+- [uimix-editor/uimix](https://github.com/uimix-editor/uimix) - Visual component editor for Web development
 - [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 - [gvergnaud/ts-pattern](https://github.com/gvergnaud/ts-pattern) - 🎨 The exhaustive Pattern Matching library for TypeScript, with smart type inference.
 - [tinyhttp/tinyws](https://github.com/tinyhttp/tinyws) - 🚡 tiny WebSocket middleware for Node.js
@@ -1953,7 +1953,7 @@
 - [gamoutatsumi/ddc-emoji](https://github.com/gamoutatsumi/ddc-emoji) - Emoji source of ddc.vim
 - [actions-ecosystem/action-create-comment](https://github.com/actions-ecosystem/action-create-comment) - 💬 GitHub Action to create a comment
 - [Shougo/ddc-source-cmdline-history](https://github.com/Shougo/ddc-source-cmdline-history) - Command history completion for ddc.vim
-- [hashicorp/docker-on-aws-ecs-with-terraform-cdk-using-typescript](https://github.com/hashicorp/docker-on-aws-ecs-with-terraform-cdk-using-typescript) - End to End example for deploying a docker container and a static frontend to AWS ECS and AWS Cloudfront
+- [cdktf/docker-on-aws-ecs-with-terraform-cdk-using-typescript](https://github.com/cdktf/docker-on-aws-ecs-with-terraform-cdk-using-typescript) - End to End example for deploying a docker container and a static frontend to AWS ECS and AWS Cloudfront
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [Minigugus/bazx](https://github.com/Minigugus/bazx) - 🐚️ zx on 💊️ steroids
@@ -2047,6 +2047,7 @@
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [nwtgck/ts-json-validator](https://github.com/nwtgck/ts-json-validator) - JSON Validator for TypeScript - Safer JSON.parse() validating by TypeScript types
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
+- [minio/operator](https://github.com/minio/operator) - Simple Kubernetes Operator for MinIO clusters :computer:
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
