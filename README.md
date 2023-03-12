@@ -1760,6 +1760,7 @@
 
 ## TypeScript 
 
+- [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM for SQL
 - [qnighy/dedent-js](https://github.com/qnighy/dedent-js) - JS multi-line literal done right
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
