@@ -1415,7 +1415,7 @@
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest) - Snapshot Testing utils for Python 📸
 - [relastle/vim-nayvy](https://github.com/relastle/vim-nayvy) - :new_moon: Enriching python coding in Vim :snake:
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
