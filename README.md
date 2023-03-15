@@ -416,6 +416,7 @@
 - [cri-o/cri-o](https://github.com/cri-o/cri-o) - Open Container Initiative-based implementation of Kubernetes Container Runtime Interface
 - [projectcalico/calico](https://github.com/projectcalico/calico) - Cloud native networking and network security
 - [cybozu-go/coil](https://github.com/cybozu-go/coil) - CNI plugin for Kubernetes designed for scalability and extensibility
+- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) - 📦 Find and install kubectl plugins
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
@@ -914,7 +915,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 44 plugins. 1227 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 44 plugins. 1217 rules. React, Vue, Node, and pure JS/TS.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -2057,7 +2058,6 @@
 - [coc-extensions/coc-svelte](https://github.com/coc-extensions/coc-svelte) - svelte support for (Neo)Vim
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
-- [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [egoist/vue-dts-gen](https://github.com/egoist/vue-dts-gen) - Generate `d.ts` from `.vue` files.
 - [kt3k/packup](https://github.com/kt3k/packup) - 📦 Zero-config web application packager for Deno
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
