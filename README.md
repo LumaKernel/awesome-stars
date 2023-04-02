@@ -1130,6 +1130,7 @@
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) - [WIP] An implementation of the Popup API from vim in Neovim. Hope to upstream when complete
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [cideM/yui](https://github.com/cideM/yui) - A minimal Vim/Neovim color scheme inspired by Dieter Rams
 - [wincent/command-t](https://github.com/wincent/command-t) - ⌨️ Fast file navigation for VIM
 
 ## Makefile 
@@ -1668,7 +1669,6 @@
 
 ## Scala 
 
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Scheme 
@@ -1806,6 +1806,7 @@
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync .env files
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [desi-ivanov/ts-regexp](https://github.com/desi-ivanov/ts-regexp) - Type-Level Regular Expressions matching with TypeScript
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
@@ -2412,7 +2413,6 @@
 - [lambdalisue/reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 - [dkarter/bullets.vim](https://github.com/dkarter/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
-- [cideM/yui](https://github.com/cideM/yui) - Minimal vim color scheme
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
