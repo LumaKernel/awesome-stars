@@ -2092,7 +2092,7 @@
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
-- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Converts your ◭ Prisma Schema into a full-blown GraphQL API for AWS AppSync.
+- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Instant GraphQL API generator for ◭ Prisma and AWS AppSync.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
@@ -2224,7 +2224,7 @@
 - [dotansimha/graphql-typed-ast](https://github.com/dotansimha/graphql-typed-ast) - Experimental TypeScript type-based parser for GraphQL
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
-- [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+- [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
 - [ctrlplusb/prisma-pg-jest](https://github.com/ctrlplusb/prisma-pg-jest) - Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context
 - [legraphista/ffmpeg-progress-wrapper](https://github.com/legraphista/ffmpeg-progress-wrapper) - A simple wrapper that helps determinng the progress of the ffmpeg conversion and other info
