@@ -561,6 +561,7 @@
 
 ## Haskell 
 
+- [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 - [agda/agda](https://github.com/agda/agda) - Agda is a dependently typed programming language / interactive theorem prover.
 - [JustusAdam/language-haskell](https://github.com/JustusAdam/language-haskell) - Highlighting support for the Haskell language in visual studio code.
 - [kmyk-jikka/Jikka](https://github.com/kmyk-jikka/Jikka) - an automated solver for problems of competitive programming
@@ -1075,6 +1076,7 @@
 
 ## Jupyter Notebook 
 
+- [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [Jaykul/Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell
 - [p-geon/ja-tokenizer-docker-py](https://github.com/p-geon/ja-tokenizer-docker-py) - Mecab + NEologd + Docker + Python3
@@ -1311,6 +1313,10 @@
 
 ## Python 
 
+- [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
+- [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -1488,6 +1494,9 @@
 
 ## Rust 
 
+- [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
+- [rusticata/x509-parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
@@ -1695,7 +1704,7 @@
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [yuru7/HackGen](https://github.com/yuru7/HackGen) - Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
-- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish.
+- [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [ItsDanielHarris/Dnsmasq-Adblocker](https://github.com/ItsDanielHarris/Dnsmasq-Adblocker) - An automated dnsmasq tool with remote blacklists, whitelist, and TLD blacklist support.
 - [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
@@ -1721,7 +1730,7 @@
 - [vinceliuice/Vimix-cursors](https://github.com/vinceliuice/Vimix-cursors) - Vimix-cursors for linux desktop
 - [tfutils/tfenv](https://github.com/tfutils/tfenv) - Terraform version manager
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands replaying changes in Fish. 🍤
+- [jorgebucaran/replay.fish](https://github.com/jorgebucaran/replay.fish) - Run Bash commands, replay changes in Fish 🍤
 - [Rasukarusan/fzf-chrome-active-tab](https://github.com/Rasukarusan/fzf-chrome-active-tab) - :penguin: Fuzzy search and activate Chrome tab via the terminal.
 - [jakejarvis/s3-sync-action](https://github.com/jakejarvis/s3-sync-action) - 🔄 GitHub Action to sync a directory with a remote S3 bucket 🧺
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) - Asynchronous Programming in Rust
