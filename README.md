@@ -233,6 +233,7 @@
 
 ## CSS 
 
+- [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -1494,6 +1495,8 @@
 
 ## Rust 
 
+- [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
+- [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [rusticata/x509-parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
@@ -2326,6 +2329,7 @@
 
 ## Vim Script 
 
+- [qnighy/lalrpop.vim](https://github.com/qnighy/lalrpop.vim) - LALRPOP Vim plugin with minimal syntax-highlighting functionality
 - [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
 - [vim-denops/denops-shared-server.vim](https://github.com/vim-denops/denops-shared-server.vim) - 🎃 Vim plugin to help install/uninstall denops-shared-server
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
