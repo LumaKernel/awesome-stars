@@ -6,6 +6,7 @@
 ## Contents
 
 - [Adblock Filter List](#adblock-filter-list)
+- [Astro](#astro)
 - [Awk](#awk)
 - [Brainfuck](#brainfuck)
 - [C](#c)
@@ -75,6 +76,10 @@
 ## Adblock Filter List 
 
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds) - 
+
+## Astro 
+
+- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 
 ## Awk 
 
@@ -600,6 +605,7 @@
 
 ## JavaScript 
 
+- [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [azu/service-worker-updatefound-refresh-dialog](https://github.com/azu/service-worker-updatefound-refresh-dialog) - A library show refresh dialog/banner when the service worker found updated.
@@ -723,7 +729,7 @@
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Detect Browser, Engine, OS, CPU, and Device type/model from User-Agent & Client-Hints data. Supports browser & node.js environment.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
-- [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 2 IEEE 754 half-precision floating-point ponyfill
+- [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 3 IEEE 754 half-precision floating-point ponyfill
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
 - [SheetJS/sheetjs](https://github.com/SheetJS/sheetjs) - 📗 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs
 - [kt3k/deno-bin](https://github.com/kt3k/deno-bin) - Use Deno via npm
@@ -1199,6 +1205,7 @@
 
 ## Others 
 
+- [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
@@ -1499,7 +1506,7 @@
 - [softdevteam/grmtools](https://github.com/softdevteam/grmtools) - Rust grammar tool libraries and binaries
 - [rust-bakery/nom](https://github.com/rust-bakery/nom) - Rust parser combinator framework
 - [rusticata/x509-parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
@@ -1806,7 +1813,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
-- [qunash/chatgpt-advanced](https://github.com/qunash/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
+- [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
@@ -2282,7 +2289,6 @@
 - [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 - [actumn/celery.node](https://github.com/actumn/celery.node) - Celery task queue client/worker for nodejs
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
