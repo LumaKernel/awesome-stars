@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [siketyan/nakoud](https://github.com/siketyan/nakoud) - 🐳 Access your Docker containers easily without port forwarding
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
@@ -1202,6 +1203,7 @@
 
 ## Others 
 
+- [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
@@ -1320,6 +1322,7 @@
 
 ## Python 
 
+- [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, 
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Interact your data and environment using the local GPT,  no data leaks, 100% privately, 100% security
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
@@ -1503,6 +1506,7 @@
 
 ## Rust 
 
+- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [sinofseven/kabeuchi](https://github.com/sinofseven/kabeuchi) - 
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
@@ -1797,6 +1801,7 @@
 
 ## Swift 
 
+- [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
 - [dwarvesf/blurred](https://github.com/dwarvesf/blurred) - A macOS utility that helps reduce distraction by dimming your inactive noise
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [megabitsenmzq/Notch-Simulator](https://github.com/megabitsenmzq/Notch-Simulator) - Pretend you have the latest MacBook Pro!
