@@ -69,7 +69,6 @@
 - [VBScript](#vbscript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [WebAssembly](#webassembly)
 - [Zig](#zig)
 - [jq](#jq)
 
@@ -1513,6 +1512,7 @@
 
 ## Rust 
 
+- [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) - Steiner tree solver
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [sinofseven/kabeuchi](https://github.com/sinofseven/kabeuchi) - 
@@ -1850,6 +1850,7 @@
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
+- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
@@ -2526,10 +2527,6 @@
 - [mattrothenberg/vue-overdrive](https://github.com/mattrothenberg/vue-overdrive) - Super easy magic-move transitions for Vue apps
 - [su8ru/portfolio-2nd](https://github.com/su8ru/portfolio-2nd) - my portfolio
 - [yuki-yano/imecoletter](https://github.com/yuki-yano/imecoletter) - 最高の画像を集めるためのTwitterクライアント
-
-## WebAssembly 
-
-- [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based code runner that can be embedded as an iframe or used as a library.
 
 ## Zig 
 
