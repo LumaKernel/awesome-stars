@@ -554,7 +554,7 @@
 - [sendgrid/email-templates](https://github.com/sendgrid/email-templates) - A repository of common email templates to use and modify to your heart's content.
 - [nttcom/remote-work-handbook](https://github.com/nttcom/remote-work-handbook) - リモートワークハンドブックのソースコード
 - [rust-lang-ja/the-rust-programming-language-ja](https://github.com/rust-lang-ja/the-rust-programming-language-ja) - Rust文書の【旧】和訳レポジトリ → 最新版はこちら： https://github.com/rust-lang-ja/book-ja
-- [ZitRos/npm-explorer](https://github.com/ZitRos/npm-explorer) - Web file manager for NPM.
+- [nikitaeverywhere/npm-explorer](https://github.com/nikitaeverywhere/npm-explorer) - Web file manager for NPM.
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) - Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [craigbuckler/progressive-image.js](https://github.com/craigbuckler/progressive-image.js) - A lazy-loading progressive image similar to those seen on Facebook and Medium.
 - [marians/rebrow](https://github.com/marians/rebrow) - Web UI for redis database content
@@ -585,7 +585,7 @@
 ## Java 
 
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Zig 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》是一本动画图解、能运行、可提问的数据结构与算法入门书，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
@@ -951,7 +951,7 @@
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
 - [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Makes eslint the fastest linter on the planet
 - [cyrilwanner/next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - 💡next-compose-plugins provides a cleaner API for enabling and configuring plugins for next.js
-- [martpie/next-transpile-modules](https://github.com/martpie/next-transpile-modules) - [ARCHIVED] Next.js plugin to transpile code from node_modules
+- [martpie/next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The most powerful screen recorder & annotation tool for Chrome 🎥
 - [DarkDaskin/generator-userscript](https://github.com/DarkDaskin/generator-userscript) - Yeoman generator for building userscripts with TypeScript and Webpack
 - [fisker/power-cartesian-product](https://github.com/fisker/power-cartesian-product) - power cartesian product
@@ -1828,6 +1828,8 @@
 
 ## TypeScript 
 
+- [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
+- [FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
 - [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All basic TypeScript types in one place 🤙
