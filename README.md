@@ -2377,6 +2377,7 @@
 - [yuki-yano/fzf-preview.vim](https://github.com/yuki-yano/fzf-preview.vim) - The plugin that powerfully integrates fzf and (Neo)vim. It is also possible to integrate with coc.nvim.
 - [themerdev/themer](https://github.com/themerdev/themer) - 🎨 themer takes a set of colors and generates themes for your apps (editors, terminals, wallpapers, and more).
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
+- [Genez-io/genezio](https://github.com/Genez-io/genezio) - a CLI for developers that want to deploy their JS/TS/Dart website (backend + frontend) to [genez.io](genez.io)'s serverless infrastructure for free.
 
 ## V 
 
