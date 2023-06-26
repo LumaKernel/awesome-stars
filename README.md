@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [google/mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
@@ -1187,7 +1188,6 @@
 
 - [Kong/kong-operator](https://github.com/Kong/kong-operator) - Kong Operator for Kubernetes and OpenShift
 - [fluent/helm-charts](https://github.com/fluent/helm-charts) - Helm Charts for Fluentd and Fluent Bit
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Nim 
 
@@ -1344,6 +1344,8 @@
 
 ## Python 
 
+- [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
+- [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
@@ -1482,7 +1484,7 @@
 - [syrusakbary/snapshottest](https://github.com/syrusakbary/snapshottest) - Snapshot Testing utils for Python 📸
 - [relastle/vim-nayvy](https://github.com/relastle/vim-nayvy) - :new_moon: Enriching python coding in Vim :snake:
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Ciphey/Ciphey](https://github.com/Ciphey/Ciphey) - ⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
@@ -1808,6 +1810,7 @@
 ## Smarty 
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) - 
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
 
 ## Starlark 
 
