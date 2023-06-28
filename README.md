@@ -302,6 +302,7 @@
 
 ## Go 
 
+- [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [siketyan/nakoud](https://github.com/siketyan/nakoud) - 🐳 Access your Docker containers easily without port forwarding
@@ -611,6 +612,7 @@
 
 ## JavaScript 
 
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [davisjam/safe-regex](https://github.com/davisjam/safe-regex) - Detect possibly catastrophic, exponential-time regular expressions
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
@@ -1845,6 +1847,8 @@
 
 ## TypeScript 
 
+- [getsentry/sentry-javascript-bundler-plugins](https://github.com/getsentry/sentry-javascript-bundler-plugins) - JavaScript Bundler Plugins for Sentry
+- [ikenfin/vite-plugin-sentry](https://github.com/ikenfin/vite-plugin-sentry) - Vite plugin acting as an interface to SentryCLI
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
 - [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts) - Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [google-github-actions/auth](https://github.com/google-github-actions/auth) - A GitHub Action for authenticating to Google Cloud.
@@ -1872,7 +1876,7 @@
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [qnighy/dedent-js](https://github.com/qnighy/dedent-js) - JS multi-line literal done right
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 - [total-typescript/ts-reset](https://github.com/total-typescript/ts-reset) - A 'CSS reset' for TypeScript, improving types for common JavaScript API's
