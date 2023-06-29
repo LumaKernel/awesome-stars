@@ -316,7 +316,7 @@
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [elliotchance/c2go](https://github.com/elliotchance/c2go) - ⚖️ A tool for transpiling C to Go.
 - [docker/cli](https://github.com/docker/cli) - The Docker CLI
@@ -612,6 +612,7 @@
 
 ## JavaScript 
 
+- [jonabc/sync-task-issues](https://github.com/jonabc/sync-task-issues) - Sync task issue closure to hierarchical parent tracking issues
 - [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [davisjam/safe-regex](https://github.com/davisjam/safe-regex) - Detect possibly catastrophic, exponential-time regular expressions
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
@@ -1847,6 +1848,7 @@
 
 ## TypeScript 
 
+- [z0al/dependent-issues](https://github.com/z0al/dependent-issues) - 📦 A GitHub Action for marking issues as dependent on another
 - [getsentry/sentry-javascript-bundler-plugins](https://github.com/getsentry/sentry-javascript-bundler-plugins) - JavaScript Bundler Plugins for Sentry
 - [ikenfin/vite-plugin-sentry](https://github.com/ikenfin/vite-plugin-sentry) - Vite plugin acting as an interface to SentryCLI
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker
@@ -2058,7 +2060,7 @@
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for Deno's HTTP server with zero third-party dependencies
 - [TypeStrong/ts-expect](https://github.com/TypeStrong/ts-expect) - Checks TypeScript types match expected values
 - [keystonejs/keystone](https://github.com/keystonejs/keystone) - The most powerful headless CMS for Node.js — built with GraphQL and React
-- [denoland/dotland](https://github.com/denoland/dotland) - deno.land website
+- [denoland/dotland](https://github.com/denoland/dotland) - [Archived] deno.land website
 - [alephjs/aleph.js](https://github.com/alephjs/aleph.js) - The Full-stack Framework in Deno.
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [tani/ddc-path](https://github.com/tani/ddc-path) - Path completion for ddc.vim. This source collects path names with GNU find or sharkdp/fd.
