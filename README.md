@@ -1348,6 +1348,9 @@
 
 ## Python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+- [princeton-vl/infinigen](https://github.com/princeton-vl/infinigen) - Infinite Photorealistic Worlds using Procedural Generation
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Operating LLMs in production
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -1567,7 +1570,7 @@
 - [termoshtt/katexit](https://github.com/termoshtt/katexit) - Insert KaTeX autorender script into rustdoc
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) - Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
 - [aptos-labs/aptos-core](https://github.com/aptos-labs/aptos-core) - Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [rust-osdev/x86_64](https://github.com/rust-osdev/x86_64) - Library to program x86_64 hardware.
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
@@ -1848,6 +1851,9 @@
 
 ## TypeScript 
 
+- [vercel-labs/ai](https://github.com/vercel-labs/ai) - Build AI-powered applications with React, Svelte, and Vue
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [vercel-labs/ai-chatbot](https://github.com/vercel-labs/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel Labs
 - [z0al/dependent-issues](https://github.com/z0al/dependent-issues) - 📦 A GitHub Action for marking issues as dependent on another
 - [getsentry/sentry-javascript-bundler-plugins](https://github.com/getsentry/sentry-javascript-bundler-plugins) - JavaScript Bundler Plugins for Sentry
 - [ikenfin/vite-plugin-sentry](https://github.com/ikenfin/vite-plugin-sentry) - Vite plugin acting as an interface to SentryCLI
