@@ -589,7 +589,7 @@
 ## Java 
 
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
-- [alibaba/Chat2DB](https://github.com/alibaba/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
+- [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行、互动问答的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
@@ -1541,6 +1541,7 @@
 
 ## Rust 
 
+- [qnighy/omniswap](https://github.com/qnighy/omniswap) - a crate to swap values between possibly-overlapping references
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces).
 - [bluss/either](https://github.com/bluss/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
