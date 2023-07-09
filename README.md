@@ -1517,6 +1517,7 @@
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉 Data Version Control | Git for Data & Models | ML Experiments Management
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
+- [key-moon/ac-predictor](https://github.com/key-moon/ac-predictor) - AtCoderのパフォーマンス予測を行います
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
 - [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
@@ -1686,6 +1687,7 @@
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
 - [afnanenayet/diffsitter](https://github.com/afnanenayet/diffsitter) - A tree-sitter based AST difftool to get meaningful semantic diffs
 - [stepancheg/rust-http2](https://github.com/stepancheg/rust-http2) - HTTP/2 implementation in Rust/tokio
+- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [rslint/rslint](https://github.com/rslint/rslint) - A  (WIP) Extremely fast JavaScript and TypeScript linter and Rust crate
 - [rxRust/rxRust](https://github.com/rxRust/rxRust) - Rust implementation of Reactive Extensions.
 - [redox-os/termion](https://github.com/redox-os/termion) - Mirror of https://gitlab.redox-os.org/redox-os/termion
@@ -2397,7 +2399,6 @@
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [key-moon/ac-predictor](https://github.com/key-moon/ac-predictor) - AtCoderのパフォーマンス予測を行います
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
@@ -2463,7 +2464,6 @@
 - [hrsh7th/vim-vital-vs](https://github.com/hrsh7th/vim-vital-vs) - 
 - [vim-scripts/MultipleSearch](https://github.com/vim-scripts/MultipleSearch) - Highlight multiple searches at the same time, each with a different color.
 - [jonathanfilip/vim-lucius](https://github.com/jonathanfilip/vim-lucius) - Lucius color scheme for vim
-- [kkoomen/vim-doge](https://github.com/kkoomen/vim-doge) - (Do)cumentation (Ge)nerator 10+ languages 📚 Generate proper code documentation skeletons with a single keypress. ⚡️🔥
 - [deris/vim-duzzle](https://github.com/deris/vim-duzzle) - This is puzzle game on vim
 - [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [AndrewRadev/tagalong.vim](https://github.com/AndrewRadev/tagalong.vim) - Change an HTML(ish) opening tag and take the closing one along as well
