@@ -1115,7 +1115,7 @@
 - [IHaskell/IHaskell](https://github.com/IHaskell/IHaskell) - A Haskell kernel for the Jupyter project.
 - [jupyter/notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 - [advimman/lama](https://github.com/advimman/lama) - 🦙  LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
-- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 59 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan,
+- [labmlai/annotated_deep_learning_paper_implementations](https://github.com/labmlai/annotated_deep_learning_paper_implementations) - 🧑‍🏫 60 Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(c
 - [kubernetes/community](https://github.com/kubernetes/community) - Kubernetes community content
 
 ## Kotlin 
