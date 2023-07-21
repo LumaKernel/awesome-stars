@@ -1867,6 +1867,7 @@
 
 ## TypeScript 
 
+- [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [martonlederer/esbuild-plugin-fileloc](https://github.com/martonlederer/esbuild-plugin-fileloc) - Support __filename, __dirname, __line and additional global variables to get information about the source file with esbuild
