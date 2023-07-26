@@ -304,7 +304,7 @@
 
 - [trstringer/manual-approval](https://github.com/trstringer/manual-approval) - Pause your GitHub Actions workflow and request manual approval from set approvers before continuing
 - [syumai/cli](https://github.com/syumai/cli) - Small CLI tools
-- [kyleconroy/sqlc](https://github.com/kyleconroy/sqlc) - Generate type-safe code from SQL
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [mingrammer/flog](https://github.com/mingrammer/flog) - :tophat: A fake log generator for common log formats
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
@@ -596,7 +596,7 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The OWASP ZAP core project
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.(智能的通用数据库SQL客户端和报表工具)
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行、互动问答的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Dart, Zig 等语言。
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
@@ -1127,6 +1127,7 @@
 
 ## Lua 
 
+- [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
 - [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
