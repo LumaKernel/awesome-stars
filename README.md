@@ -35,6 +35,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -88,6 +89,7 @@
 
 ## C 
 
+- [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
@@ -1125,11 +1127,15 @@
 - [Kondenko/pocketwaka](https://github.com/Kondenko/pocketwaka) - WakaTime client written in Kotlin
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 
+## Less 
+
+- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
+
 ## Lua 
 
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
-- [Pocco81/true-zen.nvim](https://github.com/Pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
+- [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
 - [ayamir/nvimdots](https://github.com/ayamir/nvimdots) - A well configured and structured Neovim.
 - [delphinus/dotfiles](https://github.com/delphinus/dotfiles) - my dotfiles
@@ -1234,7 +1240,6 @@
 
 ## Others 
 
-- [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
 - [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
@@ -1871,6 +1876,8 @@
 
 ## TypeScript 
 
+- [cdktf/cdktf-provider-google](https://github.com/cdktf/cdktf-provider-google) - Prebuilt Terraform CDK (cdktf) provider for google.
+- [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
