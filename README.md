@@ -35,6 +35,7 @@
 - [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Lean](#lean)
 - [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
@@ -1127,6 +1128,10 @@
 - [Kondenko/pocketwaka](https://github.com/Kondenko/pocketwaka) - WakaTime client written in Kotlin
 - [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
 
+## Lean 
+
+- [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
+
 ## Less 
 
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
@@ -1876,6 +1881,7 @@
 
 ## TypeScript 
 
+- [leanprover/vscode-lean4](https://github.com/leanprover/vscode-lean4) - Visual Studio Code extension for the Lean 4 proof assistant
 - [cdktf/cdktf-provider-google](https://github.com/cdktf/cdktf-provider-google) - Prebuilt Terraform CDK (cdktf) provider for google.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
