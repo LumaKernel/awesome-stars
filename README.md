@@ -1392,7 +1392,7 @@
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
-- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The only open source solution to turn your pdf files in a chatbot!
+- [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [dbt-labs/dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema) - 
@@ -1568,6 +1568,7 @@
 
 ## Rust 
 
+- [sdleffler/tarpit-rs](https://github.com/sdleffler/tarpit-rs) - A type-level implementation of Smallfuck in Rust, doubling as a Turing-completeness proof for Rust's type system.
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [qnighy/omniswap](https://github.com/qnighy/omniswap) - a crate to swap values between possibly-overlapping references
