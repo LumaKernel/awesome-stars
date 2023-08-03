@@ -1787,6 +1787,7 @@
 
 ## Shell 
 
+- [codecov/self-hosted](https://github.com/codecov/self-hosted) - Example of how to setup Codecov with docker compose
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
 - [yuru7/HackGen](https://github.com/yuru7/HackGen) - Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
@@ -2246,7 +2247,7 @@
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
-- [oclif/oclif](https://github.com/oclif/oclif) - Node.js Open CLI Framework. Built by Salesforce.
+- [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
