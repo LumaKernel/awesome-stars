@@ -622,7 +622,6 @@
 
 - [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel's engineering style guide
 - [jonabc/sync-task-issues](https://github.com/jonabc/sync-task-issues) - Sync task issue closure to hierarchical parent tracking issues
-- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [davisjam/safe-regex](https://github.com/davisjam/safe-regex) - Detect possibly catastrophic, exponential-time regular expressions
 - [evanw/polywasm](https://github.com/evanw/polywasm) - 
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
@@ -1186,6 +1185,7 @@
 
 ## MDX 
 
+- [uidotdev/usehooks](https://github.com/uidotdev/usehooks) - A collection of modern, server-safe React hooks – from the ui.dev team
 - [prisma/docs](https://github.com/prisma/docs) - 📚 Prisma Documentation
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
@@ -1342,6 +1342,7 @@
 
 ## PHP 
 
+- [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library
 - [joomla/joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
@@ -1883,6 +1884,7 @@
 
 ## TypeScript 
 
+- [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [leanprover/vscode-lean4](https://github.com/leanprover/vscode-lean4) - Visual Studio Code extension for the Lean 4 proof assistant
 - [cdktf/cdktf-provider-google](https://github.com/cdktf/cdktf-provider-google) - Prebuilt Terraform CDK (cdktf) provider for google.
