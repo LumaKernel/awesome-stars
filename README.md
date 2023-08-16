@@ -981,7 +981,6 @@
 - [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
 - [mattphillips/jest-expect-message](https://github.com/mattphillips/jest-expect-message) - Add custom message to Jest expects 🃏🗯
 - [mysticatea/eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for directive comments of ESLint.
-- [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 - [skeggse/isemail](https://github.com/skeggse/isemail) - validate an email address according to RFCs 5321, 5322, and others
 - [mxschmitt/action-tmate](https://github.com/mxschmitt/action-tmate) - Debug your GitHub Actions via SSH by using tmate to get access to the runner system itself.
@@ -2352,6 +2351,7 @@
 - [Sytten/nexus-shield](https://github.com/Sytten/nexus-shield) - 🛡 Nexus plugin to ease the creation of the authorization layer
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [oke-py/npm-audit-action](https://github.com/oke-py/npm-audit-action) - GitHub Action to run `npm audit`
+- [standard/eslint-config-standard](https://github.com/standard/eslint-config-standard) - ESLint Config for JavaScript Standard Style
 - [standard/eslint-config-standard-with-typescript](https://github.com/standard/eslint-config-standard-with-typescript) - An ESLint shareable config for TypeScript that is based on eslint-config-standard and has TypeScript specific rules from @typescript-eslint/eslint-plugin.
 - [gajus/graphql-lazyloader](https://github.com/gajus/graphql-lazyloader) - GraphQL directive that adds Object-level data resolvers.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
