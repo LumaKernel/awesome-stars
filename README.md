@@ -532,7 +532,7 @@
 
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [coq/www](https://github.com/coq/www) - Source files of the coq.inria.fr website (static part)
+- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the coq.inria.fr website (static part)
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -542,7 +542,7 @@
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
 - [jupyter/jupyter.github.io](https://github.com/jupyter/jupyter.github.io) - Project Jupyter's home on the World Wide Web
-- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization
+- [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
 - [kyodaisuu/googology](https://github.com/kyodaisuu/googology) - 巨大数論
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
