@@ -1606,7 +1606,7 @@
 - [rust-osdev/uefi-rs](https://github.com/rust-osdev/uefi-rs) - Rust wrapper for UEFI.
 - [rust-osdev/bootimage](https://github.com/rust-osdev/bootimage) - Tool to create bootable disk images from a Rust OS kernel.
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
-- [woodyZootopia/30daysOS](https://github.com/woodyZootopia/30daysOS) - 30 days os (with Rust?)
+- [swnakamura/30daysOS](https://github.com/swnakamura/30daysOS) - 30 days os (with Rust?)
 - [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
