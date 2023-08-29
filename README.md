@@ -2601,7 +2601,7 @@
 - [aiya000/aho-bakaup.vim](https://github.com/aiya000/aho-bakaup.vim) - aho-bakaup.vim backs up any files when you write the file
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
-- [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Functions for taking the monotony out of building your own fancy statusline in Vim
+- [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Build your own fancy statusline/tabline in Vim/Neovim
 
 ## Vue 
 
