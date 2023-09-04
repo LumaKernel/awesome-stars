@@ -1823,6 +1823,7 @@
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [yazgoo/unicodemoji](https://github.com/yazgoo/unicodemoji) - :hamster: unicode emojis in terminal and vim with fzf
 - [whoan/docker-build-with-cache-action](https://github.com/whoan/docker-build-with-cache-action) - :octocat: Build and push docker images caching each stage to reduce build time
+- [hecrj/setup-rust-action](https://github.com/hecrj/setup-rust-action) - Set up a specific Rust toolchain in your GitHub workflows
 - [himanoa/goshiteki](https://github.com/himanoa/goshiteki) - review tool
 - [duy13/vDDoS-Protection](https://github.com/duy13/vDDoS-Protection) - Welcome to vDDoS, a HTTP(S) DDoS Protection Reverse Proxy. Thank you for using!
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
@@ -2076,7 +2077,7 @@
 - [ReactiveX/IxJS](https://github.com/ReactiveX/IxJS) - The Interactive Extensions for JavaScript
 - [takefumi-yoshii/nextjs-typesafe-api-route](https://github.com/takefumi-yoshii/nextjs-typesafe-api-route) - 
 - [GoogleChrome/chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [Urigo/graphql-mesh](https://github.com/Urigo/graphql-mesh) - GraphQL Mesh — Query anything, run anywhere
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
@@ -2363,7 +2364,6 @@
 - [graphql-nexus/nexus](https://github.com/graphql-nexus/nexus) - Code-First, Type-Safe, GraphQL Schema Construction
 - [graphql/graphql-playground](https://github.com/graphql/graphql-playground) - 🎮  GraphQL IDE for better development workflows (GraphQL Subscriptions, interactive docs & collaboration)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [hecrj/setup-rust-action](https://github.com/hecrj/setup-rust-action) - Set up a specific Rust toolchain in your GitHub workflows
 - [vercel/og-image](https://github.com/vercel/og-image) - Open Graph Image as a Service - generate cards for Twitter, Facebook, Slack, etc
 - [dotansimha/graphql-typed-ast](https://github.com/dotansimha/graphql-typed-ast) - Experimental TypeScript type-based parser for GraphQL
 - [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍  Spec-compliant and production ready JavaScript GraphQL server that lets you develop in a schema-first way. Built for Express, Connect, Hapi, Koa, and more.
