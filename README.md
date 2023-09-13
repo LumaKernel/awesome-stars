@@ -1601,7 +1601,6 @@
 - [rusticata/x509-parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL.
@@ -1938,13 +1937,14 @@
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [dataform-co/dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based data operations in BigQuery, Snowflake, and Redshift
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
-- [partykit/partykit](https://github.com/partykit/partykit) - Everything's better with friends.
+- [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
 - [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - TypeScript ORM that feels like writing SQL.
 - [qnighy/dedent-js](https://github.com/qnighy/dedent-js) - JS multi-line literal done right
@@ -2204,7 +2204,7 @@
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
-- [quicktype/quicktype](https://github.com/quicktype/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/deno-unknownutil](https://github.com/lambdalisue/deno-unknownutil) - 🦕 A lightweight utility pack for handling unknown type
@@ -2614,7 +2614,7 @@
 - [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [briancollins/vim-jst](https://github.com/briancollins/vim-jst) - A vim plugin for highlighting and indenting JST/EJS syntax
 - [aiya000/aho-bakaup.vim](https://github.com/aiya000/aho-bakaup.vim) - aho-bakaup.vim backs up any files when you write the file
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
