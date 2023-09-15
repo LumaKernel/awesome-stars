@@ -845,7 +845,7 @@
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [svitejs/svite](https://github.com/svitejs/svite) - 
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
-- [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue-cli
+- [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue projects
 - [bustle/ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -1788,6 +1788,7 @@
 
 ## SCSS 
 
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
@@ -1908,7 +1909,7 @@
 - [cdktf/cdktf-provider-google](https://github.com/cdktf/cdktf-provider-google) - Prebuilt Terraform CDK (cdktf) provider for google.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
-- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor framework for React.
+- [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
 - [ixahmedxi/noodle](https://github.com/ixahmedxi/noodle) - Open Source Education Platform
 - [martonlederer/esbuild-plugin-fileloc](https://github.com/martonlederer/esbuild-plugin-fileloc) - Support __filename, __dirname, __line and additional global variables to get information about the source file with esbuild
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
@@ -1956,7 +1957,6 @@
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based runtime for programming languages and WASI binaries.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
