@@ -533,6 +533,7 @@
 
 ## HTML 
 
+- [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the coq.inria.fr website (static part)
@@ -2053,7 +2054,7 @@
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
 - [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
-- [honojs/hono](https://github.com/honojs/hono) - Ultrafast web framework for the Edges
+- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
