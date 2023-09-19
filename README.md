@@ -636,6 +636,7 @@
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [azu/service-worker-updatefound-refresh-dialog](https://github.com/azu/service-worker-updatefound-refresh-dialog) - A library show refresh dialog/banner when the service worker found updated.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
@@ -1408,7 +1409,6 @@
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [dbt-labs/dbt-jsonschema](https://github.com/dbt-labs/dbt-jsonschema) - 
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
@@ -1905,6 +1905,7 @@
 - [yuneco/canvas-draw-styled-text](https://github.com/yuneco/canvas-draw-styled-text) - A pure JS implementation for drawing styled text on an HTML canvas.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+- [Shougo/dpp.vim](https://github.com/Shougo/dpp.vim) - Dark powered plugin manager for Vim/neovim
 - [edmundhung/conform](https://github.com/edmundhung/conform) - Progressive enhancement first form validation library for Remix and React Router
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -2469,7 +2470,6 @@
 
 ## Vim Script 
 
-- [Shougo/dpp.vim](https://github.com/Shougo/dpp.vim) - Dark powered plugin manager for Vim/neovim
 - [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
 - [qnighy/lalrpop.vim](https://github.com/qnighy/lalrpop.vim) - LALRPOP Vim plugin with minimal syntax-highlighting functionality
 - [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
