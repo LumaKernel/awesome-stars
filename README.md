@@ -94,7 +94,7 @@
 - [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
-- [Kameldieb/terminal_minecraft](https://github.com/Kameldieb/terminal_minecraft) - 
+- [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
 - [tianocore/edk2](https://github.com/tianocore/edk2) - EDK II
 - [koekeishiya/yabai](https://github.com/koekeishiya/yabai) - A tiling window manager for macOS based on binary space partitioning
@@ -1790,7 +1790,6 @@
 
 ## SCSS 
 
-- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
@@ -1961,6 +1960,7 @@
 - [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
+- [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based runtime for programming languages and WASI binaries.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [teaxyz/cli](https://github.com/teaxyz/cli) - “run anything” from the creator of `brew`
