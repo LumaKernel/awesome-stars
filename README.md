@@ -636,7 +636,7 @@
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [azu/service-worker-updatefound-refresh-dialog](https://github.com/azu/service-worker-updatefound-refresh-dialog) - A library show refresh dialog/banner when the service worker found updated.
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
@@ -928,7 +928,7 @@
 - [ModClean/modclean](https://github.com/ModClean/modclean) - Remove unwanted files and directories from your node_modules folder
 - [remarkjs/remark-slug](https://github.com/remarkjs/remark-slug) - Legacy plugin to add `id`s to headings — please use `rehype-slug`
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
-- [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static file as fast as possible
+- [fastify/fastify-static](https://github.com/fastify/fastify-static) - Plugin for serving static files as fast as possible
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [rehypejs/rehype-raw](https://github.com/rehypejs/rehype-raw) - plugin to parse the tree again
 - [ampcpmgp/svelte-shield](https://github.com/ampcpmgp/svelte-shield) - 様々な日本語文章を、目線移動無くサクサク読めるようにしたツール。
@@ -1675,7 +1675,7 @@
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
-- [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [theHamsta/tree-sitter-cuda](https://github.com/theHamsta/tree-sitter-cuda) - 
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
