@@ -294,7 +294,7 @@
 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall
-- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open-source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
+- [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Emacs Lisp 
 
@@ -467,7 +467,6 @@
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
 - [invidian/terraform-provider-sshcommand](https://github.com/invidian/terraform-provider-sshcommand) - This provider allow to execute commands remotely via SSH and capture the output from them.
 - [icexin/eggos](https://github.com/icexin/eggos) - A Go unikernel running on x86 bare metal
@@ -804,7 +803,6 @@
 - [WolframResearch/wolfram-notebook-embedder](https://github.com/WolframResearch/wolfram-notebook-embedder) - JavaScript embedder for Wolfram Cloud notebooks
 - [rivy/js.xdg-portable](https://github.com/rivy/js.xdg-portable) - Determine XDG Base Directory paths (OS/platform portable)
 - [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular e
-- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome component for Svelte
 - [prettier/prettier-linter-helpers](https://github.com/prettier/prettier-linter-helpers) - Helper functions for exposing prettier changes within linting tools
 - [hoangvvo/nextjs-mongodb-app](https://github.com/hoangvvo/nextjs-mongodb-app) - A Next.js and MongoDB web application, designed with simplicity for learning and real-world applicability in mind.
@@ -1677,7 +1675,7 @@
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
-- [copy/v86](https://github.com/copy/v86) - An x86 PC emulator and x86-to-wasm JIT, running in the browser
+- [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
 - [theHamsta/tree-sitter-cuda](https://github.com/theHamsta/tree-sitter-cuda) - 
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
@@ -1721,6 +1719,7 @@
 - [google-apis-rs/google-cloud-rs](https://github.com/google-apis-rs/google-cloud-rs) - Asynchronous Rust bindings for Google Cloud Platform APIs.
 - [Michael-F-Bryan/plugins_in_rust](https://github.com/Michael-F-Bryan/plugins_in_rust) - Implementing plugins with dynamically loaded libraries and Rust
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [rust-lang-ja/ac-library-rs](https://github.com/rust-lang-ja/ac-library-rs) - ac-library-rs is a rust port of AtCoder Library (ACL).
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [denoland/rusty_v8](https://github.com/denoland/rusty_v8) - Rust bindings for the V8 JavaScript engine
@@ -1908,7 +1907,6 @@
 - [yuneco/canvas-draw-styled-text](https://github.com/yuneco/canvas-draw-styled-text) - A pure JS implementation for drawing styled text on an HTML canvas.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
-- [Shougo/dpp.vim](https://github.com/Shougo/dpp.vim) - Dark powered plugin manager for Vim/neovim
 - [edmundhung/conform](https://github.com/edmundhung/conform) - Progressive enhancement first form validation library for Remix and React Router
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
@@ -2197,6 +2195,7 @@
 - [justjavac/deno-semver](https://github.com/justjavac/deno-semver) - The semver parser for Deno (a fork of node-semver using TypeScript)
 - [jd1378/deno-semaphore](https://github.com/jd1378/deno-semaphore) - https://deno.land/x/semaphore@v1.1.2
 - [raineorshine/npm-check-updates](https://github.com/raineorshine/npm-check-updates) - Find newer versions of package dependencies than what your package.json allows
+- [isaacs/rimraf](https://github.com/isaacs/rimraf) - A `rm -rf` util for nodejs
 - [kreteshq/kretes](https://github.com/kreteshq/kretes) - A Programming Environment for TypeScript & Deno
 - [changesets/action](https://github.com/changesets/action) - 
 - [tinyhttp/tinyhttp](https://github.com/tinyhttp/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
@@ -2475,6 +2474,7 @@
 
 ## Vim Script 
 
+- [Shougo/dpp.vim](https://github.com/Shougo/dpp.vim) - Dark powered plugin manager for Vim/neovim
 - [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
 - [qnighy/lalrpop.vim](https://github.com/qnighy/lalrpop.vim) - LALRPOP Vim plugin with minimal syntax-highlighting functionality
 - [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
