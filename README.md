@@ -2088,7 +2088,7 @@
 - [yuki-yano/fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - 
 - [syrflover/iterator-helper](https://github.com/syrflover/iterator-helper) - Iterator Helper for TypeScript
 - [jupyterlab/jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
-- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - A Vite-native test framework. It's fast!
+- [vitest-dev/vitest](https://github.com/vitest-dev/vitest) - Next generation testing framework powered by Vite.
 - [mathjax/MathJax-src](https://github.com/mathjax/MathJax-src) - MathJax source code for version 3 and beyond
 - [fannheyward/coc-styled-components](https://github.com/fannheyward/coc-styled-components) - Styled component for coc.nvim as a tsserver plugin
 - [ikatyang/linguist-languages](https://github.com/ikatyang/linguist-languages) - Linguist languages.yml in JSON format
