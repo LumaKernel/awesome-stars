@@ -2451,7 +2451,7 @@
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
-- [SamVerschueren/tsd](https://github.com/SamVerschueren/tsd) - Check TypeScript type definitions
+- [tsdjs/tsd](https://github.com/tsdjs/tsd) - Check TypeScript type definitions
 - [frouriojs/frourio](https://github.com/frouriojs/frourio) - Fast and type-safe full stack framework, for TypeScript
 - [rhysd/action-setup-vim](https://github.com/rhysd/action-setup-vim) - GitHub Action to setup Vim or Neovim on Linux, macOS and Windows for testing Vim plugins
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
