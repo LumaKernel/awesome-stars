@@ -753,7 +753,7 @@
 - [swc-project/swc-loader](https://github.com/swc-project/swc-loader) - Moved to https://github.com/swc-project/pkgs
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
-- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
+- [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - Free & open-source JavaScript library to detect user's Browser, Engine, OS, CPU, and Device type/model. Runs either in browser (client-side) or node.js (server-side).
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 3 IEEE 754 half-precision floating-point ponyfill
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -1438,7 +1438,7 @@
 - [cython/cython](https://github.com/cython/cython) - The most widely used Python to C compiler
 - [aboul3la/Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [guelfoweb/knock](https://github.com/guelfoweb/knock) - Knock Subdomain Scan
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
