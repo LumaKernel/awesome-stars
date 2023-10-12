@@ -319,7 +319,7 @@
 - [pingcap/tidb](https://github.com/pingcap/tidb) - TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [siketyan/nakoud](https://github.com/siketyan/nakoud) - 🐳 Access your Docker containers easily without port forwarding
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [GoogleCloudPlatform/artifact-registry-apt-transport](https://github.com/GoogleCloudPlatform/artifact-registry-apt-transport) - 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [repeale/fp-go](https://github.com/repeale/fp-go) - fp-go is a collection of Functional Programming helpers powered by Golang 1.18+ generics.
@@ -538,7 +538,7 @@
 - [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the coq.inria.fr website (static part)
+- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the coq.inria.fr website
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
@@ -1056,7 +1056,6 @@
 - [sindresorhus/p-cancelable](https://github.com/sindresorhus/p-cancelable) - Create a promise that can be canceled
 - [you-dont-need/You-Dont-Need-Lodash-Underscore](https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore) - List of JavaScript methods which you can use natively + ESLint Plugin
 - [storeon/storeon](https://github.com/storeon/storeon) - 🌩 A tiny (185 bytes) event-based Redux-like state manager for React, Preact, Angular, Vue, and Svelte
-- [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [unassert-js/webpack-unassert-loader](https://github.com/unassert-js/webpack-unassert-loader) - A webpack loader for unassert: Encourages programming with assertions by providing tools to compile them away.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -2431,6 +2430,7 @@
 - [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) - 🏆 Add dynamically generated GitHub Stat Trophies  on your readme
+- [shimataro/ssh-key-action](https://github.com/shimataro/ssh-key-action) - GitHub Action that installs SSH key to .ssh
 - [artalar/reatom](https://github.com/artalar/reatom) - Reatom - the ultimate state manager
 - [prodo-dev/prodo](https://github.com/prodo-dev/prodo) - Prodo is a React framework to build apps faster.
 - [rawrmaan/restyped](https://github.com/rawrmaan/restyped) - End-to-end typing for REST APIs with TypeScript
