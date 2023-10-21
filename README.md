@@ -1907,6 +1907,8 @@
 
 ## TypeScript 
 
+- [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
+- [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [AllenShintani/Edison](https://github.com/AllenShintani/Edison) - 💡Edison can controll microcomputer with TypeScript💡
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
