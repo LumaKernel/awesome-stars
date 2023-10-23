@@ -1284,7 +1284,7 @@
 - [nvim-telescope/telescope-rs.nvim](https://github.com/nvim-telescope/telescope-rs.nvim) - Experimental features for telescope in RUST? The safest telescope known to HUMANITY
 - [michaelb/do-nothing.vim](https://github.com/michaelb/do-nothing.vim) - A vim plugin that does nothing. Because why not
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
-- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Papirus icon theme for Linux
+- [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [Hexlet/awesome-lsp-servers](https://github.com/Hexlet/awesome-lsp-servers) - 
 - [eslint/rfcs](https://github.com/eslint/rfcs) - Repo for managing Requests For Comments (RFCs) for the ESLint project
 - [styfle/breaking-changes-web](https://github.com/styfle/breaking-changes-web) - 💢 A list of breaking changes to the web platform
@@ -2278,7 +2278,7 @@
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
 - [garronej/denoify](https://github.com/garronej/denoify) - 🦕For NPM module authors that would like to support Deno but do not want to write and maintain a port.
 - [aspida/api-types](https://github.com/aspida/api-types) - 
-- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim-mode for VS Code using embedded Neovim
+- [vscode-neovim/vscode-neovim](https://github.com/vscode-neovim/vscode-neovim) - Vim mode for VSCode, powered by Neovim
 - [aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [christophgysin/aws-sdk-js-v3](https://github.com/christophgysin/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
