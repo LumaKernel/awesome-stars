@@ -630,6 +630,7 @@
 
 ## JavaScript 
 
+- [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
 - [datastructures-js/queue](https://github.com/datastructures-js/queue) - ➡️ A performant queue implementation in javascript.
@@ -1116,6 +1117,7 @@
 
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [Jaykul/Jupyter-PowerShell](https://github.com/Jaykul/Jupyter-PowerShell) - Jupyter Kernel for PowerShell
@@ -1260,7 +1262,6 @@
 - [exAspArk/awesome-chatops](https://github.com/exAspArk/awesome-chatops) - :robot: A collection of awesome things about ChatOps – managing operations through a chat
 - [acdlite/react-fiber-architecture](https://github.com/acdlite/react-fiber-architecture) - A description of React's new core algorithm, React Fiber
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) - Rust API guidelines
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [CrowdDotDev/awesome-oss-investors](https://github.com/CrowdDotDev/awesome-oss-investors) - Awesome list of VCs investing in commercial open-source startups 💸
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Smooth scaling, HiDPI unlock, XDR/HDR extra brightness upscale, DDC, brightness and dimming, virtual screens, PIP and lots more!
@@ -1590,6 +1591,7 @@
 
 ## Rust 
 
+- [skanehira/chibiwasm](https://github.com/skanehira/chibiwasm) - A small Wasm Runtime
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [cberner/fuser](https://github.com/cberner/fuser) - Filesystem in Userspace (FUSE) for Rust
@@ -1914,6 +1916,8 @@
 
 ## TypeScript 
 
+- [lastmjs/wasm-metal](https://github.com/lastmjs/wasm-metal) - A bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
 - [AllenShintani/Edison](https://github.com/AllenShintani/Edison) - 💡Edison can controll microcomputer with TypeScript💡
