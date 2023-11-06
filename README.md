@@ -611,7 +611,6 @@
 - [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
 - [plantuml/plantuml](https://github.com/plantuml/plantuml) - Generate diagrams from textual description
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Java, C++, Python, Go, JS, TS, C#, Swift, Rust, Dart, Zig 等语言。
-- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [EnterpriseQualityCoding/FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition) - FizzBuzz Enterprise Edition is a no-nonsense implementation of FizzBuzz made by serious businessmen for serious business purposes.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) - An open-source registry for VS Code extensions
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services
@@ -1141,6 +1140,7 @@
 
 ## Lean 
 
+- [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
 
 ## Less 
@@ -1592,6 +1592,7 @@
 
 ## Rust 
 
+- [leanprover/elan](https://github.com/leanprover/elan) - A Lean version manager
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
 - [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [skanehira/chibiwasm](https://github.com/skanehira/chibiwasm) - A small Wasm Runtime
@@ -1814,6 +1815,7 @@
 
 ## Scala 
 
+- [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - StreamPark, Make stream processing easier! easy-to-use streaming application development framework and operation platform
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
 ## Scheme 
@@ -1918,6 +1920,7 @@
 
 ## TypeScript 
 
+- [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [slack-samples/deno-incident-management](https://github.com/slack-samples/deno-incident-management) - Automate the responding, analyzing, and resolving of incidents
 - [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 - [lastmjs/wasm-metal](https://github.com/lastmjs/wasm-metal) - A bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.
@@ -2199,7 +2202,7 @@
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [Shougo/ddc-source-omni](https://github.com/Shougo/ddc-source-omni) - Omnifunc completion for ddc.vim
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [robey/ballvalve](https://github.com/robey/ballvalve) - adapt streaming data into async iterators
+- [robey/ballvalve](https://github.com/robey/ballvalve) - combinators and adapters for ES2018 (javascript) async iterators
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [thinca/action-setup-vim](https://github.com/thinca/action-setup-vim) - GitHub Action to setup Vim, Neovim, or MacVim.
 - [matsui54/ddc-matcher_fuzzy](https://github.com/matsui54/ddc-matcher_fuzzy) - Fuzzy matcher for ddc.vim
