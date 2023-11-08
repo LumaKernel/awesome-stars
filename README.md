@@ -373,7 +373,7 @@
 - [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [mdempsky/maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
-- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
+- [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Kubernetes Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -1149,6 +1149,7 @@
 
 ## Lua 
 
+- [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - neovim support for the Lean theorem prover
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) - A neovim plugin that helps managing crates.io dependencies
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) - Neovim plugin that simplifies macros, enhancing productivity with harmony.
 - [pocco81/true-zen.nvim](https://github.com/pocco81/true-zen.nvim) - 🦝 Clean and elegant distraction-free writing for NeoVim
@@ -1384,6 +1385,7 @@
 
 ## Python 
 
+- [sotarokashiuchi/C_Compiler_for_C](https://github.com/sotarokashiuchi/C_Compiler_for_C) - 
 - [googlefonts/zen-kurenaido](https://github.com/googlefonts/zen-kurenaido) - ZenFonts.jp Kurenaido
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
@@ -1423,7 +1425,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
-- [microsoft/TaskMatrix](https://github.com/microsoft/TaskMatrix) - 
+- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [sozysozbot/2kmcc](https://github.com/sozysozbot/2kmcc) - 
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
@@ -1927,7 +1929,7 @@
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
 - [suren-atoyan/monaco-react](https://github.com/suren-atoyan/monaco-react) - Monaco Editor for React - use the monaco-editor in any React application without needing to use webpack (or rollup/parcel/etc) configuration files / plugins
-- [AllenShintani/Edison](https://github.com/AllenShintani/Edison) - 💡Edison can controll microcomputer with TypeScript💡
+- [edison-js/Edison](https://github.com/edison-js/Edison) - 💡Edison can controll microcomputer with TypeScript💡
 - [mui/mui-x](https://github.com/mui/mui-x) - MUI X: Build data-rich applications using a growing list of advanced React components.
 - [arktypeio/arktype](https://github.com/arktypeio/arktype) - TypeScript's 1:1 validator, optimized from editor to runtime
 - [yuneco/canvas-draw-styled-text](https://github.com/yuneco/canvas-draw-styled-text) - A pure JS implementation for drawing styled text on an HTML canvas.
@@ -2012,7 +2014,7 @@
 - [steven-tey/dub](https://github.com/steven-tey/dub) - An open-source link shortener with built-in analytics + free custom domains.
 - [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine in &lt;2kb.
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
-- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - A secrets manager for .env and .env.vault files.
+- [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - Sync your .env files between machines, environments, and team members. From the same people that pioneered dotenv.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
 - [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
