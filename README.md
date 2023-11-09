@@ -671,7 +671,7 @@
 - [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [lukeed/sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~!
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
-- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
+- [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [lionleaf/dwitter](https://github.com/lionleaf/dwitter) - Social network for short js demos
 - [thysultan/stylis](https://github.com/thysultan/stylis) - light – weight css preprocessor
 - [benwis/rust-remix](https://github.com/benwis/rust-remix) - Remix sandbox repo for Rust compiled to WASM and to native N-API modules
@@ -2089,7 +2089,7 @@
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
 - [vadimdemedes/ink-text-input](https://github.com/vadimdemedes/ink-text-input) - Text input component for Ink
 - [reasonml-editor/vscode-reasonml](https://github.com/reasonml-editor/vscode-reasonml) - OCaml &  Reason support for Visual Studio Code
-- [honojs/hono](https://github.com/honojs/hono) - Lightweight, Ultrafast, Web Standards
+- [honojs/hono](https://github.com/honojs/hono) - Fast, Lightweight, Web-standards
 - [littledivy/deno_audio](https://github.com/littledivy/deno_audio) - Audio playback library for Deno
 - [fabien0102/ts-to-zod](https://github.com/fabien0102/ts-to-zod) - Generate zod schemas from typescript types/interfaces
 - [belgattitude/nextjs-monorepo-example](https://github.com/belgattitude/nextjs-monorepo-example) - Collection of monorepo tips & tricks
