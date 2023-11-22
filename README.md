@@ -746,7 +746,7 @@
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [NaturalIntelligence/fast-xml-parser](https://github.com/NaturalIntelligence/fast-xml-parser) - Validate XML, Parse XML and Build XML rapidly without C/C++ based libraries and no callback.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
-- [maxogden/extract-zip](https://github.com/maxogden/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
+- [max-mapper/extract-zip](https://github.com/max-mapper/extract-zip) - Zip extraction written in pure JavaScript. Extracts a zip into a directory.
 - [thejoshwolfe/yauzl](https://github.com/thejoshwolfe/yauzl) - yet another unzip library for node
 - [EvanOxfeld/node-unzip](https://github.com/EvanOxfeld/node-unzip) - node.js cross-platform unzip using streams
 - [kerimdzhanov/dotenv-flow](https://github.com/kerimdzhanov/dotenv-flow) - Loads environment variables from .env.[development|test|production][.local] files for Node.js® projects.
