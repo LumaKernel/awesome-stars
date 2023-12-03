@@ -535,7 +535,7 @@
 ## HCL 
 
 - [azavea/terraform-aws-acm-certificate](https://github.com/azavea/terraform-aws-acm-certificate) - A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation.
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create an Elastic Kubernetes (EKS) cluster and associated resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
 - [google-github-actions/test-infra](https://github.com/google-github-actions/test-infra) - Test infrastructure for Google Github Actions.
 - [tmknom/terraform-aws-s3-lb-log](https://github.com/tmknom/terraform-aws-s3-lb-log) - Terraform module which creates S3 Bucket resources for Load Balancer Access Logs on AWS.
 
@@ -633,6 +633,7 @@
 
 ## JavaScript 
 
+- [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped
 - [jamesplease/latex-to-unicode.js](https://github.com/jamesplease/latex-to-unicode.js) - Convert LaTeX strings to unicode.
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
@@ -1911,7 +1912,6 @@
 - [carbon-design-system/carbon-pictograms-svelte](https://github.com/carbon-design-system/carbon-pictograms-svelte) - Carbon Design System SVG pictograms as Svelte components
 - [TheComputerM/svelte-materialify](https://github.com/TheComputerM/svelte-materialify) - A Material UI Design Component library for Svelte heavily inspired by vuetify.
 - [v1ack/svelte-virtual-scroll-list](https://github.com/v1ack/svelte-virtual-scroll-list) - Virtualized scrolling for big lists
-- [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [sveltejs/svelte-devtools](https://github.com/sveltejs/svelte-devtools) - A browser extension to inspect Svelte application by extending your browser devtools capabilities
 - [carbon-design-system/carbon-components-svelte](https://github.com/carbon-design-system/carbon-components-svelte) - Svelte implementation of the Carbon Design System
 - [carbon-design-system/sveld](https://github.com/carbon-design-system/sveld) - Generate TypeScript definitions for your Svelte components
@@ -2296,6 +2296,7 @@
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - [Sunsetting] Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
+- [carbon-design-system/carbon-icons-svelte](https://github.com/carbon-design-system/carbon-icons-svelte) - Carbon Design System SVG icons as Svelte components
 - [coc-extensions/coc-svelte](https://github.com/coc-extensions/coc-svelte) - svelte support for (Neo)Vim
 - [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 - [aspida/openapi2aspida](https://github.com/aspida/openapi2aspida) - Convert OpenAPI 3.0 or Swagger 2.0 definitions into aspida
