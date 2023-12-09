@@ -875,7 +875,6 @@
 - [architect/sandbox](https://github.com/architect/sandbox) - Architect dev server: run full Architect projects locally & offline in a sandbox
 - [jhusain/eslint-plugin-immutable](https://github.com/jhusain/eslint-plugin-immutable) - ESLint plugin to disable all mutation in JavaScript.
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [monaca/monaca-cli](https://github.com/monaca/monaca-cli) - Command line version of Monaca
 - [Comeza/tsconfig-paths-snowpack-plugin](https://github.com/Comeza/tsconfig-paths-snowpack-plugin) - Import your tsconfig paths to your snowpack configuration
@@ -2323,6 +2322,7 @@
 - [christophgysin/aws-sdk-js-v3](https://github.com/christophgysin/aws-sdk-js-v3) - Modularized AWS SDK for JavaScript.
 - [neoclide/coc-prettier](https://github.com/neoclide/coc-prettier) - Prettier extension for coc.nvim.
 - [amilajack/eslint-plugin-compat](https://github.com/amilajack/eslint-plugin-compat) - Check the browser compatibility of your code
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [pranaygp/vscode-css-peek](https://github.com/pranaygp/vscode-css-peek) - A vscode extension for peeking at CSS definitions from a class or id tag in HTML
 - [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm) - TypeScript ORM for Node.js based on Data Mapper, Unit of Work and Identity Map patterns. Supports MongoDB, MySQL, MariaDB, PostgreSQL and SQLite databases.
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
