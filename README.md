@@ -1933,6 +1933,7 @@
 
 ## TypeScript 
 
+- [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [frontend-testing-book/nextjs](https://github.com/frontend-testing-book/nextjs) - 
 - [uhyo/rsc-without-nextjs](https://github.com/uhyo/rsc-without-nextjs) - Sample repository for a Zenn article
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
