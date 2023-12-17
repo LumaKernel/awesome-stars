@@ -17,6 +17,7 @@
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -274,6 +275,10 @@
 ## Coq 
 
 - [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters]
+
+## Crystal 
+
+- [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Dart 
 
@@ -1119,6 +1124,7 @@
 
 ## Jupyter Notebook 
 
+- [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) - 
 - [FlorentRevest/linux-kernel-vscode](https://github.com/FlorentRevest/linux-kernel-vscode) - Reference setup for Linux kernel development in VSCode
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -1267,6 +1273,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [hakomo/Simulated-Annealing-Techniques](https://github.com/hakomo/Simulated-Annealing-Techniques) - 焼きなまし法
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [alibaba/ali-dbhub](https://github.com/alibaba/ali-dbhub) - 已迁移新仓库，此版本将不再维护
@@ -1602,6 +1609,7 @@
 
 ## Rust 
 
+- [Jij-Inc/serde-pyobject](https://github.com/Jij-Inc/serde-pyobject) - PyO3's PyAny as a serde data format
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
 - [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
@@ -1933,6 +1941,9 @@
 
 ## TypeScript 
 
+- [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
+- [catchpoint/workflow-telemetry-action](https://github.com/catchpoint/workflow-telemetry-action) - Github action to collect metrics (CPU, memory, I/O, etc ...) from your workflows to help you debug and optimize your CI/CD pipeline
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
 - [frontend-testing-book/nextjs](https://github.com/frontend-testing-book/nextjs) - 
 - [uhyo/rsc-without-nextjs](https://github.com/uhyo/rsc-without-nextjs) - Sample repository for a Zenn article
@@ -2000,7 +2011,7 @@
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
-- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with the head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
+- [drizzle-team/drizzle-orm](https://github.com/drizzle-team/drizzle-orm) - Headless TypeScript ORM with a head. Runs on Node, Bun and Deno. Lives on the Edge and yes, it's a JavaScript ORM too 😅
 - [isaacs/minipass](https://github.com/isaacs/minipass) - A stream implementation that does more by doing less
 - [qnighy/dedent-js](https://github.com/qnighy/dedent-js) - JS multi-line literal done right
 - [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
