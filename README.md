@@ -1609,6 +1609,7 @@
 
 ## Rust 
 
+- [sozysozbot/a_plus_b_sqrt_n](https://github.com/sozysozbot/a_plus_b_sqrt_n) - 
 - [Jij-Inc/serde-pyobject](https://github.com/Jij-Inc/serde-pyobject) - PyO3's PyAny as a serde data format
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
