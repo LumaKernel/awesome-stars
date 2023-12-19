@@ -317,6 +317,7 @@
 
 ## Go 
 
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
@@ -638,6 +639,7 @@
 
 ## JavaScript 
 
+- [PatcailMemer/Ordinal-Markup](https://github.com/PatcailMemer/Ordinal-Markup) - The Github version of Ordinal Markup
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped
 - [jamesplease/latex-to-unicode.js](https://github.com/jamesplease/latex-to-unicode.js) - Convert LaTeX strings to unicode.
@@ -1399,6 +1401,7 @@
 
 ## Python 
 
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ypsu/latex-to-unicode](https://github.com/ypsu/latex-to-unicode) - Convert latex symbols to unicode characters
 - [sotarokashiuchi/C_Compiler_for_C](https://github.com/sotarokashiuchi/C_Compiler_for_C) - 
 - [googlefonts/zen-kurenaido](https://github.com/googlefonts/zen-kurenaido) - ZenFonts.jp Kurenaido
@@ -1423,7 +1426,7 @@
 - [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
-- [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
 - [SevaSk/ecoute](https://github.com/SevaSk/ecoute) - Ecoute is a live transcription tool that provides real-time transcripts for both the user's microphone input (You) and the user's speakers output (Speaker) in a textbox. It also generates a suggested 
 - [OpenGVLab/InternGPT](https://github.com/OpenGVLab/InternGPT) - InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, 
