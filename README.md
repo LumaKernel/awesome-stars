@@ -506,7 +506,7 @@
 - [mattn/mattn-icons](https://github.com/mattn/mattn-icons) - 
 - [high-moctane/nextword](https://github.com/high-moctane/nextword) - Predict next English words.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
+- [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
