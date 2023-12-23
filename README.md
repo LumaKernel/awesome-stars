@@ -37,7 +37,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lean](#lean)
-- [Less](#less)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -639,6 +638,7 @@
 
 ## JavaScript 
 
+- [increpare/PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine
 - [PatcailMemer/Ordinal-Markup](https://github.com/PatcailMemer/Ordinal-Markup) - The Github version of Ordinal Markup
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
 - [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped
@@ -1160,10 +1160,6 @@
 - [leanprover-community/lean4-metaprogramming-book](https://github.com/leanprover-community/lean4-metaprogramming-book) - 
 - [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
 - [leanprover/lean4](https://github.com/leanprover/lean4) - Lean 4 programming language and theorem prover
-
-## Less 
-
-- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 
 ## Lua 
 
@@ -1976,6 +1972,7 @@
 - [jitsi/jitsi-meet](https://github.com/jitsi/jitsi-meet) - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 - [leanprover/vscode-lean4](https://github.com/leanprover/vscode-lean4) - Visual Studio Code extension for the Lean 4 proof assistant
 - [cdktf/cdktf-provider-google](https://github.com/cdktf/cdktf-provider-google) - Prebuilt Terraform CDK (cdktf) provider for google.
+- [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
@@ -2011,7 +2008,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - An open source ChatGPT UI.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
