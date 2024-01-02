@@ -18,6 +18,7 @@
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
 - [Crystal](#crystal)
+- [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
@@ -279,6 +280,10 @@
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
+## D2 
+
+- [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
+
 ## Dart 
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
@@ -490,7 +495,6 @@
 - [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
-- [appleboy/lambda-action](https://github.com/appleboy/lambda-action) - GitHub Action for Deploying Lambda code  to an existing function
 - [mattn/longcat](https://github.com/mattn/longcat) - Looooooooooooooooooooooooooooooooooooooooooooooong cat
 - [Atrox/github-actions-badge](https://github.com/Atrox/github-actions-badge) - :shield: Shields.io Badge for your GitHub Actions
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1612,6 +1616,8 @@
 
 ## Rust 
 
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
+- [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
 - [sozysozbot/a_plus_b_sqrt_n](https://github.com/sozysozbot/a_plus_b_sqrt_n) - 
 - [Jij-Inc/serde-pyobject](https://github.com/Jij-Inc/serde-pyobject) - PyO3's PyAny as a serde data format
@@ -1946,6 +1952,7 @@
 
 ## TypeScript 
 
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [microsoft/vscode-js-profile-visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - A custom editor for viewing `.cpuprofile` files in VS Code
@@ -2333,7 +2340,7 @@
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
-- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Instant GraphQL API generator for ◭ Prisma and AWS AppSync.
+- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Turns your ◭ Prisma schema into a fully-featured GraphQL API, tailored for AWS AppSync.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
@@ -2380,7 +2387,7 @@
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
 - [cmorten/deno-rollup](https://github.com/cmorten/deno-rollup) - Next-generation ES module bundler ported for Deno
 - [harmonyland/harmony](https://github.com/harmonyland/harmony) - An easy to use Discord API Library for Deno.
-- [vim-denops/denops-deno](https://github.com/vim-denops/denops-deno) - 🐜 Deno module for denops.vim
+- [vim-denops/deno-denops](https://github.com/vim-denops/deno-denops) - 🐜 Deno module for denops.vim
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [LumaKernel/coc-denoland](https://github.com/LumaKernel/coc-denoland) - DEPRECATED
 - [eveningkid/denodb](https://github.com/eveningkid/denodb) - MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno
@@ -2547,6 +2554,7 @@
 
 ## Vim Script 
 
+- [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
 - [qnighy/lalrpop.vim](https://github.com/qnighy/lalrpop.vim) - LALRPOP Vim plugin with minimal syntax-highlighting functionality
 - [hashivim/vim-terraform](https://github.com/hashivim/vim-terraform) - basic vim/terraform integration
