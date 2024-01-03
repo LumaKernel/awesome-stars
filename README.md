@@ -153,6 +153,7 @@
 
 ## C# # 
 
+- [VMelville/subatomic-canvas](https://github.com/VMelville/subatomic-canvas) - SubatomicCanvas is an easy-to-run particle simulation application made in Unity.
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
 - [dotnet/interactive](https://github.com/dotnet/interactive) - .NET Interactive combines the power of .NET with many other languages to create notebooks, REPLs, and embedded coding experiences. Share code, explore data, write, and learn across your apps in ways y
 - [QL-Win/QuickLook](https://github.com/QL-Win/QuickLook) - Bring macOS “Quick Look” feature to Windows
@@ -1616,6 +1617,8 @@
 
 ## Rust 
 
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+- [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
@@ -1952,6 +1955,7 @@
 
 ## TypeScript 
 
+- [yaegassy/coc-astro](https://github.com/yaegassy/coc-astro) - Astro extension for coc.nvim
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -2340,7 +2344,7 @@
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
 - [denosaurs/cache](https://github.com/denosaurs/cache) - 🥌 Deno cache library
-- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Turns your ◭ Prisma schema into a fully-featured GraphQL API, tailored for AWS AppSync.
+- [maoosi/prisma-appsync](https://github.com/maoosi/prisma-appsync) - ⚡ Turns your ◭ Prisma Schema into a fully-featured GraphQL API, tailored for AWS AppSync.
 - [video-dev/hls.js](https://github.com/video-dev/hls.js) - HLS.js is a JavaScript library that plays HLS in browsers with support for MSE.
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [egoist/router](https://github.com/egoist/router) - A router that works in Node.js, browser and Deno.
@@ -2494,7 +2498,7 @@
 - [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) - A tool to generate your github summary card for profile README
 - [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 - [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
-- [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
+- [panva/jose](https://github.com/panva/jose) - JWA, JWS, JWE, JWT, JWK, JWKS for Node.js, Browser, Cloudflare Workers, Deno, Bun, and other Web-interoperable runtimes.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 - [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 - [frouriojs/create-frourio-app](https://github.com/frouriojs/create-frourio-app) - Create a frourio project in seconds
@@ -2554,6 +2558,7 @@
 
 ## Vim Script 
 
+- [wuelnerdotexe/vim-astro](https://github.com/wuelnerdotexe/vim-astro) - Astro language (.astro files) indentation and syntax support in Vim or Neovim. 🚀🧑‍🚀✨
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [azabiong/vim-highlighter](https://github.com/azabiong/vim-highlighter) - Highlight words and expressions
 - [qnighy/lalrpop.vim](https://github.com/qnighy/lalrpop.vim) - LALRPOP Vim plugin with minimal syntax-highlighting functionality
