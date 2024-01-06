@@ -1160,6 +1160,7 @@
 
 ## Lean 
 
+- [dwrensha/compfiles](https://github.com/dwrensha/compfiles) - Catalog Of Math Problems Formalized In Lean
 - [iehality/lean4-logic](https://github.com/iehality/lean4-logic) - Lean4 Logic Formalization
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [lean-ja/tactic-cheatsheet](https://github.com/lean-ja/tactic-cheatsheet) - Lean4 の逆引きタクティクリスト
@@ -1407,6 +1408,7 @@
 
 ## Python 
 
+- [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo) - Tool for data extraction and interacting with Lean programmatically.
 - [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [ypsu/latex-to-unicode](https://github.com/ypsu/latex-to-unicode) - Convert latex symbols to unicode characters
