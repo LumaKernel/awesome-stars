@@ -1156,7 +1156,7 @@
 - [boitsov14/theorem-prover-kt](https://github.com/boitsov14/theorem-prover-kt) - A sequent-style theorem prover for first-order logic in Kotlin
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [Kondenko/pocketwaka](https://github.com/Kondenko/pocketwaka) - WakaTime client written in Kotlin
-- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, linting and more for any editor/IDE using the Language Server Protocol
+- [fwcd/kotlin-language-server](https://github.com/fwcd/kotlin-language-server) - Kotlin code completion, diagnostics and more for any editor/IDE using the Language Server Protocol
 
 ## Lean 
 
@@ -2038,7 +2038,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
