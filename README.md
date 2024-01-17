@@ -1160,6 +1160,7 @@
 
 ## Lean 
 
+- [leanprover-community/aesop](https://github.com/leanprover-community/aesop) - White-box automation for Lean 4
 - [dwrensha/compfiles](https://github.com/dwrensha/compfiles) - Catalog Of Math Problems Formalized In Lean
 - [iehality/lean4-logic](https://github.com/iehality/lean4-logic) - Lean4 Logic Formalization
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
@@ -1650,7 +1651,7 @@
 - [vizia/vizia](https://github.com/vizia/vizia) - A declarative GUI library written in Rust
 - [qnighy/omniswap](https://github.com/qnighy/omniswap) - a crate to swap values between possibly-overlapping references
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
-- [bluss/either](https://github.com/bluss/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
+- [rayon-rs/either](https://github.com/rayon-rs/either) - The enum Either with variants Left and Right is a general purpose sum type with two cases.
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) - Steiner tree solver
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
@@ -1867,6 +1868,7 @@
 
 ## Shell 
 
+- [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
 - [VSCodium/vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 - [codecov/self-hosted](https://github.com/codecov/self-hosted) - Example of how to setup Codecov with docker compose
 - [multiarch/qemu-user-static](https://github.com/multiarch/qemu-user-static) - :earth_africa: `/usr/bin/qemu-*-static`
