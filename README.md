@@ -644,6 +644,8 @@
 
 ## JavaScript 
 
+- [micromark/micromark-extension-math](https://github.com/micromark/micromark-extension-math) - micromark extension to support math (`$C_L$`)
+- [syntax-tree/mdast-util-math](https://github.com/syntax-tree/mdast-util-math) - mdast extension to parse and serialize math
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [increpare/PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine
