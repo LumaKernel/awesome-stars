@@ -644,6 +644,11 @@
 
 ## JavaScript 
 
+- [micromark/micromark-extension-mdx-expression](https://github.com/micromark/micromark-extension-mdx-expression) - micromark extension to support MDX or MDX JS expressions
+- [syntax-tree/hast-util-to-estree](https://github.com/syntax-tree/hast-util-to-estree) - hast utility to transform to estree (JavaScript AST) JSX
+- [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
+- [syntax-tree/estree-util-to-js](https://github.com/syntax-tree/estree-util-to-js) - estree (and esast) utility to serialize as JavaScript
+- [micromark/micromark-extension-mdxjs](https://github.com/micromark/micromark-extension-mdxjs) - micromark extension to support MDX.js
 - [micromark/micromark-extension-math](https://github.com/micromark/micromark-extension-math) - micromark extension to support math (`$C_L$`)
 - [syntax-tree/mdast-util-math](https://github.com/syntax-tree/mdast-util-math) - mdast extension to parse and serialize math
 - [istanbuljs/v8-to-istanbul](https://github.com/istanbuljs/v8-to-istanbul) - convert from v8 coverage format to istanbul's format
@@ -2064,7 +2069,7 @@
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
 - [taybenlor/runno](https://github.com/taybenlor/runno) - Browser-based runtime for programming languages and WASI binaries.
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - “run anything” from the creator of `brew`
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - the last thing you’ll install
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [genesy/karabiner-complex-rules-generator](https://github.com/genesy/karabiner-complex-rules-generator) - Simple web app to help generate Karabiner Elements Complex Rules
 - [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive and typed Gitlab SDK for Node.js, Browsers, Deno and CLI
@@ -2280,7 +2285,7 @@
 - [matsui54/ddc-matcher_fuzzy](https://github.com/matsui54/ddc-matcher_fuzzy) - Fuzzy matcher for ddc.vim
 - [Shougo/ddc-filter-sorter_rank](https://github.com/Shougo/ddc-filter-sorter_rank) - Matched rank order sorter for ddc.vim
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) - 
-- [matsui54/ddc-buffer](https://github.com/matsui54/ddc-buffer) - Buffer source for ddc.vim
+- [matsui54/ddc-source-buffer](https://github.com/matsui54/ddc-source-buffer) - Buffer source for ddc.vim
 - [hayd/deno-udd](https://github.com/hayd/deno-udd) - Update Deno Dependencies - update dependency urls to their latest published versions
 - [luma-dev/deno-iterator-helpers](https://github.com/luma-dev/deno-iterator-helpers) - Strict and wrapper version implementation for https://github.com/tc39/proposal-iterator-helpers.
 - [LumaKernel/ddc-source-file](https://github.com/LumaKernel/ddc-source-file) - Powerful and performant file name completion for ddc.vim.
