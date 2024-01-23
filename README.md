@@ -1331,7 +1331,7 @@
 - [estree/estree](https://github.com/estree/estree) - The ESTree Spec
 - [syntax-tree/hast](https://github.com/syntax-tree/hast) - Hypertext Abstract Syntax Tree format
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-- [ZeusGuard/RIP](https://github.com/ZeusGuard/RIP) - 
+- [roadwy/RIP](https://github.com/roadwy/RIP) - 
 - [samuelmarina/is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
