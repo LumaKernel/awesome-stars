@@ -1631,6 +1631,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [verifast/verifast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C and Java programs
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
