@@ -96,7 +96,6 @@
 - [kkos/oniguruma](https://github.com/kkos/oniguruma) - regular expression library
 - [phoboslab/wipeout-rewrite](https://github.com/phoboslab/wipeout-rewrite) - 
 - [lrh2000/StackRot](https://github.com/lrh2000/StackRot) - CVE-2023-3269: Linux kernel privilege escalation vulnerability
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [shinh/elvm](https://github.com/shinh/elvm) - EsoLangVM Compiler Infrastructure
 - [moritzbroe/terminal_minecraft](https://github.com/moritzbroe/terminal_minecraft) - 
 - [google/rune](https://github.com/google/rune) - Rune is a programming language developed to test ideas for improving security and efficiency.
@@ -172,6 +171,7 @@
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [google/mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
@@ -643,6 +643,7 @@
 
 ## JavaScript 
 
+- [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
 - [micromark/micromark-extension-mdx-expression](https://github.com/micromark/micromark-extension-mdx-expression) - micromark extension to support MDX or MDX JS expressions
 - [syntax-tree/hast-util-to-estree](https://github.com/syntax-tree/hast-util-to-estree) - hast utility to transform to estree (JavaScript AST) JSX
 - [davidbonnet/astring](https://github.com/davidbonnet/astring) - 🌳 Tiny and fast JavaScript code generator from an ESTree-compliant AST.
@@ -2051,7 +2052,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas SDK.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
@@ -2330,7 +2331,7 @@
 - [vim-denops/deno-denops-std](https://github.com/vim-denops/deno-denops-std) - 📚 Standard module for denops.vim
 - [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for neovim/Vim
 - [Shougo/ddc.vim](https://github.com/Shougo/ddc.vim) - Dark deno-powered completion framework for neovim/Vim
-- [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical framework for svelte applications in deno
+- [crewdevio/Snel](https://github.com/crewdevio/Snel) - A Cybernetical tool for svelte applications on deno
 - [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) - dts-gen creates starter TypeScript definition files for any module or library.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -2471,7 +2472,7 @@
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
 - [ben-rogerson/twin.macro](https://github.com/ben-rogerson/twin.macro) - 🦹‍♂️ Twin blends the magic of Tailwind with the flexibility of css-in-js (emotion, styled-components, solid-styled-components, stitches and goober) at build time.
 - [pradel/esbuild-node-externals](https://github.com/pradel/esbuild-node-externals) - Easily exclude node modules in Esbuild
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency automation tool.
 - [ruvkr/react-components-by-ruvkr](https://github.com/ruvkr/react-components-by-ruvkr) - A collection of Responsive Animated Mobile friendly Lightweight React Components
 - [benc-uk/workflow-dispatch](https://github.com/benc-uk/workflow-dispatch) - A GitHub Action for triggering workflows, using the `workflow_dispatch` event
 - [mizchi/next-like-frameworks](https://github.com/mizchi/next-like-frameworks) - 
@@ -2760,7 +2761,7 @@
 
 ## jq 
 
-- [wader/jqjq](https://github.com/wader/jqjq) - jq implementation of jq
+- [wader/jqjq](https://github.com/wader/jqjq) - I heard you like jq
 
 
 ## License
