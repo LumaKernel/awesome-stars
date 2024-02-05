@@ -643,6 +643,7 @@
 
 ## JavaScript 
 
+- [syntax-tree/hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm
 - [remarkablemark/inline-style-parser](https://github.com/remarkablemark/inline-style-parser) - 📝 Inline style parser.
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
 - [micromark/micromark-extension-mdx-expression](https://github.com/micromark/micromark-extension-mdx-expression) - micromark extension to support MDX or MDX JS expressions
@@ -1289,6 +1290,7 @@
 
 ## Others 
 
+- [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -1405,7 +1407,7 @@
 
 ## PowerShell 
 
-- [MicrosoftDocs/live-share](https://github.com/MicrosoftDocs/live-share) - Real-time collaborative development from the comfort of your favorite tools
+- [microsoft/live-share](https://github.com/microsoft/live-share) - Real-time collaborative development from the comfort of your favorite tools
 - [geektheripper/my-scoop](https://github.com/geektheripper/my-scoop) - my windows packages
 - [awslabs/aws-support-tools](https://github.com/awslabs/aws-support-tools) - Tools and sample code provided by AWS Premium Support.
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
