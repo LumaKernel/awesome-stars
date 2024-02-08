@@ -323,7 +323,7 @@
 
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. The GitLab/GitHub for database DevOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18+ Generics.
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [BooleanCat/go-functional](https://github.com/BooleanCat/go-functional) - go-functional is a library that offers functional programming in Go using generics
@@ -848,7 +848,6 @@
 - [panter/vue-i18next](https://github.com/panter/vue-i18next) - Internationalization for vue using the i18next i18n ecosystem.
 - [tc39/test262](https://github.com/tc39/test262) - Official ECMAScript Conformance Test Suite
 - [wagoid/commitlint-github-action](https://github.com/wagoid/commitlint-github-action) - Lints Pull Request commits with commitlint
-- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [testing-library/cypress-testing-library](https://github.com/testing-library/cypress-testing-library) - 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -1983,6 +1982,7 @@
 
 ## TypeScript 
 
+- [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
 - [uki00a/awesome-fresh](https://github.com/uki00a/awesome-fresh) - A curated list of awesome things related to fresh
@@ -2325,6 +2325,7 @@
 - [makutamoto/atcoder-badges](https://github.com/makutamoto/atcoder-badges) - AtCoderの現在のレートと色を表示するバッジを作れます。
 - [denodrivers/mongo](https://github.com/denodrivers/mongo) - MongoDB driver for Deno
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
+- [pnpm/action-setup](https://github.com/pnpm/action-setup) - Install pnpm package manager
 - [kaisermann/svelte-i18n](https://github.com/kaisermann/svelte-i18n) - Internationalization library for Svelte
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
@@ -2438,7 +2439,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [egoist/majo](https://github.com/egoist/majo) - A minimal module to manipulate files.
 - [codecov/codecov-action](https://github.com/codecov/codecov-action) - GitHub Action that uploads coverage to Codecov :open_umbrella:
-- [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
+- [igorzi/deno-lambda](https://github.com/igorzi/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
 - [TheBrainFamily/wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing. Integral part of react-testing-library.
 - [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
