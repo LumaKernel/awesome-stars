@@ -168,7 +168,7 @@
 
 ## C++ 
 
-- [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native applications using React
+- [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native visionOS applications using React
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [google/mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
@@ -248,6 +248,7 @@
 - [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) - Public documentation for Visual Studio Code
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [timonweb/django-bulma](https://github.com/timonweb/django-bulma) - Bulma theme for Django
@@ -307,6 +308,7 @@
 
 ## Elixir 
 
+- [kiosion/toru](https://github.com/kiosion/toru) - API for generating customizable image embeds of last.fm activity
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
@@ -553,6 +555,7 @@
 
 ## HTML 
 
+- [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
 - [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
@@ -646,6 +649,7 @@
 
 ## JavaScript 
 
+- [ungap/structured-clone](https://github.com/ungap/structured-clone) - A structuredClone polyfill
 - [syntax-tree/hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm
 - [remarkablemark/inline-style-parser](https://github.com/remarkablemark/inline-style-parser) - 📝 Inline style parser.
 - [semantic-release/commit-analyzer](https://github.com/semantic-release/commit-analyzer) - :bulb: semantic-release plugin to analyze commits with conventional-changelog
@@ -1423,6 +1427,7 @@
 
 ## Python 
 
+- [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath. Now open for Issues and Pull Requests.
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo) - Tool for data extraction and interacting with Lean programmatically.
 - [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
@@ -1872,7 +1877,6 @@
 
 - [ilyas-it83/CloudComparer](https://github.com/ilyas-it83/CloudComparer) - Compare the various managed cloud services offered by the major public cloud providers in the market.
 - [just-the-docs/just-the-docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Scala 
 
