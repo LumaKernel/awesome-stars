@@ -310,7 +310,7 @@
 
 - [kiosion/toru](https://github.com/kiosion/toru) - API for generating customizable image embeds of last.fm activity
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, 2FA, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Emacs Lisp 
@@ -649,6 +649,8 @@
 
 ## JavaScript 
 
+- [mcollina/syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [ungap/structured-clone](https://github.com/ungap/structured-clone) - A structuredClone polyfill
 - [syntax-tree/hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm
 - [remarkablemark/inline-style-parser](https://github.com/remarkablemark/inline-style-parser) - 📝 Inline style parser.
@@ -1988,6 +1990,8 @@
 
 ## TypeScript 
 
+- [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
+- [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
 - [iway1/trpc-panel](https://github.com/iway1/trpc-panel) - 
 - [shikijs/twoslash](https://github.com/shikijs/twoslash) - You take some Shiki, add a hint of TypeScript compiler, and 🎉 incredible static code samples
 - [tinylibs/tinybench](https://github.com/tinylibs/tinybench) - 🔎 A simple, tiny and lightweight benchmarking library!
