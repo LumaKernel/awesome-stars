@@ -544,7 +544,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [mattn/efm-langserver](https://github.com/mattn/efm-langserver) - General purpose Language Server
 - [mattn/goemon](https://github.com/mattn/goemon) - 五右衛門
-- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## HCL 
@@ -1297,6 +1297,7 @@
 
 ## Others 
 
+- [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
 - [binhnguyennus/awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - The Patterns of Scalable, Reliable, and Performant Large-Scale Systems
@@ -1991,6 +1992,7 @@
 
 ## TypeScript 
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
 - [dnnsjsk/glaze](https://github.com/dnnsjsk/glaze) - The utility-based animation framework for the web.
@@ -2302,7 +2304,6 @@
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [Shougo/ddc-source-omni](https://github.com/Shougo/ddc-source-omni) - Omnifunc completion for ddc.vim
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
-- [robey/ballvalve](https://github.com/robey/ballvalve) - combinators and adapters for ES2018 (javascript) async iterators
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [thinca/action-setup-vim](https://github.com/thinca/action-setup-vim) - GitHub Action to setup Vim, Neovim, or MacVim.
 - [matsui54/ddc-matcher_fuzzy](https://github.com/matsui54/ddc-matcher_fuzzy) - Fuzzy matcher for ddc.vim
