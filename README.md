@@ -1994,6 +1994,7 @@
 
 ## TypeScript 
 
+- [n1ru4l/use-async-effect](https://github.com/n1ru4l/use-async-effect) - React hook for async effects powered by generator functions.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [supermacro/neverthrow](https://github.com/supermacro/neverthrow) - Type-Safe Errors for JS & TypeScript
 - [devidw/tabgod](https://github.com/devidw/tabgod) - execute any javascript on any chromium tabs - cross-tab parallel execution
