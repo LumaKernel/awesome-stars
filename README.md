@@ -1246,7 +1246,7 @@
 
 ## Makefile 
 
-- [instill-ai/core](https://github.com/instill-ai/core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
 
@@ -1648,6 +1648,7 @@
 
 ## Rust 
 
+- [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [verifast/verifast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C and Java programs
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
