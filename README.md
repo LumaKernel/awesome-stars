@@ -557,6 +557,7 @@
 
 ## HTML 
 
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [tc39/proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) - TC39 Proposal to remove common leading indentation from multiline template strings
 - [flatt-security/developers-quiz](https://github.com/flatt-security/developers-quiz) - Flatt Security Developers' Quizのソースコードを公開するリポジトリです。
 - [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
@@ -653,6 +654,7 @@
 
 ## JavaScript 
 
+- [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec.
 - [mcollina/syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [ungap/structured-clone](https://github.com/ungap/structured-clone) - A structuredClone polyfill
@@ -1996,7 +1998,7 @@
 
 ## TypeScript 
 
-- [marchantweb/vuexyz](https://github.com/marchantweb/vuexyz) - Creative coding composables for Vue 3.
+- [vuexyz/vuexyz](https://github.com/vuexyz/vuexyz) - Creative coding composables for Vue 3.
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
 - [n1ru4l/use-async-effect](https://github.com/n1ru4l/use-async-effect) - React hook for async effects powered by generator functions.
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
