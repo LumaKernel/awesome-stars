@@ -168,6 +168,7 @@
 
 ## C++ 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native visionOS applications using React
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
@@ -1636,6 +1637,7 @@
 
 ## Ruby 
 
+- [mame/self-description-set](https://github.com/mame/self-description-set) - A formula that become itself when plotted
 - [github/licensed](https://github.com/github/licensed) - A Ruby gem to cache and verify the licenses of dependencies
 - [Shopify/shopify-cli](https://github.com/Shopify/shopify-cli) - Shopify CLI helps you build against the Shopify platform faster.
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
@@ -1649,6 +1651,7 @@
 
 ## Rust 
 
+- [skanehira/type-utilities-rs](https://github.com/skanehira/type-utilities-rs) - Type utilities in Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
