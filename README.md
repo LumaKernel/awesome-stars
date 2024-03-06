@@ -327,6 +327,7 @@
 
 ## Go 
 
+- [goccy/bigquery-emulator](https://github.com/goccy/bigquery-emulator) - BigQuery emulator server implemented in Go
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
@@ -1656,6 +1657,7 @@
 
 ## Rust 
 
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - LangChain for Rust, the easiest way to write LLM-based programs in Rust
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [skanehira/type-utilities-rs](https://github.com/skanehira/type-utilities-rs) - Type utilities in Rust
@@ -2008,6 +2010,7 @@
 
 ## TypeScript 
 
+- [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
 - [vuexyz/vuexyz](https://github.com/vuexyz/vuexyz) - Creative coding composables for Vue 3.
@@ -2095,7 +2098,7 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for every model.
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
