@@ -1657,7 +1657,6 @@
 
 ## Rust 
 
-- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - LangChain for Rust, the easiest way to write LLM-based programs in Rust
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [skanehira/type-utilities-rs](https://github.com/skanehira/type-utilities-rs) - Type utilities in Rust
@@ -1901,6 +1900,7 @@
 
 ## Scala 
 
+- [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
 - [lichess-org/lila](https://github.com/lichess-org/lila) - ♞ lichess.org: the forever free, adless and open source chess server ♞
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
 
