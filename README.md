@@ -195,7 +195,7 @@
 - [zeromq/libzmq](https://github.com/zeromq/libzmq) - ZeroMQ core engine in C++, implements ZMTP/3.1
 - [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 - [azerothcore/azerothcore-wotlk](https://github.com/azerothcore/azerothcore-wotlk) - Complete Open Source and Modular solution for MMO
-- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, WatermelonDB, Apache Doris, Milvus, StarRocks
+- [simdjson/simdjson](https://github.com/simdjson/simdjson) - Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
 - [ugis70194/ugislib](https://github.com/ugis70194/ugislib) - 
 - [herumi/misc](https://github.com/herumi/misc) - 
 - [brookhong/KeyCastOW](https://github.com/brookhong/KeyCastOW) - keystroke visualizer for Windows, lets you easily display your keystrokes while recording screencasts.
@@ -398,7 +398,7 @@
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
-- [aequasi/terraform-provider-discord](https://github.com/aequasi/terraform-provider-discord) - Discord Provider for Terraform
+- [cryptiklemur/terraform-provider-discord](https://github.com/cryptiklemur/terraform-provider-discord) - Discord Provider for Terraform
 - [im2nguyen/rover](https://github.com/im2nguyen/rover) - Interactive Terraform visualization. State and configuration explorer.
 - [fsouza/fake-gcs-server](https://github.com/fsouza/fake-gcs-server) - Google Cloud Storage emulator & testing library.
 - [micnncim/protocol-buffers-language-server](https://github.com/micnncim/protocol-buffers-language-server) - [WIP] Protocol Buffers Language Server
@@ -1487,7 +1487,7 @@
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [moymix/TaskMatrix](https://github.com/moymix/TaskMatrix) - 
+- [chenfei-wu/TaskMatrix](https://github.com/chenfei-wu/TaskMatrix) - 
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
 - [sozysozbot/2kmcc](https://github.com/sozysozbot/2kmcc) - 
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) - 
@@ -1657,7 +1657,7 @@
 
 ## Rust 
 
-- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - LangChain for Rust, the easiest way to write LLM-based programs in Rust
+- [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [skanehira/type-utilities-rs](https://github.com/skanehira/type-utilities-rs) - Type utilities in Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
@@ -1696,7 +1696,7 @@
 - [ebkalderon/tower-lsp](https://github.com/ebkalderon/tower-lsp) - Language Server Protocol implementation written in Rust
 - [wata-orz/steiner_tree](https://github.com/wata-orz/steiner_tree) - Steiner tree solver
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) - Rust port of Google's SwissTable hash map
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
+- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️
 - [sinofseven/kabeuchi](https://github.com/sinofseven/kabeuchi) - 
 - [rustwasm/wasm-bindgen](https://github.com/rustwasm/wasm-bindgen) - Facilitating high-level interactions between Wasm modules and JavaScript
 - [gluon-lang/gluon](https://github.com/gluon-lang/gluon) - A static, type inferred and embeddable language written in Rust.
