@@ -577,7 +577,7 @@
 - [b-fuze/deno-dom](https://github.com/b-fuze/deno-dom) - Browser DOM & HTML parser in Deno
 - [sympy/sympy.github.com](https://github.com/sympy/sympy.github.com) - SymPy's web page (sympy.org)
 - [jupyter/jupyter.github.io](https://github.com/jupyter/jupyter.github.io) - Project Jupyter's home on the World Wide Web
-- [observablehq/plot](https://github.com/observablehq/plot) - Observable Plot: a concise API for exploratory data visualization
+- [observablehq/plot](https://github.com/observablehq/plot) - A concise API for exploratory data visualization implementing a layered grammar of graphics
 - [kyodaisuu/googology](https://github.com/kyodaisuu/googology) - 巨大数論
 - [google/fonts](https://github.com/google/fonts) - Font files available from Google Fonts, and a public issue tracker for all things Google Fonts
 - [whatwg/url](https://github.com/whatwg/url) - URL Standard
@@ -2013,6 +2013,7 @@
 
 ## TypeScript 
 
+- [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
 - [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [bit-js/byte](https://github.com/bit-js/byte) - Fast, minimal web framework to create type safe APIs
