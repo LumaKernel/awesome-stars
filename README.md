@@ -1449,7 +1449,7 @@
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [lean-dojo/LeanDojo](https://github.com/lean-dojo/LeanDojo) - Tool for data extraction and interacting with Lean programmatically.
 - [VOICEVOX/voicevox_engine](https://github.com/VOICEVOX/voicevox_engine) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXの音声合成エンジン
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [ypsu/latex-to-unicode](https://github.com/ypsu/latex-to-unicode) - Convert latex symbols to unicode characters
 - [sotarokashiuchi/C_Compiler_for_C](https://github.com/sotarokashiuchi/C_Compiler_for_C) - 
 - [googlefonts/zen-kurenaido](https://github.com/googlefonts/zen-kurenaido) - ZenFonts.jp Kurenaido
@@ -2093,7 +2093,7 @@
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites
 - [mswjs/msw](https://github.com/mswjs/msw) - Seamless REST/GraphQL API mocking library for browser and Node.js.
-- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - NPM module to connect Monaco editor with language servers
+- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - Repo hosts npm packages for monaco-languageclient, vscode-ws-jsonrpc, monaco-editor-wrapper, @typefox/monaco-editor-react and monaco-languageclient-examples
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector) - Detect if DevTools is open
