@@ -2016,6 +2016,7 @@
 
 ## TypeScript 
 
+- [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
 - [ubie-oss/nslog](https://github.com/ubie-oss/nslog) - A structured logger for NestJS
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
