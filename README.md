@@ -2017,6 +2017,8 @@
 
 ## TypeScript 
 
+- [kory33/cf-worker-as-openssh-ca](https://github.com/kory33/cf-worker-as-openssh-ca) - Turning Cloudflare Workers into a Certificate Authority that verifies incoming requests and issues short-lived SSH certificates.
+- [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
 - [immerjs/use-immer](https://github.com/immerjs/use-immer) - Use immer to drive state with a React hooks
 - [ubie-oss/nslog](https://github.com/ubie-oss/nslog) - A structured logger for NestJS
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
