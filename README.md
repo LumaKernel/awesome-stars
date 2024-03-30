@@ -313,7 +313,7 @@
 
 - [kiosion/toru](https://github.com/kiosion/toru) - API for generating customizable image embeds of last.fm activity
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero trust access platform that supports OIDC authentication, user/group sync, and requires zero firewall configuration.
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth and identity sync.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Emacs Lisp 
@@ -1670,6 +1670,7 @@
 
 ## Rust 
 
+- [spinylobster/too-many-lists](https://github.com/spinylobster/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
