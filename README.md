@@ -92,7 +92,7 @@
 
 ## C 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, like a Valkyrie.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [dazjo/mkey](https://github.com/dazjo/mkey) - 3DS / Wii U / Switch master key generator
 - [xorvoid/sectorc](https://github.com/xorvoid/sectorc) - A C Compiler that fits in the 512 byte boot sector of an x86 machine
@@ -1257,7 +1257,7 @@
 
 ## Makefile 
 
-- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, AI, and pipelines orchestration platform
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model, and pipeline orchestration platform
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
 
@@ -2031,6 +2031,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/bsky-docs](https://github.com/bluesky-social/bsky-docs) - Bluesky API documentation
 - [scala-js/vite-plugin-scalajs](https://github.com/scala-js/vite-plugin-scalajs) - Vite plugin for integration of Scala.js
 - [kory33/cf-worker-as-openssh-ca](https://github.com/kory33/cf-worker-as-openssh-ca) - Turning Cloudflare Workers into a Certificate Authority that verifies incoming requests and issues short-lived SSH certificates.
 - [gajus/liqe](https://github.com/gajus/liqe) - Lightweight and performant Lucene-like parser, serializer and search engine.
