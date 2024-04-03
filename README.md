@@ -1258,6 +1258,7 @@
 ## Makefile 
 
 - [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model, and pipeline orchestration platform
+- [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) - CUDA grammar for tree-sitter
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
 
@@ -1796,7 +1797,6 @@
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
 - [Aleph-Alpha/ts-rs](https://github.com/Aleph-Alpha/ts-rs) - Generate TypeScript bindings from Rust types
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
-- [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) - CUDA grammar for tree-sitter
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) - Zero-cost asynchronous programming in Rust
 - [kbknapp/cargo-outdated](https://github.com/kbknapp/cargo-outdated) - A cargo subcommand for displaying when Rust dependencies are out of date
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
