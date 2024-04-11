@@ -656,6 +656,7 @@
 
 ## JavaScript 
 
+- [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [dessant/label-actions](https://github.com/dessant/label-actions) - 🤖 GitHub Action that performs certain tasks when issues, pull requests or discussions are labeled or unlabeled
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable!
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
