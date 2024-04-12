@@ -18,6 +18,7 @@
 - [Common Lisp](#common-lisp)
 - [Coq](#coq)
 - [Crystal](#crystal)
+- [D](#d)
 - [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -284,6 +285,10 @@
 ## Crystal 
 
 - [iv-org/invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
+
+## D 
+
+- [skilion/onedrive](https://github.com/skilion/onedrive) - Free Client for OneDrive on Linux
 
 ## D2 
 
@@ -1318,6 +1323,7 @@
 
 ## Others 
 
+- [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need) - 
