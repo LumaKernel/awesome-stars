@@ -93,6 +93,7 @@
 
 ## C 
 
+- [clibs/clib](https://github.com/clibs/clib) - Package manager for the C programming language.
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [redis/redis](https://github.com/redis/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bi
 - [dazjo/mkey](https://github.com/dazjo/mkey) - 3DS / Wii U / Switch master key generator
@@ -171,6 +172,7 @@
 
 ## C++ 
 
+- [poac-dev/poac](https://github.com/poac-dev/poac) - A package manager and build system for C++
 - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -662,6 +664,8 @@
 
 ## JavaScript 
 
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
+- [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [dessant/label-actions](https://github.com/dessant/label-actions) - 🤖 GitHub Action that performs certain tasks when issues, pull requests or discussions are labeled or unlabeled
@@ -1063,7 +1067,7 @@
 - [dwyl/aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock) - :rainbow: AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
 - [frouriojs/benchmarks](https://github.com/frouriojs/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
-- [payjp/payjp-node](https://github.com/payjp/payjp-node) - Pay.jp server-side JavaScript & Typescirpt SDK :tada: (Note. will remove npm beta tag) Tutorial:
+- [payjp/payjp-node](https://github.com/payjp/payjp-node) - PAY.JP server-side JavaScript & Typescirpt SDK :tada: (Note. will remove npm beta tag) Tutorial:
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
@@ -1648,7 +1652,7 @@
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [hauntsaninja/pyp](https://github.com/hauntsaninja/pyp) - Easily run Python at the shell! Magical, but never mysterious.
-- [aropan/clist](https://github.com/aropan/clist) - List of competitions for competitive programming
+- [aropan/clist](https://github.com/aropan/clist) - Your comprehensive guide to global programming contests. Track events, get details, and never miss a competition.
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
