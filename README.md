@@ -178,6 +178,7 @@
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native visionOS applications using React
+- [occ-ai/obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [ktock/container2wasm](https://github.com/ktock/container2wasm) - Container to WASM converter
 - [google/mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
 - [google/kati](https://github.com/google/kati) - An experimental GNU make clone
@@ -248,7 +249,6 @@
 
 ## CMake 
 
-- [occ-ai/obs-backgroundremoval](https://github.com/occ-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [WolframResearch/vscode-wolfram](https://github.com/WolframResearch/vscode-wolfram) - Official Visual Studio Code extension for Wolfram Language
 
 ## CSS 
@@ -1330,7 +1330,7 @@
 
 ## Others 
 
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう できる限りForkはしないでください
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
