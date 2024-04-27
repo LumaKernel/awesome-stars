@@ -258,6 +258,7 @@
 
 ## CSS 
 
+- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
 - [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
@@ -1337,8 +1338,7 @@
 ## Others 
 
 - [210on/twittervtuberlogos](https://github.com/210on/twittervtuberlogos) - 
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してください🫠
-- [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
+- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
