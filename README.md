@@ -259,7 +259,6 @@
 ## CSS 
 
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
-- [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
@@ -1560,7 +1559,7 @@
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
 - [jupyterhub/jupyterhub](https://github.com/jupyterhub/jupyterhub) - Multi-user server for Jupyter notebooks
 - [EugeneLoy/coq_jupyter](https://github.com/EugeneLoy/coq_jupyter) - Jupyter kernel for Coq
-- [qxresearch/qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) @xiaowuc2
+- [qxresearch/qxresearch-event-1](https://github.com/qxresearch/qxresearch-event-1) - Python hands on tutorial with 50+ Python Application (10 lines of code) By @xiaowuc2
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [numpy/numpy](https://github.com/numpy/numpy) - The fundamental package for scientific computing with Python.
@@ -2070,6 +2069,7 @@
 - [ubie-oss/nslog](https://github.com/ubie-oss/nslog) - A structured logger for NestJS
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [yhatt/jsx-slack](https://github.com/yhatt/jsx-slack) - Build JSON object for Slack Block Kit surfaces from JSX
+- [lumeland/cms](https://github.com/lumeland/cms) - A framework-agnostic CMS for Deno
 - [bit-js/byte](https://github.com/bit-js/byte) - Fast, minimal web framework to create type safe APIs
 - [denosaurs/log](https://github.com/denosaurs/log) - 📜 Dead-simple drop-in logging solution using streams and the native console api
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
