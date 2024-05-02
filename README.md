@@ -612,6 +612,7 @@
 - [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
+- [yutkat/katapedia](https://github.com/yutkat/katapedia) - この書は常に未完成である。内容の正誤に保証はない。  ITエンジニアとして役になったTips、よく忘れることを記す。 ブログに記載してもよかったが、水平方向の情報を見つけやすい本の形式をとることにした
 - [tc39/proposal-compartments](https://github.com/tc39/proposal-compartments) - Compartmentalization of host behavior hooks for JS
 - [tc39/proposal-ses](https://github.com/tc39/proposal-ses) - Draft proposal for SES (Secure EcmaScript)
 - [tc39/proposal-defer-import-eval](https://github.com/tc39/proposal-defer-import-eval) - A proposal for introducing a way to defer evaluate of a module
@@ -1340,7 +1341,6 @@
 ## Others 
 
 - [210on/twittervtuberlogos](https://github.com/210on/twittervtuberlogos) - 
-- [SAWARATSUKI/ServiceLogos](https://github.com/SAWARATSUKI/ServiceLogos) - ロゴを可愛く作ろう　節度を持って利用してくださいね🫠
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
@@ -1412,7 +1412,6 @@
 - [BobNisco/adblocking-vpn](https://github.com/BobNisco/adblocking-vpn) - 🔒 Create your own VPN server that blocks malicious domains to enhance your security and privacy
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-- [yutkat/katapedia](https://github.com/yutkat/katapedia) - この書は常に未完成である。内容の正誤に保証はない。  ITエンジニアとして役になったTips、よく忘れることを記す。 ブログに記載してもよかったが、水平方向の情報を見つけやすい本の形式をとることにした
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [enaqx/awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem
 - [mozilla/geckodriver](https://github.com/mozilla/geckodriver) - WebDriver for Firefox
