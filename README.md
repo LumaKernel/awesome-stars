@@ -1340,6 +1340,7 @@
 
 ## Others 
 
+- [SAWARATSUKI/Logos](https://github.com/SAWARATSUKI/Logos) - 
 - [210on/twittervtuberlogos](https://github.com/210on/twittervtuberlogos) - 
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
