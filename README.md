@@ -123,6 +123,7 @@
 - [bostick/tree-sitter-wolfram](https://github.com/bostick/tree-sitter-wolfram) - Wolfram Language grammar for tree-sitter
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
+- [tree-sitter/tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.
 - [dralletje/tree-sitter-graphql](https://github.com/dralletje/tree-sitter-graphql) - Graphql grammar for tree-sitter
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) - Eclipse Mosquitto - An open source MQTT broker
@@ -808,7 +809,6 @@
 - [styled-components/polished](https://github.com/styled-components/polished) - A lightweight toolset for writing styles in JavaScript ✨
 - [styled-components/vscode-styled-components](https://github.com/styled-components/vscode-styled-components) - Syntax highlighting for styled-components
 - [tree-sitter/tree-sitter-regex](https://github.com/tree-sitter/tree-sitter-regex) - Tree-sitter parser for regular expressions
-- [tree-sitter/tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [davidedantonio/pino-fluentd](https://github.com/davidedantonio/pino-fluentd) - :evergreen_tree: send pino logs to Fluentd
 - [fluent/fluent-logger-node](https://github.com/fluent/fluent-logger-node) - A structured logger for Fluentd (Node.js)
@@ -1183,6 +1183,7 @@
 
 ## Jupyter Notebook 
 
+- [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) - 
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
