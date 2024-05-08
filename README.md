@@ -1060,7 +1060,7 @@
 - [import-js/eslint-plugin-import](https://github.com/import-js/eslint-plugin-import) - ESLint plugin with rules that help validate proper imports.
 - [mcollina/hyperid](https://github.com/mcollina/hyperid) - Uber-fast unique id generation, for Node.js and the browser
 - [brianc/node-postgres](https://github.com/brianc/node-postgres) - PostgreSQL client for node.js.
-- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Firefox Accounts
+- [mozilla/fxa](https://github.com/mozilla/fxa) - Monorepo for Mozilla Accounts (formerly Firefox Accounts)
 - [mattphillips/jest-expect-message](https://github.com/mattphillips/jest-expect-message) - Add custom message to Jest expects 🃏🗯
 - [mysticatea/eslint-plugin-eslint-comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Additional ESLint rules for directive comments of ESLint.
 - [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
@@ -1341,7 +1341,7 @@
 
 ## Others 
 
-- [SAWARATSUKI/Logos](https://github.com/SAWARATSUKI/Logos) - 
+- [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
 - [210on/twittervtuberlogos](https://github.com/210on/twittervtuberlogos) - 
 - [PretendoNetwork/Pretendo](https://github.com/PretendoNetwork/Pretendo) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
@@ -1480,6 +1480,7 @@
 
 ## Python 
 
+- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [frodo821/BitNet-Transformers](https://github.com/frodo821/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
@@ -2111,7 +2112,7 @@
 - [uhyo/tex-unicode](https://github.com/uhyo/tex-unicode) - unc
 - [googleapis/nodejs-storage](https://github.com/googleapis/nodejs-storage) - Node.js client for Google Cloud Storage: unified object storage for developers and enterprises, from live data serving to data analytics/ML to data archiving.
 - [slack-samples/deno-incident-management](https://github.com/slack-samples/deno-incident-management) - Automate the responding, analyzing, and resolving of incidents
-- [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
+- [sodiray/radash](https://github.com/sodiray/radash) - Functional utility library - modern, simple, typed, powerful
 - [lastmjs/wasm-metal](https://github.com/lastmjs/wasm-metal) - A bare metal physical implementation of WebAssembly. That's right, a WebAssembly CPU.
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [react-monaco-editor/react-monaco-editor](https://github.com/react-monaco-editor/react-monaco-editor) - Monaco Editor for React.
@@ -2176,7 +2177,7 @@
 - [ecyrbe/zodios](https://github.com/ecyrbe/zodios) - typescript http client and server with zod validation
 - [ts-rest/ts-rest](https://github.com/ts-rest/ts-rest) - RPC-like client, contract, and server implementation for a pure REST API
 - [BetterTyped/react-zoom-pan-pinch](https://github.com/BetterTyped/react-zoom-pan-pinch) - 🖼 React library to support easy zoom, pan, pinch on various html dom elements like &lt;img&gt; and &lt;div&gt;
-- [lambdalisue/kensaku.vim](https://github.com/lambdalisue/kensaku.vim) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
+- [lambdalisue/vim-kensaku](https://github.com/lambdalisue/vim-kensaku) - 🔍 Search Japanese text in Vim's buffer with Roma-ji by Migemo
 - [konvajs/react-konva](https://github.com/konvajs/react-konva) - React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.
 - [skanehira/denops-silicon.vim](https://github.com/skanehira/denops-silicon.vim) - A plugin to generate image from source code.
 - [material-components/material-web](https://github.com/material-components/material-web) - Material Design Web Components
@@ -2478,7 +2479,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-- [lambdalisue/gin.vim](https://github.com/lambdalisue/gin.vim) - 🥃  Gin makes you drunk on Git
+- [lambdalisue/vim-gin](https://github.com/lambdalisue/vim-gin) - 🥃  Gin makes you drunk on Git
 - [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [vuejs/language-tools](https://github.com/vuejs/language-tools) - ⚡ High-performance Vue language tooling based-on Volar.js
 - [halvardssm/deno-nessie](https://github.com/halvardssm/deno-nessie) - A modular Deno library for PostgreSQL, MySQL, MariaDB and SQLite migrations
@@ -2720,7 +2721,7 @@
 - [tyru/columnskip.vim](https://github.com/tyru/columnskip.vim) - Move vertically with skipping whitespaces
 - [Shougo/shougo-s-github](https://github.com/Shougo/shougo-s-github) - Shougo's git repository - vim, zsh, screen, etc...
 - [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
-- [lambdalisue/fern-bookmark.vim](https://github.com/lambdalisue/fern-bookmark.vim) - 🌿 fern.vim plugin which add bookmark scheme
+- [lambdalisue/vim-fern-bookmark](https://github.com/lambdalisue/vim-fern-bookmark) - 🌿 fern.vim plugin which add bookmark scheme
 - [yuki-yano/fern-preview.vim](https://github.com/yuki-yano/fern-preview.vim) - Add a file preview window to fern.vim.
 - [Shougo/neco-vim](https://github.com/Shougo/neco-vim) - The Vim Script completion source for neocomplete/deoplete/ddc
 - [shun/ddc-source-vim-lsp](https://github.com/shun/ddc-source-vim-lsp) - vim-lsp source for ddc.vim
@@ -2751,7 +2752,7 @@
 - [wfxr/minimap.vim](https://github.com/wfxr/minimap.vim) - 📡 Blazing fast minimap / scrollbar for vim, powered by code-minimap written in Rust.
 - [skanehira/preview-markdown.vim](https://github.com/skanehira/preview-markdown.vim) - Markdown preview plugin for Vim
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [lambdalisue/fern-ssh](https://github.com/lambdalisue/fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
+- [lambdalisue/vim-fern-ssh](https://github.com/lambdalisue/vim-fern-ssh) - 🌿  A scheme plugin for fern.vim which show file system tree of a remote machine via SSH.
 - [cwood/vim-django](https://github.com/cwood/vim-django) - vim-django run commands, create apps, and beyond
 - [Shougo/deorise.nvim](https://github.com/Shougo/deorise.nvim) - The dark powered hexa decimal editor interface for neovim
 - [itchyny/vim-gitbranch](https://github.com/itchyny/vim-gitbranch) - Provides the branch name of the current git repository
@@ -2774,13 +2775,13 @@
 - [heavenshell/vim-shutup](https://github.com/heavenshell/vim-shutup) - Supress warnings
 - [jparise/vim-graphql](https://github.com/jparise/vim-graphql) - A Vim plugin that provides GraphQL file detection, syntax highlighting, and indentation.
 - [thinca/vim-zenspace](https://github.com/thinca/vim-zenspace) - Show Ideographic Space (a.k.a. Zenkaku Space).
-- [lambdalisue/fern-hijack.vim](https://github.com/lambdalisue/fern-hijack.vim) - Make fern.vim as a default file explorer instead of Netrw
+- [lambdalisue/vim-fern-hijack](https://github.com/lambdalisue/vim-fern-hijack) - Make fern.vim as a default file explorer instead of Netrw
 - [Quramy/tsuquyomi-vue](https://github.com/Quramy/tsuquyomi-vue) - vim plugin for TypeScript and Vue.js
 - [Quramy/tsuquyomi](https://github.com/Quramy/tsuquyomi) - A Vim plugin for TypeScript
 - [sts10/vim-pink-moon](https://github.com/sts10/vim-pink-moon) - A vim/neovim colorscheme
 - [mattn/asyncomplete-skk.vim](https://github.com/mattn/asyncomplete-skk.vim) - 
 - [jaredgorski/SpaceCamp](https://github.com/jaredgorski/SpaceCamp) - 🔭 Vim colors for the final frontier
-- [lambdalisue/nerdfont.vim](https://github.com/lambdalisue/nerdfont.vim) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
+- [lambdalisue/vim-nerdfont](https://github.com/lambdalisue/vim-nerdfont) - 👓  Fundemental plugin to handle Nerd Fonts in Vim
 - [skanehira/gh.vim](https://github.com/skanehira/gh.vim) - Vim/Neovim plugin for GitHub
 - [kien/ctrlp.vim](https://github.com/kien/ctrlp.vim) - Fuzzy file, buffer, mru, tag, etc finder.
 - [mattn/die-vim](https://github.com/mattn/die-vim) - 
@@ -2794,15 +2795,15 @@
 - [ntpeters/vim-better-whitespace](https://github.com/ntpeters/vim-better-whitespace) - Better whitespace highlighting for Vim
 - [simeji/winresizer](https://github.com/simeji/winresizer) - very simple vim plugin for easy resizing of your vim windows
 - [yutkat/auto-paste-mode.vim](https://github.com/yutkat/auto-paste-mode.vim) - Automatically set the Paste Mode when you paste
-- [lambdalisue/fern-mapping-git.vim](https://github.com/lambdalisue/fern-mapping-git.vim) - Add Git related mappings on file:// scheme of fern.vim
-- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [lambdalisue/vim-fern-mapping-git](https://github.com/lambdalisue/vim-fern-mapping-git) - Add Git related mappings on file:// scheme of fern.vim
+- [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [wsdjeg/vim-todo](https://github.com/wsdjeg/vim-todo) - Better TODO manager plugin for neovim/vim
 - [MaxMEllon/vim-jsx-pretty](https://github.com/MaxMEllon/vim-jsx-pretty) - :flashlight: [Vim script] JSX and TSX syntax pretty highlighting for vim.
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
-- [lambdalisue/glyph-palette.vim](https://github.com/lambdalisue/glyph-palette.vim) - 🎨 An universal palette for Nerd Fonts
-- [lambdalisue/fern-renderer-nerdfont.vim](https://github.com/lambdalisue/fern-renderer-nerdfont.vim) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
-- [lambdalisue/fern-git-status.vim](https://github.com/lambdalisue/fern-git-status.vim) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
+- [lambdalisue/vim-glyph-palette](https://github.com/lambdalisue/vim-glyph-palette) - 🎨 An universal palette for Nerd Fonts
+- [lambdalisue/vim-fern-renderer-nerdfont](https://github.com/lambdalisue/vim-fern-renderer-nerdfont) - 🌿 fern.vim plugin which add file type icon through nerdfont.vim
+- [lambdalisue/vim-fern-git-status](https://github.com/lambdalisue/vim-fern-git-status) - 🌿  Add Git status badge integration on file:// scheme on fern.vim
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tweekmonster/django-plus.vim](https://github.com/tweekmonster/django-plus.vim) - :guitar: Improvements to the handling of Django related files in Vim
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
@@ -2812,15 +2813,15 @@
 - [mike-hearn/vim-combosearch](https://github.com/mike-hearn/vim-combosearch) - Vim plugin that combines filename search (find) and code search (grep) into a single command
 - [lambdalisue/vim-findent](https://github.com/lambdalisue/vim-findent) - Find and apply a reasonable indent rule of the current buffer.
 - [mattn/vim-godoc](https://github.com/mattn/vim-godoc) - 
-- [lambdalisue/readablefold.vim](https://github.com/lambdalisue/readablefold.vim) - A Vim plugin to improve foldtext for better looks
+- [lambdalisue/vim-readablefold](https://github.com/lambdalisue/vim-readablefold) - A Vim plugin to improve foldtext for better looks
 - [lambdalisue/vim-backslash](https://github.com/lambdalisue/vim-backslash) - Automatically insert a leading backslash when editing Vim scripts
-- [lambdalisue/reword.vim](https://github.com/lambdalisue/reword.vim) - 🧬 Vim plugin to provide case-preserving substitutuion
+- [lambdalisue/vim-reword](https://github.com/lambdalisue/vim-reword) - 🧬 Vim plugin to provide case-preserving substitutuion
 - [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 - [bullets-vim/bullets.vim](https://github.com/bullets-vim/bullets.vim) - 🔫 Bullets.vim is a Vim/NeoVim plugin for automated bullet lists.
 - [mattn/vim-lsp-settings](https://github.com/mattn/vim-lsp-settings) - Auto configurations for Language Server for vim-lsp
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [t9md/vim-choosewin](https://github.com/t9md/vim-choosewin) - Land on window you chose like tmux's 'display-pane'
-- [lambdalisue/fern.vim](https://github.com/lambdalisue/fern.vim) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [tyru/open-browser-github.vim](https://github.com/tyru/open-browser-github.vim) - Open GitHub URL of current file, etc. from Vim editor (supported GitHub Enterprise)
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [liuchengxu/vista.vim](https://github.com/liuchengxu/vista.vim) - :cactus: Viewer & Finder for LSP symbols and tags
@@ -2834,7 +2835,7 @@
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
 - [yardnsm/vim-import-cost](https://github.com/yardnsm/vim-import-cost) - 🏋️‍♂️ Display the import size of the JavaScript packages in Vim!
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [vim-skk/eskk.vim](https://github.com/vim-skk/eskk.vim) - eskk is pure Vim script implementation of input method engine SKK
 - [hotwatermorning/auto-git-diff](https://github.com/hotwatermorning/auto-git-diff) - A vim plugin which shows git diff for Git Rebase Interactive
 - [tsuyoshicho/vim-efm-langserver-settings](https://github.com/tsuyoshicho/vim-efm-langserver-settings) - vim lsp client - efm-langserver link and configure settings
