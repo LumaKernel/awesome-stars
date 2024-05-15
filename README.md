@@ -678,6 +678,7 @@
 
 ## JavaScript 
 
+- [hugeicons/hugeicons-react](https://github.com/hugeicons/hugeicons-react) - Boost your UI with Hugeicons React Icons. 3,800+ free customizable stroke icons for sleek web development and design projects. An open-source react icon library tailored for React.
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [micromatch/micromatch](https://github.com/micromatch/micromatch) - Highly optimized wildcard and glob matching library. Faster, drop-in replacement to minimatch and multimatch. Used by square, webpack, babel core, yarn, jest, ract-native, taro, bulma, browser-sync, s
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
@@ -1075,7 +1076,6 @@
 - [markdown-it/markdown-it-container](https://github.com/markdown-it/markdown-it-container) - Fenced container plugin for markdown-it markdown parser
 - [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
-- [dwyl/aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock) - :rainbow: AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
 - [frouriojs/benchmarks](https://github.com/frouriojs/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
 - [payjp/payjp-node](https://github.com/payjp/payjp-node) - PAY.JP server-side JavaScript & Typescirpt SDK :tada: (Note. will remove npm beta tag) Tutorial:
@@ -1183,6 +1183,7 @@
 
 ## Jupyter Notebook 
 
+- [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) - 
@@ -2619,6 +2620,7 @@
 - [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) - 📓 Lint commit messages
 - [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 - [typescript-language-server/typescript-language-server](https://github.com/typescript-language-server/typescript-language-server) - TypeScript & JavaScript Language Server
+- [dwyl/aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock) - :rainbow: AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
 - [ctrlplusb/prisma-pg-jest](https://github.com/ctrlplusb/prisma-pg-jest) - Example showcasing how to use Prisma + Postgres + Jest, where each test has its own unique DB context
 - [legraphista/ffmpeg-progress-wrapper](https://github.com/legraphista/ffmpeg-progress-wrapper) - A simple wrapper that helps determinng the progress of the ffmpeg conversion and other info
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
@@ -2669,7 +2671,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
 - [typescript-book-ja/typescript-book-jp](https://github.com/typescript-book-ja/typescript-book-jp) - TypeScript DeepDive 日本語版
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [acamica/ts-dynamic-type-checker](https://github.com/acamica/ts-dynamic-type-checker) - TypeScript library that performs dynamic type checking. It's useful for cases where you can't use TypeScript's static type checking (like reading a JSON object from a file).
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
