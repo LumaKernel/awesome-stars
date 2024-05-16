@@ -877,7 +877,6 @@
 - [rehypejs/rehype-slug](https://github.com/rehypejs/rehype-slug) - plugin to add `id` attributes to headings
 - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop) - Official electron build of draw.io
 - [luma-dev/luma-style-guide](https://github.com/luma-dev/luma-style-guide) - Luma Style Guide
-- [rhysd/remark-emoji](https://github.com/rhysd/remark-emoji) - Remark markdown transformer to replace :emoji: in text
 - [syntax-tree/mdast-util-mdx](https://github.com/syntax-tree/mdast-util-mdx) - mdast extension to parse and serialize MDX (or MDX.js)
 - [micromark/micromark-extension-mdx](https://github.com/micromark/micromark-extension-mdx) - micromark extension to support MDX (agnostic to JavaScript)
 - [vfile/to-vfile](https://github.com/vfile/to-vfile) - utility to create a vfile from a filepath
@@ -1935,7 +1934,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [akiradeveloper/rust-comp-snippets](https://github.com/akiradeveloper/rust-comp-snippets) - Library for competitive programming in Rust.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -2395,6 +2394,7 @@
 - [LumaKernel/ddc-run](https://github.com/LumaKernel/ddc-run) - Deno.run() Completion for ddc.vim
 - [delphinus/ddc-source-tmux](https://github.com/delphinus/ddc-source-tmux) - A source for ddc.vim to gather candidates from tmux panes
 - [LumaKernel/vim-tsdetect](https://github.com/LumaKernel/vim-tsdetect) - 
+- [rhysd/remark-emoji](https://github.com/rhysd/remark-emoji) - Remark markdown transformer to replace :emoji: in text
 - [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 - [Shougo/ddc-source-omni](https://github.com/Shougo/ddc-source-omni) - Omnifunc completion for ddc.vim
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
