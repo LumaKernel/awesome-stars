@@ -783,7 +783,6 @@
 - [nuxt/eslint-plugin-nuxt](https://github.com/nuxt/eslint-plugin-nuxt) - ESLint plugin for Nuxt.js [WIP]
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
-- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1281,7 +1280,7 @@
 
 ## Makefile 
 
-- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model, and pipeline orchestration platform
+- [instill-ai/instill-core](https://github.com/instill-ai/instill-core) - 🔮 Instill Core is an open-source no-/low-code data, model and pipeline orchestration platform, providing a full-stack AI solution for AI-first applications
 - [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) - CUDA grammar for tree-sitter
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
@@ -2134,7 +2133,7 @@
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
 - [udecode/plate](https://github.com/udecode/plate) - The rich-text editor for React.
-- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Open Source Education Platform
+- [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [martonlederer/esbuild-plugin-fileloc](https://github.com/martonlederer/esbuild-plugin-fileloc) - Support __filename, __dirname, __line and additional global variables to get information about the source file with esbuild
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [vercel/ai](https://github.com/vercel/ai) - Build AI-powered applications with React, Svelte, Vue, and Solid
@@ -2292,6 +2291,7 @@
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
+- [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [onebay/vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - A vite plugin for import library component style automatic.
