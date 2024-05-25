@@ -686,7 +686,7 @@
 - [fluent-ffmpeg/node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg) - A fluent API to FFMPEG (http://www.ffmpeg.org)
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [dessant/label-actions](https://github.com/dessant/label-actions) - 🤖 GitHub Action that performs certain tasks when issues, pull requests or discussions are labeled or unlabeled
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Web OS! Free, Open-Source, and Self-Hostable.
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
@@ -1702,9 +1702,10 @@
 
 ## Rust 
 
+- [microsoft/sudo](https://github.com/microsoft/sudo) - It's sudo, for Windows
 - [bgahagan/git-remote-s3](https://github.com/bgahagan/git-remote-s3) - Push and pull git repos to/from an s3 bucket, encrypted using gpg.
 - [dwango/fibers-rs](https://github.com/dwango/fibers-rs) - A Rust library to execute a number of lightweight asynchronous tasks (a.k.a, fibers) based on futures and mio.
-- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
+- [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [spinylobster/too-many-lists](https://github.com/spinylobster/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [rust-lang/book](https://github.com/rust-lang/book) - The Rust Programming Language
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
@@ -2163,7 +2164,7 @@
 - [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest) - eslint plugin for vitest
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
-- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [dataform-co/dataform](https://github.com/dataform-co/dataform) - Dataform is a framework for managing SQL based data operations in BigQuery
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
