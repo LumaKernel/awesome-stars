@@ -747,7 +747,6 @@
 - [pnpm/only-allow](https://github.com/pnpm/only-allow) - Force a specific package manager to be used on a project
 - [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
 - [sindresorhus/is-online](https://github.com/sindresorhus/is-online) - Check if the internet connection is up
-- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [lukeed/sirv](https://github.com/lukeed/sirv) - An optimized middleware & CLI application for serving static files~!
 - [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Archived
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
@@ -2070,7 +2069,7 @@
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
-- [LottieFiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) - 
+- [LottieFiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) - Official LottieFiles player for rendering Lottie and dotLottie animations in the web. Supports React, Vue, Svelte, and Web Components.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [bluesky-social/bsky-docs](https://github.com/bluesky-social/bsky-docs) - Bluesky API documentation
 - [scala-js/vite-plugin-scalajs](https://github.com/scala-js/vite-plugin-scalajs) - Vite plugin for integration of Scala.js
@@ -2242,6 +2241,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [teambit/bit-foundations](https://github.com/teambit/bit-foundations) - Concrete component-driven implementations for integrating workflows and tech stacks with bit
 - [emmetio/emmet](https://github.com/emmetio/emmet) - The essential toolkit for web-developers
+- [lucaong/minisearch](https://github.com/lucaong/minisearch) - Tiny and powerful JavaScript full-text search engine for browser and Node
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [windicss/windicss-webpack-plugin](https://github.com/windicss/windicss-webpack-plugin) - 🍃 Windi CSS for webpack ⚡
 - [BetaHuhn/metadata-scraper](https://github.com/BetaHuhn/metadata-scraper) - 🏷️ A JavaScript library for scraping/parsing metadata from a web page.
