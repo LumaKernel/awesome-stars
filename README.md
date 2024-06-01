@@ -2064,6 +2064,7 @@
 
 ## TypeScript 
 
+- [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [expo/react-conf-app](https://github.com/expo/react-conf-app) - 
 - [Effect-TS/effect](https://github.com/Effect-TS/effect) - An ecosystem of tools to build robust applications in TypeScript.
 - [googleapis/nodejs-bigquery](https://github.com/googleapis/nodejs-bigquery) - Node.js client for Google Cloud BigQuery: A fast, economical and fully-managed enterprise data warehouse for large-scale data analytics.
