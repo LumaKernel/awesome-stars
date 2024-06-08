@@ -1341,6 +1341,7 @@
 
 ## Others 
 
+- [KristianLentino99/ScalaMatsuri2024](https://github.com/KristianLentino99/ScalaMatsuri2024) - 
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
@@ -1952,6 +1953,8 @@
 
 ## Scala 
 
+- [kory33/scalamatsuri2024-minimal-eff](https://github.com/kory33/scalamatsuri2024-minimal-eff) - 
+- [tarao/record4s](https://github.com/tarao/record4s) - Extensible records for Scala
 - [scalameta/metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
 - [scala-js/scala-js](https://github.com/scala-js/scala-js) - Scala.js, the Scala to JavaScript compiler
 - [enso-org/enso](https://github.com/enso-org/enso) - Hybrid visual and textual functional programming.
