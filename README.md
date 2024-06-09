@@ -1038,7 +1038,7 @@
 - [dbhowell/pino-cloudwatch](https://github.com/dbhowell/pino-cloudwatch) - AWS CloudWatch Logs transport for pino
 - [not-an-aardvark/eslint-plugin-self](https://github.com/not-an-aardvark/eslint-plugin-self) - Allows ESLint plugins to lint themselves
 - [jest-community/jest-extended](https://github.com/jest-community/jest-extended) - Additional Jest matchers 🃏💪
-- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 53 plugins. 1333 rules. React, Vue, Node, and pure JS/TS.
+- [EvgenyOrekhov/eslint-config-hardcore](https://github.com/EvgenyOrekhov/eslint-config-hardcore) - The most strict (yet practical) ESLint config. 53 plugins. 1339 rules. React, Vue, Node, and pure JS/TS.
 - [alex-ppg/fastify-sentry](https://github.com/alex-ppg/fastify-sentry) - A Fastify plugin for attaching Sentry to the framework
 - [Idered/eslint-plugin-tailwind](https://github.com/Idered/eslint-plugin-tailwind) - ESLint rules for Tailwind CSS
 - [apollographql/eslint-plugin-graphql](https://github.com/apollographql/eslint-plugin-graphql) - :vertical_traffic_light: Check your GraphQL query strings against a schema.
@@ -1341,6 +1341,7 @@
 
 ## Others 
 
+- [riscv/learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
 - [KristianLentino99/ScalaMatsuri2024](https://github.com/KristianLentino99/ScalaMatsuri2024) - 
 - [angrykoala/awesome-browser-automation](https://github.com/angrykoala/awesome-browser-automation) - Curated list of awesome browser automation tools and resources
 - [reactwg/react-compiler](https://github.com/reactwg/react-compiler) - Working group for using React Compiler in production
@@ -1953,6 +1954,8 @@
 
 ## Scala 
 
+- [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct style concurrency and resiliency for Scala on the JVM
+- [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [kory33/scalamatsuri2024-minimal-eff](https://github.com/kory33/scalamatsuri2024-minimal-eff) - 
 - [tarao/record4s](https://github.com/tarao/record4s) - Extensible records for Scala
 - [scalameta/metals](https://github.com/scalameta/metals) - Scala language server with rich IDE features 🚀
