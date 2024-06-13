@@ -574,7 +574,7 @@
 ## HCL 
 
 - [azavea/terraform-aws-acm-certificate](https://github.com/azavea/terraform-aws-acm-certificate) - A Terraform module to create an Amazon Certificate Manager (ACM) certificate with Route 53 DNS validation.
-- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create AWS Elastic Kubernetes (EKS) resources 🇺🇦
+- [terraform-aws-modules/terraform-aws-eks](https://github.com/terraform-aws-modules/terraform-aws-eks) - Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦
 - [google-github-actions/test-infra](https://github.com/google-github-actions/test-infra) - Test infrastructure for Google Github Actions.
 - [tmknom/terraform-aws-s3-lb-log](https://github.com/tmknom/terraform-aws-s3-lb-log) - Terraform module which creates S3 Bucket resources for Load Balancer Access Logs on AWS.
 
