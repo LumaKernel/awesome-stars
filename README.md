@@ -1220,7 +1220,7 @@
 - [dwrensha/compfiles](https://github.com/dwrensha/compfiles) - Catalog Of Math Problems Formalized In Lean
 - [iehality/lean4-logic](https://github.com/iehality/lean4-logic) - Lean4 Logic Formalization
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
-- [lean-ja/lean-by-example](https://github.com/lean-ja/lean-by-example) - プログラミング言語であるとともに定理証明支援系でもある Lean 言語と，その主要なライブラリの使い方を豊富なコード例とともに解説した資料です．
+- [lean-ja/lean-by-example](https://github.com/lean-ja/lean-by-example) - コード例で学ぶ Lean 言語
 - [yuma-mizuno/lean-math-workshop](https://github.com/yuma-mizuno/lean-math-workshop) - 数学系のためのLean勉強会
 - [leanprover-community/lean4-metaprogramming-book](https://github.com/leanprover-community/lean4-metaprogramming-book) - 
 - [PatrickMassot/GlimpseOfLean](https://github.com/PatrickMassot/GlimpseOfLean) - An introduction to theorem proving in Lean for the impatient.
@@ -2077,6 +2077,7 @@
 
 ## TypeScript 
 
+- [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
 - [marklovers/kaplay](https://github.com/marklovers/kaplay) - 🦖 A JavaScript game library
 - [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
