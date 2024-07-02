@@ -685,6 +685,7 @@
 
 ## JavaScript 
 
+- [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
 - [christophehurpeau/deep-freeze-es6](https://github.com/christophehurpeau/deep-freeze-es6) - deep freeze, works with Map and Set
