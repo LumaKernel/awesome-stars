@@ -2102,7 +2102,7 @@
 - [vbenjs/vite-plugin-html](https://github.com/vbenjs/vite-plugin-html) - A vite plugin for processing html. It is developed based on lodash template
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
-- [LottieFiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) - Official LottieFiles player for rendering Lottie and dotLottie animations in the web. Supports React, Vue, Svelte, and Web Components.
+- [LottieFiles/dotlottie-web](https://github.com/LottieFiles/dotlottie-web) - Official LottieFiles player for rendering Lottie and dotLottie animations in the web. Supports React, Vue, Svelte, SolidJS and Web Components.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
 - [bluesky-social/bsky-docs](https://github.com/bluesky-social/bsky-docs) - Bluesky API documentation
 - [scala-js/vite-plugin-scalajs](https://github.com/scala-js/vite-plugin-scalajs) - Vite plugin for integration of Scala.js
