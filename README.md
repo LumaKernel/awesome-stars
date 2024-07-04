@@ -182,6 +182,7 @@
 
 ## C++ 
 
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [poac-dev/poac](https://github.com/poac-dev/poac) - A package manager and build system for C++
 - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
@@ -267,6 +268,7 @@
 - [maxchehab/CSS-Keylogging](https://github.com/maxchehab/CSS-Keylogging) - Chrome extension and Express server that exploits keylogging abilities of CSS.
 - [rust-lang/nomicon](https://github.com/rust-lang/nomicon) - The Dark Arts of Advanced and Unsafe Rust Programming
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
+- [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [PrismJS/prism-themes](https://github.com/PrismJS/prism-themes) - A wider selection of Prism themes
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -910,7 +912,6 @@
 - [testing-library/cypress-testing-library](https://github.com/testing-library/cypress-testing-library) - 🐅 Simple and complete custom Cypress commands and utilities that encourage good testing practices.
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 - [sveltejs/eslint-plugin-svelte3](https://github.com/sveltejs/eslint-plugin-svelte3) - An ESLint plugin for Svelte v3 components.
-- [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [swagger-api/swagger-editor](https://github.com/swagger-api/swagger-editor) - Swagger Editor
 - [facebookarchive/draft-js](https://github.com/facebookarchive/draft-js) - A React framework for building text editors.
@@ -1832,7 +1833,6 @@
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
 - [sile/patricia_tree](https://github.com/sile/patricia_tree) - A memory-efficient patricia tree implementation written in Rust
 - [VOICEVOX/voicevox_core](https://github.com/VOICEVOX/voicevox_core) - 無料で使える中品質なテキスト読み上げソフトウェア、VOICEVOXのコア
-- [rust-lang/reference](https://github.com/rust-lang/reference) - The Rust Reference
 - [dherman/esprit](https://github.com/dherman/esprit) - A JavaScript parser written in Rust
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [nanpuyue/tokio-fd](https://github.com/nanpuyue/tokio-fd) - Non-blocking Read and Write a Linux/Unix File Descriptor
@@ -2477,6 +2477,7 @@
 - [js-temporal/temporal-polyfill](https://github.com/js-temporal/temporal-polyfill) - Polyfill for Temporal (under construction)
 - [date-fns/date-fns](https://github.com/date-fns/date-fns) - ⏳ Modern JavaScript date utility library ⌛️
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
+- [tiged/tiged](https://github.com/tiged/tiged) - Community driven fork of degit
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
 - [jsr-core/unknownutil](https://github.com/jsr-core/unknownutil) - 🦕 A lightweight utility pack for handling unknown type
 - [lerna/lerna](https://github.com/lerna/lerna) - :dragon: Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.
@@ -2633,7 +2634,7 @@
 - [mizchi/next-like-frameworks](https://github.com/mizchi/next-like-frameworks) - 
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [denoland/vscode_deno](https://github.com/denoland/vscode_deno) - Visual Studio Code plugin for Deno
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [labd/nextjs-basic-auth-middleware](https://github.com/labd/nextjs-basic-auth-middleware) - Add basic authentication to a NextJS application as middleware
 - [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 - [josephluck/next-typescript-monorepo](https://github.com/josephluck/next-typescript-monorepo) - An example of a monorepo structure with Next.js, TypeScript and Babel
