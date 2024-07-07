@@ -1974,6 +1974,7 @@
 
 ## Scala 
 
+- [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
 - [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct style concurrency and resiliency for Scala on the JVM
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [kory33/scalamatsuri2024-minimal-eff](https://github.com/kory33/scalamatsuri2024-minimal-eff) - 
