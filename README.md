@@ -337,7 +337,7 @@
 
 - [kiosion/toru](https://github.com/kiosion/toru) - API for generating customizable image embeds of last.fm activity
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based zero-trust access platform with OIDC auth, identity sync, and NAT traversal.
+- [firezone/firezone](https://github.com/firezone/firezone) - Enterprise-ready zero-trust access platform built on WireGuard®.
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 
 ## Emacs Lisp 
@@ -1973,6 +1973,7 @@
 
 ## Scala 
 
+- [Iltotore/iron](https://github.com/Iltotore/iron) - Strong type constraints for Scala
 - [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
 - [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct style concurrency and resiliency for Scala on the JVM
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
