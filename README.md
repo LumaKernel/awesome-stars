@@ -207,6 +207,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [kyleneideck/BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
 - [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
+- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
@@ -1392,7 +1393,6 @@
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac! Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, extra dimming, PIP/streaming, EDID override and lots more!
 - [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) - 🚀✨ Help beginners to contribute to open source projects
 - [cjkvi/cjkvi-ids](https://github.com/cjkvi/cjkvi-ids) - IDS data for CJK Unified Ideographs
-- [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [utubo/vim-6colors](https://github.com/utubo/vim-6colors) - 🎨 The Vim color scheme editor that generates from only 6 colors or a single image.
 - [sogko/graphql-schema-language-cheat-sheet](https://github.com/sogko/graphql-schema-language-cheat-sheet) - GraphQL Shorthand Notation Cheat Sheet
 - [WLTools/LanguageSpec](https://github.com/WLTools/LanguageSpec) - A description of the language syntax and associated data, examples, and nonexamples.
@@ -2380,7 +2380,7 @@
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Mesh - The Graph of Everything - Federated architecture for any API service
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
 - [thenativeweb/roboter](https://github.com/thenativeweb/roboter) - roboter streamlines software development by automating tasks and enforcing conventions.
-- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 An unified javascript build system
+- [unjs/unbuild](https://github.com/unjs/unbuild) - 📦 A unified JavaScript build system
 - [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio) - The fast, flexible, and elegant library for parsing and manipulating HTML and XML.
 - [fb55/domhandler](https://github.com/fb55/domhandler) - Handler for htmlparser2, to get a DOM
 - [fb55/htmlparser2](https://github.com/fb55/htmlparser2) - The fast & forgiving HTML and XML parser
