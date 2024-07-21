@@ -1248,6 +1248,7 @@
 
 ## Lua 
 
+- [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) - A completion plugin for neovim coded in Lua.
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) - A Metals plugin for Neovim
 - [Julian/lean.nvim](https://github.com/Julian/lean.nvim) - neovim support for the Lean theorem prover
@@ -1727,6 +1728,9 @@
 
 ## Rust 
 
+- [trunk-rs/trunk](https://github.com/trunk-rs/trunk) - Build, bundle & ship your Rust WASM application to the web.
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [mattrighetti/envelope](https://github.com/mattrighetti/envelope) - An environment variables cli tool backed by SQLite
 - [allthemusicllc/atm-cli](https://github.com/allthemusicllc/atm-cli) - Command line tool for generating and working with MIDI files.
 - [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer
