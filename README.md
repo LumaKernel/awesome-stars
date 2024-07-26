@@ -2109,10 +2109,11 @@
 
 ## TypeScript 
 
+- [mame/world-flag-search](https://github.com/mame/world-flag-search) - 
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
 - [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
-- [marklovers/kaplay](https://github.com/marklovers/kaplay) - 🦖 A JavaScript game library
+- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript Game Library for making games simple, fast and fun
 - [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [expo/react-conf-app](https://github.com/expo/react-conf-app) - 
