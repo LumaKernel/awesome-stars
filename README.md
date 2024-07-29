@@ -1730,6 +1730,7 @@
 
 ## Rust 
 
+- [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
 - [dimforge/nalgebra](https://github.com/dimforge/nalgebra) - Linear algebra library for Rust.
