@@ -1730,6 +1730,7 @@
 
 ## Rust 
 
+- [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
 - [georust/geo](https://github.com/georust/geo) - Geospatial primitives and algorithms for Rust
@@ -2113,6 +2114,7 @@
 
 ## TypeScript 
 
+- [connor4312/cockatiel](https://github.com/connor4312/cockatiel) - 🐦 A resilience and fault-handling library. Supports Backoffs, Retries, Circuit Breakers, Timeouts, Bulkhead Isolation, and Fallbacks.
 - [ionic-team/ionic-framework](https://github.com/ionic-team/ionic-framework) - A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
 - [mame/world-flag-search](https://github.com/mame/world-flag-search) - 
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
