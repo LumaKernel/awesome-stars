@@ -711,7 +711,6 @@
 - [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to Ramda
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
-- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [mcollina/syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
@@ -1730,6 +1729,7 @@
 
 ## Rust 
 
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
@@ -2099,6 +2099,7 @@
 
 ## Swift 
 
+- [ensan-hcl/azooKey-Desktop](https://github.com/ensan-hcl/azooKey-Desktop) - Japanese Input Method "azooKey" for Desktop, supporting macOS
 - [mtgto/macSKK](https://github.com/mtgto/macSKK) - Yet Another macOS SKK Input Method
 - [mad-p/MacTcode](https://github.com/mad-p/MacTcode) - Tcode Input Method for macOS
 - [qvacua/vimr](https://github.com/qvacua/vimr) - VimR — Neovim GUI for macOS in Swift
@@ -2144,6 +2145,7 @@
 - [denosaurs/log](https://github.com/denosaurs/log) - 📜 Dead-simple drop-in logging solution using streams and the native console api
 - [mattvr/ShellGPT](https://github.com/mattvr/ShellGPT) - Upgrade your terminal with GPT-4. Ask questions, automate commands, pipe I/O, etc. Made with Deno.
 - [faastjs/faast.js](https://github.com/faastjs/faast.js) - Serverless batch computing made simple.
+- [electric-sql/pglite](https://github.com/electric-sql/pglite) - Lightweight Postgres packaged as WASM into a TypeScript library for the browser, Node.js, Bun and Deno
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 - [vuexyz/vuexyz](https://github.com/vuexyz/vuexyz) - Creative coding composables for Vue 3.
 - [gajus/slonik](https://github.com/gajus/slonik) - A Node.js PostgreSQL client with runtime and build time type safety, and composable SQL.
