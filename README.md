@@ -856,6 +856,7 @@
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - UAParser.js - The Essential Web Development Tool for User-Agent Detection.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 3 IEEE 754 half-precision floating-point ponyfill
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -1733,7 +1734,7 @@
 
 ## Rust 
 
-- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE Filesystem for your Google calendar
+- [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE
@@ -2430,7 +2431,6 @@
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [cdktf/cdktf-provider-null](https://github.com/cdktf/cdktf-provider-null) - Prebuilt Terraform CDK (cdktf) provider for null.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
