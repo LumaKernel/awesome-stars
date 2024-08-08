@@ -970,7 +970,6 @@
 - [sveltejs/sapper-template](https://github.com/sveltejs/sapper-template) - Starter template for Sapper apps
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
-- [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [micromark/micromark](https://github.com/micromark/micromark) - small, safe, and great commonmark (optionally gfm) compliant markdown parser
 - [remarkjs/remark-autolink-headings](https://github.com/remarkjs/remark-autolink-headings) - Legacy remark plugin to automatically add links to headings — please use `rehype-autolink-headings` instead
 - [micromark/micromark-extension-directive](https://github.com/micromark/micromark-extension-directive) - micromark extension to support generic directives (`:cite[smith04]`)
@@ -1876,7 +1875,7 @@
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo.
+- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap) - visualize your code with overview like Visual Studio's minimap (under development)
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
@@ -2587,6 +2586,7 @@
 - [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
+- [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [snowtrack/snowfs](https://github.com/snowtrack/snowfs) - SnowFS - a fast, scalable version control file storage for graphic files :art:
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
 - [nestjs/typeorm](https://github.com/nestjs/typeorm) - TypeORM module for Nest framework (node.js)  🍇
