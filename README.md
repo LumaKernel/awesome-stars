@@ -2106,6 +2106,7 @@
 
 ## Swift 
 
+- [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
 - [ensan-hcl/azooKey-Desktop](https://github.com/ensan-hcl/azooKey-Desktop) - Japanese Input Method "azooKey" for Desktop, supporting macOS
 - [mtgto/macSKK](https://github.com/mtgto/macSKK) - Yet Another macOS SKK Input Method
 - [mad-p/MacTcode](https://github.com/mad-p/MacTcode) - Tcode Input Method for macOS
