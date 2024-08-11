@@ -1733,6 +1733,7 @@
 
 ## Rust 
 
+- [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std + serde compatible message library for Rust
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
@@ -2233,7 +2234,7 @@
 - [mizchi/lizod](https://github.com/mizchi/lizod) - lightweight zod-like validator
 - [tatethurston/nextjs-routes](https://github.com/tatethurston/nextjs-routes) - Type safe routing for Next.js
 - [egoist/tsup](https://github.com/egoist/tsup) - The simplest and fastest way to bundle your TypeScript libraries.
-- [veritem/eslint-plugin-vitest](https://github.com/veritem/eslint-plugin-vitest) - eslint plugin for vitest
+- [vitest-dev/eslint-plugin-vitest](https://github.com/vitest-dev/eslint-plugin-vitest) - eslint plugin for vitest
 - [walkframe/gridsheet](https://github.com/walkframe/gridsheet) - Spreadsheet component for React
 - [microsoft/tsyringe](https://github.com/microsoft/tsyringe) - Lightweight dependency injection container for JavaScript/TypeScript
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
