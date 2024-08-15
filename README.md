@@ -1733,6 +1733,8 @@
 
 ## Rust 
 
+- [dtolnay/linkme](https://github.com/dtolnay/linkme) - Safe cross-platform linker shenanigans
+- [dtolnay/inventory](https://github.com/dtolnay/inventory) - Typed distributed plugin registration
 - [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std + serde compatible message library for Rust
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
@@ -1764,7 +1766,6 @@
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [Abraxas-365/langchain-rust](https://github.com/Abraxas-365/langchain-rust) - 🦜️🔗LangChain for Rust, the easiest way to write LLM-based programs in Rust
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
-- [skanehira/type-utilities-rs](https://github.com/skanehira/type-utilities-rs) - Type utilities in Rust
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1877,7 +1878,7 @@
 - [aws/s2n-quic](https://github.com/aws/s2n-quic) - An implementation of the IETF QUIC protocol
 - [brendanzab/codespan](https://github.com/brendanzab/codespan) - Beautiful diagnostic reporting for text-based programming languages.
 - [jakeswenson/notion](https://github.com/jakeswenson/notion) - Notion Offical API client library for rust
-- [vercel/turbo](https://github.com/vercel/turbo) - Build system optimized for JavaScript and TypeScript, written in Rust
+- [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [mj-hd/vim-picomap](https://github.com/mj-hd/vim-picomap) - visualize your code with overview like Visual Studio's minimap (under development)
 - [RustAudio/cpal](https://github.com/RustAudio/cpal) - Cross-platform audio I/O library in pure Rust
 - [rhysd/world-map-gen](https://github.com/rhysd/world-map-gen) - 🗺️Random world map generator CLI and library for Rust and WebAssembly
@@ -2601,7 +2602,7 @@
 - [littletof/prettyBenching](https://github.com/littletof/prettyBenching) - :sauropod: A small lib to make your Deno benchmarking progress and results look pretty
 - [manyuanrong/deno-plugin-prepare](https://github.com/manyuanrong/deno-plugin-prepare) - A library for managing deno native plugin dependencies
 - [vslinko/deno-csv](https://github.com/vslinko/deno-csv) - Streaming API for reading and writing CSV for https://deno.land/
-- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 🧙 Valtio makes proxy-state simple  for React and Vanilla
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [vuejs/vetur](https://github.com/vuejs/vetur) - Vue tooling for VS Code.
 - [crewdevio/Trex](https://github.com/crewdevio/Trex) - Package Manager for deno 🦕
