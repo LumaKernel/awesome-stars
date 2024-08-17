@@ -695,6 +695,7 @@
 
 ## JavaScript 
 
+- [Rich-Harris/devalue](https://github.com/Rich-Harris/devalue) - Gets the job done when JSON.stringify can't
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [e18e/e18e](https://github.com/e18e/e18e) - 
 - [dotenvx/dotenvx](https://github.com/dotenvx/dotenvx) - a better dotenv–from the creator of `dotenv`
