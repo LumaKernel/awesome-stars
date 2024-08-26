@@ -1426,7 +1426,7 @@
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
@@ -2136,7 +2136,7 @@
 - [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - Continuous (Preview) Releases for your libraries!
 - [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
-- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript Game Library for making games simple, fast and fun
+- [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game. Make games fast, fun and fanstastic.
 - [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [expo/react-conf-app](https://github.com/expo/react-conf-app) - 
