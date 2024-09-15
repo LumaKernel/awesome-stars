@@ -1740,6 +1740,7 @@
 
 ## Rust 
 
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [abishekatp/stylers](https://github.com/abishekatp/stylers) - Fully compile time scoped CSS for Leptos components
 - [fitzgen/bumpalo](https://github.com/fitzgen/bumpalo) - A fast bump allocation arena for Rust
 - [saschagrunert/indextree](https://github.com/saschagrunert/indextree) - Arena based tree 🌲 structure by using indices instead of reference counted pointers
