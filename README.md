@@ -2236,7 +2236,7 @@
 - [uiwjs/react-markdown-preview](https://github.com/uiwjs/react-markdown-preview) - React component preview markdown text in web browser. The minimal amount of CSS to replicate the GitHub Markdown style. Support dark-mode/night mode.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) - The URI implementation that is used in VS Code and its extensions.
-- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn
+- [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with shadcn/ui
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [martonlederer/esbuild-plugin-fileloc](https://github.com/martonlederer/esbuild-plugin-fileloc) - Support __filename, __dirname, __line and additional global variables to get information about the source file with esbuild
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
