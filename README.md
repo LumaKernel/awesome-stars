@@ -954,7 +954,7 @@
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue projects
 - [bustle/ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
-- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
+- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
 - [pappasam/nginx-language-server](https://github.com/pappasam/nginx-language-server) - Language server for nginx.conf
 - [oauthinaction/oauth-in-action-code](https://github.com/oauthinaction/oauth-in-action-code) - Source code for OAuth 2 in Action
 - [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
@@ -1519,7 +1519,7 @@
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server to call 100+ LLM APIs using the OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [frodo821/BitNet-Transformers](https://github.com/frodo821/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
 - [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath
@@ -1741,6 +1741,7 @@
 
 ## Rust 
 
+- [o8vm/octox](https://github.com/o8vm/octox) - Unix-like OS in Rust inspired by xv6-riscv
 - [simd-lite/simd-json](https://github.com/simd-lite/simd-json) - Rust port of simdjson
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [abishekatp/stylers](https://github.com/abishekatp/stylers) - Fully compile time scoped CSS for Leptos components
