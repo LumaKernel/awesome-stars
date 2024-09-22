@@ -954,7 +954,7 @@
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - eslint-config-typescript for vue projects
 - [bustle/ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
 - [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pappasam/nginx-language-server](https://github.com/pappasam/nginx-language-server) - Language server for nginx.conf
 - [oauthinaction/oauth-in-action-code](https://github.com/oauthinaction/oauth-in-action-code) - Source code for OAuth 2 in Action
 - [CodeGenieApp/serverless-express](https://github.com/CodeGenieApp/serverless-express) - Run Express and other Node.js frameworks on AWS Serverless technologies such as Lambda, API Gateway, Lambda@Edge, and more.
