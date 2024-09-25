@@ -183,6 +183,7 @@
 
 ## C++ 
 
+- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
@@ -360,6 +361,7 @@
 
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [goccy/bigquery-emulator](https://github.com/goccy/bigquery-emulator) - BigQuery emulator server implemented in Go
+- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [apernet/OpenGFW](https://github.com/apernet/OpenGFW) - OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
@@ -594,7 +596,6 @@
 ## HTML 
 
 - [tatyam-prime/ICPC_notebook](https://github.com/tatyam-prime/ICPC_notebook) - 
-- [GoogleCloudPlatform/magic-modules](https://github.com/GoogleCloudPlatform/magic-modules) - Add Google Cloud Platform support to Terraform
 - [tc39/proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) - TC39 Proposal to remove common leading indentation from multiline template strings
 - [flatt-security/developers-quiz](https://github.com/flatt-security/developers-quiz) - Flatt Security Developers' Quizのソースコードを公開するリポジトリです。
 - [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
@@ -1754,7 +1755,7 @@
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
 - [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
-- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse / SolidJS-USE
+- [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
 - [Keats/validator](https://github.com/Keats/validator) - Simple validation for Rust structs
 - [viperproject/prusti-dev](https://github.com/viperproject/prusti-dev) - A static verifier for Rust, based on the Viper verification infrastructure.
@@ -2429,7 +2430,7 @@
 - [takefumi-yoshii/nextjs-typesafe-api-route](https://github.com/takefumi-yoshii/nextjs-typesafe-api-route) - 
 - [GoogleChrome/chrome-launcher](https://github.com/GoogleChrome/chrome-launcher) - Launch Google Chrome with ease from node.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.
+- [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [ardatan/graphql-mesh](https://github.com/ardatan/graphql-mesh) - 🕸️ GraphQL Federation Framework for any API services such as REST, OpenAPI, Swagger, SOAP, gRPC and more...
 - [moltar/typescript-runtime-type-benchmarks](https://github.com/moltar/typescript-runtime-type-benchmarks) - 📊 Benchmark Comparison of Packages with Runtime Validation and TypeScript Support
