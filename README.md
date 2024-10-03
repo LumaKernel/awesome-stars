@@ -756,7 +756,6 @@
 - [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
-- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [twopluszero/next-images](https://github.com/twopluszero/next-images) - Import images in Next.js (supports jpg, jpeg, svg, png and gif images)
 - [myndzi/wtfnode](https://github.com/myndzi/wtfnode) - Utility to help find out why Node isn't exiting
 - [parinfer/parinfer.js](https://github.com/parinfer/parinfer.js) - Let's simplify the way we write Lisp
@@ -2270,6 +2269,7 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
+- [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
 - [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced) - WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.
 - [astahmer/openapi-zod-client](https://github.com/astahmer/openapi-zod-client) - Generate a zodios (typescript http client with zod validation) from an OpenAPI spec (json/yaml)
 - [jakeburden/next-absolute-url](https://github.com/jakeburden/next-absolute-url) - Get the absolute URL of your Next.js app (optionally set a localhost dev URL)
@@ -2919,7 +2919,7 @@
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tweekmonster/django-plus.vim](https://github.com/tweekmonster/django-plus.vim) - :guitar: Improvements to the handling of Django related files in Vim
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
-- [bfrg/vim-cpp-modern](https://github.com/bfrg/vim-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
+- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 - [mike-hearn/vim-combosearch](https://github.com/mike-hearn/vim-combosearch) - Vim plugin that combines filename search (find) and code search (grep) into a single command
