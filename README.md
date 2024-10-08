@@ -183,6 +183,7 @@
 
 ## C++ 
 
+- [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
@@ -1123,7 +1124,7 @@
 - [expressjs/morgan](https://github.com/expressjs/morgan) - HTTP request logger middleware for node.js
 - [log4js-node/log4js-node](https://github.com/log4js-node/log4js-node) - A port of log4js to node.js
 - [Izhaki/nodemon-webpack-plugin](https://github.com/Izhaki/nodemon-webpack-plugin) - A webpack plugin that uses Nodemon to start and reload the server.
-- [panva/node-openid-client](https://github.com/panva/node-openid-client) - OpenID Certified™ Relying Party (OpenID Connect/OAuth 2.0 Client) implementation for Node.js.
+- [panva/openid-client](https://github.com/panva/openid-client) - High-Level OAuth 2 / OpenID Connect Client API for JavaScript Runtimes
 - [cure53/DOMPurify](https://github.com/cure53/DOMPurify) - DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:
 - [ciaranj/node-oauth](https://github.com/ciaranj/node-oauth) - OAuth wrapper for node.js
 - [mulesoft-labs/js-client-oauth2](https://github.com/mulesoft-labs/js-client-oauth2) - A JavaScript implementation of an oauth2 client, for inclusion in the JavaScript client generator for APIs described with RAML.
@@ -2139,6 +2140,7 @@
 
 ## TypeScript 
 
+- [robertLichtnow/zod-formik-adapter](https://github.com/robertLichtnow/zod-formik-adapter) - An adapter for zod object validation to Formik validation schema
 - [uhyo/eslint-plugin-import-access](https://github.com/uhyo/eslint-plugin-import-access) - 
 - [antfu-collective/ni](https://github.com/antfu-collective/ni) - 💡 Use the right package manager
 - [gruhn/typescript-sudoku](https://github.com/gruhn/typescript-sudoku) - Playing Sudoku in TypeScript while the type checker highlights mistakes.
@@ -2199,7 +2201,7 @@
 - [expressive-code/expressive-code](https://github.com/expressive-code/expressive-code) - A text marking & annotation engine for presenting source code on the web.
 - [yaegassy/coc-astro](https://github.com/yaegassy/coc-astro) - Astro extension for coc.nvim
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG
+- [qq15725/modern-screenshot](https://github.com/qq15725/modern-screenshot) - 📸 Quickly generate image from DOM node using HTML5 canvas and SVG.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [microsoft/vscode-js-profile-visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) - A custom editor for viewing `.cpuprofile` files in VS Code
 - [pheralb/svgl](https://github.com/pheralb/svgl) - 🧩 A beautiful library with SVG logos. Built with Sveltekit & Tailwind CSS.
