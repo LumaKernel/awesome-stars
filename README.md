@@ -751,7 +751,7 @@
 - [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel's engineering style guide
 - [jonabc/sync-task-issues](https://github.com/jonabc/sync-task-issues) - Sync task issue closure to hierarchical parent tracking issues
 - [davisjam/safe-regex](https://github.com/davisjam/safe-regex) - Detect possibly catastrophic, exponential-time regular expressions
-- [evanw/polywasm](https://github.com/evanw/polywasm) - 
+- [evanw/polywasm](https://github.com/evanw/polywasm) - A JavaScript polyfill for WebAssembly
 - [dreampuf/GraphvizOnline](https://github.com/dreampuf/GraphvizOnline) - Let's Graphviz it online
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
@@ -1074,7 +1074,7 @@
 - [abbr/deasync](https://github.com/abbr/deasync) - Turns async function into sync via JavaScript wrapper of Node event loop
 - [prettier/eslint-plugin-prettier](https://github.com/prettier/eslint-plugin-prettier) - ESLint plugin for Prettier formatting
 - [eslint-community/eslint-plugin-security](https://github.com/eslint-community/eslint-plugin-security) - ESLint rules for Node Security
-- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - Speed up eslint to accelerate your development workflow
+- [mantoni/eslint_d.js](https://github.com/mantoni/eslint_d.js) - 🪄 Speed up eslint to accelerate your development workflow
 - [cyrilwanner/next-compose-plugins](https://github.com/cyrilwanner/next-compose-plugins) - 💡next-compose-plugins provides a cleaner API for enabling and configuring plugins for next.js
 - [martpie/next-transpile-modules](https://github.com/martpie/next-transpile-modules) - Next.js plugin to transpile code from node_modules. Please see: https://github.com/martpie/next-transpile-modules/issues/291
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
@@ -2143,6 +2143,7 @@
 
 ## TypeScript 
 
+- [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 - [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
 - [ymrl/a11y-visualizer](https://github.com/ymrl/a11y-visualizer) - A Browser Extension for Enhanced Web Accessibility Checking
 - [stackblitz/bolt.new](https://github.com/stackblitz/bolt.new) - Prompt, run, edit, and deploy full-stack web applications
@@ -2274,7 +2275,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard / infinite canvas SDK
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - Come join the best place on the internet to learn AI skills. Use code "chatbotui" for an extra 20% off.
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
