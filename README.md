@@ -202,7 +202,7 @@
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
-- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful utility for keyboard customization on macOS Sierra (10.12) or later.
+- [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [dnobori/DN-Win32DiskImagerRenewal](https://github.com/dnobori/DN-Win32DiskImagerRenewal) - このリポジトリは、Windows 上での USB メモリ / SD カードイメージ書き込みツールのデファクト・スタンダードとなっている Win32 Disk Imager について、以下の点を改良した 「Win32 Disk Imager Renewal」 の デジタル署名済みの EXE 単体で動作する Win32 / x64 / ARM64 版バイナリ とソースコードを配布するためのものである。
 - [NixOS/nix](https://github.com/NixOS/nix) - Nix, the purely functional package manager
 - [hengband/hengband](https://github.com/hengband/hengband) - 変愚蛮怒のメインリポジトリ
@@ -360,6 +360,7 @@
 
 ## Go 
 
+- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust [Experimental] Client Libraries
 - [unidoc/unipdf-cli](https://github.com/unidoc/unipdf-cli) - CLI for PDF processing using unipdf
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [goccy/bigquery-emulator](https://github.com/goccy/bigquery-emulator) - BigQuery emulator server implemented in Go
@@ -1202,6 +1203,7 @@
 
 ## Jupyter Notebook 
 
+- [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
@@ -1741,7 +1743,7 @@
 
 ## Rust 
 
-- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust [Experimental] Client Libraries
+- [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
@@ -2153,6 +2155,8 @@
 
 ## TypeScript 
 
+- [drafear/comfortable-atcoder](https://github.com/drafear/comfortable-atcoder) - Chrome Extension for Atcoder to comfort your atcoder life
+- [Shougo/ddc-ui-pum](https://github.com/Shougo/ddc-ui-pum) - Pum.vim UI for ddc.vim
 - [gamoutatsumi/dps-ghosttext.vim](https://github.com/gamoutatsumi/dps-ghosttext.vim) - GhostText plugin powered by denops.vim
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) - Concurrent prettier runner
 - [uga-rosa/denippet.vim](https://github.com/uga-rosa/denippet.vim) - A snippet plugin for Vim/Neovim, powered by TypeScript
