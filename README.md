@@ -360,7 +360,6 @@
 
 ## Go 
 
-- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust [Experimental] Client Libraries
 - [unidoc/unipdf-cli](https://github.com/unidoc/unipdf-cli) - CLI for PDF processing using unipdf
 - [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats.
 - [goccy/bigquery-emulator](https://github.com/goccy/bigquery-emulator) - BigQuery emulator server implemented in Go
@@ -537,6 +536,7 @@
 - [jpki/myna](https://github.com/jpki/myna) - マイナンバーカード・ユーティリティ・JPKI署名ツール
 - [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
 - [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+- [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) - Elastic Cloud on Kubernetes
 - [arosh/ublacklist-stackoverflow-translation](https://github.com/arosh/ublacklist-stackoverflow-translation) - Exclude machine-translated sites of Stack Exchange from Google search results
 - [MichaelMure/mdr](https://github.com/MichaelMure/mdr) - MarkDown Renderer for the terminal
 - [gruntwork-io/terratest](https://github.com/gruntwork-io/terratest) - Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.
@@ -694,6 +694,7 @@
 - [williamfiset/Algorithms](https://github.com/williamfiset/Algorithms) - A collection of algorithms and data structures
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [redpen-cc/redpen](https://github.com/redpen-cc/redpen) - RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructur
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [authlete/java-oauth-server](https://github.com/authlete/java-oauth-server) - Authorization Server Implementation  in Java supporting OAuth 2.0 & OpenID Connect
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
@@ -810,7 +811,6 @@
 - [mmatera/iwolfram](https://github.com/mmatera/iwolfram) - A jupyter kernel for Wolfram Mathematica
 - [nuxt/eslint-plugin-nuxt](https://github.com/nuxt/eslint-plugin-nuxt) - ESLint plugin for Nuxt.js [WIP]
 - [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
-- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [facebookexperimental/Recoil](https://github.com/facebookexperimental/Recoil) - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of R
 - [vitejs/awesome-vite](https://github.com/vitejs/awesome-vite) - ⚡️ A curated list of awesome things related to Vite.js
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
@@ -1369,6 +1369,7 @@
 
 ## Others 
 
+- [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [refusado/awesome-css-only](https://github.com/refusado/awesome-css-only) - An awesome & curated list of beautiful projects made with pure CSS!
 - [riscv/learn](https://github.com/riscv/learn) - Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc.
@@ -1508,7 +1509,6 @@
 - [ScoopInstaller/Main](https://github.com/ScoopInstaller/Main) - 📦 The default bucket for Scoop.
 - [lukesampson/psutils](https://github.com/lukesampson/psutils) - Command line utilities written in Powershell
 - [lukesampson/pshazz](https://github.com/lukesampson/pshazz) - Give your powershell some pizazz.
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 - [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras) - 📦 The Extras bucket for Scoop.
 
 ## Prolog 
@@ -1711,6 +1711,7 @@
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Reason 
 
@@ -1744,6 +1745,7 @@
 ## Rust 
 
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
+- [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust [Experimental] Client Libraries
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [rust-num/num](https://github.com/rust-num/num) - A collection of numeric types and traits for Rust.
 - [oli-obk/cargo_metadata](https://github.com/oli-obk/cargo_metadata) - 
@@ -1860,7 +1862,7 @@
 - [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader) - An experimental pure-Rust x86 bootloader
 - [swnakamura/30daysOS](https://github.com/swnakamura/30daysOS) - 30 days os (with Rust?)
 - [getditto/safer_ffi](https://github.com/getditto/safer_ffi) - Write safer FFI code in Rust without polluting it with unsafe code
-- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
+- [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [oreilly-japan/conc_ytakano](https://github.com/oreilly-japan/conc_ytakano) - 『並行プログラミング入門』(O'Reilly Japan, 2021)
 - [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) - Native PostgreSQL driver for the Rust programming language
@@ -1994,6 +1996,7 @@
 - [stepancheg/grpc-rust](https://github.com/stepancheg/grpc-rust) - Rust implementation of gRPC
 - [diesel-rs/diesel](https://github.com/diesel-rs/diesel) - A safe, extensible ORM and Query Builder for Rust
 - [rust-lang-ja/book-ja](https://github.com/rust-lang-ja/book-ja) - Rust文書の和訳レポジトリ
+- [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) - Official Elasticsearch Rust Client
 - [dtolnay/cargo-expand](https://github.com/dtolnay/cargo-expand) - Subcommand to show result of macro expansion
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
 - [rhysd/cargo-husky](https://github.com/rhysd/cargo-husky) - Setup Git hooks automatically for cargo projects with :dog:
@@ -2155,6 +2158,9 @@
 
 ## TypeScript 
 
+- [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
+- [Shougo/ddt.vim](https://github.com/Shougo/ddt.vim) - Dark deno powered Terminal interface for Vim/Neovim
 - [drafear/comfortable-atcoder](https://github.com/drafear/comfortable-atcoder) - Chrome Extension for Atcoder to comfort your atcoder life
 - [Shougo/ddc-ui-pum](https://github.com/Shougo/ddc-ui-pum) - Pum.vim UI for ddc.vim
 - [gamoutatsumi/dps-ghosttext.vim](https://github.com/gamoutatsumi/dps-ghosttext.vim) - GhostText plugin powered by denops.vim
@@ -2175,7 +2181,7 @@
 - [justkey007/tsc-alias](https://github.com/justkey007/tsc-alias) - Replace alias paths with relative paths after typescript compilation
 - [dividab/tsconfig-paths](https://github.com/dividab/tsconfig-paths) - Load node modules according to tsconfig paths, in run-time or via API.
 - [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx
-- [supabase-community/postgres-new](https://github.com/supabase-community/postgres-new) - In-browser Postgres sandbox with AI assistance
+- [supabase-community/database-build](https://github.com/supabase-community/database-build) - In-browser Postgres sandbox with AI assistance (formerly postgres.new)
 - [flightcontrolhq/superjson](https://github.com/flightcontrolhq/superjson) - Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more.
 - [47ng/nuqs](https://github.com/47ng/nuqs) - Type-safe search params state manager for React frameworks - Like useState, but stored in the URL query string.
 - [styleguidist/react-styleguidist](https://github.com/styleguidist/react-styleguidist) - Isolated React component development environment with a living style guide
@@ -2424,6 +2430,7 @@
 - [dqn/bigbrain](https://github.com/dqn/bigbrain) - High-level programming language that can be compiled to Brainfuck
 - [awslabs/aws-jwt-verify](https://github.com/awslabs/aws-jwt-verify) - JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, RS512, ES256, ES384, and ES512
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
+- [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
 - [requestly/requestly](https://github.com/requestly/requestly) - Requestly was built to save developers time by intercepting and modifying HTTP Requests. It has now developed into an open-source alternative to Charles Proxy and Telerik Fiddler that works directly i
