@@ -799,7 +799,6 @@
 - [tecfu/smartwrap](https://github.com/tecfu/smartwrap) - Textwrap for javascript/nodejs. Correctly handles wide characters (宽字符) and emojis (😃). Automatically breaks long words. https://www.npmjs.com/package/smartwrap
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
-- [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider) - 👨🏼‍🎨 Divider component for Ink
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 - [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
 - [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Browser Add-on: Automatically save the content in Textarea.
@@ -1744,6 +1743,8 @@
 
 ## Rust 
 
+- [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
+- [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
 - [orium/rpds](https://github.com/orium/rpds) - Rust persistent data structures
 - [googleapis/google-cloud-rust](https://github.com/googleapis/google-cloud-rust) - Google Cloud Platform Rust [Experimental] Client Libraries
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
@@ -2052,6 +2053,7 @@
 
 ## Shell 
 
+- [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [pdfjam/pdfjam](https://github.com/pdfjam/pdfjam) - The pdfjam package for manipulating PDF files
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [nodesource/distributions](https://github.com/nodesource/distributions) - NodeSource Node.js Binary Distributions
@@ -2412,6 +2414,7 @@
 - [vadimdemedes/ink-select-input](https://github.com/vadimdemedes/ink-select-input) - Select input component for Ink
 - [vadimdemedes/ink-spinner](https://github.com/vadimdemedes/ink-spinner) - Spinner component for Ink
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [JureSotosek/ink-divider](https://github.com/JureSotosek/ink-divider) - 👨🏼‍🎨 Divider component for Ink
 - [Eximchain/ink-quicksearch-input](https://github.com/Eximchain/ink-quicksearch-input) - :black_nib: Quicksearch Input component for Ink
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 - [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) - Utilities for testing Ink apps
