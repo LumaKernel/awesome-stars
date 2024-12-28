@@ -192,7 +192,7 @@
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-- [poac-dev/poac](https://github.com/poac-dev/poac) - A package manager and build system for C++
+- [cabinpkg/cabin](https://github.com/cabinpkg/cabin) - A package manager and build system for C++
 - [kth-competitive-programming/kactl](https://github.com/kth-competitive-programming/kactl) - KTH Algorithm Competition Template Library (... eller KTHs AC-tillverkande lapp)
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
@@ -1979,7 +1979,7 @@
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -&gt; wasm workflow tool!
-- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading Wasm Runtime supporting WASIX and WASI
+- [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
 - [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [artichoke/artichoke](https://github.com/artichoke/artichoke) - 💎 Artichoke is a Ruby made with Rust
@@ -2509,7 +2509,7 @@
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [tani/ddc-path](https://github.com/tani/ddc-path) - Path completion for ddc.vim. This source collects path names with GNU find or sharkdp/fd.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-- [nrwl/nx](https://github.com/nrwl/nx) - Smart Monorepos · Fast CI - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
+- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with plugins for popular frameworks and tools and advanced CI capabilities including caching and distribution.
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
