@@ -701,6 +701,7 @@
 
 ## JavaScript 
 
+- [radareorg/radare2-r2pipe](https://github.com/radareorg/radare2-r2pipe) - Access radare2 via pipe from any programming language!
 - [cthackers/adm-zip](https://github.com/cthackers/adm-zip) - A Javascript implementation of zip for nodejs. Allows user to create or extract zip files both in memory or to/from disk
 - [node-loader/node-loader-import-maps](https://github.com/node-loader/node-loader-import-maps) - A nodejs loader for import maps
 - [bterlson/eshost-cli](https://github.com/bterlson/eshost-cli) - Run ECMAScript code uniformly across any ECMAScript host
@@ -2162,6 +2163,7 @@
 
 ## TypeScript 
 
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [Shougo/ddt.vim](https://github.com/Shougo/ddt.vim) - Dark deno powered Terminal interface for Vim/Neovim
@@ -2702,7 +2704,7 @@
 - [srod/node-minify](https://github.com/srod/node-minify) - Light Node.js module that compress javascript, css and html files
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [chrislennon/action-aws-cli](https://github.com/chrislennon/action-aws-cli) - An action to install and setup AWS cli
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
 - [sveltejs/language-tools](https://github.com/sveltejs/language-tools) - The Svelte Language Server, and official extensions which use it
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) - Open Next.js adapter for Netlify
