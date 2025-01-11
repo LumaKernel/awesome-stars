@@ -251,7 +251,7 @@
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics DBMS
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [atcoder/ac-library](https://github.com/atcoder/ac-library) - AtCoder Library
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [1119-2916/icfpc2020](https://github.com/1119-2916/icfpc2020) - ICFPC 2020  enjoy zei
@@ -326,7 +326,7 @@
 
 ## Dart 
 
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 
 ## Dockerfile 
 
@@ -742,7 +742,6 @@
 - [increpare/PuzzleScript](https://github.com/increpare/PuzzleScript) - Open Source HTML5 Puzzle Game Engine
 - [PatcailMemer/Ordinal-Markup](https://github.com/PatcailMemer/Ordinal-Markup) - The Github version of Ordinal Markup
 - [uBlockOrigin/uBOL-home](https://github.com/uBlockOrigin/uBOL-home) - uBO Lite home (MV3)
-- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight JSX syntax highlighter, around 1KB after minified and gzipped
 - [jamesplease/latex-to-unicode.js](https://github.com/jamesplease/latex-to-unicode.js) - Convert LaTeX strings to unicode.
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
@@ -1096,7 +1095,7 @@
 - [davglass/license-checker](https://github.com/davglass/license-checker) - Check NPM package licenses
 - [conventional-changelog/standard-version](https://github.com/conventional-changelog/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 - [markdown-it/markdown-it-container](https://github.com/markdown-it/markdown-it-container) - Fenced container plugin for markdown-it markdown parser
-- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks.
+- [fastify/benchmarks](https://github.com/fastify/benchmarks) - Fast and low overhead web framework fastify benchmarks
 - [mysticatea/npm-run-all](https://github.com/mysticatea/npm-run-all) - A CLI tool to run multiple npm-scripts in parallel or sequential.
 - [frouriojs/benchmarks](https://github.com/frouriojs/benchmarks) - Fast and low overhead web framework fastify benchmarks.
 - [http-party/node-portfinder](https://github.com/http-party/node-portfinder) - A simple tool to find an open port or domain socket on the current machine
@@ -1518,6 +1517,7 @@
 
 ## Python 
 
+- [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
@@ -1745,6 +1745,7 @@
 
 ## Rust 
 
+- [bheisler/criterion.rs](https://github.com/bheisler/criterion.rs) - Statistics-driven benchmarking library for Rust
 - [c2i-junia/rustcraft](https://github.com/c2i-junia/rustcraft) - Minecraft game clone written in Rust.
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [servo/html5ever](https://github.com/servo/html5ever) - High-performance browser-grade HTML5 parser
@@ -2247,6 +2248,7 @@
 - [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js.
 - [catchpoint/workflow-telemetry-action](https://github.com/catchpoint/workflow-telemetry-action) - Github action to collect metrics (CPU, memory, I/O, etc ...) from your workflows to help you debug and optimize your CI/CD pipeline
 - [dai-shi/waku](https://github.com/dai-shi/waku) - ⛩️ The minimal React framework
+- [huozhi/sugar-high](https://github.com/huozhi/sugar-high) - ✏️ Super lightweight code syntax highlighter, around 1KB after minified and gzipped
 - [frontend-testing-book/nextjs](https://github.com/frontend-testing-book/nextjs) - 
 - [uhyo/rsc-without-nextjs](https://github.com/uhyo/rsc-without-nextjs) - Sample repository for a Zenn article
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
@@ -2361,7 +2363,7 @@
 - [DirtyHairy/async-mutex](https://github.com/DirtyHairy/async-mutex) - A mutex for synchronizing async workflows in Javascript
 - [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
-- [susisu/typefuck](https://github.com/susisu/typefuck) - Type-level Brainfuck interpreter in TypeScript
+- [susisu/typefuck](https://github.com/susisu/typefuck) - A Type-level Brainfuck interpreter in TypeScript
 - [ronami/HypeScript](https://github.com/ronami/HypeScript) - 🐬 A simplified implementation of TypeScript's type system written in TypeScript's type system
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [andoshin11/sqlpture](https://github.com/andoshin11/sqlpture) - Type Level SQL interpreter & validator.
@@ -2435,7 +2437,7 @@
 - [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 - [ocaml/setup-ocaml](https://github.com/ocaml/setup-ocaml) - GitHub Action for the OCaml programming language
 - [dqn/bigbrain](https://github.com/dqn/bigbrain) - High-level programming language that can be compiled to Brainfuck
-- [awslabs/aws-jwt-verify](https://github.com/awslabs/aws-jwt-verify) - JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, RS512, ES256, ES384, and ES512
+- [awslabs/aws-jwt-verify](https://github.com/awslabs/aws-jwt-verify) - JS library for verifying JWTs signed by Amazon Cognito, and any OIDC-compatible IDP that signs JWTs with RS256, RS384, RS512, ES256, ES384, ES512, Ed25519 and Ed448
 - [ianstormtaylor/superstruct](https://github.com/ianstormtaylor/superstruct) - A simple and composable way to validate data in JavaScript (and TypeScript).
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
@@ -2656,7 +2658,7 @@
 - [neoclide/coc-tabnine](https://github.com/neoclide/coc-tabnine) - Tabnine integration of coc.nvim
 - [felippepuhle/coc-graphql](https://github.com/felippepuhle/coc-graphql) - GraphQL Language Service extension for coc.nvim
 - [nuxt/vite](https://github.com/nuxt/vite) - ⚡  Vite Experience with Nuxt 2
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [ka-weihe/fastest-levenshtein](https://github.com/ka-weihe/fastest-levenshtein) - The fastest implementation of Levenshtein distance in JS/TS.
 - [sweepline/eslint-plugin-unused-imports](https://github.com/sweepline/eslint-plugin-unused-imports) - Package to separate no-unused-vars and no-unused-imports for eslint as well as providing an autofixer for the latter.
 - [denoland/std](https://github.com/denoland/std) - The Deno Standard Library
