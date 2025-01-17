@@ -1328,7 +1328,7 @@
 
 ## Mojo 
 
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
+- [modular/mojo](https://github.com/modular/mojo) - The Mojo Programming Language
 
 ## Mustache 
 
@@ -1851,7 +1851,7 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [hadronized/do-notation](https://github.com/hadronized/do-notation) - The Haskell’s do notation brought to Rust
-- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
+- [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 - [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 - [dprint/dprint-plugin-typescript](https://github.com/dprint/dprint-plugin-typescript) - TypeScript and JavaScript code formatting plugin for dprint.
 - [justjavac/dvm](https://github.com/justjavac/dvm) - 🦕 Deno Version Manager - Easy way to manage multiple active deno versions.
@@ -2454,7 +2454,7 @@
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [eliassjogreen/pioneer](https://github.com/eliassjogreen/pioneer) - ⚙️ A work in progress ECS game engine
 - [denoffi/deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
-- [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
+- [frontio-ai/heroui](https://github.com/frontio-ai/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [yuki-yano/fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - 
 - [syrflover/iterator-helper](https://github.com/syrflover/iterator-helper) - Iterator Helper for TypeScript
 - [jupyterlab/jupyterlab-monaco](https://github.com/jupyterlab/jupyterlab-monaco) - A JupyterLab extension providing the Monaco editor
