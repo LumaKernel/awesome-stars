@@ -154,7 +154,6 @@
 - [stsewd/tree-sitter-comment](https://github.com/stsewd/tree-sitter-comment) - Tree-sitter grammar for comment tags like TODO, FIXME(user).
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [glfw/glfw](https://github.com/glfw/glfw) - A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input
-- [victorhqc/tree-sitter-prisma](https://github.com/victorhqc/tree-sitter-prisma) - Prisma tree sitter grammar
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 - [memcached/memcached](https://github.com/memcached/memcached) - memcached development tree
@@ -745,7 +744,7 @@
 - [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
 - [brijeshb42/monaco-vim](https://github.com/brijeshb42/monaco-vim) - VIM keybindings for monaco editor
 - [simonhaenisch/prettier-plugin-organize-imports](https://github.com/simonhaenisch/prettier-plugin-organize-imports) - Make Prettier organize your imports using the TypeScript language service API.
-- [datastructures-js/queue](https://github.com/datastructures-js/queue) - ➡️ A performant queue implementation in javascript.
+- [datastructures-js/queue](https://github.com/datastructures-js/queue) - Queue data structure
 - [syumai/cli](https://github.com/syumai/cli) - Small CLI tools
 - [vercel/style-guide](https://github.com/vercel/style-guide) - Vercel's engineering style guide
 - [jonabc/sync-task-issues](https://github.com/jonabc/sync-task-issues) - Sync task issue closure to hierarchical parent tracking issues
@@ -1049,6 +1048,7 @@
 - [remarkjs/remark-rehype](https://github.com/remarkjs/remark-rehype) - plugin that turns markdown into HTML to support rehype
 - [GoogleCloudPlatform/nodejs-docs-samples](https://github.com/GoogleCloudPlatform/nodejs-docs-samples) - Node.js samples for Google Cloud Platform products.
 - [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [victorhqc/tree-sitter-prisma](https://github.com/victorhqc/tree-sitter-prisma) - Prisma tree sitter grammar
 - [tree-sitter/tree-sitter-rust](https://github.com/tree-sitter/tree-sitter-rust) - Rust grammar for tree-sitter
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [toshi-toma/eslint-config-airbnb-typescript-prettier](https://github.com/toshi-toma/eslint-config-airbnb-typescript-prettier) - Airbnb's ESLint config with TypeScript and Prettier support
@@ -1104,7 +1104,7 @@
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [semantic-release/semantic-release](https://github.com/semantic-release/semantic-release) - :package::rocket: Fully automated version management and package publishing
 - [zeke/semantic-pull-requests](https://github.com/zeke/semantic-pull-requests) - :robot: Let the robots take care of the semantic versioning
-- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run linters on git staged files
+- [lint-staged/lint-staged](https://github.com/lint-staged/lint-staged) - 🚫💩 — Run tasks like formatters and linters against staged git files
 - [winstonjs/winston](https://github.com/winstonjs/winston) - A logger for just about everything.
 - [fastify/fastify-secure-session](https://github.com/fastify/fastify-secure-session) - Create a secure stateless cookie session for Fastify
 - [SerayaEryn/fastify-session](https://github.com/SerayaEryn/fastify-session) - session plugin for fastify
@@ -1560,7 +1560,7 @@
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [kharvd/gpt-cli](https://github.com/kharvd/gpt-cli) - Command-line interface for ChatGPT, Claude and Bard
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
-- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
+- [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | gpt-4o and deepseek v3 & r1
 - [everythingishacked/Semaphore](https://github.com/everythingishacked/Semaphore) - A full-body keyboard using gestures to type through computer vision
 - [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT) - PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
@@ -2166,6 +2166,8 @@
 
 ## TypeScript 
 
+- [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
+- [testing-library/user-event](https://github.com/testing-library/user-event) - 🐕 Simulate user events
 - [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [vim-fall/fall.vim](https://github.com/vim-fall/fall.vim) - 🍂 Yet Another Fuzzy Finder designed for Vim and Neovim and to be programmer-friendly
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
