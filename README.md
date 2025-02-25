@@ -266,6 +266,7 @@
 ## CMake 
 
 - [WebAssembly/wasi-sdk](https://github.com/WebAssembly/wasi-sdk) - WASI-enabled WebAssembly C/C++ toolchain
+- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 
 ## CSS 
 
@@ -429,7 +430,7 @@
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [mdempsky/maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
-- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - 🤫 Easy access to gitignore boilerplates
+- [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -814,7 +815,6 @@
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [stylelint/stylelint](https://github.com/stylelint/stylelint) - A mighty CSS linter that helps you avoid errors and enforce conventions.
 - [stephenou/fruitionsite](https://github.com/stephenou/fruitionsite) - Build your website with Notion for free
-- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [vercel/styled-jsx](https://github.com/vercel/styled-jsx) - Full CSS support for JSX without compromises
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [copy/v86](https://github.com/copy/v86) - x86 PC emulator and x86-to-wasm JIT, running in the browser
@@ -1238,7 +1238,7 @@
 
 - [leanprover-community/aesop](https://github.com/leanprover-community/aesop) - White-box automation for Lean 4
 - [dwrensha/compfiles](https://github.com/dwrensha/compfiles) - Catalog Of Math Problems Formalized In Lean
-- [FormalizedFormalLogic/Foundation](https://github.com/FormalizedFormalLogic/Foundation) - Lean4 Logic Formalization
+- [FormalizedFormalLogic/Foundation](https://github.com/FormalizedFormalLogic/Foundation) - Formalization of Mathematical Logic
 - [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4) - The math library of Lean 4
 - [lean-ja/lean-by-example](https://github.com/lean-ja/lean-by-example) - コード例で学ぶ Lean 言語
 - [yuma-mizuno/lean-math-workshop](https://github.com/yuma-mizuno/lean-math-workshop) - 数学系のためのLean勉強会
@@ -2075,7 +2075,6 @@
 - [yuru7/HackGen](https://github.com/yuru7/HackGen) - Hack と源柔ゴシックを合成したプログラミングフォント 白源 (はくげん／HackGen)
 - [jorgebucaran/fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for Fish
 - [ItsDanielHarris/Dnsmasq-Adblocker](https://github.com/ItsDanielHarris/Dnsmasq-Adblocker) - An automated dnsmasq tool with remote blacklists, whitelist, and TLD blacklist support.
-- [dockcross/dockcross](https://github.com/dockcross/dockcross) - Cross compiling toolchains in Docker images
 - [w9jds/firebase-action](https://github.com/w9jds/firebase-action) - GitHub Action for interacting with Firebase
 - [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme) - Pixel perfect icon theme for Linux
 - [wslutilities/wslu](https://github.com/wslutilities/wslu) - A collection of utilities for Windows Subsystem for Linux
@@ -2465,6 +2464,7 @@
 - [makenotion/notion-sdk-js](https://github.com/makenotion/notion-sdk-js) - Official Notion JavaScript Client
 - [vitejs/vite-ecosystem-ci](https://github.com/vitejs/vite-ecosystem-ci) - Vite Ecosystem CI
 - [eliassjogreen/pioneer](https://github.com/eliassjogreen/pioneer) - ⚙️ A work in progress ECS game engine
+- [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
 - [denoffi/deno_lua](https://github.com/denoffi/deno_lua) - Lua bindings for Deno.
 - [heroui-inc/heroui](https://github.com/heroui-inc/heroui) - 🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
 - [yuki-yano/fuzzy-motion.vim](https://github.com/yuki-yano/fuzzy-motion.vim) - 
