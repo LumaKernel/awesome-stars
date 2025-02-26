@@ -1745,6 +1745,7 @@
 
 ## Rust 
 
+- [brurucy/indexset](https://github.com/brurucy/indexset) - A pure-Rust two-level dynamic b-tree.  This crate implements a compact set data structure that preserves its elements' sorted order and allows lookups of entries by value or sorted order position.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
 - [niuez/niuristic](https://github.com/niuez/niuristic) - 
@@ -2170,6 +2171,7 @@
 
 ## TypeScript 
 
+- [remarkablemark/style-to-object](https://github.com/remarkablemark/style-to-object) - 📝 Parse CSS inline style to JavaScript object.
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
 - [lapisla-prover/lapisla-prover](https://github.com/lapisla-prover/lapisla-prover) - Lapisla is a *battery-pluggable* theorem prover and ecosystem designed for everyone. Greetings! 👋
 - [storybookjs/addon-coverage](https://github.com/storybookjs/addon-coverage) - 
