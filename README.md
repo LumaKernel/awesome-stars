@@ -308,7 +308,7 @@
 
 ## Coq 
 
-- [coq-community/math-classes](https://github.com/coq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]
+- [rocq-community/math-classes](https://github.com/rocq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]
 
 ## Crystal 
 
@@ -605,7 +605,7 @@
 - [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the coq.inria.fr website
+- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the previous coq.inria.fr website
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [uva-cs/pdr](https://github.com/uva-cs/pdr) - A repo for a Program and Data Representation university-level course
@@ -629,6 +629,7 @@
 - [tc39/proposal-iterator-helpers](https://github.com/tc39/proposal-iterator-helpers) - Methods for working with iterators in ECMAScript
 - [tc39/proposal-shadowrealm](https://github.com/tc39/proposal-shadowrealm) - ECMAScript Proposal, specs, and reference implementation for Realms
 - [tc39/proposal-temporal](https://github.com/tc39/proposal-temporal) - Provides standard objects and functions for working with dates and times.
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [momdo/momdo.github.io](https://github.com/momdo/momdo.github.io) - Japanese translation of the W3C/WHATWG specification(s).
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [sindresorhus/devtools-detect](https://github.com/sindresorhus/devtools-detect) - Detect if DevTools is open and its orientation
@@ -1113,7 +1114,7 @@
 - [SerayaEryn/fastify-session](https://github.com/SerayaEryn/fastify-session) - session plugin for fastify
 - [fastify/fastify-cookie](https://github.com/fastify/fastify-cookie) - A Fastify plugin to add cookies support
 - [fastify/fastify-auth](https://github.com/fastify/fastify-auth) - Run multiple auth functions in Fastify
-- [fastify/csrf-protection](https://github.com/fastify/csrf-protection) - A fastify csrf plugin.
+- [fastify/csrf-protection](https://github.com/fastify/csrf-protection) - A fastify csrf plugin
 - [fastify/fastify-cors](https://github.com/fastify/fastify-cors) - Fastify CORS
 - [grommet/grommet](https://github.com/grommet/grommet) - a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package
 - [react-dropzone/react-dropzone](https://github.com/react-dropzone/react-dropzone) - Simple HTML5 drag-drop zone with React.js.
@@ -1437,7 +1438,6 @@
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
@@ -1751,6 +1751,7 @@
 
 ## Rust 
 
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [brurucy/indexset](https://github.com/brurucy/indexset) - A pure-Rust two-level dynamic b-tree.  This crate implements a compact set data structure that preserves its elements' sorted order and allows lookups of entries by value or sorted order position.
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) - Visualize Ownership and Lifetimes in Rust
 - [sminez/ad](https://github.com/sminez/ad) - an adaptable text editor
@@ -2181,7 +2182,7 @@
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [remarkablemark/style-to-object](https://github.com/remarkablemark/style-to-object) - 📝 Parse CSS inline style to JavaScript object.
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
-- [lapisla-prover/lapisla-prover](https://github.com/lapisla-prover/lapisla-prover) - Lapisla is a *battery-pluggable* theorem prover and ecosystem designed for everyone. Greetings! 👋
+- [lapisla-prover/lapisla-prover](https://github.com/lapisla-prover/lapisla-prover) - lapisla is a *battery-pluggable* theorem prover and ecosystem designed for everyone. Greetings! 👋
 - [storybookjs/addon-coverage](https://github.com/storybookjs/addon-coverage) - 
 - [mswjs/msw-storybook-addon](https://github.com/mswjs/msw-storybook-addon) - Mock API requests in Storybook with Mock Service Worker.
 - [storybookjs/test-runner](https://github.com/storybookjs/test-runner) - 🚕 Turn stories into executable tests
