@@ -2179,6 +2179,7 @@
 
 ## TypeScript 
 
+- [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [chimurai/http-proxy-middleware](https://github.com/chimurai/http-proxy-middleware) - :zap: The one-liner node.js http-proxy middleware for connect, express, next.js and more
 - [remarkablemark/style-to-object](https://github.com/remarkablemark/style-to-object) - 📝 Parse CSS inline style to JavaScript object.
 - [maloguertin/msw-trpc](https://github.com/maloguertin/msw-trpc) - tPRC support for MSW
