@@ -605,7 +605,7 @@
 - [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
-- [coq/coq.github.io](https://github.com/coq/coq.github.io) - Source files of the previous coq.inria.fr website
+- [rocq-prover/coq.github.io](https://github.com/rocq-prover/coq.github.io) - Source files of the previous coq.inria.fr website
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [uva-cs/pdr](https://github.com/uva-cs/pdr) - A repo for a Program and Data Representation university-level course
@@ -1364,7 +1364,7 @@
 - [gfngfn/SATySFi](https://github.com/gfngfn/SATySFi) - A statically-typed, functional typesetting system
 - [akabe/ocaml-jupyter](https://github.com/akabe/ocaml-jupyter) - An OCaml kernel for Jupyter (IPython) notebook
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [coq/coq](https://github.com/coq/coq) - Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive developme
+- [rocq-prover/rocq](https://github.com/rocq-prover/rocq) - The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment f
 
 ## Objective-C 
 
@@ -2421,7 +2421,7 @@
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [technote-space/toc-generator](https://github.com/technote-space/toc-generator) - GitHub Actions to generate TOC (Table of Contents)
 - [fb55/domutils](https://github.com/fb55/domutils) - Utilities for working with htmlparser2's DOM
-- [stream-labs/desktop](https://github.com/stream-labs/desktop) - Free and open source streaming software built on OBS and Electron.
+- [streamlabs/desktop](https://github.com/streamlabs/desktop) - Free and open source streaming software built on OBS and Electron.
 - [n-air-app/n-air-app](https://github.com/n-air-app/n-air-app) - N Air (forked from streamlabs-obs)
 - [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient.
 - [frouriojs/notios](https://github.com/frouriojs/notios) - 
@@ -2849,7 +2849,7 @@
 - [kenkoooo/AtCoderProblems](https://github.com/kenkoooo/AtCoderProblems) - Extend your AtCoder
 - [typescript-book-ja/typescript-book-jp](https://github.com/typescript-book-ja/typescript-book-jp) - TypeScript DeepDive 日本語版
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
+- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [acamica/ts-dynamic-type-checker](https://github.com/acamica/ts-dynamic-type-checker) - TypeScript library that performs dynamic type checking. It's useful for cases where you can't use TypeScript's static type checking (like reading a JSON object from a file).
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [aspida/aspida](https://github.com/aspida/aspida) - TypeScript friendly HTTP client wrapper for the browser and node.js.
