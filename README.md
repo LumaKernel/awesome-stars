@@ -770,6 +770,7 @@
 - [tabrindle/envinfo](https://github.com/tabrindle/envinfo) - Generate a report about your development environment for debugging and issue reporting
 - [petkaantonov/deque](https://github.com/petkaantonov/deque) - Extremely fast double-ended queue implementation
 - [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
+- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [tc39/proposal-extractors](https://github.com/tc39/proposal-extractors) - Extractors for ECMAScript
 - [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 - [raisezhang/react-drag-listview](https://github.com/raisezhang/react-drag-listview) - A simple draggable list component for React
@@ -2374,7 +2375,6 @@
 - [juliencrn/usehooks-ts](https://github.com/juliencrn/usehooks-ts) - React hook library, ready to use, written in Typescript.
 - [dotenv-org/dotenv-vault](https://github.com/dotenv-org/dotenv-vault) - sync .env files—from the creator of `dotenv`.
 - [slackapi/bolt-js](https://github.com/slackapi/bolt-js) - A framework to build Slack apps using JavaScript
-- [facebook/memlab](https://github.com/facebook/memlab) - A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 - [desi-ivanov/ts-regexp](https://github.com/desi-ivanov/ts-regexp) - Type-Level Regular Expressions matching with TypeScript
 - [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
