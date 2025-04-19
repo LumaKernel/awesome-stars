@@ -186,6 +186,7 @@
 
 ## C++ 
 
+- [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [kounoike/obs-virtualbg](https://github.com/kounoike/obs-virtualbg) - An OBS plugin for Zoom/Meet-like virtual background feature.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
 - [uNetworking/uWebSockets.js](https://github.com/uNetworking/uWebSockets.js) - μWebSockets for Node.js back-ends :metal:
@@ -1493,6 +1494,7 @@
 
 ## PHP 
 
+- [tennc/webshell](https://github.com/tennc/webshell) - This is a webshell open source project
 - [infection/infection](https://github.com/infection/infection) - PHP Mutation Testing library
 - [joomla/joomla-cms](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
