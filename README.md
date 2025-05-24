@@ -198,9 +198,8 @@
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 - [callstack/react-native-visionos](https://github.com/callstack/react-native-visionos) - A framework for building native visionOS applications using React
-- [locaal-ai/obs-backgroundremoval](https://github.com/locaal-ai/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
+- [royshil/obs-backgroundremoval](https://github.com/royshil/obs-backgroundremoval) - An OBS plugin for removing background in portrait images (video), making it easy to replace the background when recording or streaming.
 - [google/mozc](https://github.com/google/mozc) - Mozc - a Japanese Input Method Editor designed for multi-platform
-- [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru)
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
@@ -261,6 +260,7 @@
 - [bqi343/cp-notebook](https://github.com/bqi343/cp-notebook) - General Resources for Competitive Programming
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
+- [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
 - [Maximus5/ConEmu](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [rprichard/wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
@@ -360,6 +360,7 @@
 
 ## Go 
 
+- [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
 - [kaz/pprotein](https://github.com/kaz/pprotein) - Performance monitoring utilities for API server written in Go, works with pprof/fgprof/alp/slp
 - [aws/copilot-cli](https://github.com/aws/copilot-cli) - The AWS Copilot CLI is a tool for developers to build, release and operate production ready containerized applications on AWS App Runner or Amazon ECS on AWS Fargate.
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
@@ -391,7 +392,7 @@
 - [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
 - [helm/helm](https://github.com/helm/helm) - The Kubernetes Package Manager
 - [GoogleCloudPlatform/gcsfuse](https://github.com/GoogleCloudPlatform/gcsfuse) - A user-space file system for interacting with Google Cloud Storage
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -532,7 +533,7 @@
 - [danielkermode/gvm](https://github.com/danielkermode/gvm) - ⛔️ DEPRECATED Go Version Manager for Windows
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [mattn/go-generics-example](https://github.com/mattn/go-generics-example) - Example code for Go generics
-- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
+- [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [skanehira/github-tui](https://github.com/skanehira/github-tui) - TUI client for GitHub
 - [invidian/terraform-provider-sshcommand](https://github.com/invidian/terraform-provider-sshcommand) - This provider allow to execute commands remotely via SSH and capture the output from them.
@@ -580,7 +581,7 @@
 - [mattn/sudo](https://github.com/mattn/sudo) - sudo for windows
 - [felixge/fgprof](https://github.com/felixge/fgprof) - 🚀 fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together.
 - [mattn/fakemovie](https://github.com/mattn/fakemovie) - 
-- [goplus/gop](https://github.com/goplus/gop) - The Go+ programming language is designed for engineering, STEM education, and data science. Our vision is to enable everyone to become a builder of the world.
+- [goplus/xgo](https://github.com/goplus/xgo) - XGo is the first AI-native programming language that integrates software engineering into a unified whole. Our vision is to enable everyone to become a builder of the world.
 - [atotto/clipboard](https://github.com/atotto/clipboard) - clipboard for golang
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -604,7 +605,7 @@
 - [tc39/proposal-string-dedent](https://github.com/tc39/proposal-string-dedent) - TC39 Proposal to remove common leading indentation from multiline template strings
 - [flatt-security/developers-quiz](https://github.com/flatt-security/developers-quiz) - Flatt Security Developers' Quizのソースコードを公開するリポジトリです。
 - [facebook/jsx](https://github.com/facebook/jsx) - The JSX specification is a XML-like syntax extension to ECMAScript.
-- [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for an options argument to be added to JS's Math.random() function, and some options to start it with.
+- [tc39/proposal-seeded-random](https://github.com/tc39/proposal-seeded-random) - Proposal for a new SeededPRNG class that yields reproducible sequences of random numbers.
 - [google/coding-competitions-archive](https://github.com/google/coding-competitions-archive) - Google Coding Competitions problem archive
 - [tc39/proposal-pipeline-operator](https://github.com/tc39/proposal-pipeline-operator) - A proposal for adding a useful pipe operator to JavaScript.
 - [rocq-prover/coq.github.io](https://github.com/rocq-prover/coq.github.io) - Source files of the previous coq.inria.fr website
@@ -705,6 +706,8 @@
 
 ## JavaScript 
 
+- [muratalperen/GoogleFormsAutoFiller](https://github.com/muratalperen/GoogleFormsAutoFiller) - Browser extension for auto filling google forms
+- [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [olivernn/lunr.js](https://github.com/olivernn/lunr.js) - A bit like Solr, but much smaller and not as bright
 - [krisk/Fuse](https://github.com/krisk/Fuse) - Lightweight fuzzy-search, in JavaScript
 - [http-party/node-http-proxy](https://github.com/http-party/node-http-proxy) - A full-featured http proxy for node.js
@@ -1526,6 +1529,7 @@
 
 ## Python 
 
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
@@ -1684,7 +1688,7 @@
 - [django/channels](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [lazybird/django-solo](https://github.com/lazybird/django-solo) - Helps working with singletons - things like global settings that you want to edit from the admin site.
@@ -1724,7 +1728,6 @@
 - [adenh93/django-typomatic](https://github.com/adenh93/django-typomatic) - A simple solution for generating Typescript interfaces from your Django Rest Framework Serializers.
 - [Shougo/denite.nvim](https://github.com/Shougo/denite.nvim) - :dragon: Dark powered asynchronous unite all interfaces for Neovim/Vim8
 - [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
 
 ## Reason 
 
@@ -1799,7 +1802,7 @@
 - [jamesmunns/postcard](https://github.com/jamesmunns/postcard) - A no_std + serde compatible message library for Rust
 - [TimonPost/cargo-unused-features](https://github.com/TimonPost/cargo-unused-features) - Find potential unused enabled feature flags and prune them.
 - [lvkv/whenfs](https://github.com/lvkv/whenfs) - A FUSE filesystem for your Google calendar
-- [versotile-org/verso](https://github.com/versotile-org/verso) - A web browser that plays old world blues to build new world hope
+- [versotile-org/verso](https://github.com/versotile-org/verso) - Mirror of https://gitlab.com/verso-browser/verso
 - [image-rs/image](https://github.com/image-rs/image) - Encoding and decoding images in Rust
 - [Synphonyte/leptos-use](https://github.com/Synphonyte/leptos-use) - Collection of essential Leptos utilities inspired by React-Use / VueUse
 - [rust-random/rand](https://github.com/rust-random/rand) - A Rust library for random number generation.
@@ -1833,7 +1836,7 @@
 - [verifast/verifast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C, Rust and Java programs
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-- [aaronabramov/k9](https://github.com/aaronabramov/k9) - Rust testing library
+- [boujeepossum/k9](https://github.com/boujeepossum/k9) - Rust testing library
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale
 - [rgwood/systemctl-tui](https://github.com/rgwood/systemctl-tui) - A fast, simple TUI for interacting with systemd services and their logs
 - [trishume/syntect](https://github.com/trishume/syntect) - Rust library for syntax highlighting using Sublime Text syntax definitions.
@@ -1872,6 +1875,7 @@
 - [rusticata/x509-parser](https://github.com/rusticata/x509-parser) - X.509 parser written in pure Rust. Fast, zero-copy, safe.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [jkfran/killport](https://github.com/jkfran/killport) - A command-line tool to easily kill processes running on a specified port.
+- [google/kati](https://github.com/google/kati) - An experimental GNU make clone
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
@@ -2750,7 +2754,7 @@
 - [srod/node-minify](https://github.com/srod/node-minify) - Light Node.js module that compress javascript, css and html files
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [chrislennon/action-aws-cli](https://github.com/chrislennon/action-aws-cli) - An action to install and setup AWS cli
-- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building products with speed ⚡️
+- [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [sveltejs/language-tools](https://github.com/sveltejs/language-tools) - The Svelte Language Server, and official extensions which use it
 - [sveltejs/sapper](https://github.com/sveltejs/sapper) - The next small thing in web development, powered by Svelte
 - [opennextjs/opennextjs-netlify](https://github.com/opennextjs/opennextjs-netlify) - Open Next.js adapter for Netlify
