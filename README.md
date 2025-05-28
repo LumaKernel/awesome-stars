@@ -735,7 +735,6 @@
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
 - [mcollina/syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
-- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [ungap/structured-clone](https://github.com/ungap/structured-clone) - A structuredClone polyfill
 - [syntax-tree/hast-util-to-text](https://github.com/syntax-tree/hast-util-to-text) - utility to get the plain-text value of a node according to the `innerText` algorithm
 - [remarkablemark/inline-style-parser](https://github.com/remarkablemark/inline-style-parser) - 📝 Inline style parser.
@@ -812,7 +811,6 @@
 - [cronvel/terminal-kit](https://github.com/cronvel/terminal-kit) - Terminal utilities for node.js
 - [mjbvz/vscode-github-markdown-preview-style](https://github.com/mjbvz/vscode-github-markdown-preview-style) - VS Code extension that changes the built-in markdown preview to match Github's styling
 - [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
-- [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
 - [wildskyf/TextareaCache](https://github.com/wildskyf/TextareaCache) - Browser Add-on: Automatically save the content in Textarea.
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) - Set up a modern web app by running one command.
 - [fastify/fastify-nextjs](https://github.com/fastify/fastify-nextjs) - React server side rendering support for Fastify with Next
@@ -1212,6 +1210,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/RAG-Knowledge](https://github.com/microsoft/RAG-Knowledge) - 
 - [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
@@ -1832,6 +1831,7 @@
 - [jsr-io/jsr](https://github.com/jsr-io/jsr) - The open-source package registry for modern JavaScript and TypeScript
 - [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss) - An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.
 - [Canop/dysk](https://github.com/Canop/dysk) - A linux utility to get information on filesystems, like df but better
+- [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [verifast/verifast](https://github.com/verifast/verifast) - Research prototype tool for modular formal verification of C, Rust and Java programs
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -2198,6 +2198,9 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe TypeScript SQL query builder
+- [ipikuka/next-mdx-remote-client](https://github.com/ipikuka/next-mdx-remote-client) - A wrapper of `@mdx-js/mdx` for `Next.js` applications in order to load MDX content. It is a fork of `next-mdx-remote`.
 - [standard-schema/standard-schema](https://github.com/standard-schema/standard-schema) - A standard interface for TypeScript schema validation libraries
 - [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful yet powerful syntax highlighter
 - [aidenybai/react-scan](https://github.com/aidenybai/react-scan) - Scan for React performance issues and eliminate slow renders in your app
@@ -2471,6 +2474,7 @@
 - [Eximchain/ink-quicksearch-input](https://github.com/Eximchain/ink-quicksearch-input) - :black_nib: Quicksearch Input component for Ink
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) - VS Code Hex Editor
 - [vadimdemedes/ink-testing-library](https://github.com/vadimdemedes/ink-testing-library) - Utilities for testing Ink apps
+- [final-form/final-form](https://github.com/final-form/final-form) - 🏁 Framework agnostic, high performance, subscription-based form state management
 - [sindresorhus/ink-link](https://github.com/sindresorhus/ink-link) - Link component for Ink
 - [sindresorhus/ink-big-text](https://github.com/sindresorhus/ink-big-text) - Awesome text component for Ink
 - [jdeniau/ink-tab](https://github.com/jdeniau/ink-tab) - Tab component for Ink 🌈
