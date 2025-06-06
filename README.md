@@ -8,6 +8,7 @@
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
 - [Awk](#awk)
+- [Bikeshed](#bikeshed)
 - [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
@@ -95,6 +96,10 @@
 
 - [TheMozg/awk-raycaster](https://github.com/TheMozg/awk-raycaster) - Pseudo-3D shooter written completely in gawk using raycasting technique
 - [djanderson/aho](https://github.com/djanderson/aho) - A git implementation in awk
+
+## Bikeshed 
+
+- [webmachinelearning/prompt-api](https://github.com/webmachinelearning/prompt-api) - 💬 A proposal for a web API for prompting browser-provided language models
 
 ## Brainfuck 
 
@@ -186,6 +191,7 @@
 
 ## C++ 
 
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [zrax/pycdc](https://github.com/zrax/pycdc) - C++ python bytecode disassembler and decompiler
 - [kounoike/obs-virtualbg](https://github.com/kounoike/obs-virtualbg) - An OBS plugin for Zoom/Meet-like virtual background feature.
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -390,7 +396,7 @@
 - [GoogleCloudPlatform/artifact-registry-apt-transport](https://github.com/GoogleCloudPlatform/artifact-registry-apt-transport) - 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [repeale/fp-go](https://github.com/repeale/fp-go) - fp-go is a collection of Functional Programming helpers powered by Golang 1.18+ generics.
-- [dunglas/frankenphp](https://github.com/dunglas/frankenphp) - 🧟 The modern PHP app server
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes/dns](https://github.com/kubernetes/dns) - Kubernetes DNS service
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
@@ -842,7 +848,7 @@
 - [remarkjs/remark-frontmatter](https://github.com/remarkjs/remark-frontmatter) - remark plugin to support frontmatter (YAML, TOML, and more)
 - [remarkjs/remark-yaml-config](https://github.com/remarkjs/remark-yaml-config) - plugin to configure remark with YAML frontmatter
 - [retextjs/retext](https://github.com/retextjs/retext) - natural language processor powered by plugins part of the @unifiedjs collective
-- [ikatyang-collab/linguist-languages](https://github.com/ikatyang-collab/linguist-languages) - Linguist languages.yml in JSON format
+- [ikatyang-collab/linguist-languages](https://github.com/ikatyang-collab/linguist-languages) - Linguist languages data.
 - [ikatyang/tree-sitter-yaml](https://github.com/ikatyang/tree-sitter-yaml) - YAML grammar for tree-sitter
 - [tree-sitter/tree-sitter-css](https://github.com/tree-sitter/tree-sitter-css) - CSS grammar for Tree-sitter
 - [serenadeai/tree-sitter-scss](https://github.com/serenadeai/tree-sitter-scss) - SCSS grammar for tree-sitter
@@ -1380,7 +1386,7 @@
 
 ## Others 
 
-- [webmachinelearning/prompt-api](https://github.com/webmachinelearning/prompt-api) - 💬 A proposal for a web API for prompting browser-provided language models
+- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [refusado/awesome-css-only](https://github.com/refusado/awesome-css-only) - An awesome & curated list of beautiful projects made with pure CSS!
@@ -1532,7 +1538,7 @@
 
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
-- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — specialized MCP servers that bring AWS best practices directly to your development workflow
+- [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
@@ -1692,7 +1698,7 @@
 - [jrottenberg/ffmpeg](https://github.com/jrottenberg/ffmpeg) - Docker build for FFmpeg on Ubuntu / Alpine / Centos / Scratch / nvidia / vaapi
 - [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [lazybird/django-solo](https://github.com/lazybird/django-solo) - Helps working with singletons - things like global settings that you want to edit from the admin site.
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
@@ -2569,7 +2575,7 @@
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [tani/ddc-path](https://github.com/tani/ddc-path) - Path completion for ddc.vim. This source collects path names with GNU find or sharkdp/fd.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-- [nrwl/nx](https://github.com/nrwl/nx) - Build system, optimized for monorepos, with AI-powered architectural awareness and advanced CI capabilities.
+- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
