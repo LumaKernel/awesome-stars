@@ -366,6 +366,7 @@
 
 ## Go 
 
+- [ml0-1337/mcp-gemini-grounding](https://github.com/ml0-1337/mcp-gemini-grounding) - 
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
@@ -740,7 +741,7 @@
 - [knex/knex](https://github.com/knex/knex) - A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.
 - [dessant/label-actions](https://github.com/dessant/label-actions) - 🤖 GitHub Action that performs certain tasks when issues, pull requests or discussions are labeled or unlabeled
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Rambda
+- [selfrefactor/rambda](https://github.com/selfrefactor/rambda) - Typescript focused FP library similar to Remeda and Ramda
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - 🦋 Fantasy Land compliant (monadic) alternative to Promises
 - [amannn/action-semantic-pull-request](https://github.com/amannn/action-semantic-pull-request) - A GitHub Action that ensures that your PR title matches the Conventional Commits spec
@@ -882,7 +883,6 @@
 - [vercel/arg](https://github.com/vercel/arg) - Simple argument parsing
 - [75lb/command-line-args](https://github.com/75lb/command-line-args) - A mature, feature-complete library to parse command-line options.
 - [faisalman/ua-parser-js](https://github.com/faisalman/ua-parser-js) - "Unmask Your Traffic" - UAParser.js: The Essential Web Development Tool for User-Agent Detection
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [tree-sitter/tree-sitter-cpp](https://github.com/tree-sitter/tree-sitter-cpp) - C++ grammar for tree-sitter
 - [petamoriken/float16](https://github.com/petamoriken/float16) - Stage 3 IEEE 754 half-precision floating-point ponyfill
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) - Sets up Terraform CLI in your GitHub Actions workflow.
@@ -967,6 +967,7 @@
 - [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io) - 
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [svitejs/svite](https://github.com/svitejs/svite) - 
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
@@ -1547,7 +1548,7 @@
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
-- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics.
+- [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, 
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [frodo821/BitNet-Transformers](https://github.com/frodo821/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
@@ -2088,7 +2089,7 @@
 - [raquo/Airstream](https://github.com/raquo/Airstream) - State propagation and event streams with mandatory ownership and no glitches
 - [Iltotore/iron](https://github.com/Iltotore/iron) - Strong type constraints for Scala
 - [raquo/Laminar](https://github.com/raquo/Laminar) - Simple, expressive, and safe UI library for Scala.js
-- [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct-style concurrency and resiliency for Scala on the JVM
+- [softwaremill/ox](https://github.com/softwaremill/ox) - Safe direct-style streaming, concurrency and resiliency for Scala on the JVM
 - [scala-steward-org/scala-steward](https://github.com/scala-steward-org/scala-steward) - :robot: A bot that helps you keep your projects up-to-date
 - [kory33/scalamatsuri2024-minimal-eff](https://github.com/kory33/scalamatsuri2024-minimal-eff) - 
 - [tarao/record4s](https://github.com/tarao/record4s) - Extensible records for Scala
@@ -2189,7 +2190,7 @@
 
 ## Swift 
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [macadmins/nudge](https://github.com/macadmins/nudge) - A tool for encouraging the installation of macOS security updates.
@@ -2214,10 +2215,11 @@
 
 ## TypeScript 
 
+- [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
 - [yukukotani/mcp-gemini-google-search](https://github.com/yukukotani/mcp-gemini-google-search) - MCP server for Google Search integration using Gemini's built-in search capabilities
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
-- [mizchi/typescript-mcp](https://github.com/mizchi/typescript-mcp) - 
+- [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
 - [link2004/git-worktree-cursor](https://github.com/link2004/git-worktree-cursor) - 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
@@ -2577,6 +2579,7 @@
 - [algolia/react-instantsearch](https://github.com/algolia/react-instantsearch) - ⚡️ Lightning-fast search for React and React Native applications, by Algolia.
 - [octokit/webhooks](https://github.com/octokit/webhooks) - machine-readable, always up-to-date GitHub Webhooks specifications
 - [cdktf/cdktf-provider-null](https://github.com/cdktf/cdktf-provider-null) - Prebuilt Terraform CDK (cdktf) provider for null.
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [primer/react](https://github.com/primer/react) - An implementation of GitHub's Primer Design System using React
 - [romac/react-if](https://github.com/romac/react-if) - 🌗 Render React components conditionally
 - [drashland/drash](https://github.com/drashland/drash) - A microframework for building JavaScript HTTP applications. Runtime-agnostic. Strongly typed.
@@ -2693,7 +2696,6 @@
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [nwtgck/ts-json-validator](https://github.com/nwtgck/ts-json-validator) - JSON Validator for TypeScript - Safer JSON.parse() validating by TypeScript types
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
