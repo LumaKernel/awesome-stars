@@ -2215,6 +2215,7 @@
 
 ## TypeScript 
 
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
 - [yukukotani/mcp-gemini-google-search](https://github.com/yukukotani/mcp-gemini-google-search) - MCP server for Google Search integration using Gemini's built-in search capabilities
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
