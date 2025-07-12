@@ -1007,7 +1007,7 @@
 - [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 - [RyanZim/EJS-Lint](https://github.com/RyanZim/EJS-Lint) - Linter/Syntax Checker for EJS Templates.
 - [avocadowastaken/prettier-plugin-prisma](https://github.com/avocadowastaken/prettier-plugin-prisma) - Prettier plugin for Prisma
-- [lirantal/npq](https://github.com/lirantal/npq) - 🎖safely* install packages with npm or yarn by auditing them as part of your install process
+- [lirantal/npq](https://github.com/lirantal/npq) - safely install npm packages by auditing them pre-install stage
 - [syntax-tree/unist-util-visit](https://github.com/syntax-tree/unist-util-visit) - utility to visit nodes
 - [drudru/ansi_up](https://github.com/drudru/ansi_up) - A javascript library that converts text with ANSI terminal codes into colorful HTML Zero dependencies.
 - [sindresorhus/ansi-escapes](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal
@@ -1024,7 +1024,6 @@
 - [muraken720/retext-textlint](https://github.com/muraken720/retext-textlint) - retext plugin to use textlint
 - [retextjs/retext-emoji](https://github.com/retextjs/retext-emoji) - plugin to support emoji, gemoji, and emoticons
 - [retextjs/retext-quotes](https://github.com/retextjs/retext-quotes) - plugin to check quotes and apostrophes
-- [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
 - [avajs/eslint-plugin-ava](https://github.com/avajs/eslint-plugin-ava) - ESLint rules for AVA
 - [folder/xdg](https://github.com/folder/xdg) - Get cross-platform XDG Base Directories or their equivalents. Works with Linux, Windows, or MacOS.
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
@@ -1475,7 +1474,7 @@
 - [saojs/awesome-sao](https://github.com/saojs/awesome-sao) - A curated list of delightful SAO resources.
 - [denoland/deno-lambda](https://github.com/denoland/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself.
 - [kettanaito/naming-cheatsheet](https://github.com/kettanaito/naming-cheatsheet) - Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.
-- [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+- [lukasmasuch/best-of-ml-python](https://github.com/lukasmasuch/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [scramjetorg/scramjet](https://github.com/scramjetorg/scramjet) - Public tracker for Scramjet Cloud Platform, a platform that bring data from many environments together.
 - [remarkjs/remark-slug](https://github.com/remarkjs/remark-slug) - Deprecated plugin to add `id`s to headings — please use `rehype-slug`
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
@@ -1774,6 +1773,8 @@
 
 ## Rust 
 
+- [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
+- [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
 - [cedar-policy/cedar](https://github.com/cedar-policy/cedar) - Implementation of the Cedar Policy Language
 - [AcrylicShrimp/dlsite-manager](https://github.com/AcrylicShrimp/dlsite-manager) - Download your DLsite products by one-click!
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
@@ -2178,6 +2179,7 @@
 
 ## Svelte 
 
+- [Abdenasser/neohtop](https://github.com/Abdenasser/neohtop) - 💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Svelte)
 - [novacbn/kahi-ui](https://github.com/novacbn/kahi-ui) - Straight-forward Svelte UI for the Web
 - [GeopJr/SveltePress](https://github.com/GeopJr/SveltePress) - Documentation for humans.
 - [Cweili/svelte-fa](https://github.com/Cweili/svelte-fa) - Tiny FontAwesome component for Svelte
@@ -2215,6 +2217,8 @@
 
 ## TypeScript 
 
+- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
 - [yukukotani/mcp-gemini-google-search](https://github.com/yukukotani/mcp-gemini-google-search) - MCP server for Google Search integration using Gemini's built-in search capabilities
@@ -2776,6 +2780,7 @@
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [egoist/majo](https://github.com/egoist/majo) - A minimal module to manipulate files.
 - [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
+- [yibn2008/find-process](https://github.com/yibn2008/find-process) - find process by port/pid/name etc.
 - [TheBrainFamily/wait-for-expect](https://github.com/TheBrainFamily/wait-for-expect) - Wait for expectation to be true, useful for integration and end to end testing. Integral part of react-testing-library.
 - [nuxt/typescript](https://github.com/nuxt/typescript) - TypeScript Support for Nuxt 2
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
