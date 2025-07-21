@@ -19,7 +19,6 @@
 - [CodeQL](#codeql)
 - [CoffeeScript](#coffeescript)
 - [Common Lisp](#common-lisp)
-- [Coq](#coq)
 - [Crystal](#crystal)
 - [D](#d)
 - [D2](#d2)
@@ -64,6 +63,7 @@
 - [Python](#python)
 - [Reason](#reason)
 - [Rich Text Format](#rich-text-format)
+- [Rocq Prover](#rocq-prover)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -312,10 +312,6 @@
 - [sbcl/sbcl](https://github.com/sbcl/sbcl) - Mirror of Steel Bank Common Lisp (SBCL)'s official repository
 - [inaimathi/cl-notebook](https://github.com/inaimathi/cl-notebook) - A notebook-style editor for Common Lisp
 - [yitzchak/common-lisp-jupyter](https://github.com/yitzchak/common-lisp-jupyter) - A Common Lisp kernel for Jupyter along with a library for building Jupyter kernels.
-
-## Coq 
-
-- [rocq-community/math-classes](https://github.com/rocq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]
 
 ## Crystal 
 
@@ -716,6 +712,7 @@
 
 ## JavaScript 
 
+- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A live stream downloader with many features!
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [muratalperen/GoogleFormsAutoFiller](https://github.com/muratalperen/GoogleFormsAutoFiller) - Browser extension for auto filling google forms
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -1626,7 +1623,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection) - Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to e
 - [ansible-collections/community.general](https://github.com/ansible-collections/community.general) - Ansible Community General Collection
@@ -1749,6 +1746,10 @@
 ## Rich Text Format 
 
 - [Domain-Connect/spec](https://github.com/Domain-Connect/spec) - Domain Connect Specification
+
+## Rocq Prover 
+
+- [rocq-community/math-classes](https://github.com/rocq-community/math-classes) - A library of abstract interfaces for mathematical structures in Coq [maintainer=@spitters,@Lysxia]
 
 ## Roff 
 
