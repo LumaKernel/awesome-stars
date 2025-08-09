@@ -362,6 +362,7 @@
 
 ## Go 
 
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
 - [loeffel-io/ls-lint](https://github.com/loeffel-io/ls-lint) - An extremely fast directory and filename linter - Bring some structure to your project filesystem
@@ -711,7 +712,7 @@
 
 ## JavaScript 
 
-- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A live stream downloader with many features!
+- [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A media downloader with many features!
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [muratalperen/GoogleFormsAutoFiller](https://github.com/muratalperen/GoogleFormsAutoFiller) - Browser extension for auto filling google forms
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
@@ -967,7 +968,6 @@
 - [svitejs/svite](https://github.com/svitejs/svite) - 
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
 - [bustle/ts-eager](https://github.com/bustle/ts-eager) - Fast TypeScript runner using esbuild for eager compilation
-- [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [pappasam/nginx-language-server](https://github.com/pappasam/nginx-language-server) - Language server for nginx.conf
 - [oauthinaction/oauth-in-action-code](https://github.com/oauthinaction/oauth-in-action-code) - Source code for OAuth 2 in Action
@@ -1184,7 +1184,6 @@
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
 - [tobspr-games/shapez.io](https://github.com/tobspr-games/shapez.io) - shapez is an open source base building game on Steam inspired by factorio!
 - [akahuku/wasavi](https://github.com/akahuku/wasavi) - wasavi is an extension for Chrome, Firefox, and Opera. wasavi changes a textarea element to virtual vi editor which supports almost all the vi/ex commands.
-- [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [unassert-js/unassert](https://github.com/unassert-js/unassert) - Encourages programming with assertions by providing tools to compile them away.
 - [markdown-it/linkify-it](https://github.com/markdown-it/linkify-it) - Links recognition library with full unicode support
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -1531,6 +1530,7 @@
 
 ## Python 
 
+- [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp) - 
 - [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
 - [yuru7/udev-gothic](https://github.com/yuru7/udev-gothic) - UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
@@ -2218,6 +2218,7 @@
 
 ## TypeScript 
 
+- [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
@@ -2284,7 +2285,7 @@
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
 - [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game.
-- [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント
+- [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント（React版）
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [expo/react-conf-app](https://github.com/expo/react-conf-app) - 
 - [denoland/setup-deno](https://github.com/denoland/setup-deno) - Set up your GitHub Actions workflow with a specific version of Deno
@@ -2527,7 +2528,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
-- [requestly/requestly](https://github.com/requestly/requestly) - Local-first Developer Tool to Build, Test, Intercept & Mock API Requests. Requestly is a combination of REST API Client and HTTP Interceptor. It is simple, beautiful and powerful alternative to Postma
+- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [onebay/vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - A vite plugin for import library component style automatic.
@@ -2716,6 +2717,7 @@
 - [vuejs/eslint-config-typescript](https://github.com/vuejs/eslint-config-typescript) - ESLint configuration for Vue 3 + TypeScript projects
 - [kt3k/packup](https://github.com/kt3k/packup) - 📦 Zero-config web application packager for Deno
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [entronad/crypto-es](https://github.com/entronad/crypto-es) - A cryptography algorithms library
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
@@ -2924,6 +2926,7 @@
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [key-moon/ac-predictor](https://github.com/key-moon/ac-predictor) - AtCoderのパフォーマンス予測を行います
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [yusukesaitoh/calm-twitter](https://github.com/yusukesaitoh/calm-twitter) - This extension hides trending information from twitter timelines to make your mind calm.
 - [jeffijoe/typesync](https://github.com/jeffijoe/typesync) - Install missing TypeScript typings for dependencies in your package.json.
 - [vadimdemedes/dom-chef](https://github.com/vadimdemedes/dom-chef) - 🍔 Build DOM elements using JSX automatically
 - [januswel/typescript-plugin-unassert](https://github.com/januswel/typescript-plugin-unassert) - TypeScript plugin to remove assert in production mode of webpack
