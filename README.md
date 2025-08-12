@@ -960,7 +960,7 @@
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
-- [golopot/tex-to-unicode](https://github.com/golopot/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
+- [chiawendt/tex-to-unicode](https://github.com/chiawendt/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io) - 
 - [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
@@ -1940,7 +1940,7 @@
 - [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) - 
 - [rust-cross/cargo-zigbuild](https://github.com/rust-cross/cargo-zigbuild) - Compile Cargo project with zig as linker
-- [dimensionhq/volt](https://github.com/dimensionhq/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
+- [suptejas/volt](https://github.com/suptejas/volt) - An experimental package management tool for JavaScript. Upto 30x faster installation of dependencies using pre-flattened dependency trees.
 - [ZingerLittleBee/netop](https://github.com/ZingerLittleBee/netop) - Network Top -- Help you monitor network traffic with bpf
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [rust-lang/libc](https://github.com/rust-lang/libc) - Raw bindings to platform APIs for Rust
@@ -2218,6 +2218,7 @@
 
 ## TypeScript 
 
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
