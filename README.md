@@ -1772,6 +1772,7 @@
 
 ## Rust 
 
+- [hsivonen/chardetng](https://github.com/hsivonen/chardetng) - A character encoding detector for legacy Web content.
 - [jmcnamara/rust_xlsxwriter](https://github.com/jmcnamara/rust_xlsxwriter) - A Rust library for creating Excel XLSX files.
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
 - [KOBA789/human-in-the-loop](https://github.com/KOBA789/human-in-the-loop) - An MCP (Model Context Protocol) server that allows AI assistants to ask questions to humans via Discord.
@@ -2529,7 +2530,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
-- [requestly/requestly](https://github.com/requestly/requestly) - Free-Forever & Open Source API Client with HTTP Interceptor, Modifications, API Testing & Mocking.
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [onebay/vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - A vite plugin for import library component style automatic.
