@@ -174,6 +174,7 @@
 
 ## C# # 
 
+- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
 - [Tyrrrz/DiscordChatExporter](https://github.com/Tyrrrz/DiscordChatExporter) - Exports Discord chat logs to a file
 - [VMelville/subatomic-canvas](https://github.com/VMelville/subatomic-canvas) - SubatomicCanvas is an easy-to-run particle simulation application made in Unity.
 - [Fictiverse/Redream](https://github.com/Fictiverse/Redream) - Realtime Diffusion, using Automatic1111 Stable Diffusion API
@@ -218,7 +219,7 @@
 - [louisdx/cxx-prettyprint](https://github.com/louisdx/cxx-prettyprint) - A header-only library for C++(0x) that allows automagic pretty-printing of any container.
 - [chromium/chromium](https://github.com/chromium/chromium) - The official GitHub mirror of the Chromium source
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
-- [ethereum/solidity](https://github.com/ethereum/solidity) - Solidity, the Smart Contract Programming Language
+- [argotorg/solidity](https://github.com/argotorg/solidity) - Solidity, the Smart Contract Programming Language
 - [chjj/pty.js](https://github.com/chjj/pty.js) - Bindings to forkpty(3) for node.js.
 - [yosupo06/library-checker-problems](https://github.com/yosupo06/library-checker-problems) - The problem data (Test case generator, judge's solution, task, ...) of Library Checker
 - [ikatyang/tree-sitter-markdown](https://github.com/ikatyang/tree-sitter-markdown) - Markdown grammar for tree-sitter
@@ -266,7 +267,7 @@
 - [microsoft/winget-cli](https://github.com/microsoft/winget-cli) - WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [nst/JSONTestSuite](https://github.com/nst/JSONTestSuite) - A comprehensive test suite for RFC 8259 compliant JSON parsers
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Windows Subsystem for Linux
-- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
+- [ConEmu/ConEmu](https://github.com/ConEmu/ConEmu) - ConEmu: Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more
 - [rprichard/wslbridge](https://github.com/rprichard/wslbridge) - Bridge from Cygwin to WSL pty/pipe I/O
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 
@@ -774,7 +775,6 @@
 - [sindresorhus/eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) - More than 100 powerful ESLint rules
 - [angus-c/just](https://github.com/angus-c/just) - A library of dependency-free JavaScript utilities that do just one thing.
 - [azu/service-worker-updatefound-refresh-dialog](https://github.com/azu/service-worker-updatefound-refresh-dialog) - A library show refresh dialog/banner when the service worker found updated.
-- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [nfl/react-helmet](https://github.com/nfl/react-helmet) - A document head manager for React
 - [mermaid-js/mermaid-cli](https://github.com/mermaid-js/mermaid-cli) - Command line tool for the Mermaid library
 - [twopluszero/next-images](https://github.com/twopluszero/next-images) - Import images in Next.js (supports jpg, jpeg, svg, png and gif images)
@@ -960,10 +960,8 @@
 - [davidjbradshaw/eslint-config-auto](https://github.com/davidjbradshaw/eslint-config-auto) - Automatically configure ESLint based on project dependencies
 - [kach/nearley](https://github.com/kach/nearley) - 📜🔜🌲 Simple, fast, powerful parser toolkit for JavaScript.
 - [jneen/parsimmon](https://github.com/jneen/parsimmon) - A monadic LL(infinity) parser combinator library for javascript
-- [chiawendt/tex-to-unicode](https://github.com/chiawendt/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [Th3Wall/Fakeflix](https://github.com/Th3Wall/Fakeflix) - Not the usual clone that you can find on the web.
 - [ajaxzip3/ajaxzip3.github.io](https://github.com/ajaxzip3/ajaxzip3.github.io) - 
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [astefanutti/kubebox](https://github.com/astefanutti/kubebox) - ⎈❏ Terminal and Web console for Kubernetes
 - [svitejs/svite](https://github.com/svitejs/svite) - 
 - [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router) - Router for SPAs using Svelte 3
@@ -1219,7 +1217,7 @@
 - [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
 - [XiongjieDai/GPU-Benchmarks-on-LLM-Inference](https://github.com/XiongjieDai/GPU-Benchmarks-on-LLM-Inference) - Multiple NVIDIA GPUs or Apple Silicon for Large Language Model Inference?
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 21 Lessons, Get Started Building with Generative AI
 - [google-deepmind/funsearch](https://github.com/google-deepmind/funsearch) - 
 - [modelscope/facechain](https://github.com/modelscope/facechain) - FaceChain is a deep-learning toolchain for generating your Digital-Twin.
 - [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
@@ -1382,7 +1380,7 @@
 
 ## Others 
 
-- [microsoft/mcp](https://github.com/microsoft/mcp) - Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+- [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [refusado/awesome-css-only](https://github.com/refusado/awesome-css-only) - An awesome & curated list of beautiful projects made with pure CSS!
@@ -1772,6 +1770,8 @@
 
 ## Rust 
 
+- [medialab/xan](https://github.com/medialab/xan) - The CSV magician
+- [tier4/awkernel](https://github.com/tier4/awkernel) - Awkernel: realtime operating system written in Rust
 - [hsivonen/chardetng](https://github.com/hsivonen/chardetng) - A character encoding detector for legacy Web content.
 - [jmcnamara/rust_xlsxwriter](https://github.com/jmcnamara/rust_xlsxwriter) - A Rust library for creating Excel XLSX files.
 - [elastio/bon](https://github.com/elastio/bon) - Next-gen compile-time-checked builder generator, named function's arguments, and more!
@@ -2225,14 +2225,14 @@
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
 - [yukukotani/mcp-gemini-google-search](https://github.com/yukukotani/mcp-gemini-google-search) - MCP server for Google Search integration using Gemini's built-in search capabilities
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code usage from local JSONL files.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is the leading open-source RAG engine, converging cutting-edge RAG with Agent capabilities to build the superior context layer for LLMs.
 - [link2004/git-worktree-cursor](https://github.com/link2004/git-worktree-cursor) - 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2288,7 +2288,7 @@
 - [stackblitz-labs/pkg.pr.new](https://github.com/stackblitz-labs/pkg.pr.new) - 📦️ Continuous (Preview) Releases for your libraries!
 - [fa0311/twitter-openapi-typescript](https://github.com/fa0311/twitter-openapi-typescript) - Implementation of Twitter internal API (Twitter graphql API) in TypeScript
 - [kaplayjs/kaplay](https://github.com/kaplayjs/kaplay) - 🦖 A JavaScript/TypeScript Game Library that feels like a game.
-- [digital-go-jp/design-system-example-components](https://github.com/digital-go-jp/design-system-example-components) - デジタル庁デザインシステムのサンプルコンポーネント（React版）
+- [digital-go-jp/design-system-example-components-react](https://github.com/digital-go-jp/design-system-example-components-react) - デジタル庁デザインシステムのサンプルコンポーネント（React版）
 - [marpple/FxTS](https://github.com/marpple/FxTS) - A functional programming library for TypeScript/JavaScript
 - [expo/react-conf-app](https://github.com/expo/react-conf-app) - 
 - [denoland/setup-deno](https://github.com/denoland/setup-deno) - Set up your GitHub Actions workflow with a specific version of Deno
@@ -2398,6 +2398,7 @@
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [partykit/partykit](https://github.com/partykit/partykit) - PartyKit simplifies developing multiplayer applications
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
+- [bvaughn/react-window](https://github.com/bvaughn/react-window) - React components for efficiently rendering large lists and tabular data
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 - [gencay/vscode-chatgpt](https://github.com/gencay/vscode-chatgpt) - An unofficial Visual Studio Code - OpenAI ChatGPT integration
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
@@ -2531,7 +2532,7 @@
 - [github/docs](https://github.com/github/docs) - The open-source repo for docs.github.com
 - [aws-amplify/amplify-js](https://github.com/aws-amplify/amplify-js) - A declarative JavaScript library for application development using cloud services.
 - [smeijer/unimported](https://github.com/smeijer/unimported) - Find and fix dangling files and unused dependencies in your JavaScript projects.
-- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor
+- [requestly/requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [vbenjs/vite-plugin-style-import](https://github.com/vbenjs/vite-plugin-style-import) - A plug-in that imports component library styles on demand.it is fast
 - [onebay/vite-plugin-imp](https://github.com/onebay/vite-plugin-imp) - A vite plugin for import library component style automatic.
@@ -2603,7 +2604,7 @@
 - [neoclide/coc-eslint](https://github.com/neoclide/coc-eslint) - Eslint extension for coc.nvim
 - [tani/ddc-path](https://github.com/tani/ddc-path) - Path completion for ddc.vim. This source collects path names with GNU find or sharkdp/fd.
 - [umijs/umi](https://github.com/umijs/umi) - A framework in react community ✨
-- [nrwl/nx](https://github.com/nrwl/nx) - An AI-first build platform that connects everything from your editor to CI. Helping you deliver fast, without breaking things.
+- [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
@@ -2700,6 +2701,7 @@
 - [windicss/svelte-windicss-preprocess](https://github.com/windicss/svelte-windicss-preprocess) - A Svelte Preprocessor to compile windicss at build time.
 - [windicss/windicss](https://github.com/windicss/windicss) - Next generation utility-first CSS framework.
 - [vuejs/petite-vue](https://github.com/vuejs/petite-vue) - 6kb subset of Vue optimized for progressive enhancement
+- [chiawendt/tex-to-unicode](https://github.com/chiawendt/tex-to-unicode) - A browser extension to convert TeX to Unicode in browser inputs.
 - [uki00a/deno-notifier.ts](https://github.com/uki00a/deno-notifier.ts) - Send desktop notifications with Deno
 - [syumai/dejs](https://github.com/syumai/dejs) - ejs template engine for deno.
 - [technote-space/frourio-demo](https://github.com/technote-space/frourio-demo) - 
@@ -2709,6 +2711,7 @@
 - [wtnbass/fuco](https://github.com/wtnbass/fuco) - Functional Component like React, but for Web Components.
 - [nwtgck/ts-json-validator](https://github.com/nwtgck/ts-json-validator) - JSON Validator for TypeScript - Safer JSON.parse() validating by TypeScript types
 - [jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use](https://github.com/jamiebuilds/json-parser-in-typescript-very-bad-idea-please-dont-use) - JSON Parser written entirely in TypeScript's type system
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [xtermjs/xterm.js](https://github.com/xtermjs/xterm.js) - A terminal for the web
 - [pjhampton/kibana-prometheus-exporter](https://github.com/pjhampton/kibana-prometheus-exporter) - Prometheus metrics for Kibana
 - [sveltejs/svelte-preprocess](https://github.com/sveltejs/svelte-preprocess) - A ✨ magical ✨ Svelte preprocessor with sensible defaults and support for: PostCSS, SCSS, Less, Stylus, Coffeescript, TypeScript, Pug and much more.
