@@ -1938,7 +1938,7 @@
 - [clap-rs/clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 - [rust-num/num-bigint](https://github.com/rust-num/num-bigint) - Big integer types for Rust
 - [conao3/rust-risp](https://github.com/conao3/rust-risp) - 
-- [Endle/rust-bundler-cp](https://github.com/Endle/rust-bundler-cp) - rust-bundler-cp bundles a cargo package into a single rust file. It's designed for Competitive programming like Codeforces.
+- [Endle/rust-bundler-cp](https://github.com/Endle/rust-bundler-cp) - 🇺🇦 rust-bundler-cp bundles a cargo package into a single rust file. It's designed for Competitive programming like Codeforces. 🇺🇦
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
 - [lpenz/rust-sourcebundler](https://github.com/lpenz/rust-sourcebundler) - Bundle the source code of a binary in a crate into a single .rs file to be used in single-file programming competition sites
 - [niuez/cp-rust-library](https://github.com/niuez/cp-rust-library) - 
