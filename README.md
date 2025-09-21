@@ -135,6 +135,7 @@
 - [bostick/tree-sitter-wolfram](https://github.com/bostick/tree-sitter-wolfram) - Wolfram Language grammar for tree-sitter
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
+- [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) - CUDA grammar for tree-sitter
 - [tree-sitter/tree-sitter-haskell](https://github.com/tree-sitter/tree-sitter-haskell) - Haskell grammar for tree-sitter.
 - [dralletje/tree-sitter-graphql](https://github.com/dralletje/tree-sitter-graphql) - Graphql grammar for tree-sitter
 - [ram02z/tree-sitter-fish](https://github.com/ram02z/tree-sitter-fish) - Fish grammar for tree-sitter
@@ -188,7 +189,7 @@
 - [microsoft/onefuzz](https://github.com/microsoft/onefuzz) - A self-hosted Fuzzing-As-A-Service platform
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [felixse/FluentTerminal](https://github.com/felixse/FluentTerminal) - A Terminal Emulator based on UWP and web technologies.
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
 
 ## C++ 
 
@@ -441,7 +442,7 @@
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
 - [mdempsky/maligned](https://github.com/mdempsky/maligned) - Tool to detect Go structs that would take less memory if their fields were sorted.
-- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify) - Effortless Kubernetes Monitoring and Performance Testing. Available on CLI, Self-Hosted, and Cloud
+- [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
 - [simonwhitaker/gibo](https://github.com/simonwhitaker/gibo) - Easy access to gitignore boilerplates
 - [mattn/tailscale-systray](https://github.com/mattn/tailscale-systray) - Linux port of tailscale system tray menu.
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
@@ -632,7 +633,7 @@
 - [whatwg/fetch](https://github.com/whatwg/fetch) - Fetch Standard
 - [icons8/flat-color-icons](https://github.com/icons8/flat-color-icons) - Free Flat Color Icons
 - [aws-samples/opsworks-windows-demo-nodejs](https://github.com/aws-samples/opsworks-windows-demo-nodejs) - A sample Node.JS application for running on AWS OpsWorks
-- [all-contributors/all-contributors](https://github.com/all-contributors/all-contributors) - ✨ Recognize all contributors, not just the ones who push code ✨
+- [all-contributors/all-contributors.github.io](https://github.com/all-contributors/all-contributors.github.io) - ✨ The all-contributors bot website and documentation. Recognize all contributors, not just the ones who push code ✨
 - [heistak/your-code-displays-japanese-wrong](https://github.com/heistak/your-code-displays-japanese-wrong) - A static website to link to when someone's code is displaying Japanese wrong.
 - [klezVirus/CVE-2021-40444](https://github.com/klezVirus/CVE-2021-40444) - CVE-2021-40444 - Fully Weaponized Microsoft Office Word RCE Exploit
 - [tc39/ecmarkup](https://github.com/tc39/ecmarkup) - An HTML superset/Markdown subset source format for ECMAScript and related specifications
@@ -1289,7 +1290,6 @@
 - [rktjmp/lush.nvim](https://github.com/rktjmp/lush.nvim) - Create Neovim themes with real-time feedback, export anywhere.
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) - 📑 Neovim plugin to preview the contents of the registers
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway and AI Gateway.
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) - Git integration for buffers
 - [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) - Treesitter powered spellchecker
 - [nvimdev/zephyr-nvim](https://github.com/nvimdev/zephyr-nvim) - A dark neovim colorscheme written in lua
@@ -1322,7 +1322,6 @@
 
 ## Makefile 
 
-- [tree-sitter-grammars/tree-sitter-cuda](https://github.com/tree-sitter-grammars/tree-sitter-cuda) - CUDA grammar for tree-sitter
 - [vim-denops/denops-dockerfile](https://github.com/vim-denops/denops-dockerfile) - 🐳  Dockerfiles to quickly construct a denops available Vim/Neovim environment
 - [yuk7/ArchWSL](https://github.com/yuk7/ArchWSL) - ArchLinux based WSL Distribution. Supports multiple install.
 - [uki00a/deno-weekly](https://github.com/uki00a/deno-weekly) - 🦕
@@ -1446,6 +1445,7 @@
 - [swc-project/cli](https://github.com/swc-project/cli) - CLI for swc
 - [lambdalisue/emojiprefix](https://github.com/lambdalisue/emojiprefix) - 🎨 Emoji prefix guide for git commit messages
 - [beginner-corp/policy](https://github.com/beginner-corp/policy) - Policies, Agreements, and Guidelines
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native Gateway for APIs & AI
 - [EzoeRyou/posix-commands](https://github.com/EzoeRyou/posix-commands) - POSIXコマンドについてのコラム
 - [supabase/postgres-deno](https://github.com/supabase/postgres-deno) - A PostgreSQL extension for Deno: run Typescript in PostgreSQL functions and triggers.
 - [lambdalisue/lambdalisue](https://github.com/lambdalisue/lambdalisue) - 
@@ -1773,6 +1773,7 @@
 
 ## Rust 
 
+- [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, Apache Iceberg and Delta Lake
 - [ActiveTK/RecoveryMagic](https://github.com/ActiveTK/RecoveryMagic) - 今までにない次世代のファイル復元ツール。
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
@@ -2229,7 +2230,7 @@
 - [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 - [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 - [haydenbleasel/ultracite](https://github.com/haydenbleasel/ultracite) - The AI-ready formatter that helps you write and generate code faster.
-- [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
+- [ytmd-devs/ytmd](https://github.com/ytmd-devs/ytmd) - YouTube Music Desktop App bundled with custom plugins
 - [auth0/nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Next.js SDK for signing in with Auth0
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [textlint-ja/textlint-rule-preset-ai-writing](https://github.com/textlint-ja/textlint-rule-preset-ai-writing) - textlintプリセット：AIっぽい記述パターンを検出し、より自然な日本語表現を促すルール集
@@ -2389,7 +2390,7 @@
 - [docker/login-action](https://github.com/docker/login-action) - GitHub Action to login against a Docker registry
 - [FirebaseExtended/action-hosting-deploy](https://github.com/FirebaseExtended/action-hosting-deploy) - Automatically deploy shareable previews for your Firebase Hosting sites
 - [mswjs/msw](https://github.com/mswjs/msw) - Industry standard API mocking for JavaScript.
-- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - Repo hosts npm packages for monaco-languageclient, vscode-ws-jsonrpc, monaco-editor-wrapper, @typefox/monaco-editor-react and monaco-languageclient-examples
+- [TypeFox/monaco-languageclient](https://github.com/TypeFox/monaco-languageclient) - A toolbox for building web applications with editors utilizing language servers.
 - [ts-essentials/ts-essentials](https://github.com/ts-essentials/ts-essentials) - All essential TypeScript types in one place 🤙
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [AEPKILL/devtools-detector](https://github.com/AEPKILL/devtools-detector) - Detect if DevTools is open
@@ -2819,7 +2820,7 @@
 - [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [TanStack/query](https://github.com/TanStack/query) - 🤖 Powerful asynchronous state management, server-state utilities and data fetching for the web. TS/JS, React Query, Solid Query, Svelte Query and Vue Query.
-- [leonardssh/coc-discord-rpc](https://github.com/leonardssh/coc-discord-rpc) - 😎 An awesome and fully customizable coc-extension to get Discord Rich Presence integration with NeoVim.
+- [narcisbugeag/coc-discord-rpc](https://github.com/narcisbugeag/coc-discord-rpc) - 😎 An awesome and fully customizable coc-extension to get Discord Rich Presence integration with NeoVim.
 - [nuxt/nuxt](https://github.com/nuxt/nuxt) - The Intuitive Vue Framework.
 - [nuxt/content](https://github.com/nuxt/content) - The file-based CMS for your Nuxt application, powered by Markdown and Vue components.
 - [LokiJS-Forge/LokiDB](https://github.com/LokiJS-Forge/LokiDB) - blazing fast, feature-rich in-memory database written in TypeScript
