@@ -1395,7 +1395,7 @@
 - [210on/twittervtuberlogos](https://github.com/210on/twittervtuberlogos) - 
 - [PretendoNetwork/.github](https://github.com/PretendoNetwork/.github) - Information on the WIP Custom Nintendo WiiU/3DS/2DS server and service replacements
 - [wdv4758h/awesome-jit](https://github.com/wdv4758h/awesome-jit) - A curated list of awesome JIT frameworks, libraries, software and resources
-- [menloresearch/awesome-local-ai](https://github.com/menloresearch/awesome-local-ai) - An awesome repository of local AI tools
+- [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [oven-sh/awesome-bun](https://github.com/oven-sh/awesome-bun) - ⚡️ A curated list of awesome things related to Bun
 - [syntax-tree/unist](https://github.com/syntax-tree/unist) - Universal Syntax Tree used by @unifiedjs
 - [google/eng-practices](https://github.com/google/eng-practices) - Google's Engineering Practices documentation
