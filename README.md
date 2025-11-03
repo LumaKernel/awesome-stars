@@ -1871,7 +1871,7 @@
 - [Jij-Inc/serde-pyobject](https://github.com/Jij-Inc/serde-pyobject) - PyO3's PyAny as a serde data format
 - [uhyo/nitrogql](https://github.com/uhyo/nitrogql) - GraphQL + TypeScript toolchain
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) - Defines the Rust borrow checker.
-- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A stack-based array programming language
+- [uiua-lang/uiua](https://github.com/uiua-lang/uiua) - A tacit array programming language
 - [biomejs/biome](https://github.com/biomejs/biome) - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
 - [leanprover/elan](https://github.com/leanprover/elan) - The Lean version manager
 - [BurntSushi/xsv](https://github.com/BurntSushi/xsv) - A fast CSV command line toolkit written in Rust.
