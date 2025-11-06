@@ -891,7 +891,6 @@
 - [bryanbraun/checkboxland](https://github.com/bryanbraun/checkboxland) - Render anything as HTML checkboxes
 - [node-fetch/node-fetch](https://github.com/node-fetch/node-fetch) - A light-weight module that brings the Fetch API to Node.js
 - [fgnass/node-dev](https://github.com/fgnass/node-dev) - Zero-conf Node.js reloading
-- [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
 - [shangerxin/config-ini](https://github.com/shangerxin/config-ini) - JavaScript Configuration file(.ini) content parser, similar to python ConfigParser without I/O operations
 - [sinonjs/fake-timers](https://github.com/sinonjs/fake-timers) - Fake setTimeout and friends (collectively known as "timers"). Useful in your JavaScript tests. Extracted from Sinon.JS
 - [necojackarc/extensible-custom-error](https://github.com/necojackarc/extensible-custom-error) - JavaScript extensible custom error that can take a message and/or an Error object
@@ -1540,7 +1539,6 @@
 - [yuru7/udev-gothic](https://github.com/yuru7/udev-gothic) - UDEV Gothic は、ユニバーサルデザインフォントのBIZ UDゴシックと、 開発者向けフォントの JetBrains Mono を合成した、プログラミング向けフォントです。
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: Code Less, Make More
 - [daaain/claude-code-log](https://github.com/daaain/claude-code-log) - A Python CLI tool that converts Claude Code transcript JSONL files into readable HTML format.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [ChrisBuilds/terminaltexteffects](https://github.com/ChrisBuilds/terminaltexteffects) - TerminalTextEffects (TTE) is a terminal visual effects engine, application, and Python library.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
@@ -2245,6 +2243,7 @@
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [mizchi/lsmcp](https://github.com/mizchi/lsmcp) - 
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [link2004/git-worktree-cursor](https://github.com/link2004/git-worktree-cursor) - 
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - stagewise is the first frontend coding agent for existing production-grade web apps 🪄  -- Lives inside your browser 💻 -- Makes changes in local codebase 🤓 -- Compatible with all kinds of frameworks an
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2617,6 +2616,7 @@
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [matsui54/ddc-filter_editdistance](https://github.com/matsui54/ddc-filter_editdistance) - Ddc.vim filter which uses edit distance for matching and sorting candidates.
 - [jmerle/competitive-companion](https://github.com/jmerle/competitive-companion) - Browser extension which parses competitive programming problems
+- [antfu-collective/vite-node](https://github.com/antfu-collective/vite-node) - Vite as Node.js runtime
 - [mizchi/mytown](https://github.com/mizchi/mytown) - 
 - [QwikDev/partytown](https://github.com/QwikDev/partytown) - Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉
 - [udibo/mock](https://github.com/udibo/mock) - Utilities to help mock behavior, spy on function calls, stub methods, and fake time for tests.
