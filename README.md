@@ -1546,7 +1546,7 @@
 - [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader) - Convert code repos into an LLM prompt-friendly format. Mostly built by GPT-4.
 - [tiran/defusedxml](https://github.com/tiran/defusedxml) - 
 - [yuka-friends/Windrecorder](https://github.com/yuka-friends/Windrecorder) - Windrecorder is a memory search app by records everything on your screen in small size, to let you rewind what you have seen, query through OCR text or image description, and get activity statistics, 
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Call any LLM API with cost tracking, guardrails, logging and load balancing. 1.8k+ models, 80+ providers, 50+ endpoints (unified + native format). Available as a Python SDK or Proxy Server (AI Gateway
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [xai-org/grok-1](https://github.com/xai-org/grok-1) - Grok open release
 - [frodo821/BitNet-Transformers](https://github.com/frodo821/BitNet-Transformers) - 0️⃣1️⃣🤗 BitNet-Transformers: Huggingface Transformers Implementation of "BitNet: Scaling 1-bit Transformers for Large Language Models" in pytorch with Llama(2) Architecture
 - [sagemath/sage](https://github.com/sagemath/sage) - Main repository of SageMath
@@ -1776,6 +1776,7 @@
 
 ## Rust 
 
+- [trifectatechfoundation/sudo-rs](https://github.com/trifectatechfoundation/sudo-rs) - A memory safe implementation of sudo and su.
 - [tekaratzas/RustGPT](https://github.com/tekaratzas/RustGPT) - An transformer based LLM. Written completely in Rust
 - [tansu-io/tansu](https://github.com/tansu-io/tansu) - Apache Kafka® compatible broker with S3, PostgreSQL, SQLite, Apache Iceberg and Delta Lake
 - [ActiveTK/RecoveryMagic](https://github.com/ActiveTK/RecoveryMagic) - 今までにない次世代のファイル復元ツール。
@@ -2227,6 +2228,7 @@
 
 ## TypeScript 
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [Infinite-Chess/infinitechess.org](https://github.com/Infinite-Chess/infinitechess.org) - Infinite Chess Web Server
 - [imzbf/md-editor-rt](https://github.com/imzbf/md-editor-rt) - Markdown editor for react, developed in jsx and typescript, dark theme、beautify content by prettier、render articles directly、paste or clip the picture and upload it...
 - [ducktors/turborepo-remote-cache](https://github.com/ducktors/turborepo-remote-cache) - Open source implementation of the Turborepo custom remote cache server.
