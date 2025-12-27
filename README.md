@@ -1655,7 +1655,6 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [abehoffman/bsrp](https://github.com/abehoffman/bsrp) - Python/Javascript implementation of the SRP-6a protocol.
 - [momijiame/linux-tcpip-book](https://github.com/momijiame/linux-tcpip-book) - 「Linuxで動かしながら学ぶTCP/IPネットワーク入門」のサポートページです。
@@ -3078,7 +3077,7 @@
 - [drewtempelmeyer/palenight.vim](https://github.com/drewtempelmeyer/palenight.vim) - Soothing color scheme for your favorite [best] text editor
 - [tweekmonster/django-plus.vim](https://github.com/tweekmonster/django-plus.vim) - :guitar: Improvements to the handling of Django related files in Vim
 - [AlessandroYorba/Sierra](https://github.com/AlessandroYorba/Sierra) - A Vim Colorscheme
-- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11/14/17/20/23)
+- [bfrg/vim-c-cpp-modern](https://github.com/bfrg/vim-c-cpp-modern) - Extended Vim syntax highlighting for C and C++ (C++11..26)
 - [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [liuchengxu/eleline.vim](https://github.com/liuchengxu/eleline.vim) - :herb: Another elegant statusline for vim
 - [mike-hearn/vim-combosearch](https://github.com/mike-hearn/vim-combosearch) - Vim plugin that combines filename search (find) and code search (grep) into a single command
