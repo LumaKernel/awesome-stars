@@ -713,6 +713,7 @@
 
 ## JavaScript 
 
+- [zhuker/lamejs](https://github.com/zhuker/lamejs) - mp3 encoder in javascript
 - [fastify/safe-regex2](https://github.com/fastify/safe-regex2) - Detect possibly catastrophic, exponential-time regular expressions
 - [tc39/proposal-stabilize](https://github.com/tc39/proposal-stabilize) - Proposal for tc39 of new integrity "level" protecting against both override mistakes and proxy reentrancy
 - [helloyanis/media-downloader-unleashed](https://github.com/helloyanis/media-downloader-unleashed) - A browser extension to download music and videos from the websites you visit!
@@ -1211,6 +1212,7 @@
 
 ## Jupyter Notebook 
 
+- [0xSojalSec/airllm](https://github.com/0xSojalSec/airllm) - AirLLM 70B inference with single 4GB GPU
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [microsoft/RAG-Knowledge](https://github.com/microsoft/RAG-Knowledge) - 
 - [facebookresearch/co-tracker](https://github.com/facebookresearch/co-tracker) - CoTracker is a model for tracking any point (pixel) on a video.
@@ -1528,6 +1530,7 @@
 
 ## Python 
 
+- [CraftJarvis/MineStudio](https://github.com/CraftJarvis/MineStudio) - MineStudio: A Streamlined Package for Minecraft AI Agent Development
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
 - [Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps) - A collection of projects showcasing RAG, agents, workflows, and other AI use cases
@@ -2111,6 +2114,7 @@
 
 ## Shell 
 
+- [HQarroum/docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
 - [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
 - [franciscolourenco/done](https://github.com/franciscolourenco/done) - A fish-shell package to automatically receive notifications when long processes finish.
 - [pdfjam/pdfjam](https://github.com/pdfjam/pdfjam) - The pdfjam package for manipulating PDF files
