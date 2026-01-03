@@ -363,6 +363,9 @@
 
 ## Go 
 
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
+- [maaslalani/nap](https://github.com/maaslalani/nap) - Code snippets in your terminal
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
@@ -713,6 +716,7 @@
 
 ## JavaScript 
 
+- [vbuch/node-signpdf](https://github.com/vbuch/node-signpdf) - Simple signing of PDFs in node.
 - [zhuker/lamejs](https://github.com/zhuker/lamejs) - mp3 encoder in javascript
 - [fastify/safe-regex2](https://github.com/fastify/safe-regex2) - Detect possibly catastrophic, exponential-time regular expressions
 - [tc39/proposal-stabilize](https://github.com/tc39/proposal-stabilize) - Proposal for tc39 of new integrity "level" protecting against both override mistakes and proxy reentrancy
@@ -1530,6 +1534,7 @@
 
 ## Python 
 
+- [navel-tos/cp-library-for-codon](https://github.com/navel-tos/cp-library-for-codon) - 競技プログラミング向けのcodonライブラリです。API設計はAtCoder Library(ACL)風にしています。
 - [CraftJarvis/MineStudio](https://github.com/CraftJarvis/MineStudio) - MineStudio: A Streamlined Package for Minecraft AI Agent Development
 - [spipm/Depixelization_poc](https://github.com/spipm/Depixelization_poc) - Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
 - [Decathlon/dblinter](https://github.com/Decathlon/dblinter) - A static analysis tool for postgresql databases
