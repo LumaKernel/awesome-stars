@@ -107,6 +107,7 @@
 
 ## C 
 
+- [torvalds/AudioNoise](https://github.com/torvalds/AudioNoise) - Random digital audio effects
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [GaryOderNichts/alarmo_doom](https://github.com/GaryOderNichts/alarmo_doom) - Doom for the Nintendo Alarmo
 - [flatpak/flatpak](https://github.com/flatpak/flatpak) - Linux application sandboxing and distribution framework
@@ -1390,6 +1391,7 @@
 
 ## Others 
 
+- [bradtraversy/design-resources-for-developers](https://github.com/bradtraversy/design-resources-for-developers) - Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 - [JPCERTCC/rust-binary-analysis-research-ja](https://github.com/JPCERTCC/rust-binary-analysis-research-ja) - Rustで作成されたバイナリのリバースエンジニアリング調査レポート
 - [hakluke/how-to-exit-vim](https://github.com/hakluke/how-to-exit-vim) - Below are some simple methods for exiting vim.
 - [2-fly-4-ai/V0-system-prompt](https://github.com/2-fly-4-ai/V0-system-prompt) - 
